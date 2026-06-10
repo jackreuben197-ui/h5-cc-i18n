@@ -7261,3 +7261,19 @@ UITexas_mainmenu_audio=
 UITexas_mainmenu_camera=
 UIHitGameTitle=
 UIMushroomGameTitle=
+UIChatButtonLabel=聊天
+UISwitchOpen=开启
+UISwitchClose=关闭
+UIVideoModelverifyRandomCountDown={0}秒后将开启视频验证
+UICantOpenVideoOnMicSeq=麦序模式下无法关闭视频UIEffectNoVideo=当前房间未开启视频
+UIEffectNoPowerSaving=当前房间未开启窗花特效
+UIEffectNoCamera=请先开启摄像头
+UIFirstLoadingTips=第一次资源加载速度微慢，请耐心等待...
+UIBuyDiamondMore=增{0}钻石
+UIBuyDiamondExchangeRate=汇率：1USDT={0}钻石
+UIBuyDiamondExchangeRateReverse=1钻石={0}USDT
+MyWinProb=我的胜率
+H5Deposit_ConfirmText=确定向 {0} 俱乐部申请充值 {1} 联盟币?
+H5Deposit_OrderUnderReview=订单审核中，请稍后再试~
+H5Deposit_EnterValidAmount=请输入有效金额
+H5Deposit_Failed=充值处理失败，请重试。
