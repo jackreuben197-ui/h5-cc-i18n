@@ -1,0 +1,5 @@
+node_modules
+src/locales-data.ts
+.DS_Store
+Thumbs.db
+*.d.mts

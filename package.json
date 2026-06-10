@@ -1,0 +1,46 @@
+{
+  "name": "@silenthill/h5-cc-i18n",
+  "version": "1.0.0",
+  "description": "i18n singleton for H5 game, supporting zh-CN/zh-TW/en/pt",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.js"
+    },
+    "./runtime": {
+      "types": "./dist/runtime.d.ts",
+      "import": "./dist/runtime.mjs",
+      "require": "./dist/runtime.js"
+    }
+  },
+  "files": [
+    "dist/index.js",
+    "dist/index.mjs",
+    "dist/index.d.ts",
+    "dist/runtime.js",
+    "dist/runtime.mjs",
+    "dist/runtime.d.ts",
+    "dist/h5-cc-i18n.min.js"
+  ],
+  "scripts": {
+    "build": "tsx scripts/build.ts",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "i18n",
+    "internationalization",
+    "locale"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@swc/core": "^1.15.41",
+    "esbuild": "^0.28.0",
+    "tsup": "^8.5.1",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}
