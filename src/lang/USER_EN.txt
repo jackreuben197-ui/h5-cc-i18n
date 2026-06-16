@@ -7277,3 +7277,5 @@ H5Deposit_ConfirmText=确定向 {0} 俱乐部申请充值 {1} 联盟币?
 H5Deposit_OrderUnderReview=订单审核中，请稍后再试~
 H5Deposit_EnterValidAmount=请输入有效金额
 H5Deposit_Failed=充值处理失败，请重试。
+UISitdownFirst=请先入座
+UIRoomNotOpenAudio=当前房间未开启视频
