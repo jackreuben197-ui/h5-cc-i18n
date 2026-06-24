@@ -7645,3 +7645,8 @@ UIClub_No12=商品参数无效
 UIClub_Fail13=创建订单失败
 UIClub_No13=订单号缺失
 UIClub_ApplyLoading=申请状态加载中
+
+UIClub_Text94=总代入数
+UIClub_Text95=牌型标签
+UIClub_Can4=可安全用
+UIClub_Fail14=收藏失败
