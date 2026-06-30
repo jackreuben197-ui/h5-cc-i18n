@@ -7651,6 +7651,7 @@ UIClub_Text95=牌型标签
 UIClub_Can4=可安全用
 UIClub_Fail14=收藏失败
 eventDesc=活动详情
+BlindUpTimes=升盲{num}次
 timeAfterMatchResume={time}后比赛继续进行
 timeBeforeBreakNotice={time}后将中场休息{duration}分钟
 enterBreakAfterHandEnd=本手游戏结束后进入休息时间
