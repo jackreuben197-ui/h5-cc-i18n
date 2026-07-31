@@ -7658,3 +7658,5 @@ enterBreakAfterHandEnd=本手游戏结束后进入休息时间
 addBuySuccessTip=增购成功,休息时间结束后到账
 adjustStateBeforeFinal=请在决赛前进行状态调整
 playerInBreakState=玩家正在休息
+videoRealMode=真人模式
+videoEffectMode=特效模式
