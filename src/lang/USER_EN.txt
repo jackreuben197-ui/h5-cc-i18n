@@ -7981,3 +7981,5 @@ UITabbar_Text=Bottom Navigation Bar
 UIComponent_Text8=Switch to
 UIComponent_Text9=Light
 UIComponent_Text10=Dark
+UIClub_DownlineInviteLinkTip=Players who successfully register through your invitation link will automatically become your downline members
+UIClub_LongPressSaveToAlbum=Press and hold the image to save it to your album

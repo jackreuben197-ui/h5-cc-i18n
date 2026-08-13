@@ -7981,3 +7981,5 @@ UITabbar_Text=底部切換欄
 UIComponent_Text8=切換到
 UIComponent_Text9=淺色
 UIComponent_Text10=深色
+UIClub_DownlineInviteLinkTip=玩家透過您的邀請連結註冊成功後，將自動成為你的下線
+UIClub_LongPressSaveToAlbum=長按圖片儲存到相簿

@@ -7981,3 +7981,5 @@ UITabbar_Text=Barra de navegação inferior
 UIComponent_Text8=Alternar para
 UIComponent_Text9=Claro
 UIComponent_Text10=Escuro
+UIClub_DownlineInviteLinkTip=Os jogadores que se registarem com sucesso através do seu link de convite tornar-se-ão automaticamente membros da sua linha descendente
+UIClub_LongPressSaveToAlbum=Pressione e segure a imagem para guardá-la no álbum
