@@ -29,7 +29,17 @@ function fileNameToLocale(fileName: string): string {
     USER_ZH: 'zh-CN',
     USER_TW: 'zh-TW',
     USER_EN: 'en',
-    USER_PT: 'pt'
+    USER_PT: 'pt',
+    USER_DE: 'de',
+    USER_ES: 'es',
+    USER_FR: 'fr',
+    USER_HI: 'hi',
+    USER_IT: 'it',
+    USER_JA: 'ja',
+    USER_KO: 'ko',
+    USER_RU: 'ru',
+    USER_TH: 'th',
+    USER_VI: 'vi'
   }
   var base = fileName.replace(/\.txt$/, '')
   return mapping[base] || base

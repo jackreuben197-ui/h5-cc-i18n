@@ -12,6 +12,16 @@ var i18n = {
   LANG_ZH_TW: 'zh-TW' as const,
   LANG_EN: 'en' as const,
   LANG_PT: 'pt' as const,
+  LANG_DE: 'de' as const,
+  LANG_ES: 'es' as const,
+  LANG_FR: 'fr' as const,
+  LANG_HI: 'hi' as const,
+  LANG_IT: 'it' as const,
+  LANG_JA: 'ja' as const,
+  LANG_KO: 'ko' as const,
+  LANG_RU: 'ru' as const,
+  LANG_TH: 'th' as const,
+  LANG_VI: 'vi' as const,
   get _instance(): any { return getI18n() },
   get currentLocale(): string {
     var inst = this._instance

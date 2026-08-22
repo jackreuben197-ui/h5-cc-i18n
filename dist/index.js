@@ -66,6 +66,16 @@ var i18n = {
     LANG_ZH_TW: "zh-TW",
     LANG_EN: "en",
     LANG_PT: "pt",
+    LANG_DE: "de",
+    LANG_ES: "es",
+    LANG_FR: "fr",
+    LANG_HI: "hi",
+    LANG_IT: "it",
+    LANG_JA: "ja",
+    LANG_KO: "ko",
+    LANG_RU: "ru",
+    LANG_TH: "th",
+    LANG_VI: "vi",
     get _instance () {
         return getI18n();
     },

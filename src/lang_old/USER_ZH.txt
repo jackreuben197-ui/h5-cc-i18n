@@ -4,7 +4,7 @@ error0=操作成功
 error995=非法请求
 error996=签名无效
 error997=服务器正忙，请稍后再试
-error998=您的操作太频繁，请稍后再试
+error998=error998
 error999=请求失败，请稍后重试
 error101=参数值必须指定！
 error102=参数长度超出允许范围！
@@ -1948,7 +1948,7 @@ UIMine_Setting118=头像修改成功
 UIData_Script101=黄金VIP^铂金VIP^钻石VIP
 UIData_Script102=钻石^铂金,钻石^所有
 UIData_Script103=VIP可查看
-UIData_Script104=到期
+UIData_Script104=
 UIData_Script105=到期
 UIMatch_Script101=温馨提示^首次修改头像及昵称赠送300UC^前往^取消
 UIMatch_Script102=保险^德州^血战^血进^同时^顺序^赖子^血战
@@ -1997,7 +1997,7 @@ UITexasRule_detail21=1.奥马哈是德州扑克的变种玩法,基本规则同�
 UITexasRule_detail22=AOF规则：翻牌前阶段，只能选择ALLIN or FOLD,\n所有玩家行动后，ALLIN的玩家进行比牌;\n\n手牌展示限制:发牌后,并不立即展示自己手牌,轮到玩家行动时才能看见自己手牌.
 UITexasRule_detail23=1.必下场一共四轮下注;\n\n2.翻牌前:每人发2张牌后进行第一轮下注;\n\n3.翻牌:发3张公共牌后下第二轮注;\n\n4.转牌圈:发第5张公共牌后下第三轮注;\n\n5.河牌圈:发第5张公共牌后下第四轮注;\n\n6.下注结束后所有剩余玩家进行比牌，最大者赢得底池。\n\n牌型对比:皇家同花顺>同花顺>四条>葫芦>同花>顺子>三条>两对>一对>高牌\n\n牌点从大到小为:A.K.Q.J.1.0.9.8.7.6.5.4.3.2各花色不分大小\n只是在创建房间的时候，前注选择的范围比普通德州局大
 UITexasRule_detail24=1.在原来标准德州/奥马哈的基础上，去掉“2-5”这16张牌，只是使用"6-A"这9*4=36张牌游戏，游戏玩家人数限制在4~6人;\n\n2.在牌局开始时,会给每个玩家发2张“底牌”,桌面上会分三次陆续发出3张、1张、1张（共5张）的公共牌,在经过四轮的“加注”、“跟注”和“弃牌”等押注圈操作后,若牌局存在至少两名玩家仍然没有弃牌的情况下,进入“摊牌”阶段,把自己的2张底牌和5张公共牌力挑选出最大的5张组合,按照牌型大小规则分出胜负,赢家拿下“底池”全部筹码;\n\n3.牌型大小为：皇家同花顺>同花顺>四条>同花>葫芦>三条>顺子>两对>一对>高牌
-UITexasRule_dezhou=德州扑克规则
+UITexasRule_dezhou=
 UILogin_USER101=阅读并同意<color=#DCBA82>《用户协议》</color>
 WalletStop101=您的钱包功能已停用，请联系客服
 UIMine_RecordItemsNormal=详情
@@ -2220,7 +2220,7 @@ UIMine_Mission_11=领取成功
 error2500=系统原因暂时无法领取，请联系客服.
 adaptation20078=恭喜##获得##UC
 UITexasMarqueeGame_Title=当前奖池
-UITexasMarqueeGame_Content=1.开启条件：不定时随机开启\n2.参与条件：活动仅限在线且在牌局内的用户可参与\n                     参与活动的牌桌人数需≥4\n3.获奖说明：系统将随机抽取当桌一名玩家为获奖玩家\n4.奖励说明：获奖玩家的奖励会发放至玩家钱包中\n注：该活动以增强游戏乐趣，提高游戏体验为目的，只要运气好，清空奖池随便搞。
+UITexasMarqueeGame_Content=n1.开启条件：不定时随机开启\2.参与条件：活动仅限在线且在牌局内的用户可参与\n                     参与活动的牌桌人数需≥4\n3.获奖说明：系统将随机抽取当桌一名玩家为获奖玩家\n4.奖励说明：获奖玩家的奖励会发放至玩家钱包中\n注：该活动以增强游戏乐趣，提高游戏体验为目的，只要运气好，清空奖池随便搞。
 UITexasMarqueeGame_Tips=当前奖励金额会根据奖池实时多少级中奖人数进行随机抽取，最高中奖者可达5W元不止哦。
 UITexasMarqueeGame_LevelTip0=一等奖
 UITexasMarqueeGame_LevelTip1=二等奖
@@ -2274,7 +2274,7 @@ UIClub_RoomCreat_autoDismissTitle=空桌自动解散
 UIClub_RoomCreat_autoDismissTips=满<color=#D92929FF>{0}</color>桌后停止开桌
 UIClub_RoomCreat_autoDismissAlert=请输入大于0桌的停止自动开桌数
 UITexas_Rebuy=重购
-MTT-Game has redistribute for audience=比赛已合桌，自动分配至其他房间观看比赛
+MTT-Game has redistribute for audience=比賽已合桌，自動分配至其它房間觀看比賽
 Up blind notice=下一手将涨盲至
 MTT-Game will redistribute=正在拆桌，请稍后
 MTT-Game audience exit=比赛已合桌，无法继续观看
@@ -3135,11 +3135,11 @@ UISettingPassword003=邮箱:customerservices@olavamos.com
 UIPayWithdrawBtn01=刷新
 UIPayWithdrawBtn02=查看记录
 UIWithdrawTips001=等待提豆审核，如有疑问请复制订单号联系客服
-UITexasRule_Introduce=<b><size=50>介绍</size></b>\n德州扑克, 扑克游戏始于20世纪初的德克萨斯州，是欧美最受欢迎的公共扑克游戏，已有数百年的历史。德州扑克是一种被全世界的象棋和纸牌爱好者所喜爱的扑克游戏。\n\n<b><size=50>玩法</size></b>\n1.德州扑克一共有四回合;\n2.翻牌前:每位玩家将得到2张牌，然后开始第一轮;\n3.翻牌:发完三张公共牌后，第一轮剩下的玩家将开始第二轮;\n4.转牌:第4张公共牌发完后的第三回合;\n5.河牌:第5张公共牌发出后的第4轮;游戏结束后，所有剩下的玩家都必须出示他们的牌，手牌最高的玩家赢得一局。\n\n<b><size=50>手牌大小:</size></b>\n皇家同花顺>同花顺>四条>葫芦>同花>顺子>三条>两对>一对>高牌\n牌的大小: \nA>K>Q>J>10>9>8>7>6>5>4>3>2, 不管花色\n\n
-UIPlO4Rule_Introduce=<b><size=50>介绍</size></b>\n奥马哈和德州扑克非常相似，有一个改变游戏规则的因素。不是两张牌，而是四到六张牌。在奥马哈，玩家必须用他们手上的两张牌和社区牌的三张牌的组合来做出最好的手牌。\n\n<b><size=50>PLO4</size></b>\nIn “池底限注奥马哈”(最受欢迎的形式的奥马哈扑克)，一个玩家可以放筹码的最大值是相同的金额在奖池。“4”意味着四张底牌将发给每个玩家。\n\n<b><size=50>玩法</size></b>\n1.奥马哈有四轮;\n2.翻牌前:每个玩家将被处理4张牌，然后开始第一轮;\n3.翻牌:发完三张公共牌后，第一轮剩余的玩家将开始第二轮;\n4.转牌:打出第4张公共牌后的第三回合;\n5.河牌:第5张社区卡出牌后的第4轮;\n6.游戏结束后，所有剩下的玩家都必须出示他们的牌，手牌最高的玩家赢得奖池。\n\n<b><size=50>手牌大小:</size></b>\n皇家同花顺>同花顺>四条>葫芦>同花>顺子>三条>两对>一对>高牌\n牌的大小: \nA>K>Q>J>10>9>8>7>6>5>4>3>2, 不管花色\n\n
-UIPlO5Rule_Introduce=<b><size=50>介绍</size></b>\n奥马哈和德州扑克非常相似，有一个改变游戏规则的因素。不是两张牌，而是四到六张牌。在奥马哈，玩家必须用他们手上的两张牌和社区牌的三张牌的组合来做出最好的手牌。\n\n<b><size=50>PLO5</size></b>\nIn “池底限注奥马哈”(最受欢迎的形式的奥马哈扑克)，一个玩家可以放筹码的最大值是相同的金额在奖池。 “5”意味着五张底牌将发给每个玩家。\n\n<b><size=50>玩法</size></b>\n1.奥马哈有四轮;\n2.翻牌前:每个玩家将被处理4张牌，然后开始第一轮;\n3.翻牌:发完三张公共牌后，第一轮剩余的玩家将开始第二轮;\n4.转牌:打出第4张公共牌后的第三回合;\n5.河牌:第5张社区牌出牌后的第4轮;\n6.游戏结束后，所有剩下的玩家都必须出示他们的牌，手牌最高的玩家赢得奖池。\n\n<b><size=50>手牌大小:</size></b>\n皇家同花顺>同花顺>四条>葫芦>同花>顺子>三条>两对>一对>高牌\n牌的大小: \nA>K>Q>J>10>9>8>7>6>5>4>3>2, 不管花色\n\n
-UIPlO6Rule_Introduce=<b><size=46>介绍</size></b>\n奥马哈和德州扑克非常相似，有一个改变游戏规则的因素。不是两张牌，而是四到六张牌。在奥马哈，玩家必须用他们手上的两张牌和社区牌的三张牌的组合来做出最好的手牌。\n\n<b><size=46>PLO6</size></b>\nIn  “池底限注奥马哈”(最受欢迎的形式的奥马哈扑克)，一个玩家可以放筹码的最大值是相同的金额在奖池。“6”意味着六张底牌将发给每个玩家。\n\n<b><size=46>玩法</size></b>\n1.奥马哈有四轮;\n2.翻牌前:每个玩家将被处理4张牌，然后开始第一轮;\n3.翻牌:发完三张公共牌后，第一轮剩余的玩家将开始第二轮;\n4.转牌:打出第4张公共牌后的第三回合;\n5.河牌:第5张社区牌出牌后的第4轮;\n6.游戏结束后，所有剩下的玩家都必须出示他们的牌，手牌最高的玩家赢得奖池。\n\n<b><size=46>手牌大小:</size></b>\n皇家同花顺>同花顺>四条>葫芦>同花>顺子>三条>两对>一对>高牌\n牌的大小: \nA>K>Q>J>10>9>8>7>6>5>4>3>2, 不管花色\n\n
-UI6Plus_Introduce=<b><size=46>6+德州</size></b>\n6+ 德州 是一种流行的“短牌”扑克玩法，大部分遵循与德州扑克相同的规则，但有一些令人兴奋的不同:\n1.所有低于6的牌将从牌组中移除;\n2.每个人下注和底注\n3.同花比葫芦大，A, 6, 7, 8, 9被归类为最低顺子\n独家在New Poker，6+ Hold 'em让你有机会玩一个内容丰富的游戏，受到世界各地喜欢冒险玩家的喜爱。\n\n
+UITexasRule_Introduce=<b><size=50>介绍</size></b>\n德州扑克, 扑克游戏始于20世纪初的德克萨斯州，是欧美最受欢迎的公共扑克游戏，已有数百年的历史。德州扑克是一种被全世界的象棋和纸牌爱好者所喜爱的扑克游戏。\n\n<b><size=50>玩法</size></b>\n1.德州扑克一共有四回合;\n2.翻牌前:每位玩家将得到2张牌，然后开始第一轮;\n3.翻牌:发完三张公共牌后，第一轮剩下的玩家将开始第二轮;\n4.转牌:第4张公共牌发完后的第三回合;\n5.河牌:第5张公共牌发出后的第4轮;游戏结束后，所有剩下的玩家都必须出示他们的牌，手牌最高的玩家赢得一局。\n\n<b><size=50>手牌大小:</size></b>\n皇家同花顺>同花顺>四条>葫芦>同花>顺子>三条>两对>一对>高牌\n牌的大小: \nA>K>O>J>10>9>8>7>6>5>4>3>2, 不管花色\n\n
+UIPlO4Rule_Introduce=<b><size=50>介绍</size></b>\n奥马哈和德州扑克非常相似，有一个改变游戏规则的因素。不是两张牌，而是四到六张牌。在奥马哈，玩家必须用他们手上的两张牌和社区牌的三张牌的组合来做出最好的手牌。\n\n<b><size=50>PLO4</size></b>\nIn “池底限注奥马哈”(最受欢迎的形式的奥马哈扑克)，一个玩家可以放筹码的最大值是相同的金额在奖池。“4”意味着四张底牌将发给每个玩家。\n\n<b><size=50>玩法</size></b>\n1.奥马哈有四轮;\n2.翻牌前:每个玩家将被处理4张牌，然后开始第一轮;\n3.翻牌:发完三张公共牌后，第一轮剩余的玩家将开始第二轮;\n4.转牌:打出第4张公共牌后的第三回合;\n5.河牌:第5张社区卡出牌后的第4轮;\n6.游戏结束后，所有剩下的玩家都必须出示他们的牌，手牌最高的玩家赢得奖池。\n\n<b><size=50>手牌大小:</size></b>\n皇家同花顺>同花顺>四条>葫芦>同花>顺子>三条>两对>一对>高牌\n牌的大小: \nA>K>O>J>10>9>8>7>6>5>4>3>2, 不管花色\n\n
+UIPlO5Rule_Introduce=<b><size=50>介绍</size></b>\n奥马哈和德州扑克非常相似，有一个改变游戏规则的因素。不是两张牌，而是四到六张牌。在奥马哈，玩家必须用他们手上的两张牌和社区牌的三张牌的组合来做出最好的手牌。\n\n<b><size=50>PLO5</size></b>\nIn “池底限注奥马哈”(最受欢迎的形式的奥马哈扑克)，一个玩家可以放筹码的最大值是相同的金额在奖池。 “5”意味着五张底牌将发给每个玩家。\n\n<b><size=50>玩法</size></b>\n1.奥马哈有四轮;\n2.翻牌前:每个玩家将被处理4张牌，然后开始第一轮;\n3.翻牌:发完三张公共牌后，第一轮剩余的玩家将开始第二轮;\n4.转牌:打出第4张公共牌后的第三回合;\n5.河牌:第5张社区卡出牌后的第4轮;\n6.游戏结束后，所有剩下的玩家都必须出示他们的牌，手牌最高的玩家赢得奖池。\n\n<b><size=50>手牌大小:</size></b>\n皇家同花顺>同花顺>四条>葫芦>同花>顺子>三条>两对>一对>高牌\n牌的大小: \nA>K>O>J>10>9>8>7>6>5>4>3>2, 不管花色\n\n
+UIPlO6Rule_Introduce=<b><size=46>介绍</size></b>\n奥马哈和德州扑克非常相似，有一个改变游戏规则的因素。不是两张牌，而是四到六张牌。在奥马哈，玩家必须用他们手上的两张牌和社区牌的三张牌的组合来做出最好的手牌。\n\n<b><size=46>PLO6</size></b>\nIn  “池底限注奥马哈”(最受欢迎的形式的奥马哈扑克)，一个玩家可以放筹码的最大值是相同的金额在奖池。“6”意味着六张底牌将发给每个玩家。\n\n<b><size=46>玩法</size></b>\n1.奥马哈有四轮;\n2.翻牌前:每个玩家将被处理4张牌，然后开始第一轮;\n3.翻牌:发完三张公共牌后，第一轮剩余的玩家将开始第二轮;\n4.转牌:打出第4张公共牌后的第三回合;\n5.河牌:第5张社区卡出牌后的第4轮;\n6.游戏结束后，所有剩下的玩家都必须出示他们的牌，手牌最高的玩家赢得奖池。\n\n<b><size=46>手牌大小:</size></b>\n皇家同花顺>同花顺>四条>葫芦>同花>顺子>三条>两对>一对>高牌\n牌的大小: \nA>K>O>J>10>9>8>7>6>5>4>3>2, 不管花色\n\n
+UI6Plus_Introduce=<b><size=46>6+德州</size></b>\n6+ 德州 是一种流行的“短牌”扑克玩法，大部分遵循与德州扑克相同的规则，但有一些令人兴奋的不同:\n1.所有低于6的牌将从牌组中移除;\n2.每个人下注和底注\n3.同花比葫芦大 和A, 6, 7, 8, 9被归类为最低直\ n独家在New Poker，6+ Hold 'em让你有机会玩一个内容丰富的游戏，受到世界各地喜欢冒险玩家的喜爱。\n\n
 UIRecharge_Input=充值游戏币数量
 UIWithdraw_Input=提取游戏币数量
 UIReplicationFailed=复制失败
@@ -3731,7 +3731,7 @@ UIMTT_Listbonus2=奖池:
 UILogin_EmailHasRegist=此邮箱已经被注册
 UIMine_DeleteUser=注销账号
 UIMine_DeleteUserContent=账户注销后立即生效。所有数据将被清除，无法恢复。你确定要取消吗？
-UIMine_DiamondsNotEnough=钻石余额不足，请先充值
+UIMine_DiamondsNotEnough=
 UIMine_ChangeDefaultHeadIcon=点击随机切换默认头像
 UIMine_SetHeadIcon=设置头像
 UIGuild_ComingSoon=即将推出
@@ -3984,7 +3984,7 @@ UIOutChipsTip01=成功带出{0}记分牌！
 UIOutChipsTip02=记分牌不足！
 UIOutChipsTip03=超过最大可带出记分牌！
 UIOutChipsTip04=您所在房间即将结束，无法继续带出！
-UIOutChipsTip05=俱乐部、联盟处于关闭状态时不允许带出！
+UIOutChipsTip05=俱樂部、联盟处于关闭状态时不允许带出！
 UIOutChipsTip06=带出记分牌失败！
 UIOutChipsTip07=本房间不支持带出记分牌！
 UIOutChipsTip08=本手已带出过记分牌！
@@ -4003,7 +4003,7 @@ UICurrentAnte=当前前注
 UIApplying=申请中
 UIlobbyfilterTips01=盲注筛选
 UIlobbyfilterTips02=重置
-UIMTTChampionships=<b><size=80>MTT</size></b>\n锦标赛
+UIMTTChampionships=<b><size=80>MTT</size></b>\nTournaments
 UITexasPlayerInfoCloseAudio=关闭声音
 UITexasPlayerInfoCloseVideo=关闭视频
 GametypeFiltertip01=没有桌子，无法筛选
@@ -4075,7 +4075,7 @@ OpCodeString_CLUBRECOVEUSER=俱乐部回收 UC
 OpCodeString_DIAMONDCLUBTOUSER=俱乐部赠送钻石
 OpCodeString_SCOREBOARDFEERTN=记录费退费-{0}
 OpCodeString_CREATECLUBFEE=创建俱乐部
-OpCodeString_CREATECLUBFEERTN=创建俱乐部退费
+OpCodeString_CREATECLUBFEERTN=OpCodeString_CREATECLUBFEERTN
 OpCodeString_FIXCLUBNAME=修改俱乐部名称
 OpCodeString_VIDEOTABLEFEE=视频桌费-{0}
 OpCodeString_VIDEOTABLEFEERTN=视频桌退费-{0}
@@ -4516,7 +4516,7 @@ UIMineSixCloseHas=已关闭
 UIMineSixModifyHas=已修改
 UIMinePsdSwitch=开关
 UIMineYZSX=开启后，牌桌带入二级密码验证生效，保护游戏币安全
-UIMineKJDL=开启后，登录界面有快捷登录入口
+UIMineKJDL=UIMineKJDL
 UIMineFKSX=开启对应密码方式，此设置方可生效
 UIMineMCDR=每次带入
 UIMineMZZYYC=每桌只验1次
@@ -5783,7 +5783,7 @@ Mahjong_Concealed=门清
 Mahjong_BlessingOfHeavenAndEarth=天地胡
 Mahjong_SelfDrawOptionTips=自摸可以选择3种模式，+1倍(最后加)，或者x2倍，或者不加倍
 Mahjong_PointKongOptionTips=点杠花增加选项，按照自摸或者点炮计算2个模式\n当自摸：a放杠给b，b杠牌补张胡牌，算作自摸，3家一起输分；\n当点炮：a放杠给b，b杠牌补张胡牌，算作点炮，只有a输给b
-Mahjong_RateTypeOptionTips=胡牌蕃型选择，有6个牌型选择，默认为全部勾选；\na、如果选择了就可以胡选项的牌型，并且按照对应的倍数计算；\nb、如果未勾选，就不能胡选项中的牌型；\n其中“门清”是另外计蕃的，规则为：没有碰、明杠，最终通过自摸、点炮等方式胡牌。暗杠仍算门清
+Mahjong_RateTypeOptionTips=胡牌蕃型选择，有6个牌型选择，默认为全部勾选；\na、如果选择了就可以胡选项的牌型，并且按照对应的倍数计算；\nb、如果未勾选，就不能胡选项中的牌型；
 Mahjong_CallForwardingTips=呼叫转移:玩家杠上炮，需要将杠牌的收益转给胡牌的玩家，一炮多响不触发呼叫转移
 Mahjong_BloodFight=血战到底
 Mahjong_BloodRiver=血流成河
@@ -6073,7 +6073,7 @@ UICreateRoomCallTimeLabel2=限制手数
 UICreateRoomOpenSquid=最少几个开启
 UICreateRoomSaveMode=保存模版
 UIMineMallUSDTShopDiamondWholesalerTip=钻石批发商申请通知
-UIMineMallUSDTShopDiamondWholesalerContent=1、钻石批发商申请费为{0}钻石，审核被拒后退还；\n2、申请通过后，需在60天内购买批发商专属钻石，否则资格将失效；\n3、批发商资格失效或者审批被拒需重新付费{1}钻石申请；\n4、申请后，我们将通过系统消息联系您，请留意消息
+UIMineMallUSDTShopDiamondWholesalerContent=1、钻石批发商申请费为{0}钻石，审核被拒后退还；\n2、申请通过后，需在60天内购买批发商专属钻石，否则资格将失效；\n3、批发商资格失效或者审批被拒需重
 UIMineMallUSDTShopDiamondWholesalerPay=支付{0}钻石
 UIMineMallUSDTShopDiamondWholesalerWhy=钻石批发商优势\n1、赠送钻石不收取手续费\n非钻石批发商局内赠送钻石需支付10%手续费\n\n2、购买钻石页面有单独的赠送页面\n非钻石批发商需进入牌桌并坐下才可以赠送\n\n3、牌局内赠送钻石不受每日赠送次数限制\n非钻石批发商每日赠送有次数限制\n\n4、钻石批发商可享有超高的返利额度\n\n常见问题:\n1、Q 如果成为钻石批发商?\nA.在商城购买钻石页面，有单独的批发商专属购买提交申请，待平台审核通过后即可成为钻石批发商\n\n2、Q 批发商有时效性吗?\nA.批发商权限将在购买60天后失效，重复购买可刷新失效时\n\n3、Q 被赠送的钻石是否可以再次转赠?\nA.系统赠送的钻石不支持再次转送，其它玩家赠送的钻石可以再次转赠
 UIMineMallUSDTShopDiamondWholesalerGiveTip=赠{0}钻石
@@ -6350,8 +6350,8 @@ UICreateTable_MaxSeatCount=最大人数
 UICreateTable_AutoSeatCount=人满开局
 UICreateTable_MinVPIPLimit=入局率限制
 UICreateTable_AllInAfterTwoCard=ALLIN后支持两次
-SystemMaintenance=亲爱的玩家，服务器即将维护，预计维护时间{0}
-UIShareClub_Title=<color=#82EB4A>加入 NEWPOKER</color>\n开启你的竞技之旅
+SystemMaintenance=親愛的玩家，服務器即将維護，預計維護時間{0}
+UIShareClub_Title=<color=#82EB4A>加入 NEWPOKER</color>\n开启你得竞技之旅
 UIShareClub_Share_Txt=保存\n分享
 UIShareClub_join_Play=扫码加入 一键开局
 UICreateTable_HandsCardCount=手牌数
@@ -6797,7 +6797,7 @@ UIDialogSquid_Tips1=所有玩家不可中途离场，退出房间将保持暂离
 UIDialogSquid_Tips2=已获得鱿鱼的玩家可随时离桌，未获得鱿鱼的玩家需要等鱿鱼结束后才能退出
 UISquidNewRulerDetail=<size=52>鱿鱼玩法规则</size>\n\n鱿鱼游戏（Stand Up Game） 是一种基于德州扑克规则演变的逃杀竞赛模式。相比传统德州扑克，鱿鱼游戏增添了更多竞技趣味，使牌局更加刺激。\n\n<size=52>胜利&失败</size>\n\n• 胜利者：每次赢得底池的玩家获得一条鱿鱼，拥有鱿鱼的玩家即为胜利者（平分底池则不产生鱿鱼；有多个底池时，主池获胜者获得鱿鱼）\n\n•失败者：未获得鱿鱼的玩家即为失败者，并将受到惩罚。\n\n<size=52>奖惩机制</size>\n\n• 失败者需从余额中支付鱿鱼奖金，余额不足则从押金支付，具体金额取决于胜利者的鱿鱼数量和鱿鱼价值。\n\n
 UISquidNewRulerClassic=<size=52>玩法流程——经典模式</size>\n\n•游戏在达到条件后自动开始。\n\n• 每局结束时，主池获胜者可获得一枚鱿鱼，每局鱿鱼游戏仅限获得一次鱿鱼。\n\n•每局结束时当所有鱿鱼发放完毕后，游戏进入结算阶段，所有获胜者将平分最后一名玩家支付的鱿鱼奖金。\n\n•已获鱿鱼的玩家可提前离场，未获鱿鱼者需等游戏结束后才能离桌。\n\n•强行退出房间鱿鱼游戏立刻结束，由离开的玩家赔付其他玩家，多个玩家离开由第一个赔付，同时离开的都需要赔付。\n\n• 新玩家可中途加入，总鱿鱼数量将相应增加。\n\n
-UISquidNewRulerFlight=<size=52>玩法流程——血战模式</size>\n\n•游戏在达到条件后自动开始。\n\n• 每手结束时，主池获胜者可获得鱿鱼。玩家可获得多个鱿鱼。\n\n•当最后一个玩家未获得鱿鱼，或所有鱿鱼被分配完毕且仍有玩家未获得鱿鱼时，游戏结束；由未获得鱿鱼的玩家进行赔付；\n\n• 新玩家可中途加入，总鱿鱼数量将相应增加。\n\n
+UISquidNewRulerFlight=<size=52>玩法流程——血哉模式</size>\n\n•游戏在达到条件后自动开始。\n\n• 每手结束时，主池获胜者可获得鱿鱼。玩家可获得多个鱿鱼。\n\n•当最后一个玩家未获得鱿鱼，或所有鱿鱼被分配完毕且仍有玩家未获得鱿鱼时，游戏结束；由未获得鱿鱼的玩家进行赔付；\n\n• 新玩家可中途加入，总鱿鱼数量将相应增加。\n\n
 UISquid_Tips1=鱿鱼游戏中不能离开，将在“鱿鱼游戏”结束后站起
 UISquid_Tips2=您已获得鱿鱼，在接下的对局中有很大优势，是否离开?
 UISquid_Tips3=您退出后，游戏仍继续进行，游戏结束时您会向其他玩家支付鱿鱼奖金
@@ -7265,8 +7265,7 @@ UIChatButtonLabel=聊天
 UISwitchOpen=开启
 UISwitchClose=关闭
 UIVideoModelverifyRandomCountDown={0}秒后将开启视频验证
-UICantOpenVideoOnMicSeq=麦序模式下无法关闭视频
-UIEffectNoVideo=当前房间未开启视频
+UICantOpenVideoOnMicSeq=麦序模式下无法关闭视频UIEffectNoVideo=当前房间未开启视频
 UIEffectNoPowerSaving=当前房间未开启窗花特效
 UIEffectNoCamera=请先开启摄像头
 UIFirstLoadingTips=第一次资源加载速度微慢，请耐心等待...
@@ -7534,7 +7533,7 @@ UIClub_Text54=到底
 UIClub_Text55=血流
 UIClub_Text56=成河
 UIClub_LoadFail10=加载朋友战绩失败
-UIClub_Text57=服务费
+UIClub_Text57=服務費
 UIClub_Text58=用户
 UIClub_NoData2=暂无朋友数据
 UIClub_LoadDataFail3=加载朋友数据失败
@@ -7873,11 +7872,11 @@ UIWallet_Player=请选择赠送玩家
 UIWallet_Text2=赠送金额超过余额
 UIWallet_Text3=客服撮合
 UIWallet_Text4=撮合
-UIWallet_Text5=充值联盟币
-UIWallet_Text6=支付金额
+UIWallet_Text5=充值聯盟幣
+UIWallet_Text6=支付金額
 UIWallet_Text7=支付類型
 UIWallet_Text8=訂單號
-UIWallet_Text9=申请时间
+UIWallet_Text9=申請時間
 UIWallet_Text10=说点什么
 UIWallet_Current=当前参考单价
 UIWallet_ConfirmOf=请确认是否继续发起新的充值

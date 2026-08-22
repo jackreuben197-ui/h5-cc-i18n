@@ -1,7 +1,7 @@
 {
   "name": "@silenthill/h5-cc-i18n",
   "version": "1.0.0",
-  "description": "i18n singleton for H5 game, supporting zh-CN/zh-TW/en/pt",
+  "description": "i18n singleton for H5 game, supporting zh-CN/zh-TW/en/pt/de/es/fr/hi/it/ja/ko/ru/th/vi",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
