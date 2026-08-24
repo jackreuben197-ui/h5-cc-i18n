@@ -8013,4 +8013,8 @@ UIMiniGame_Title=미니게임존
 UIMineClubCowboyDownloadTip=카우보이 게임을 경험하려면 클라이언트 앱을 다운로드하세요
 GlobalFloat_InTransaction=거래
 UIClub_EnterClub=입력
-
+UICasino_SubText=라이브, 슬롯, 스포츠
+UICasino_TopProviders=주요 공급업체
+UICasino_Game_KYPoker=KY 포커
+UICasino_Game_LEGPoker=LEG 포커
+UICasino_Game_T1Poker=T1 게임 블록체인

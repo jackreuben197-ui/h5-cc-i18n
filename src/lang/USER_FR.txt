@@ -8013,4 +8013,8 @@ UIMiniGame_Title=Zone de mini-jeux
 UIMineClubCowboyDownloadTip=Veuillez télécharger l'application client pour découvrir le jeu de cowboy
 GlobalFloat_InTransaction=Transaction en cours
 UIClub_EnterClub=Entrez
-
+UICasino_SubText=Live, Machines à sous, Sports
+UICasino_TopProviders=Meilleurs Fournisseurs
+UICasino_Game_KYPoker=KY Poker
+UICasino_Game_LEGPoker=LEG Poker
+UICasino_Game_T1Poker=T1 Game Blockchain

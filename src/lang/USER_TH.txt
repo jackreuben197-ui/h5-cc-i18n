@@ -8013,4 +8013,8 @@ UIMiniGame_Title=มินิเกมโซน
 UIMineClubCowboyDownloadTip=โปรดดาวน์โหลดแอปไคลเอนต์เพื่อสัมผัสประสบการณ์เกมคาวบอย
 GlobalFloat_InTransaction=การทำธุรกรรมอยู่ระหว่างดำเนินการ
 UIClub_EnterClub=ป้อน
-
+UICasino_SubText=สด, สล็อต, กีฬา
+UICasino_TopProviders=ผู้ให้บริการชั้นนำ
+UICasino_Game_KYPoker=KY โป๊กเกอร์
+UICasino_Game_LEGPoker=LEG โป๊กเกอร์
+UICasino_Game_T1Poker=T1 เกม บล็อกเชน

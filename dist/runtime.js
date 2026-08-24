@@ -8056,7 +8056,7 @@ var deMap = {
     "UIComponent_Text8": "Wechseln Sie zu",
     "UIComponent_Text9": "Licht",
     "UIComponent_Text10": "Dunkel",
-    "UICasino_Title": "Kasino",
+    "UICasino_Title": "Casino",
     "UICasino_TabHot": "Beliebt",
     "UICasino_TabLive": "Echte Person",
     "UICasino_TabSlots": "Elektronik",
@@ -8086,7 +8086,12 @@ var deMap = {
     "UIMiniGame_Title": "Minispielbereich",
     "UIMineClubCowboyDownloadTip": "Bitte laden Sie die Client-APP herunter, um das Cowboy-Spiel zu erleben",
     "GlobalFloat_InTransaction": "Transaktion l\xE4uft",
-    "UIClub_EnterClub": "Geben Sie"
+    "UIClub_EnterClub": "Geben Sie",
+    "UICasino_SubText": "Live, Slots, Sport",
+    "UICasino_TopProviders": "Top-Anbieter",
+    "UICasino_Game_KYPoker": "KY Poker",
+    "UICasino_Game_LEGPoker": "LEG Poker",
+    "UICasino_Game_T1Poker": "T1 Game Blockchain"
 };
 var enMap = {
     "4": "Failed to connect, please try again later. ",
@@ -16097,7 +16102,12 @@ var enMap = {
     "UIMiniGame_Title": "Mini Games Zone",
     "UIMineClubCowboyDownloadTip": "Please download the app to experience Cowboy",
     "GlobalFloat_InTransaction": "In Transaction",
-    "UIClub_EnterClub": "Enter"
+    "UIClub_EnterClub": "Enter",
+    "UICasino_SubText": "",
+    "UICasino_TopProviders": "",
+    "UICasino_Game_KYPoker": "KY Poker",
+    "UICasino_Game_LEGPoker": "LEG Poker",
+    "UICasino_Game_T1Poker": "T1 Game Blockchain"
 };
 var esMap = {
     "4": "Error de red. Reintente.",
@@ -24108,7 +24118,12 @@ var esMap = {
     "UIMiniGame_Title": "\xC1rea de minijuegos",
     "UIMineClubCowboyDownloadTip": "Descargue la aplicaci\xF3n cliente para experimentar el juego del vaquero.",
     "GlobalFloat_InTransaction": "Transacci\xF3n",
-    "UIClub_EnterClub": "Entrar"
+    "UIClub_EnterClub": "Entrar",
+    "UICasino_SubText": "En vivo, Tragaperras, Deportes",
+    "UICasino_TopProviders": "Mejores Proveedores",
+    "UICasino_Game_KYPoker": "KY Poker",
+    "UICasino_Game_LEGPoker": "LEG Poker",
+    "UICasino_Game_T1Poker": "T1 Game Blockchain"
 };
 var frMap = {
     "4": "Erreur r\xE9seau. R\xE9essayez.",
@@ -32119,7 +32134,12 @@ var frMap = {
     "UIMiniGame_Title": "Zone de mini-jeux",
     "UIMineClubCowboyDownloadTip": "Veuillez t\xE9l\xE9charger l'application client pour d\xE9couvrir le jeu de cowboy",
     "GlobalFloat_InTransaction": "Transaction en cours",
-    "UIClub_EnterClub": "Entrez"
+    "UIClub_EnterClub": "Entrez",
+    "UICasino_SubText": "Live, Machines \xE0 sous, Sports",
+    "UICasino_TopProviders": "Meilleurs Fournisseurs",
+    "UICasino_Game_KYPoker": "KY Poker",
+    "UICasino_Game_LEGPoker": "LEG Poker",
+    "UICasino_Game_T1Poker": "T1 Game Blockchain"
 };
 var hiMap = {
     "4": "\u0928\u0947\u091F\u0935\u0930\u094D\u0915 \u0924\u094D\u0930\u0941\u091F\u093F\u0964 \u092C\u093E\u0926 \u092E\u0947\u0902 \u0915\u094B\u0936\u093F\u0936 \u0915\u0930\u0947\u0902\u0964",
@@ -40130,7 +40150,12 @@ var hiMap = {
     "UIMiniGame_Title": "\u092E\u093F\u0928\u0940-\u0917\u0947\u092E \u0915\u094D\u0937\u0947\u0924\u094D\u0930",
     "UIMineClubCowboyDownloadTip": "\u0915\u093E\u0909\u092C\u0949\u092F \u0917\u0947\u092E \u0915\u093E \u0905\u0928\u0941\u092D\u0935 \u0932\u0947\u0928\u0947 \u0915\u0947 \u0932\u093F\u090F \u0915\u0943\u092A\u092F\u093E \u0915\u094D\u0932\u093E\u0907\u0902\u091F \u0910\u092A \u0921\u093E\u0909\u0928\u0932\u094B\u0921 \u0915\u0930\u0947\u0902",
     "GlobalFloat_InTransaction": "\u0932\u0947\u0928-\u0926\u0947\u0928",
-    "UIClub_EnterClub": "\u0926\u0930\u094D\u091C \u0915\u0930\u0947\u0902"
+    "UIClub_EnterClub": "\u0926\u0930\u094D\u091C \u0915\u0930\u0947\u0902",
+    "UICasino_SubText": "\u0932\u093E\u0907\u0935, \u0938\u094D\u0932\u0949\u091F\u094D\u0938, \u0938\u094D\u092A\u094B\u0930\u094D\u091F\u094D\u0938",
+    "UICasino_TopProviders": "\u0936\u0940\u0930\u094D\u0937 \u092A\u094D\u0930\u0926\u093E\u0924\u093E",
+    "UICasino_Game_KYPoker": "KY \u092A\u094B\u0915\u0930",
+    "UICasino_Game_LEGPoker": "LEG \u092A\u094B\u0915\u0930",
+    "UICasino_Game_T1Poker": "T1 \u0917\u0947\u092E \u092C\u094D\u0932\u0949\u0915\u091A\u0947\u0928"
 };
 var itMap = {
     "4": "Errore di rete. Riprova.",
@@ -48141,7 +48166,12 @@ var itMap = {
     "UIMiniGame_Title": "Area Minigiochi",
     "UIMineClubCowboyDownloadTip": "Scarica l'APP client per provare il gioco del cowboy",
     "GlobalFloat_InTransaction": "Transazione in corso",
-    "UIClub_EnterClub": "Immettere"
+    "UIClub_EnterClub": "Immettere",
+    "UICasino_SubText": "Live, Slot, Sport",
+    "UICasino_TopProviders": "Migliori Provider",
+    "UICasino_Game_KYPoker": "KY Poker",
+    "UICasino_Game_LEGPoker": "LEG Poker",
+    "UICasino_Game_T1Poker": "T1 Game Blockchain"
 };
 var jaMap = {
     "4": "\u901A\u4FE1\u30A8\u30E9\u30FC\u3067\u3059\u3002\u3082\u3046\u4E00\u5EA6\u8A66\u3057\u3066\u304F\u3060\u3055\u3044\u3002",
@@ -56152,7 +56182,12 @@ var jaMap = {
     "UIMiniGame_Title": "\u30DF\u30CB\u30B2\u30FC\u30E0\u30A8\u30EA\u30A2",
     "UIMineClubCowboyDownloadTip": "\u30AB\u30A6\u30DC\u30FC\u30A4 \u30B2\u30FC\u30E0\u3092\u4F53\u9A13\u3059\u308B\u306B\u306F\u3001\u30AF\u30E9\u30A4\u30A2\u30F3\u30C8 APP \u3092\u30C0\u30A6\u30F3\u30ED\u30FC\u30C9\u3057\u3066\u304F\u3060\u3055\u3044",
     "GlobalFloat_InTransaction": "\u30C8\u30E9\u30F3\u30B6\u30AF\u30B7\u30E7\u30F3\u304C\u9032\u884C\u4E2D\u3067\u3059",
-    "UIClub_EnterClub": "\u5165\u529B"
+    "UIClub_EnterClub": "\u5165\u529B",
+    "UICasino_SubText": "\u30E9\u30A4\u30D6\u30FB\u30B9\u30ED\u30C3\u30C8\u30FB\u30B9\u30DD\u30FC\u30C4",
+    "UICasino_TopProviders": "\u30C8\u30C3\u30D7\u30D7\u30ED\u30D0\u30A4\u30C0\u30FC",
+    "UICasino_Game_KYPoker": "KY \u30DD\u30FC\u30AB\u30FC",
+    "UICasino_Game_LEGPoker": "LEG \u30DD\u30FC\u30AB\u30FC",
+    "UICasino_Game_T1Poker": "T1 \u30B2\u30FC\u30E0 \u30D6\u30ED\u30C3\u30AF\u30C1\u30A7\u30FC\u30F3"
 };
 var koMap = {
     "4": "\uB124\uD2B8\uC6CC\uD06C \uC624\uB958. \uB2E4\uC2DC \uC2DC\uB3C4.",
@@ -64163,7 +64198,12 @@ var koMap = {
     "UIMiniGame_Title": "\uBBF8\uB2C8\uAC8C\uC784\uC874",
     "UIMineClubCowboyDownloadTip": "\uCE74\uC6B0\uBCF4\uC774 \uAC8C\uC784\uC744 \uACBD\uD5D8\uD558\uB824\uBA74 \uD074\uB77C\uC774\uC5B8\uD2B8 \uC571\uC744 \uB2E4\uC6B4\uB85C\uB4DC\uD558\uC138\uC694",
     "GlobalFloat_InTransaction": "\uAC70\uB798",
-    "UIClub_EnterClub": "\uC785\uB825"
+    "UIClub_EnterClub": "\uC785\uB825",
+    "UICasino_SubText": "\uB77C\uC774\uBE0C, \uC2AC\uB86F, \uC2A4\uD3EC\uCE20",
+    "UICasino_TopProviders": "\uC8FC\uC694 \uACF5\uAE09\uC5C5\uCCB4",
+    "UICasino_Game_KYPoker": "KY \uD3EC\uCEE4",
+    "UICasino_Game_LEGPoker": "LEG \uD3EC\uCEE4",
+    "UICasino_Game_T1Poker": "T1 \uAC8C\uC784 \uBE14\uB85D\uCCB4\uC778"
 };
 var ptMap = {
     "4": "Erro de conex\xE3o, favor tentar novamente. ",
@@ -72174,7 +72214,12 @@ var ptMap = {
     "UIMiniGame_Title": "\xC1rea de Mini Games",
     "UIMineClubCowboyDownloadTip": "Baixe o aplicativo para jogar Cowboy",
     "GlobalFloat_InTransaction": "Em transa\xE7\xE3o",
-    "UIClub_EnterClub": "Entrar"
+    "UIClub_EnterClub": "Entrar",
+    "UICasino_SubText": "Ao Vivo, Slots, Esportes",
+    "UICasino_TopProviders": "Melhores Fornecedores",
+    "UICasino_Game_KYPoker": "KY Poker",
+    "UICasino_Game_LEGPoker": "LEG Poker",
+    "UICasino_Game_T1Poker": "T1 Game Blockchain"
 };
 var ruMap = {
     "4": "\u0421\u0435\u0442\u044C. \u041F\u043E\u0432\u0442\u043E\u0440\u0438\u0442\u0435.",
@@ -80185,7 +80230,12 @@ var ruMap = {
     "UIMiniGame_Title": "\u041C\u0438\u043D\u0438-\u0438\u0433\u0440\u043E\u0432\u0430\u044F \u0437\u043E\u043D\u0430",
     "UIMineClubCowboyDownloadTip": "\u0417\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u0435 \u043A\u043B\u0438\u0435\u043D\u0442\u0441\u043A\u043E\u0435 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0435, \u0447\u0442\u043E\u0431\u044B \u0438\u0441\u043F\u044B\u0442\u0430\u0442\u044C \u043A\u043E\u0432\u0431\u043E\u0439\u0441\u043A\u0443\u044E \u0438\u0433\u0440\u0443",
     "GlobalFloat_InTransaction": "\u0422\u0440\u0430\u043D\u0437\u0430\u043A\u0446\u0438\u044F \u0432 \u043F\u0440\u043E\u0446\u0435\u0441\u0441\u0435",
-    "UIClub_EnterClub": "\u0412\u0432\u0435\u0434\u0438\u0442\u0435"
+    "UIClub_EnterClub": "\u0412\u0432\u0435\u0434\u0438\u0442\u0435",
+    "UICasino_SubText": "\u041B\u0430\u0439\u0432, \u0421\u043B\u043E\u0442\u044B, \u0421\u043F\u043E\u0440\u0442",
+    "UICasino_TopProviders": "\u0412\u0435\u0434\u0443\u0449\u0438\u0435 \u041F\u0440\u043E\u0432\u0430\u0439\u0434\u0435\u0440\u044B",
+    "UICasino_Game_KYPoker": "KY \u041F\u043E\u043A\u0435\u0440",
+    "UICasino_Game_LEGPoker": "LEG \u041F\u043E\u043A\u0435\u0440",
+    "UICasino_Game_T1Poker": "T1 \u0418\u0433\u0440\u0430 \u0411\u043B\u043E\u043A\u0447\u0435\u0439\u043D"
 };
 var thMap = {
     "4": "\u0E40\u0E19\u0E47\u0E15\u0E1C\u0E34\u0E14\u0E1E\u0E25\u0E32\u0E14 \u0E25\u0E2D\u0E07\u0E43\u0E2B\u0E21\u0E48",
@@ -88196,7 +88246,12 @@ var thMap = {
     "UIMiniGame_Title": "\u0E21\u0E34\u0E19\u0E34\u0E40\u0E01\u0E21\u0E42\u0E0B\u0E19",
     "UIMineClubCowboyDownloadTip": "\u0E42\u0E1B\u0E23\u0E14\u0E14\u0E32\u0E27\u0E19\u0E4C\u0E42\u0E2B\u0E25\u0E14\u0E41\u0E2D\u0E1B\u0E44\u0E04\u0E25\u0E40\u0E2D\u0E19\u0E15\u0E4C\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E2A\u0E31\u0E21\u0E1C\u0E31\u0E2A\u0E1B\u0E23\u0E30\u0E2A\u0E1A\u0E01\u0E32\u0E23\u0E13\u0E4C\u0E40\u0E01\u0E21\u0E04\u0E32\u0E27\u0E1A\u0E2D\u0E22",
     "GlobalFloat_InTransaction": "\u0E01\u0E32\u0E23\u0E17\u0E33\u0E18\u0E38\u0E23\u0E01\u0E23\u0E23\u0E21\u0E2D\u0E22\u0E39\u0E48\u0E23\u0E30\u0E2B\u0E27\u0E48\u0E32\u0E07\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23",
-    "UIClub_EnterClub": "\u0E1B\u0E49\u0E2D\u0E19"
+    "UIClub_EnterClub": "\u0E1B\u0E49\u0E2D\u0E19",
+    "UICasino_SubText": "\u0E2A\u0E14, \u0E2A\u0E25\u0E47\u0E2D\u0E15, \u0E01\u0E35\u0E2C\u0E32",
+    "UICasino_TopProviders": "\u0E1C\u0E39\u0E49\u0E43\u0E2B\u0E49\u0E1A\u0E23\u0E34\u0E01\u0E32\u0E23\u0E0A\u0E31\u0E49\u0E19\u0E19\u0E33",
+    "UICasino_Game_KYPoker": "KY \u0E42\u0E1B\u0E4A\u0E01\u0E40\u0E01\u0E2D\u0E23\u0E4C",
+    "UICasino_Game_LEGPoker": "LEG \u0E42\u0E1B\u0E4A\u0E01\u0E40\u0E01\u0E2D\u0E23\u0E4C",
+    "UICasino_Game_T1Poker": "T1 \u0E40\u0E01\u0E21 \u0E1A\u0E25\u0E47\u0E2D\u0E01\u0E40\u0E0A\u0E19"
 };
 var zh_TWMap = {
     "4": "\u7DB2\u8DEF\u932F\u8AA4\uFF0C\u8ACB\u7A0D\u5F8C\u91CD\u8A66",
@@ -96207,7 +96262,12 @@ var zh_TWMap = {
     "UIMiniGame_Title": "\u5C0F\u904A\u6232\u5C08\u5340",
     "UIMineClubCowboyDownloadTip": "\u8ACB\u4E0B\u8F09\u5BA2\u6236\u7AEFAPP\u9AD4\u9A57\u725B\u4ED4\u904A\u6232",
     "GlobalFloat_InTransaction": "\u4EA4\u6613\u4E2D",
-    "UIClub_EnterClub": "\u9032\u5165"
+    "UIClub_EnterClub": "\u9032\u5165",
+    "UICasino_SubText": "\u771F\u4EBA\u8996\u8A0A \u96FB\u5B50\u5A1B\u6A02 \u9AD4\u80B2\u7AF6\u731C",
+    "UICasino_TopProviders": "\u5168\u7403\u4E00\u7DDA\u5EE0\u5546",
+    "UICasino_Game_KYPoker": "\u958B\u5143\u68CB\u724C",
+    "UICasino_Game_LEGPoker": "\u6A02\u904A\u68CB\u724C",
+    "UICasino_Game_T1Poker": "T1 Game\u5340\u584A\u93C8"
 };
 var viMap = {
     "4": "L\u1ED7i m\u1EA1ng. Th\u1EED l\u1EA1i.",
@@ -104218,7 +104278,12 @@ var viMap = {
     "UIMiniGame_Title": "Khu tr\xF2 ch\u01A1i mini",
     "UIMineClubCowboyDownloadTip": "Vui l\xF2ng t\u1EA3i APP client \u0111\u1EC3 tr\u1EA3i nghi\u1EC7m game cao b\u1ED3i",
     "GlobalFloat_InTransaction": "Giao d\u1ECBch \u0111ang di\u1EC5n ra",
-    "UIClub_EnterClub": "Nh\u1EADp"
+    "UIClub_EnterClub": "Nh\u1EADp",
+    "UICasino_SubText": "Tr\u1EF1c ti\u1EBFp, Slot, Th\u1EC3 thao",
+    "UICasino_TopProviders": "Nh\xE0 cung c\u1EA5p h\xE0ng \u0111\u1EA7u",
+    "UICasino_Game_KYPoker": "KY Poker",
+    "UICasino_Game_LEGPoker": "LEG Poker",
+    "UICasino_Game_T1Poker": "T1 Game Blockchain"
 };
 var zh_CNMap = {
     "4": "\u7F51\u7EDC\u9519\u8BEF\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5",
@@ -112229,7 +112294,12 @@ var zh_CNMap = {
     "UIMiniGame_Title": "\u5C0F\u6E38\u620F\u4E13\u533A",
     "UIMineClubCowboyDownloadTip": "\u8BF7\u4E0B\u8F7D\u5BA2\u6237\u7AEFAPP\u4F53\u9A8C\u725B\u4ED4\u6E38\u620F",
     "GlobalFloat_InTransaction": "\u4EA4\u6613\u4E2D",
-    "UIClub_EnterClub": "\u8FDB\u5165"
+    "UIClub_EnterClub": "\u8FDB\u5165",
+    "UICasino_SubText": "\u771F\u4EBA\u89C6\u8BAF \u7535\u5B50\u5A31\u4E50 \u4F53\u80B2\u7ADE\u731C",
+    "UICasino_TopProviders": "\u5168\u7403\u4E00\u7EBF\u5382\u5546",
+    "UICasino_Game_KYPoker": "\u5F00\u5143\u68CB\u724C",
+    "UICasino_Game_LEGPoker": "\u4E50\u6E38\u68CB\u724C",
+    "UICasino_Game_T1Poker": "T1 Game\u533A\u5757\u94FE"
 };
 var localesData = {
     "de": deMap,

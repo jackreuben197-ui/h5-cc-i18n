@@ -8013,4 +8013,8 @@ UIMiniGame_Title=मिनी-गेम क्षेत्र
 UIMineClubCowboyDownloadTip=काउबॉय गेम का अनुभव लेने के लिए कृपया क्लाइंट ऐप डाउनलोड करें
 GlobalFloat_InTransaction=लेन-देन
 UIClub_EnterClub=दर्ज करें
-
+UICasino_SubText=लाइव, स्लॉट्स, स्पोर्ट्स
+UICasino_TopProviders=शीर्ष प्रदाता
+UICasino_Game_KYPoker=KY पोकर
+UICasino_Game_LEGPoker=LEG पोकर
+UICasino_Game_T1Poker=T1 गेम ब्लॉकचेन

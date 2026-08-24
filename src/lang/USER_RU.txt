@@ -8013,4 +8013,8 @@ UIMiniGame_Title=Мини-игровая зона
 UIMineClubCowboyDownloadTip=Загрузите клиентское приложение, чтобы испытать ковбойскую игру
 GlobalFloat_InTransaction=Транзакция в процессе
 UIClub_EnterClub=Введите
-
+UICasino_SubText=Лайв, Слоты, Спорт
+UICasino_TopProviders=Ведущие Провайдеры
+UICasino_Game_KYPoker=KY Покер
+UICasino_Game_LEGPoker=LEG Покер
+UICasino_Game_T1Poker=T1 Игра Блокчейн

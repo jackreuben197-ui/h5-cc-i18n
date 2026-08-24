@@ -8013,4 +8013,8 @@ UIMiniGame_Title=Área de minijuegos
 UIMineClubCowboyDownloadTip=Descargue la aplicación cliente para experimentar el juego del vaquero.
 GlobalFloat_InTransaction=Transacción
 UIClub_EnterClub=Entrar
-
+UICasino_SubText=En vivo, Tragaperras, Deportes
+UICasino_TopProviders=Mejores Proveedores
+UICasino_Game_KYPoker=KY Poker
+UICasino_Game_LEGPoker=LEG Poker
+UICasino_Game_T1Poker=T1 Game Blockchain

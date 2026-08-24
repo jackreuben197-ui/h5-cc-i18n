@@ -7982,7 +7982,7 @@ UIComponent_Text8=Wechseln Sie zu
 UIComponent_Text9=Licht
 UIComponent_Text10=Dunkel
 
-UICasino_Title=Kasino
+UICasino_Title=Casino
 UICasino_TabHot=Beliebt
 UICasino_TabLive=Echte Person
 UICasino_TabSlots=Elektronik
@@ -8013,4 +8013,8 @@ UIMiniGame_Title=Minispielbereich
 UIMineClubCowboyDownloadTip=Bitte laden Sie die Client-APP herunter, um das Cowboy-Spiel zu erleben
 GlobalFloat_InTransaction=Transaktion läuft
 UIClub_EnterClub=Geben Sie
-
+UICasino_SubText=Live, Slots, Sport
+UICasino_TopProviders=Top-Anbieter
+UICasino_Game_KYPoker=KY Poker
+UICasino_Game_LEGPoker=LEG Poker
+UICasino_Game_T1Poker=T1 Game Blockchain

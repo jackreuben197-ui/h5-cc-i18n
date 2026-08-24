@@ -8013,4 +8013,8 @@ UIMiniGame_Title=Khu trò chơi mini
 UIMineClubCowboyDownloadTip=Vui lòng tải APP client để trải nghiệm game cao bồi
 GlobalFloat_InTransaction=Giao dịch đang diễn ra
 UIClub_EnterClub=Nhập
-
+UICasino_SubText=Trực tiếp, Slot, Thể thao
+UICasino_TopProviders=Nhà cung cấp hàng đầu
+UICasino_Game_KYPoker=KY Poker
+UICasino_Game_LEGPoker=LEG Poker
+UICasino_Game_T1Poker=T1 Game Blockchain

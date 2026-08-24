@@ -8013,4 +8013,8 @@ UIMiniGame_Title=ミニゲームエリア
 UIMineClubCowboyDownloadTip=カウボーイ ゲームを体験するには、クライアント APP をダウンロードしてください
 GlobalFloat_InTransaction=トランザクションが進行中です
 UIClub_EnterClub=入力
-
+UICasino_SubText=ライブ・スロット・スポーツ
+UICasino_TopProviders=トッププロバイダー
+UICasino_Game_KYPoker=KY ポーカー
+UICasino_Game_LEGPoker=LEG ポーカー
+UICasino_Game_T1Poker=T1 ゲーム ブロックチェーン

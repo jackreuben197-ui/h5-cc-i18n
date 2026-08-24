@@ -8013,3 +8013,6 @@ UIMiniGame_Title=Mini Games Zone
 UIMineClubCowboyDownloadTip=Please download the app to experience Cowboy
 GlobalFloat_InTransaction=In Transaction
 UIClub_EnterClub=Enter
+UICasino_Game_KYPoker=KY Poker
+UICasino_Game_LEGPoker=LEG Poker
+UICasino_Game_T1Poker=T1 Game Blockchain
