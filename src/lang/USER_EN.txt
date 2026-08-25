@@ -1774,7 +1774,7 @@ WalletTranschipsBindingCard_rightNowAdd=Add now
 UIData_ShowProblem_zIwG=Basic Data
 UIData_ShowProblem_eZys=VIP Advanced Data
 UIData_ShowProblem_SM0y=Total hands: hands played in the product.\n\nTotal games: games played in the product.\n\nVPIP: share of hands you voluntarily call or raise pre-flop (antes do not count). VPIP hands / total hands.\n\nVPIP win rate: share of VPIP hands won.\n\nAverage result: total result / total games.\n\nAverage buy-in: total buy-in / total games.
-UIData_ShowProblem_3xqp=VPIP: share of hands in which you voluntarily put chips in the pot pre-flop. It measures how loose or tight you play.\n\nPFR: share of hands in which you raise pre-flop. PFR = pre-flop raises / pre-flop entries.\n\n3-bet: share of hands in which you re-raise after a bet or raise. 3-bet = re-raises / entries.\n\nC-bet: a bet on this street after you were the last aggressor on the previous street. C-bet = continuation bets / previous-street aggression.\n\nAF: higher means more aggressive (more bets/raises). AF = {（下注的次数+加注的次数）/跟注的次数}/50 (divide by 50 to show a percentage; capped at 100%, so the raw maximum is 50).\n\nWTSD: share of flopped hands that go to showdown. WTSD = showdown hands / flopped hands.\n\nAll-in Wins: win rate after going all-in. A high value usually means fewer bluff all-ins.\n\nVPIP Wins: win rate in hands that went to the pot.
+UIData_ShowProblem_3xqp=VPIP: share of hands in which you voluntarily put chips in the pot pre-flop. It measures how loose or tight you play.\n\nPFR: share of hands in which you raise pre-flop. PFR = pre-flop raises / pre-flop entries.\n\n3-bet: share of hands in which you re-raise after a bet or raise. 3-bet = re-raises / entries.\n\nC-bet: a bet on this street after you were the last aggressor on the previous street. C-bet = continuation bets / previous-street aggression.\n\nAF: higher means more aggressive (more bets/raises). AF = {(Bet + Raise) / Call} / 50 (divide by 50 to show a percentage; capped at 100%, so the raw maximum is 50).\n\nWTSD: share of flopped hands that go to showdown. WTSD = showdown hands / flopped hands.\n\nAll-in Wins: win rate after going all-in. A high value usually means fewer bluff all-ins.\n\nVPIP Wins: win rate in hands that went to the pot.
 UIMatchFilter_4Rj47D=Clear
 UIMatchFilter_DPY5kR=Game
 UIMineDetail_UsedTime=Time consumption
@@ -2046,7 +2046,7 @@ UIData_Terminol=Data description
 UIData_Terminola9XjGbUJ=Basic Data
 UIData_TerminolQ6ILftIz=Total hands: The hands player used to play in ALL-IN.\n\nTotal games: The games player used to play in ALL-IN. \n\nVPIP: The ratio player ever raises or calls before flop in total hands. \n\nWins: The ratio player wins after raising or calling before flop in total hands.\n\nAvg result: The average achievement of all games played. \n\nAvg buy-in: The average buy-in of all games played.
 UIData_TerminolD6qL3kUc=VIP Data
-UIData_TerminolbazUAGg6=PFR: share of hands in which you raise pre-flop. PFR = pre-flop raises / pre-flop entries.\n\n3-bet: share of hands in which you re-raise after a bet or raise. 3-bet = re-raises / entries.\n\nC-bet: a bet on this street after you were the last aggressor on the previous street. C-bet = continuation bets / previous-street aggression.\n\nAF: higher means more aggressive (more bets/raises). AF = {（下注的次数+加注的次数）/跟注的次数}/50 (divide by 50 to show a percentage; capped at 100%, so the raw maximum is 50).\n\nWTSD: share of flopped hands that go to showdown. WTSD = showdown hands / flopped hands.\n\nAll-in Wins: win rate after going all-in. A high value usually means fewer bluff all-ins.
+UIData_TerminolbazUAGg6=PFR: share of hands in which you raise pre-flop. PFR = pre-flop raises / pre-flop entries.\n\n3-bet: share of hands in which you re-raise after a bet or raise. 3-bet = re-raises / entries.\n\nC-bet: a bet on this street after you were the last aggressor on the previous street. C-bet = continuation bets / previous-street aggression.\n\nAF: higher means more aggressive (more bets/raises). AF = {(Bet + Raise) / Call} / 50 (divide by 50 to show a percentage; capped at 100%, so the raw maximum is 50).\n\nWTSD: share of flopped hands that go to showdown. WTSD = showdown hands / flopped hands.\n\nAll-in Wins: win rate after going all-in. A high value usually means fewer bluff all-ins.
 UIMine_WalletClubGetMoneyList=Withdraw
 UIMine_WalletClue_001=Club withdrawal
 UIMine_WalletClue_002=Platform withdrawal
@@ -8144,3 +8144,10 @@ UILang_ko=Korean
 UILang_ru=Russian
 UILang_th=Thai
 UILang_vi=Vietnamese
+UIVideoTable_CameraFail=Cannot access the camera. Check your browser permissions and sit down again.
+UIVideoTable_MediaPermissionRequired=Allow camera and microphone access in your browser to sit at a video table.
+UITexasStopSpeak_Fail=Failed to mute
+UITexasStopSpeak_Cancel=Unmute
+UITexasBlockName=Hide name
+UITexasBlockName_Cancel=Show name
+UITexasPlayerInfoOpenVideo=Turn on video

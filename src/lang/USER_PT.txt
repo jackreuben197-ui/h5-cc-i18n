@@ -1774,7 +1774,7 @@ WalletTranschipsBindingCard_rightNowAdd=Adicione agora
 UIData_ShowProblem_zIwG=Dados básicos
 UIData_ShowProblem_eZys=Dados avançados de membros VIP
 UIData_ShowProblem_SM0y=Mãos: mãos no produto.\n\nJogos: jogos no produto.\n\nVPIP: call/raise pré-flop (ante não conta).\n\nWin VPIP: wins nas mãos VPIP.\n\nResultado médio: total ÷ jogos.\n\nBuy-in médio: buy-in ÷ jogos.
-UIData_ShowProblem_3xqp=VPIP: mãos em que você call/raise pré-flop. Mede o quão loose/tight você joga.\n\nPFR: raises pré-flop / entradas pré-flop.\n\n3-bet: re-raises / entradas.\n\nC-bet: aposta nesta street após agressão na anterior. C-bet = c-bets / agressão anterior.\n\nAF: quanto maior, mais agressivo. AF = {（下注的次数+加注的次数）/跟注的次数}/50 (÷50 = %; teto 100%, bruto máx. 50).\n\nWTSD: mãos ao showdown / mãos no flop.\n\nAll-in Wins: win rate após all-in. Alto = poucos blefes all-in.\n\nVPIP Wins: win rate nas mãos que foram ao pot.
+UIData_ShowProblem_3xqp=VPIP: mãos em que você call/raise pré-flop. Mede o quão loose/tight você joga.\n\nPFR: raises pré-flop / entradas pré-flop.\n\n3-bet: re-raises / entradas.\n\nC-bet: aposta nesta street após agressão na anterior. C-bet = c-bets / agressão anterior.\n\nAF: quanto maior, mais agressivo. AF = {(Bet + Raise) / Call} / 50 (÷50 = %; teto 100%, bruto máx. 50).\n\nWTSD: mãos ao showdown / mãos no flop.\n\nAll-in Wins: win rate após all-in. Alto = poucos blefes all-in.\n\nVPIP Wins: win rate nas mãos que foram ao pot.
 UIMatchFilter_4Rj47D=Limpar
 UIMatchFilter_DPY5kR=Jogo
 UIMineDetail_UsedTime=Tempo consumido
@@ -2046,7 +2046,7 @@ UIData_Terminol=Descrição de dados
 UIData_Terminola9XjGbUJ=Dados básicos
 UIData_TerminolQ6ILftIz=Mãos: mãos em mesas ALL IN.\n\nJogos: mesas ALL IN.\n\nVPIP: (call/raise pré-flop)/mãos; ante não conta.\n\nWin VPIP: wins nas mãos VPIP.\n\nResultado médio: P/L ÷ jogos.\n\nBuy-in médio: buy-in ÷ jogos.
 UIData_TerminolD6qL3kUc=Dados VIP avançados
-UIData_TerminolbazUAGg6=PFR: raises pré-flop / entradas pré-flop.\n\n3-bet: re-raises / entradas.\n\nC-bet: aposta nesta street após agressão na anterior.\n\nAF: quanto maior, mais agressivo. AF = {（下注的次数+加注的次数）/跟注的次数}/50 (÷50 = %; teto 100%, bruto máx. 50).\n\nWTSD: mãos ao showdown / mãos no flop.\n\nAll-in Wins: win rate após all-in. Alto = poucos blefes all-in.
+UIData_TerminolbazUAGg6=PFR: raises pré-flop / entradas pré-flop.\n\n3-bet: re-raises / entradas.\n\nC-bet: aposta nesta street após agressão na anterior.\n\nAF: quanto maior, mais agressivo. AF = {(Bet + Raise) / Call} / 50 (÷50 = %; teto 100%, bruto máx. 50).\n\nWTSD: mãos ao showdown / mãos no flop.\n\nAll-in Wins: win rate após all-in. Alto = poucos blefes all-in.
 UIMine_WalletClubGetMoneyList=Saque
 UIMine_WalletClue_001=Saque do clube
 UIMine_WalletClue_002=Saque da plataforma
@@ -7357,8 +7357,8 @@ UIClub_Text8=A primeira alteração é gratuita
 UIClub_Text9=A primeira alteração não é gratuita
 UIClub_Text10=Custo de cada alteração seguinte
 UIClub_Text11=Intervalo entre alterações
-UIClub_Text12=Tente novamente em
-UIClub_Again=horas
+UIClub_Text12=Tente novamente em 
+UIClub_Again= horas
 UIClub_Text13=Recarregue o saldo
 UIClub_NameFail=Falha ao alterar o nome
 UIClub_Text14=Torneios
@@ -8144,3 +8144,10 @@ UILang_ko=Coreano
 UILang_ru=Russo
 UILang_th=Tailandês
 UILang_vi=Vietnamita
+UIVideoTable_CameraFail=Não foi possível ativar a câmera. Verifique as permissões do navegador e sente-se novamente.
+UIVideoTable_MediaPermissionRequired=Permita o acesso à câmera e ao microfone no navegador para sentar-se em uma mesa de vídeo.
+UITexasStopSpeak_Fail=Falha ao silenciar
+UITexasStopSpeak_Cancel=Reativar chat
+UITexasBlockName=Ocultar nome
+UITexasBlockName_Cancel=Mostrar nome
+UITexasPlayerInfoOpenVideo=Ativar vídeo
