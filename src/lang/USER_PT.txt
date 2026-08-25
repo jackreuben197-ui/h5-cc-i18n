@@ -3863,7 +3863,7 @@ UIData_BtnRecord=Conquistas
 UIClub_CreateTips=Crie um clube e convide amigos para jogar juntos
 UIClub_CreateGuild=Criar clube
 UIGame_Type6p=6+
-UIMessage_Default=Home Games
+UIMessage_Default=Mesas Privadas
 UIMessage_Default2=Sistema
 UIMessage_Default3=União
 UIExchange_InputTips=Inserir quantidade
@@ -8097,3 +8097,8 @@ Page_DataDetails_Insurance=Seguro
 Page_DataDetails_Hands=Mãos
 Page_DataDetails_NoPlayerRecord=Nenhum registro de jogador
 Page_DataDetails_Loading=Carregando...
+
+Page_AboutUs_Heading=Sobre a plataforma
+Page_AboutUs_Body=Sempre nos esforçamos para cultivar uma comunidade de amantes de poker, permitindo que os jogadores joguem no ritmo casual que desejam no W poker. Como pioneiro nos jogos entre amigos e partidas rápidas, fomos aprovados por muitos jogadores de poker. O W poker tem orgulho de ser uma plataforma de poker justa e confiável. Nossos algoritmos de embaralhamento e geradores de números aleatórios foram certificados pelo Gaming Laboratories International (GLI), a principal agência de certificação independente do setor, e verificados como justos para poker e jogos de azar relacionados. Para uma plataforma de poker, a justiça é fundamental. Nossos geradores de números aleatórios determinam nossas sequências de embaralhamento e distribuição, e nossa certificação GLI prova que nossa justiça não será comprometida em nenhum cenário.
+
+Page_MineBill_UCTotalAmount=Total de UC

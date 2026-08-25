@@ -8097,3 +8097,8 @@ Page_DataDetails_Insurance=Seguro
 Page_DataDetails_Hands=Manos
 Page_DataDetails_NoPlayerRecord=Sin registros de jugadores
 Page_DataDetails_Loading=Cargando...
+
+Page_AboutUs_Heading=Sobre la plataforma
+Page_AboutUs_Body=Siempre nos hemos esforzado por cultivar una comunidad de amantes del póquer, para permitirles jugar al ritmo casual que deseen en W poker. Como pioneros de las partidas de póquer organizadas por amigos y de las partidas rápidas, contamos con la aprobación de muchos jugadores de póquer. W poker se enorgullece de ser una plataforma de póquer justa y confiable. Nuestros algoritmos de barajado y generadores de números aleatorios han sido certificados por Gaming Laboratories International (GLI), la agencia de certificación independiente líder en la industria, y se ha verificado que son justos para el póquer y los juegos de azar relacionados. Para una plataforma de póquer, la imparcialidad es clave. Nuestros generadores de números aleatorios deciden nuestras secuencias de barajado y reparto, y nuestra certificación GLI demuestra que nuestra imparcialidad no se verá comprometida en ningún escenario.
+
+Page_MineBill_UCTotalAmount=Total de UC

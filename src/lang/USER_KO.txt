@@ -8097,3 +8097,8 @@ Page_DataDetails_Insurance=보험
 Page_DataDetails_Hands=핸드
 Page_DataDetails_NoPlayerRecord=플레이어 기록 없음
 Page_DataDetails_Loading=로딩 중...
+
+Page_AboutUs_Heading=플랫폼 소개
+Page_AboutUs_Body=우리는 항상 포커 애호가들이 W 포커에서 원하는 편안한 속도로 플레이할 수 있도록 포커 애호가 커뮤니티를 육성하기 위해 노력해 왔습니다. 친구가 개설하는 포커 게임과 퀵 게임의 선구자로서 우리는 많은 포커 플레이어들로부터 인정받았습니다. W 포커는 공정하고 신뢰할 수 있는 포커 플랫폼임을 자랑스럽게 생각합니다. 우리의 셔플 알고리즘과 난수 생성기는 업계 최고의 독립 인증 기관인 GLI(Gaming Laboratories International)의 인증을 받았으며 포커 및 관련 확률 게임에 대해 공정하다는 것이 검증되었습니다. 포커 플랫폼에서 공정성은 핵심입니다. 우리의 난수 생성기가 셔플 및 딜링 순서를 결정하며, GLI 인증은 어떠한 시나리오에서도 우리의 공정성이 타협되지 않음을 증명합니다.
+
+Page_MineBill_UCTotalAmount=총 UC
