@@ -5152,7 +5152,7 @@ var deMap = {
     "UIGuildMemberManagerNoneAgentData": "Noch keine Filterdaten",
     "UIBlockchain": "Mischkarten mit Blockchain-Verschl\xFCsselung",
     "UIBlockchainTips1": "Basiert auf Blockchain-Verschl\xFCsselungstechnologie und unterst\xFCtzt ein \xFCberpr\xFCfbares Lizenzsystem von Drittanbietern",
-    "UIPlayerInfo_TablePoolRate": "VPIP dieser Tabelle",
+    "UIPlayerInfo_TablePoolRate": "Tisch-VPIP",
     "UIPlayerInfo_TablePoolRateTips": "H\xE4ufigkeit aktiver Eins\xE4tze auf den Pot an diesem Tisch",
     "UICreateTalble_winType": "Lademethode",
     "UICreateTalble_anBili": "Verh\xE4ltnism\xE4\xDFig",
@@ -8078,7 +8078,12 @@ var deMap = {
     "UICasino_Game_FBSportsTip2": "Sp\xFCre die Spannung",
     "UICasino_Game_Cowboy": "Texas Cowboy",
     "UICasino_Game_DBLive": "DB Live",
-    "UIClub_SearchClubID": "Club-ID suchen"
+    "UIClub_SearchClubID": "Club-ID suchen",
+    "UIPlayerInfo_RemarkSaveOk": "Notiz gespeichert",
+    "UIPlayerInfo_RemarkSaveFail": "Notiz konnte nicht gespeichert werden",
+    "UIPlayerInfo_CreditPanelNA": "Das Kreditlimit-Panel ist in dieser Version nicht verf\xFCgbar",
+    "UIPlayerInfo_MuteNotSupported": "Stummschalten wird in diesem Raum nicht unterst\xFCtzt",
+    "UIReport_Fail": "Meldung fehlgeschlagen"
 };
 var enMap = {
     "4": "Failed to connect, please try again later. ",
@@ -13214,7 +13219,7 @@ var enMap = {
     "UIGuildMemberManagerNoneAgentData": "No filtered data available",
     "UIBlockchain": "Blockchain Shuffle",
     "UIBlockchainTips1": "Based on blockchain encryption technology, supports third-party verifiable dealing system",
-    "UIPlayerInfo_TablePoolRate": "VPIP of currently table",
+    "UIPlayerInfo_TablePoolRate": "Table VPIP",
     "UIPlayerInfo_TablePoolRateTips": "The frequency of the table's active pool bets",
     "UICreateTalble_winType": "Fee method",
     "UICreateTalble_anBili": "Pot%",
@@ -16140,7 +16145,12 @@ var enMap = {
     "UICasino_Game_FBSportsTip2": "Feel the excitement",
     "UICasino_Game_Cowboy": "Texas Cowboy",
     "UICasino_Game_DBLive": "DB Live",
-    "UIClub_SearchClubID": "Search Club ID"
+    "UIClub_SearchClubID": "Search Club ID",
+    "UIPlayerInfo_RemarkSaveOk": "Remark updated",
+    "UIPlayerInfo_RemarkSaveFail": "Failed to update remark",
+    "UIPlayerInfo_CreditPanelNA": "The credit panel is not available in this version",
+    "UIPlayerInfo_MuteNotSupported": "Muting is not supported in this room",
+    "UIReport_Fail": "Report failed"
 };
 var esMap = {
     "4": "Error de red. Reintente.",
@@ -21276,7 +21286,7 @@ var esMap = {
     "UIGuildMemberManagerNoneAgentData": "Sin filtrar datos",
     "UIBlockchain": "Tarjetas de barajado de cifrado blockchain",
     "UIBlockchainTips1": "Basado en la tecnolog\xEDa de cifrado blockchain, compatible con un sistema de licencias verificable de terceros",
-    "UIPlayerInfo_TablePoolRate": "VPIP de esta mesa",
+    "UIPlayerInfo_TablePoolRate": "VPIP mesa",
     "UIPlayerInfo_TablePoolRateTips": "Frecuencia de apuestas activas al bote en esta mesa",
     "UICreateTalble_winType": "M\xE9todo de carga",
     "UICreateTalble_anBili": "Proporcional",
@@ -24202,7 +24212,12 @@ var esMap = {
     "UICasino_Game_FBSportsTip2": "Siente la emoci\xF3n",
     "UICasino_Game_Cowboy": "Texas Cowboy",
     "UICasino_Game_DBLive": "DB Live",
-    "UIClub_SearchClubID": "Buscar ID del club"
+    "UIClub_SearchClubID": "Buscar ID del club",
+    "UIPlayerInfo_RemarkSaveOk": "Comentario actualizado",
+    "UIPlayerInfo_RemarkSaveFail": "No se pudo actualizar el comentario",
+    "UIPlayerInfo_CreditPanelNA": "El panel de cr\xE9dito no est\xE1 disponible en esta versi\xF3n",
+    "UIPlayerInfo_MuteNotSupported": "Silenciar no est\xE1 disponible en esta sala",
+    "UIReport_Fail": "Error al enviar el reporte"
 };
 var frMap = {
     "4": "Erreur r\xE9seau. R\xE9essayez.",
@@ -29338,7 +29353,7 @@ var frMap = {
     "UIGuildMemberManagerNoneAgentData": "Aucune donn\xE9e de filtrage",
     "UIBlockchain": "Cartes de brassage de cryptage blockchain",
     "UIBlockchainTips1": "Bas\xE9 sur la technologie de cryptage blockchain, prenant en charge un syst\xE8me de licence tiers v\xE9rifiable",
-    "UIPlayerInfo_TablePoolRate": "VPIP de cette table",
+    "UIPlayerInfo_TablePoolRate": "VPIP table",
     "UIPlayerInfo_TablePoolRateTips": "Fr\xE9quence des paris actifs sur le pot \xE0 cette table",
     "UICreateTalble_winType": "M\xE9thode de chargement",
     "UICreateTalble_anBili": "Proportionnel",
@@ -32264,7 +32279,12 @@ var frMap = {
     "UICasino_Game_FBSportsTip2": "Ressentez le frisson",
     "UICasino_Game_Cowboy": "Texas Cowboy",
     "UICasino_Game_DBLive": "DB Live",
-    "UIClub_SearchClubID": "Rechercher l\u2019ID du club"
+    "UIClub_SearchClubID": "Rechercher l\u2019ID du club",
+    "UIPlayerInfo_RemarkSaveOk": "Remarque enregistr\xE9e",
+    "UIPlayerInfo_RemarkSaveFail": "\xC9chec de l'enregistrement de la remarque",
+    "UIPlayerInfo_CreditPanelNA": "Le panneau de cr\xE9dit n'est pas disponible dans cette version",
+    "UIPlayerInfo_MuteNotSupported": "Le mode silencieux n'est pas pris en charge dans ce salon",
+    "UIReport_Fail": "\xC9chec du signalement"
 };
 var hiMap = {
     "4": "\u0928\u0947\u091F\u0935\u0930\u094D\u0915 \u0924\u094D\u0930\u0941\u091F\u093F\u0964 \u092C\u093E\u0926 \u092E\u0947\u0902 \u0915\u094B\u0936\u093F\u0936 \u0915\u0930\u0947\u0902\u0964",
@@ -37400,7 +37420,7 @@ var hiMap = {
     "UIGuildMemberManagerNoneAgentData": "\u0915\u094B\u0908 \u092B\u093C\u093F\u0932\u094D\u091F\u0930\u093F\u0902\u0917 \u0921\u0947\u091F\u093E \u0928\u0939\u0940\u0902",
     "UIBlockchain": "\u092C\u094D\u0932\u0949\u0915\u091A\u0947\u0928 \u090F\u0928\u094D\u0915\u094D\u0930\u093F\u092A\u094D\u0936\u0928 \u0936\u092B\u093C\u0932\u093F\u0902\u0917 \u0915\u093E\u0930\u094D\u0921",
     "UIBlockchainTips1": "\u092C\u094D\u0932\u0949\u0915\u091A\u0947\u0928 \u090F\u0928\u094D\u0915\u094D\u0930\u093F\u092A\u094D\u0936\u0928 \u0924\u0915\u0928\u0940\u0915 \u092A\u0930 \u0906\u0927\u093E\u0930\u093F\u0924, \u0924\u0943\u0924\u0940\u092F-\u092A\u0915\u094D\u0937 \u0938\u0924\u094D\u092F\u093E\u092A\u0928 \u092F\u094B\u0917\u094D\u092F \u0915\u093E\u0930\u094D\u0921 \u091C\u093E\u0930\u0940 \u0915\u0930\u0928\u0947 \u0935\u093E\u0932\u0940 \u092A\u094D\u0930\u0923\u093E\u0932\u0940 \u0915\u093E \u0938\u092E\u0930\u094D\u0925\u0928",
-    "UIPlayerInfo_TablePoolRate": "\u0907\u0938 \u0924\u093E\u0932\u093F\u0915\u093E \u0915\u093E \u0935\u0940\u092A\u0940\u0906\u0908\u092A\u0940",
+    "UIPlayerInfo_TablePoolRate": "\u091F\u0947\u092C\u0932 VPIP",
     "UIPlayerInfo_TablePoolRateTips": "\u092A\u0949\u091F \u092A\u0930 \u0907\u0938 \u0924\u093E\u0932\u093F\u0915\u093E \u0915\u0940 \u0938\u0915\u094D\u0930\u093F\u092F \u0938\u091F\u094D\u091F\u0947\u092C\u093E\u091C\u0940 \u0915\u0940 \u0906\u0935\u0943\u0924\u094D\u0924\u093F",
     "UICreateTalble_winType": "\u091A\u093E\u0930\u094D\u091C\u093F\u0902\u0917 \u0935\u093F\u0927\u093F",
     "UICreateTalble_anBili": "\u092F\u0925\u093E\u0928\u0941\u092A\u093E\u0924",
@@ -40326,7 +40346,12 @@ var hiMap = {
     "UICasino_Game_FBSportsTip2": "\u0930\u094B\u092E\u093E\u0902\u091A \u092E\u0939\u0938\u0942\u0938 \u0915\u0930\u0947\u0902",
     "UICasino_Game_Cowboy": "\u091F\u0947\u0915\u094D\u0938\u093E\u0938 \u0915\u093E\u0909\u092C\u0949\u092F",
     "UICasino_Game_DBLive": "DB \u0932\u093E\u0907\u0935",
-    "UIClub_SearchClubID": "\u0915\u094D\u0932\u092C \u0906\u0908\u0921\u0940 \u0916\u094B\u091C\u0947\u0902"
+    "UIClub_SearchClubID": "\u0915\u094D\u0932\u092C \u0906\u0908\u0921\u0940 \u0916\u094B\u091C\u0947\u0902",
+    "UIPlayerInfo_RemarkSaveOk": "\u091F\u093F\u092A\u094D\u092A\u0923\u0940 \u0905\u092A\u0921\u0947\u091F \u0939\u094B \u0917\u0908",
+    "UIPlayerInfo_RemarkSaveFail": "\u091F\u093F\u092A\u094D\u092A\u0923\u0940 \u0905\u092A\u0921\u0947\u091F \u0928\u0939\u0940\u0902 \u0939\u094B \u0938\u0915\u0940",
+    "UIPlayerInfo_CreditPanelNA": "\u0907\u0938 \u0938\u0902\u0938\u094D\u0915\u0930\u0923 \u092E\u0947\u0902 \u0915\u094D\u0930\u0947\u0921\u093F\u091F \u092A\u0948\u0928\u0932 \u0909\u092A\u0932\u092C\u094D\u0927 \u0928\u0939\u0940\u0902 \u0939\u0948",
+    "UIPlayerInfo_MuteNotSupported": "\u0907\u0938 \u0930\u0942\u092E \u092E\u0947\u0902 \u092E\u094D\u092F\u0942\u091F \u0915\u0930\u0928\u093E \u0938\u092E\u0930\u094D\u0925\u093F\u0924 \u0928\u0939\u0940\u0902 \u0939\u0948",
+    "UIReport_Fail": "\u0930\u093F\u092A\u094B\u0930\u094D\u091F \u0935\u093F\u092B\u0932 \u0930\u0939\u0940"
 };
 var itMap = {
     "4": "Errore di rete. Riprova.",
@@ -45462,7 +45487,7 @@ var itMap = {
     "UIGuildMemberManagerNoneAgentData": "Nessun dato filtrato ancora",
     "UIBlockchain": "Carte mescolate con crittografia blockchain",
     "UIBlockchainTips1": "Basato sulla tecnologia di crittografia blockchain, supporta il sistema di licenza verificabile di terze parti",
-    "UIPlayerInfo_TablePoolRate": "VPIP di questa tabella",
+    "UIPlayerInfo_TablePoolRate": "VPIP tavolo",
     "UIPlayerInfo_TablePoolRateTips": "Frequenza delle scommesse attive sul piatto in questo tavolo",
     "UICreateTalble_winType": "Metodo di ricarica",
     "UICreateTalble_anBili": "Proporzionale",
@@ -48388,7 +48413,12 @@ var itMap = {
     "UICasino_Game_FBSportsTip2": "Senti l\u2019emozione",
     "UICasino_Game_Cowboy": "Texas Cowboy",
     "UICasino_Game_DBLive": "DB Live",
-    "UIClub_SearchClubID": "Cerca ID del club"
+    "UIClub_SearchClubID": "Cerca ID del club",
+    "UIPlayerInfo_RemarkSaveOk": "Nota aggiornata",
+    "UIPlayerInfo_RemarkSaveFail": "Impossibile aggiornare la nota",
+    "UIPlayerInfo_CreditPanelNA": "Il pannello crediti non \xE8 disponibile in questa versione",
+    "UIPlayerInfo_MuteNotSupported": "Il silenziamento non \xE8 supportato in questa stanza",
+    "UIReport_Fail": "Segnalazione non riuscita"
 };
 var jaMap = {
     "4": "\u901A\u4FE1\u30A8\u30E9\u30FC\u3067\u3059\u3002\u3082\u3046\u4E00\u5EA6\u8A66\u3057\u3066\u304F\u3060\u3055\u3044\u3002",
@@ -53524,7 +53554,7 @@ var jaMap = {
     "UIGuildMemberManagerNoneAgentData": "\u30D5\u30A3\u30EB\u30BF\u30EA\u30F3\u30B0 \u30C7\u30FC\u30BF\u304C\u3042\u308A\u307E\u305B\u3093",
     "UIBlockchain": "\u30D6\u30ED\u30C3\u30AF\u30C1\u30A7\u30FC\u30F3 \u30B7\u30E3\u30C3\u30D5\u30EB",
     "UIBlockchainTips1": "\u30D6\u30ED\u30C3\u30AF\u30C1\u30A7\u30FC\u30F3\u6697\u53F7\u6280\u8853\u306B\u3088\u308B\u7B2C\u4E09\u8005\u691C\u8A3C\u53EF\u80FD\u306A\u30C7\u30A3\u30FC\u30EB\u30B7\u30B9\u30C6\u30E0",
-    "UIPlayerInfo_TablePoolRate": "\u3053\u306E\u30C6\u30FC\u30D6\u30EB\u306E VPIP",
+    "UIPlayerInfo_TablePoolRate": "\u30C6\u30FC\u30D6\u30EBVPIP",
     "UIPlayerInfo_TablePoolRateTips": "\u3053\u306E\u30C6\u30FC\u30D6\u30EB\u306E\u30DD\u30C3\u30C8\u306B\u5BFE\u3059\u308B\u30A2\u30AF\u30C6\u30A3\u30D6\u306A\u30D9\u30C3\u30C6\u30A3\u30F3\u30B0\u306E\u983B\u5EA6",
     "UICreateTalble_winType": "\u5145\u96FB\u65B9\u6CD5",
     "UICreateTalble_anBili": "\u6BD4\u4F8B\u914D\u5206",
@@ -56450,7 +56480,12 @@ var jaMap = {
     "UICasino_Game_FBSportsTip2": "\u8208\u596E\u3092\u4F53\u611F",
     "UICasino_Game_Cowboy": "\u30C6\u30AD\u30B5\u30B9\u30AB\u30A6\u30DC\u30FC\u30A4",
     "UICasino_Game_DBLive": "DB\u30E9\u30A4\u30D6",
-    "UIClub_SearchClubID": "\u30AF\u30E9\u30D6ID\u3092\u691C\u7D22"
+    "UIClub_SearchClubID": "\u30AF\u30E9\u30D6ID\u3092\u691C\u7D22",
+    "UIPlayerInfo_RemarkSaveOk": "\u30E1\u30E2\u3092\u66F4\u65B0\u3057\u307E\u3057\u305F",
+    "UIPlayerInfo_RemarkSaveFail": "\u30E1\u30E2\u306E\u66F4\u65B0\u306B\u5931\u6557\u3057\u307E\u3057\u305F",
+    "UIPlayerInfo_CreditPanelNA": "\u3053\u306E\u30D0\u30FC\u30B8\u30E7\u30F3\u3067\u306F\u4E0E\u4FE1\u67A0\u30D1\u30CD\u30EB\u3092\u5229\u7528\u3067\u304D\u307E\u305B\u3093",
+    "UIPlayerInfo_MuteNotSupported": "\u3053\u306E\u30EB\u30FC\u30E0\u3067\u306F\u30DF\u30E5\u30FC\u30C8\u3092\u5229\u7528\u3067\u304D\u307E\u305B\u3093",
+    "UIReport_Fail": "\u901A\u5831\u306B\u5931\u6557\u3057\u307E\u3057\u305F"
 };
 var koMap = {
     "4": "\uB124\uD2B8\uC6CC\uD06C \uC624\uB958. \uB2E4\uC2DC \uC2DC\uB3C4.",
@@ -61586,7 +61621,7 @@ var koMap = {
     "UIGuildMemberManagerNoneAgentData": "\uD544\uD130\uB9C1 \uB370\uC774\uD130 \uC5C6\uC74C",
     "UIBlockchain": "\uBE14\uB85D\uCCB4\uC778 \uC554\uD638\uD654 \uC154\uD50C\uB9C1 \uCE74\uB4DC",
     "UIBlockchainTips1": "\uBE14\uB85D\uCCB4\uC778 \uC554\uD638\uD654 \uAE30\uC220\uC744 \uAE30\uBC18\uC73C\uB85C \uC81C3\uC790 \uAC80\uC99D\uCE74\uB4DC \uBC1C\uAE09 \uC2DC\uC2A4\uD15C \uC9C0\uC6D0",
-    "UIPlayerInfo_TablePoolRate": "\uC774 \uD14C\uC774\uBE14\uC758 VPIP",
+    "UIPlayerInfo_TablePoolRate": "\uD14C\uC774\uBE14 VPIP",
     "UIPlayerInfo_TablePoolRateTips": "\uC774 \uD14C\uC774\uBE14\uC758 \uD31F\uC5D0 \uB300\uD55C \uD65C\uC131 \uBCA0\uD305 \uBE48\uB3C4",
     "UICreateTalble_winType": "\uCDA9\uC804 \uBC29\uBC95",
     "UICreateTalble_anBili": "\uBE44\uC728",
@@ -64512,7 +64547,12 @@ var koMap = {
     "UICasino_Game_FBSportsTip2": "\uC9DC\uB9BF\uD568\uC744 \uB290\uAEF4\uBCF4\uC138\uC694",
     "UICasino_Game_Cowboy": "\uD14D\uC0AC\uC2A4 \uCE74\uC6B0\uBCF4\uC774",
     "UICasino_Game_DBLive": "DB \uB77C\uC774\uBE0C",
-    "UIClub_SearchClubID": "\uD074\uB7FD ID \uAC80\uC0C9"
+    "UIClub_SearchClubID": "\uD074\uB7FD ID \uAC80\uC0C9",
+    "UIPlayerInfo_RemarkSaveOk": "\uBA54\uBAA8\uAC00 \uC218\uC815\uB418\uC5C8\uC2B5\uB2C8\uB2E4",
+    "UIPlayerInfo_RemarkSaveFail": "\uBA54\uBAA8 \uC218\uC815\uC5D0 \uC2E4\uD328\uD588\uC2B5\uB2C8\uB2E4",
+    "UIPlayerInfo_CreditPanelNA": "\uD604\uC7AC \uBC84\uC804\uC5D0\uC11C\uB294 \uD55C\uB3C4 \uC9C0\uAE09 \uD328\uB110\uC744 \uC0AC\uC6A9\uD560 \uC218 \uC5C6\uC2B5\uB2C8\uB2E4",
+    "UIPlayerInfo_MuteNotSupported": "\uC774 \uBC29\uC5D0\uC11C\uB294 \uCC44\uD305 \uAE08\uC9C0\uB97C \uC0AC\uC6A9\uD560 \uC218 \uC5C6\uC2B5\uB2C8\uB2E4",
+    "UIReport_Fail": "\uC2E0\uACE0\uC5D0 \uC2E4\uD328\uD588\uC2B5\uB2C8\uB2E4"
 };
 var ptMap = {
     "4": "Erro de conex\xE3o, favor tentar novamente. ",
@@ -69648,7 +69688,7 @@ var ptMap = {
     "UIGuildMemberManagerNoneAgentData": "Ainda sem dados filtrados",
     "UIBlockchain": "Blockchain Shuffle",
     "UIBlockchainTips1": "Baseado na tecnologia de criptografia blockchain, suporta sistema de distribui\xE7\xE3o verific\xE1vel por terceiros",
-    "UIPlayerInfo_TablePoolRate": "VPIP da mesa",
+    "UIPlayerInfo_TablePoolRate": "VPIP mesa",
     "UIPlayerInfo_TablePoolRateTips": "VPIP desta mesa",
     "UICreateTalble_winType": "Tipo de taxa",
     "UICreateTalble_anBili": "Pot%",
@@ -72574,7 +72614,12 @@ var ptMap = {
     "UICasino_Game_FBSportsTip2": "Sinta a emo\xE7\xE3o",
     "UICasino_Game_Cowboy": "Texas Cowboy",
     "UICasino_Game_DBLive": "DB Live",
-    "UIClub_SearchClubID": "Buscar ID do clube"
+    "UIClub_SearchClubID": "Buscar ID do clube",
+    "UIPlayerInfo_RemarkSaveOk": "Observa\xE7\xE3o atualizada",
+    "UIPlayerInfo_RemarkSaveFail": "Falha ao atualizar a observa\xE7\xE3o",
+    "UIPlayerInfo_CreditPanelNA": "O painel de cr\xE9dito n\xE3o est\xE1 dispon\xEDvel nesta vers\xE3o",
+    "UIPlayerInfo_MuteNotSupported": "Silenciar n\xE3o \xE9 suportado nesta sala",
+    "UIReport_Fail": "Falha ao denunciar"
 };
 var ruMap = {
     "4": "\u0421\u0435\u0442\u044C. \u041F\u043E\u0432\u0442\u043E\u0440\u0438\u0442\u0435.",
@@ -74151,7 +74196,7 @@ var ruMap = {
     "UITexas_LeaveTheTable": "Sit-out",
     "UITexas_RuleTips": "\u041F\u0440\u0430\u0432\u0438\u043B\u0430",
     "UITexas_RuleOfTips": "\u041F\u0440\u0430\u0432\u0438\u043B\u0430 \u0421\u043E\u0432\u0435\u0442\u044B",
-    "UITexas_Setting": "\u041B\u0438\u0447\u043D\u043E\u0441\u0442\u044C \u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438",
+    "UITexas_Setting": "\u041F\u0435\u0440\u0441\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0435 \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438",
     "UITexas_TrustGame": "\u0425\u043E\u0441\u0442\u0438\u043D\u0433 \u0438\u0433\u0440\u044B",
     "UITexas_Leave": "\u0412\u044B\u0439\u0442\u0438 \u0438\u0437 \u043A\u043E\u043C\u043D\u0430\u0442\u044B",
     "UITexas_Trust": "\u0425\u043E\u0441\u0442\u0438\u043D\u0433",
@@ -74586,10 +74631,10 @@ var ruMap = {
     "UIUserRemarks_9VVIss7s": "\u0426\u0432\u0435\u0442 \u043C\u0430\u0440\u043A\u0435\u0440\u0430:",
     "UIUserRemarks_dhTBnuh5": "\u0418\u0433\u0440\u0430\u0442\u044C \u041C\u0430\u0440\u043A",
     "UIUserRemarks_qx1mcSTZ": "\u041F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u0437\u043D\u0430\u043A \u0432\u043E\u0441\u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u044F",
-    "UITexasSetting_6li2vmg3": "\u041B\u0438\u0447\u043D\u043E\u0441\u0442\u044C \u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438",
-    "UITexasSetting_qAONskmY": "\u041B\u0438\u0446\u043E \u043A\u0430\u0440\u0442\u044B \u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438",
+    "UITexasSetting_6li2vmg3": "\u041F\u0435\u0440\u0441\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0435 \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438",
+    "UITexasSetting_qAONskmY": "\u0421\u0442\u0438\u043B\u044C \u043A\u0430\u0440\u0442",
     "UITexasSetting_HK3O9Fa8": "\u0421\u0442\u0438\u043B\u044C \u043A\u0430\u0440\u0442\u044B",
-    "UITexasSetting_LrI45uIK": "\u0417\u0432\u0443\u043A\u043E\u0432\u043E\u0439 \u044D\u0444\u0444\u0435\u043A\u0442 \u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438",
+    "UITexasSetting_LrI45uIK": "\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438 \u0437\u0432\u0443\u043A\u0430",
     "CardNames": "ICBC, \u041F\u0440\u043E\u043C\u044B\u0448\u043B\u0435\u043D\u043D\u044B\u0439 \u0438 \u043A\u043E\u043C\u043C\u0435\u0440\u0447\u0435\u0441\u043A\u0438\u0439 \u0431\u0430\u043D\u043A \u041A\u0438\u0442\u0430\u044F^ABC, \u0421\u0435\u043B\u044C\u0441\u043A\u043E\u0445\u043E\u0437\u044F\u0439\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0431\u0430\u043D\u043A \u041A\u0438\u0442\u0430\u044F^CCB, \u041A\u0438\u0442\u0430\u0439\u0441\u043A\u0438\u0439 \u0441\u0442\u0440\u043E\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0439 \u0431\u0430\u043D\u043A^CMB, \u041A\u0438\u0442\u0430\u0439\u0441\u043A\u0438\u0439 \u0442\u043E\u0440\u0433\u043E\u0432\u044B\u0439 \u0431\u0430\u043D\u043A^COMM, \u041A\u0438\u0442\u0430\u0439\u0441\u043A\u0438\u0439 \u0431\u0430\u043D\u043A \u043A\u043E\u043C\u043C\u0443\u043D\u0438\u043A\u0430\u0446\u0438\u0439^CMBC, \u041A\u0438\u0442\u0430\u0439 \u041C\u0438\u043D\u0448\u044D\u043D \u0411\u0430\u043D\u043A^CEB, \u041A\u0438\u0442\u0430\u0439 Everbright Bank^GDB, \u0411\u0430\u043D\u043A \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044F \u0413\u0443\u0430\u043D\u0434\u0443\u043D\u0430^\u0411\u0430\u043D\u043A \u041A\u0438\u0442\u0430\u044F, \u0411\u0430\u043D\u043A \u041A\u0438\u0442\u0430\u044F^\u041A\u0418\u0411,\u041F\u0440\u043E\u043C\u044B\u0448\u043B\u0435\u043D\u043D\u044B\u0439 \u0431\u0430\u043D\u043A^\u0421\u041F\u0410\u0411\u0410\u041D\u041A, \u0421\u0435\u0439\u0444 \u0411\u0430\u043D\u043A^HXB, \u0411\u0430\u043D\u043A \u0425\u0443\u0430 \u0421\u044F^SPDB, \u0428\u0430\u043D\u0445\u0430\u0439\u0441\u043A\u0438\u0439 \u0431\u0430\u043D\u043A \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044F \u041F\u0443\u0434\u0443\u043D^\u0411\u0416\u0411\u0410\u041D\u041A, \u0411\u0430\u043D\u043A \u041F\u0435\u043A\u0438\u043D\u0430^\u0411\u041E\u0425\u0410\u0419\u0411, \u0411\u043E\u0445\u0430\u0439 \u0411\u0430\u043D\u043A^HKBEA, \u0411\u0430\u043D\u043A \u0412\u043E\u0441\u0442\u043E\u0447\u043D\u043E\u0439 \u0410\u0437\u0438\u0438^QDCCB, \u0411\u0430\u043D\u043A \u0426\u0438\u043D\u0434\u0430\u043E^CITIC, \u041A\u0438\u0442\u0430\u0439\u0441\u043A\u0438\u0439 \u0431\u0430\u043D\u043A CITIC",
     "UIMatch_Sharechips100": "\u0421\u043E\u0432\u0435\u0442\u044B^\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0435\u043C \u0432\u0430\u0441 \u0441 \u043F\u0440\u0430\u0432\u043E\u043C \u043F\u043E\u043B\u0443\u0447\u0435\u043D\u0438\u044F UC \u0432 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u0440\u0435\u043A\u043B\u0430\u043C\u043D\u043E\u0433\u043E \u043F\u043E\u0434\u0430\u0440\u043A\u0430. \u0425\u043E\u0442\u0438\u0442\u0435 \u043F\u043E\u0439\u0442\u0438 \u043D\u0430 \u0434\u043E\u0441\u043A\u0443 \u043E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u0438\u0439 \u0438 \u043F\u0440\u043E\u0432\u0435\u0440\u0438\u0442\u044C \u0414\u0435\u0442\u0430\u043B\u0438? \u041E\u0431\u0449\u0430\u044F \u0434\u043E\u0441\u0442\u0443\u043F\u043D\u0430\u044F \u0441\u0443\u043C\u043C\u0430: {0} UC^\u041F\u0435\u0440\u0435\u0439\u0442\u0438 \u043A \u043F\u0440\u043E\u0441\u043C\u043E\u0442\u0440\u0443^\u041D\u0435\u0442 UC",
     "UIMine_paipuDetail1": "\u041A\u043E\u043F\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u0441\u0441\u044B\u043B\u043A\u0443",
@@ -77710,7 +77755,7 @@ var ruMap = {
     "UIGuildMemberManagerNoneAgentData": "\u041D\u0435\u0442 \u0434\u0430\u043D\u043D\u044B\u0445 \u0434\u043B\u044F \u0444\u0438\u043B\u044C\u0442\u0440\u0430\u0446\u0438\u0438",
     "UIBlockchain": "\u041F\u0435\u0440\u0435\u0442\u0430\u0441\u043E\u0432\u043A\u0430 \u043A\u0430\u0440\u0442 \u0441 \u0448\u0438\u0444\u0440\u043E\u0432\u0430\u043D\u0438\u0435\u043C \u0431\u043B\u043E\u043A\u0447\u0435\u0439\u043D\u0430",
     "UIBlockchainTips1": "\u041D\u0430 \u043E\u0441\u043D\u043E\u0432\u0435 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u0448\u0438\u0444\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u0431\u043B\u043E\u043A\u0447\u0435\u0439\u043D\u0430 \u0441 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u043E\u0439 \u0441\u0442\u043E\u0440\u043E\u043D\u043D\u0435\u0439 \u043F\u0440\u043E\u0432\u0435\u0440\u044F\u0435\u043C\u043E\u0439 \u0441\u0438\u0441\u0442\u0435\u043C\u044B \u043B\u0438\u0446\u0435\u043D\u0437\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F",
-    "UIPlayerInfo_TablePoolRate": "VPIP \u044D\u0442\u043E\u0439 \u0442\u0430\u0431\u043B\u0438\u0446\u044B",
+    "UIPlayerInfo_TablePoolRate": "VPIP \u0441\u0442\u043E\u043B\u0430",
     "UIPlayerInfo_TablePoolRateTips": "\u0427\u0430\u0441\u0442\u043E\u0442\u0430 \u0430\u043A\u0442\u0438\u0432\u043D\u044B\u0445 \u0441\u0442\u0430\u0432\u043E\u043A \u043D\u0430 \u0431\u0430\u043D\u043A \u0437\u0430 \u044D\u0442\u0438\u043C \u0441\u0442\u043E\u043B\u043E\u043C",
     "UICreateTalble_winType": "\u0421\u043F\u043E\u0441\u043E\u0431 \u0437\u0430\u0440\u044F\u0434\u043A\u0438",
     "UICreateTalble_anBili": "\u041F\u0440\u043E\u043F\u043E\u0440\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0439",
@@ -78973,10 +79018,10 @@ var ruMap = {
     "UISeeOrFold": "\u041F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C/\u041E\u0442\u043C\u0435\u043D\u0438\u0442\u044C",
     "UIOutsCardsDes": "\u0428\u0430\u043D\u0441 \u0435\u0449\u0435 \u0435\u0441\u0442\u044C",
     "UICollectDiamondTips_Free": "\u0425\u043E\u0442\u0438\u0442\u0435 \u0441\u043E\u0431\u0440\u0430\u0442\u044C \u044D\u0442\u0438 \u0420\u0443\u043A\u0438?\\n(\u0432 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u0431\u0435\u0441\u043F\u043B\u0430\u0442\u043D\u043E)",
-    "UIGameplaySetting_CardTableSetting": "\u0421\u0442\u043E\u043B\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438",
-    "UIGameplaySetting_QuickFillingSetting": "\u0411\u044B\u0441\u0442\u0440\u043E\u0435 \u043F\u043E\u0434\u043D\u044F\u0442\u0438\u0435",
-    "UIGameplaySetting_SystemSetting": "\u0421\u0438\u0441\u0442\u0435\u043C\u0430 \u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438",
-    "UIGameplaySetting_DesktopSettingTip": "\u0421\u0442\u0438\u043B\u044C \u0440\u0430\u0431\u043E\u0447\u0435\u0433\u043E \u0441\u0442\u043E\u043B\u0430",
+    "UIGameplaySetting_CardTableSetting": "\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438 \u0441\u0442\u043E\u043B\u0430",
+    "UIGameplaySetting_QuickFillingSetting": "\u0411\u044B\u0441\u0442\u0440\u044B\u0439 \u0440\u0435\u0439\u0437",
+    "UIGameplaySetting_SystemSetting": "\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u044B\u0435 \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438",
+    "UIGameplaySetting_DesktopSettingTip": "\u0421\u0442\u0438\u043B\u044C \u0441\u0442\u043E\u043B\u0430",
     "UIGameplaySetting_DesktopSetting_Theme": "\u0422\u0435\u043C\u0430",
     "UIGameplaySetting_DesktopSetting_DyDesk": "\u041F\u043B\u0430\u0442\u043D\u0430\u044F \u0434\u0438\u043D\u0430\u043C\u0438\u0447\u0435\u0441\u043A\u0430\u044F",
     "UIGameplaySetting_DesktopSetting_StaDesk": "\u041F\u043B\u0430\u0442\u043D\u044B\u0435 \u0421\u0442\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435",
@@ -78986,7 +79031,7 @@ var ruMap = {
     "UIGameplaySetting_DeckPotTip": "HandsPot",
     "UIGameplaySetting_PersonalityMode": "\u041F\u0435\u0440\u0441\u043E\u043D\u0430\u043B\u0438\u0437\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u0439 \u0440\u0435\u0436\u0438\u043C",
     "UIGameplaySetting_SystemSetting_Localism": "\u0414\u0438\u0430\u043B\u0435\u043A\u0442 \u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438",
-    "UIGameplaySetting_QuickFillingSetting_GameButton": "\u041A\u043D\u043E\u043F\u043A\u0430 \u043A\u0430\u0440\u0442\u043E\u0447\u043D\u043E\u0439 \u0438\u0433\u0440\u044B \u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438",
+    "UIGameplaySetting_QuickFillingSetting_GameButton": "\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438 \u043A\u043D\u043E\u043F\u043E\u043A",
     "UIClubFundRecharge_Tips": "\u041D\u0435\u0434\u043E\u0441\u0442\u0430\u0442\u043E\u0447\u043D\u043E \u0411\u0430\u043B\u0430\u043D\u0441\u0430, \u043F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430. \u0414\u0435\u043F\u043E\u0437\u0438\u0442",
     "UIClubFundRecharge_OnKeyTips": "\u0411\u044B\u0441\u0442\u0440\u043E \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0443\u043C\u043C\u0443, \u0437\u0430\u043F\u043E\u043B\u043D\u0438\u0442\u0435 \u044D\u0442\u0443 \u0441\u0443\u043C\u043C\u0443 \u0438\u043B\u0438 \u0431\u043E\u043B\u044C\u0448\u0435 \u0414\u0435\u043F\u043E\u0437\u0438\u0442, \u0447\u0442\u043E\u0431\u044B \u0432\u044B\u043F\u043E\u043B\u043D\u0438\u0442\u044C \u043E\u043F\u0435\u0440\u0430\u0446\u0438\u044E \u0431\u0430\u0439-\u0438\u043D\u0430",
     "UIAllInAuto": "All in\\n\u0410\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439",
@@ -80636,7 +80681,12 @@ var ruMap = {
     "UICasino_Game_FBSportsTip2": "\u041F\u043E\u0447\u0443\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435 \u0430\u0437\u0430\u0440\u0442",
     "UICasino_Game_Cowboy": "\u0422\u0435\u0445\u0430\u0441\u0441\u043A\u0438\u0439 \u043A\u043E\u0432\u0431\u043E\u0439",
     "UICasino_Game_DBLive": "DB Live",
-    "UIClub_SearchClubID": "\u041F\u043E\u0438\u0441\u043A \u043F\u043E ID \u043A\u043B\u0443\u0431\u0430"
+    "UIClub_SearchClubID": "\u041F\u043E\u0438\u0441\u043A \u043F\u043E ID \u043A\u043B\u0443\u0431\u0430",
+    "UIPlayerInfo_RemarkSaveOk": "\u041F\u0440\u0438\u043C\u0435\u0447\u0430\u043D\u0438\u0435 \u0441\u043E\u0445\u0440\u0430\u043D\u0435\u043D\u043E",
+    "UIPlayerInfo_RemarkSaveFail": "\u041D\u0435 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u0441\u043E\u0445\u0440\u0430\u043D\u0438\u0442\u044C \u043F\u0440\u0438\u043C\u0435\u0447\u0430\u043D\u0438\u0435",
+    "UIPlayerInfo_CreditPanelNA": "\u041F\u0430\u043D\u0435\u043B\u044C \u0432\u044B\u0434\u0430\u0447\u0438 \u043B\u0438\u043C\u0438\u0442\u0430 \u043D\u0435\u0434\u043E\u0441\u0442\u0443\u043F\u043D\u0430 \u0432 \u044D\u0442\u043E\u0439 \u0432\u0435\u0440\u0441\u0438\u0438",
+    "UIPlayerInfo_MuteNotSupported": "\u0412 \u044D\u0442\u043E\u0439 \u043A\u043E\u043C\u043D\u0430\u0442\u0435 \u043D\u0435\u043B\u044C\u0437\u044F \u0432\u044B\u0434\u0430\u0442\u044C \u043C\u0443\u0442",
+    "UIReport_Fail": "\u041D\u0435 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u043E\u0442\u043F\u0440\u0430\u0432\u0438\u0442\u044C \u0436\u0430\u043B\u043E\u0431\u0443"
 };
 var thMap = {
     "4": "\u0E40\u0E19\u0E47\u0E15\u0E1C\u0E34\u0E14\u0E1E\u0E25\u0E32\u0E14 \u0E25\u0E2D\u0E07\u0E43\u0E2B\u0E21\u0E48",
@@ -85772,7 +85822,7 @@ var thMap = {
     "UIGuildMemberManagerNoneAgentData": "\u0E44\u0E21\u0E48\u0E21\u0E35\u0E01\u0E32\u0E23\u0E01\u0E23\u0E2D\u0E07\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25",
     "UIBlockchain": "\u0E01\u0E32\u0E23\u0E4C\u0E14\u0E2A\u0E31\u0E1A\u0E40\u0E1B\u0E25\u0E35\u0E48\u0E22\u0E19\u0E01\u0E32\u0E23\u0E40\u0E02\u0E49\u0E32\u0E23\u0E2B\u0E31\u0E2A\u0E1A\u0E25\u0E47\u0E2D\u0E04\u0E40\u0E0A\u0E19",
     "UIBlockchainTips1": "\u0E43\u0E0A\u0E49\u0E40\u0E17\u0E04\u0E42\u0E19\u0E42\u0E25\u0E22\u0E35\u0E01\u0E32\u0E23\u0E40\u0E02\u0E49\u0E32\u0E23\u0E2B\u0E31\u0E2A\u0E1A\u0E25\u0E47\u0E2D\u0E04\u0E40\u0E0A\u0E19 \u0E23\u0E2D\u0E07\u0E23\u0E31\u0E1A\u0E23\u0E30\u0E1A\u0E1A\u0E01\u0E32\u0E23\u0E2D\u0E2D\u0E01\u0E1A\u0E31\u0E15\u0E23\u0E17\u0E35\u0E48\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E44\u0E14\u0E49\u0E42\u0E14\u0E22\u0E1A\u0E38\u0E04\u0E04\u0E25\u0E17\u0E35\u0E48\u0E2A\u0E32\u0E21",
-    "UIPlayerInfo_TablePoolRate": "VPIP \u0E02\u0E2D\u0E07\u0E15\u0E32\u0E23\u0E32\u0E07\u0E19\u0E35\u0E49",
+    "UIPlayerInfo_TablePoolRate": "VPIP \u0E42\u0E15\u0E4A\u0E30",
     "UIPlayerInfo_TablePoolRateTips": "\u0E04\u0E27\u0E32\u0E21\u0E16\u0E35\u0E48\u0E02\u0E2D\u0E07\u0E01\u0E32\u0E23\u0E40\u0E14\u0E34\u0E21\u0E1E\u0E31\u0E19\u0E17\u0E35\u0E48\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\u0E2D\u0E22\u0E39\u0E48\u0E02\u0E2D\u0E07\u0E15\u0E32\u0E23\u0E32\u0E07\u0E19\u0E35\u0E49\u0E43\u0E19\u0E01\u0E2D\u0E07\u0E01\u0E25\u0E32\u0E07",
     "UICreateTalble_winType": "\u0E27\u0E34\u0E18\u0E35\u0E01\u0E32\u0E23\u0E0A\u0E32\u0E23\u0E4C\u0E08",
     "UICreateTalble_anBili": "\u0E15\u0E32\u0E21\u0E2A\u0E31\u0E14\u0E2A\u0E48\u0E27\u0E19",
@@ -88698,7 +88748,12 @@ var thMap = {
     "UICasino_Game_FBSportsTip2": "\u0E2A\u0E31\u0E21\u0E1C\u0E31\u0E2A\u0E04\u0E27\u0E32\u0E21\u0E15\u0E37\u0E48\u0E19\u0E40\u0E15\u0E49\u0E19",
     "UICasino_Game_Cowboy": "\u0E40\u0E17\u0E47\u0E01\u0E0B\u0E31\u0E2A \u0E04\u0E32\u0E27\u0E1A\u0E2D\u0E22",
     "UICasino_Game_DBLive": "DB Live",
-    "UIClub_SearchClubID": "\u0E04\u0E49\u0E19\u0E2B\u0E32 ID \u0E04\u0E25\u0E31\u0E1A"
+    "UIClub_SearchClubID": "\u0E04\u0E49\u0E19\u0E2B\u0E32 ID \u0E04\u0E25\u0E31\u0E1A",
+    "UIPlayerInfo_RemarkSaveOk": "\u0E2D\u0E31\u0E1B\u0E40\u0E14\u0E15\u0E2B\u0E21\u0E32\u0E22\u0E40\u0E2B\u0E15\u0E38\u0E41\u0E25\u0E49\u0E27",
+    "UIPlayerInfo_RemarkSaveFail": "\u0E2D\u0E31\u0E1B\u0E40\u0E14\u0E15\u0E2B\u0E21\u0E32\u0E22\u0E40\u0E2B\u0E15\u0E38\u0E44\u0E21\u0E48\u0E2A\u0E33\u0E40\u0E23\u0E47\u0E08",
+    "UIPlayerInfo_CreditPanelNA": "\u0E40\u0E27\u0E2D\u0E23\u0E4C\u0E0A\u0E31\u0E19\u0E19\u0E35\u0E49\u0E22\u0E31\u0E07\u0E44\u0E21\u0E48\u0E23\u0E2D\u0E07\u0E23\u0E31\u0E1A\u0E41\u0E1C\u0E07\u0E08\u0E48\u0E32\u0E22\u0E27\u0E07\u0E40\u0E07\u0E34\u0E19",
+    "UIPlayerInfo_MuteNotSupported": "\u0E2B\u0E49\u0E2D\u0E07\u0E19\u0E35\u0E49\u0E44\u0E21\u0E48\u0E23\u0E2D\u0E07\u0E23\u0E31\u0E1A\u0E01\u0E32\u0E23\u0E1B\u0E34\u0E14\u0E40\u0E2A\u0E35\u0E22\u0E07\u0E41\u0E0A\u0E17",
+    "UIReport_Fail": "\u0E23\u0E32\u0E22\u0E07\u0E32\u0E19\u0E44\u0E21\u0E48\u0E2A\u0E33\u0E40\u0E23\u0E47\u0E08"
 };
 var zh_TWMap = {
     "4": "\u7DB2\u8DEF\u932F\u8AA4\uFF0C\u8ACB\u7A0D\u5F8C\u91CD\u8A66",
@@ -96760,7 +96815,12 @@ var zh_TWMap = {
     "UICasino_Game_FBSportsTip2": "\u6FC0\u60C5\u4E00\u89F8\u5373\u767C",
     "UICasino_Game_Cowboy": "\u5FB7\u5DDE\u725B\u4ED4",
     "UICasino_Game_DBLive": "DB\u771F\u4EBA",
-    "UIClub_SearchClubID": "\u641C\u5C0B\u4FF1\u6A02\u90E8ID"
+    "UIClub_SearchClubID": "\u641C\u5C0B\u4FF1\u6A02\u90E8ID",
+    "UIPlayerInfo_RemarkSaveOk": "\u5099\u8A3B\u4FEE\u6539\u6210\u529F",
+    "UIPlayerInfo_RemarkSaveFail": "\u5099\u8A3B\u4FEE\u6539\u5931\u6557",
+    "UIPlayerInfo_CreditPanelNA": "\u7576\u524D\u7248\u672C\u66AB\u672A\u63A5\u5165\u767C\u653E\u984D\u5EA6\u9762\u677F",
+    "UIPlayerInfo_MuteNotSupported": "\u7576\u524D\u623F\u9593\u4E0D\u652F\u6301\u7981\u8A00\u64CD\u4F5C",
+    "UIReport_Fail": "\u8209\u5831\u5931\u6557"
 };
 var viMap = {
     "4": "L\u1ED7i m\u1EA1ng. Th\u1EED l\u1EA1i.",
@@ -101896,7 +101956,7 @@ var viMap = {
     "UIGuildMemberManagerNoneAgentData": "Kh\xF4ng l\u1ECDc d\u1EEF li\u1EC7u",
     "UIBlockchain": "Th\u1EBB x\xE1o tr\u1ED9n m\xE3 h\xF3a chu\u1ED7i kh\u1ED1i",
     "UIBlockchainTips1": "D\u1EF1a tr\xEAn c\xF4ng ngh\u1EC7 m\xE3 h\xF3a blockchain, h\u1ED7 tr\u1EE3 h\u1EC7 th\u1ED1ng ph\xE1t h\xE0nh th\u1EBB c\xF3 th\u1EC3 x\xE1c minh c\u1EE7a b\xEAn th\u1EE9 ba",
-    "UIPlayerInfo_TablePoolRate": "VPIP c\u1EE7a b\u1EA3ng n\xE0y",
+    "UIPlayerInfo_TablePoolRate": "VPIP b\xE0n",
     "UIPlayerInfo_TablePoolRateTips": "T\u1EA7n su\u1EA5t \u0111\u1EB7t c\u01B0\u1EE3c t\xEDch c\u1EF1c v\xE0o Pot c\u1EE7a b\xE0n n\xE0y",
     "UICreateTalble_winType": "Ph\u01B0\u01A1ng th\u1EE9c s\u1EA1c",
     "UICreateTalble_anBili": "T\u1EF7 l\u1EC7 theo t\u1EF7 l\u1EC7",
@@ -104822,7 +104882,12 @@ var viMap = {
     "UICasino_Game_FBSportsTip2": "C\u1EA3m nh\u1EADn s\u1EF1 ph\u1EA5n kh\xEDch",
     "UICasino_Game_Cowboy": "Texas Cowboy",
     "UICasino_Game_DBLive": "DB Live",
-    "UIClub_SearchClubID": "T\xECm ID c\xE2u l\u1EA1c b\u1ED9"
+    "UIClub_SearchClubID": "T\xECm ID c\xE2u l\u1EA1c b\u1ED9",
+    "UIPlayerInfo_RemarkSaveOk": "\u0110\xE3 c\u1EADp nh\u1EADt ghi ch\xFA",
+    "UIPlayerInfo_RemarkSaveFail": "C\u1EADp nh\u1EADt ghi ch\xFA th\u1EA5t b\u1EA1i",
+    "UIPlayerInfo_CreditPanelNA": "Phi\xEAn b\u1EA3n hi\u1EC7n t\u1EA1i ch\u01B0a h\u1ED7 tr\u1EE3 b\u1EA3ng c\u1EA5p h\u1EA1n m\u1EE9c",
+    "UIPlayerInfo_MuteNotSupported": "Ph\xF2ng n\xE0y kh\xF4ng h\u1ED7 tr\u1EE3 c\u1EA5m chat",
+    "UIReport_Fail": "B\xE1o c\xE1o th\u1EA5t b\u1EA1i"
 };
 var zh_CNMap = {
     "4": "\u7F51\u7EDC\u9519\u8BEF\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5",
@@ -112884,7 +112949,12 @@ var zh_CNMap = {
     "UICasino_Game_FBSportsTip2": "\u6FC0\u60C5\u4E00\u89E6\u5373\u53D1",
     "UICasino_Game_Cowboy": "\u5FB7\u5DDE\u725B\u4ED4",
     "UICasino_Game_DBLive": "DB\u771F\u4EBA",
-    "UIClub_SearchClubID": "\u641C\u7D22\u4FF1\u4E50\u90E8ID"
+    "UIClub_SearchClubID": "\u641C\u7D22\u4FF1\u4E50\u90E8ID",
+    "UIPlayerInfo_RemarkSaveOk": "\u5907\u6CE8\u4FEE\u6539\u6210\u529F",
+    "UIPlayerInfo_RemarkSaveFail": "\u5907\u6CE8\u4FEE\u6539\u5931\u8D25",
+    "UIPlayerInfo_CreditPanelNA": "\u5F53\u524D\u7248\u672C\u6682\u672A\u63A5\u5165\u53D1\u653E\u989D\u5EA6\u9762\u677F",
+    "UIPlayerInfo_MuteNotSupported": "\u5F53\u524D\u623F\u95F4\u4E0D\u652F\u6301\u7981\u8A00\u64CD\u4F5C",
+    "UIReport_Fail": "\u4E3E\u62A5\u5931\u8D25"
 };
 var localesData = {
     "de": deMap,
