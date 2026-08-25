@@ -1444,7 +1444,7 @@ var deMap = {
     "UIClub_CreatProvince": "Provinz ausw\xE4hlen",
     "UIClub_CreatCity": "Stadt ausw\xE4hlen",
     "UIClub_FundDetail": "Fonds",
-    "UIClub_FundGive": "Verteilung",
+    "UIClub_FundGive": "Ausgabe",
     "UIClub_FundGiveSub": "Fondsverteilung",
     "UIClub_FundRecharge": "Abrechnung",
     "UIClub_Mlist": "Club Mitglied",
@@ -2515,7 +2515,7 @@ var deMap = {
     "UIGameNiuZai_continuebtn": "Investition erneuern",
     "UIGameNiuZai_qingpingbtn": "Klarer Bildschirm",
     "UILobby_Menu_menu_btn_lobby": "Halle",
-    "UIClub_FundDetail_recycle": "Recyceln",
+    "UIClub_FundDetail_recycle": "Einziehen",
     "UIClub_FundRecharge_tishiText": "Geben Sie eine positive Zahl f\xFCr den Abrechnungsbetrag zum Laden von UC und eine negative Zahl zum Abheben von UC ein.\\n\\nBeispiel: Einzahlung 500 Geben Sie 500 ein. Abheben Sie 500. Geben Sie -500 ein",
     "UIClub_FundRecharge_tishiGolden": "Vorhandene UC:",
     "UIClub_FundRecharge_tishiAmount": "Abrechnungsbetrag:",
@@ -8158,7 +8158,10 @@ var deMap = {
     "UITexasStopSpeak_Cancel": "Stummschaltung aufheben",
     "UITexasBlockName": "Namen ausblenden",
     "UITexasBlockName_Cancel": "Namen einblenden",
-    "UITexasPlayerInfoOpenVideo": "Video einschalten"
+    "UITexasPlayerInfoOpenVideo": "Video einschalten",
+    "UIClub_AddJackpotTemplate_Btn": "Jackpot-Vorlage hinzuf\xFCgen",
+    "UIClub_CreateJackpotTemplate": "Jackpot-Vorlage erstellen",
+    "UIClub_EditJackpotTemplate": "Jackpot-Vorlage bearbeiten"
 };
 var enMap = {
     "4": "Failed to connect, please try again later. ",
@@ -16300,7 +16303,10 @@ var enMap = {
     "UITexasStopSpeak_Cancel": "Unmute",
     "UITexasBlockName": "Hide name",
     "UITexasBlockName_Cancel": "Show name",
-    "UITexasPlayerInfoOpenVideo": "Turn on video"
+    "UITexasPlayerInfoOpenVideo": "Turn on video",
+    "UIClub_AddJackpotTemplate_Btn": "Add Jackpot Template",
+    "UIClub_CreateJackpotTemplate": "Create Jackpot Template",
+    "UIClub_EditJackpotTemplate": "Edit Jackpot Template"
 };
 var esMap = {
     "4": "Error de red. Reintente.",
@@ -17728,7 +17734,7 @@ var esMap = {
     "UIClub_CreatProvince": "Seleccionar provincia",
     "UIClub_CreatCity": "Selecciona ciudad",
     "UIClub_FundDetail": "financiar",
-    "UIClub_FundGive": "asunto",
+    "UIClub_FundGive": "Emitir",
     "UIClub_FundGiveSub": "Desembolsar fondos",
     "UIClub_FundRecharge": "Entrega",
     "UIClub_Mlist": "Club Miembro",
@@ -18799,7 +18805,7 @@ var esMap = {
     "UIGameNiuZai_continuebtn": "Renovar la inversi\xF3n",
     "UIGameNiuZai_qingpingbtn": "Borrar pantalla",
     "UILobby_Menu_menu_btn_lobby": "Sal\xF3n",
-    "UIClub_FundDetail_recycle": "Reciclar",
+    "UIClub_FundDetail_recycle": "Retirar",
     "UIClub_FundRecharge_tishiText": "Ingrese un n\xFAmero positivo para el monto de la liquidaci\xF3n para cobrar UC, un n\xFAmero negativo para retirar UC\\n\\nEjemplo: Cobrar 500 Ingresar 500 Retirar 500 Ingresar -500",
     "UIClub_FundRecharge_tishiGolden": "UC existente:",
     "UIClub_FundRecharge_tishiAmount": "Monto de la liquidaci\xF3n:",
@@ -19575,7 +19581,7 @@ var esMap = {
     "UIHappyShop_ActivityShopTicket": "Cupones de actividad gratuitos de un yuan*{0}",
     "UIHappyShop_ActivityShopCheckBuy": "Compre privilegios VIP durante 1 d\xEDas y reciba cupones de actividad gratuitos de un yuan*{0}",
     "UIHappyShop_ActivityShopBuy": "Confirmar canje",
-    "UIHappyShop_ActivityShopDay": "cielo",
+    "UIHappyShop_ActivityShopDay": "d\xEDas",
     "UIHappyShop_ActivityShopVips": "Servicio VIP",
     "UIHappyShop_ActivityShopNogold": "El saldo de su cuenta UC es insuficiente, error de canje",
     "UIMTTRank_ShareMyVictory": "Comparte mi victoria",
@@ -24442,7 +24448,10 @@ var esMap = {
     "UITexasStopSpeak_Cancel": "Reactivar chat",
     "UITexasBlockName": "Ocultar nombre",
     "UITexasBlockName_Cancel": "Mostrar nombre",
-    "UITexasPlayerInfoOpenVideo": "Activar v\xEDdeo"
+    "UITexasPlayerInfoOpenVideo": "Activar v\xEDdeo",
+    "UIClub_AddJackpotTemplate_Btn": "A\xF1adir plantilla de Jackpot",
+    "UIClub_CreateJackpotTemplate": "Crear plantilla de Jackpot",
+    "UIClub_EditJackpotTemplate": "Editar plantilla de Jackpot"
 };
 var frMap = {
     "4": "Erreur r\xE9seau. R\xE9essayez.",
@@ -25870,7 +25879,7 @@ var frMap = {
     "UIClub_CreatProvince": "S\xE9lectionnez la province",
     "UIClub_CreatCity": "S\xE9lectionnez la ville",
     "UIClub_FundDetail": "Fonds",
-    "UIClub_FundGive": "Distribution",
+    "UIClub_FundGive": "Attribution",
     "UIClub_FundGiveSub": "R\xE9partition des fonds",
     "UIClub_FundRecharge": "R\xE8glement",
     "UIClub_Mlist": "Club Membre",
@@ -26941,7 +26950,7 @@ var frMap = {
     "UIGameNiuZai_continuebtn": "Renouveler les investissements",
     "UIGameNiuZai_qingpingbtn": "Effacer l'\xE9cran",
     "UILobby_Menu_menu_btn_lobby": "Salle",
-    "UIClub_FundDetail_recycle": "Recycler",
+    "UIClub_FundDetail_recycle": "R\xE9cup\xE9rer",
     "UIClub_FundRecharge_tishiText": "Entrez un nombre positif pour le montant du r\xE8glement pour facturer les UC, un nombre n\xE9gatif pour retirer les UC\\n\\nExemple : Faire 500 Saisissez 500 Retrait 500 Saisissez -500",
     "UIClub_FundRecharge_tishiGolden": "CU existantes :",
     "UIClub_FundRecharge_tishiAmount": "Montant du r\xE8glement :",
@@ -32584,7 +32593,10 @@ var frMap = {
     "UITexasStopSpeak_Cancel": "R\xE9activer le chat",
     "UITexasBlockName": "Masquer le nom",
     "UITexasBlockName_Cancel": "Afficher le nom",
-    "UITexasPlayerInfoOpenVideo": "Activer la vid\xE9o"
+    "UITexasPlayerInfoOpenVideo": "Activer la vid\xE9o",
+    "UIClub_AddJackpotTemplate_Btn": "Ajouter un mod\xE8le de Jackpot",
+    "UIClub_CreateJackpotTemplate": "Cr\xE9er un mod\xE8le de Jackpot",
+    "UIClub_EditJackpotTemplate": "Modifier le mod\xE8le de Jackpot"
 };
 var hiMap = {
     "4": "\u0928\u0947\u091F\u0935\u0930\u094D\u0915 \u0924\u094D\u0930\u0941\u091F\u093F\u0964 \u092C\u093E\u0926 \u092E\u0947\u0902 \u0915\u094B\u0936\u093F\u0936 \u0915\u0930\u0947\u0902\u0964",
@@ -34012,7 +34024,7 @@ var hiMap = {
     "UIClub_CreatProvince": "\u092A\u094D\u0930\u093E\u0902\u0924 \u091A\u0941\u0928\u0947\u0902",
     "UIClub_CreatCity": "\u0936\u0939\u0930 \u091A\u0941\u0928\u0947\u0902",
     "UIClub_FundDetail": "\u092B\u0902\u0921",
-    "UIClub_FundGive": "\u0935\u093F\u0924\u0930\u0923",
+    "UIClub_FundGive": "\u091C\u093E\u0930\u0940 \u0915\u0930\u0928\u093E",
     "UIClub_FundGiveSub": "\u0928\u093F\u0927\u093F \u0935\u093F\u0924\u0930\u0923",
     "UIClub_FundRecharge": "\u0928\u093F\u092A\u091F\u093E\u0928",
     "UIClub_Mlist": "\u0915\u094D\u0932\u092C\u0938\u0926\u0938\u094D\u092F",
@@ -35083,7 +35095,7 @@ var hiMap = {
     "UIGameNiuZai_continuebtn": "\u0935\u094B\u091F \u0915\u0930\u0928\u093E \u091C\u093E\u0930\u0940 \u0930\u0916\u0947\u0902",
     "UIGameNiuZai_qingpingbtn": "\u0938\u094D\u0915\u094D\u0930\u0940\u0928 \u0938\u093E\u092B\u093C \u0915\u0930\u0947\u0902",
     "UILobby_Menu_menu_btn_lobby": "\u0932\u0949\u092C\u0940",
-    "UIClub_FundDetail_recycle": "\u092A\u0941\u0928\u0930\u094D\u092A\u094D\u0930\u093E\u092A\u094D\u0924\u093F",
+    "UIClub_FundDetail_recycle": "\u0935\u093E\u092A\u0938 \u0932\u0947\u0928\u093E",
     "UIClub_FundRecharge_tishiText": "UC \u0915\u094B \u091A\u093E\u0930\u094D\u091C \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093F\u090F \u0928\u093F\u092A\u091F\u093E\u0928 \u0930\u093E\u0936\u093F \u0915\u0947 \u0932\u093F\u090F \u090F\u0915 \u0938\u0915\u093E\u0930\u093E\u0924\u094D\u092E\u0915 \u0938\u0902\u0916\u094D\u092F\u093E \u0926\u0930\u094D\u091C \u0915\u0930\u0947\u0902, \u0914\u0930 UC \u0915\u094B \u0935\u093E\u092A\u0938 \u0932\u0947\u0928\u0947 \u0915\u0947 \u0932\u093F\u090F \u090F\u0915 \u0928\u0915\u093E\u0930\u093E\u0924\u094D\u092E\u0915 \u0938\u0902\u0916\u094D\u092F\u093E \u0926\u0930\u094D\u091C \u0915\u0930\u0947\u0902\\n\\n\u0909\u0926\u093E\u0939\u0930\u0923: \u091C\u092E\u093E \u0915\u0930\u0947\u0902 500 \u0926\u0930\u094D\u091C \u0915\u0930\u0947\u0902 500 \u0928\u093F\u0915\u093E\u0938\u0940 \u0915\u0930\u0947\u0902 500 \u0926\u0930\u094D\u091C \u0915\u0930\u0947\u0902 -500",
     "UIClub_FundRecharge_tishiGolden": "\u092E\u094C\u091C\u0942\u0926\u093E \u092F\u0942\u0938\u0940:",
     "UIClub_FundRecharge_tishiAmount": "\u0928\u093F\u092A\u091F\u093E\u0928 \u0915\u094B\u091F\u093E:",
@@ -40726,7 +40738,10 @@ var hiMap = {
     "UITexasStopSpeak_Cancel": "\u092E\u094D\u092F\u0942\u091F \u0939\u091F\u093E\u090F\u0901",
     "UITexasBlockName": "\u0928\u093E\u092E \u091B\u093F\u092A\u093E\u090F\u0901",
     "UITexasBlockName_Cancel": "\u0928\u093E\u092E \u0926\u093F\u0916\u093E\u090F\u0901",
-    "UITexasPlayerInfoOpenVideo": "\u0935\u0940\u0921\u093F\u092F\u094B \u091A\u093E\u0932\u0942 \u0915\u0930\u0947\u0902"
+    "UITexasPlayerInfoOpenVideo": "\u0935\u0940\u0921\u093F\u092F\u094B \u091A\u093E\u0932\u0942 \u0915\u0930\u0947\u0902",
+    "UIClub_AddJackpotTemplate_Btn": "\u091C\u0948\u0915\u092A\u0949\u091F \u091F\u0947\u092E\u094D\u092A\u0932\u0947\u091F \u091C\u094B\u0921\u093C\u0947\u0902",
+    "UIClub_CreateJackpotTemplate": "\u091C\u0948\u0915\u092A\u0949\u091F \u091F\u0947\u092E\u094D\u092A\u0932\u0947\u091F \u092C\u0928\u093E\u090F\u0901",
+    "UIClub_EditJackpotTemplate": "\u091C\u0948\u0915\u092A\u0949\u091F \u091F\u0947\u092E\u094D\u092A\u0932\u0947\u091F \u0938\u0902\u092A\u093E\u0926\u093F\u0924 \u0915\u0930\u0947\u0902"
 };
 var itMap = {
     "4": "Errore di rete. Riprova.",
@@ -42154,7 +42169,7 @@ var itMap = {
     "UIClub_CreatProvince": "Seleziona provincia",
     "UIClub_CreatCity": "Seleziona citt\xE0",
     "UIClub_FundDetail": "Fondo",
-    "UIClub_FundGive": "Distribuzione",
+    "UIClub_FundGive": "Erogazione",
     "UIClub_FundGiveSub": "Distribuzione dei fondi",
     "UIClub_FundRecharge": "Liquidazione",
     "UIClub_Mlist": "Club Membro",
@@ -43225,7 +43240,7 @@ var itMap = {
     "UIGameNiuZai_continuebtn": "Continuare a investire",
     "UIGameNiuZai_qingpingbtn": "Cancella schermo",
     "UILobby_Menu_menu_btn_lobby": "Sala",
-    "UIClub_FundDetail_recycle": "Riciclare",
+    "UIClub_FundDetail_recycle": "Recuperare",
     "UIClub_FundRecharge_tishiText": "Immettere un numero positivo per l'importo della liquidazione per addebitare i UC, un numero negativo per ritirare i UC\\n\\nEsempio: Deposito 500 Inserisci 500 Prelievo 500 Inserisci -500",
     "UIClub_FundRecharge_tishiGolden": "UC esistente:",
     "UIClub_FundRecharge_tishiAmount": "Limite di liquidazione:",
@@ -48868,7 +48883,10 @@ var itMap = {
     "UITexasStopSpeak_Cancel": "Riattiva chat",
     "UITexasBlockName": "Nascondi nome",
     "UITexasBlockName_Cancel": "Mostra nome",
-    "UITexasPlayerInfoOpenVideo": "Attiva video"
+    "UITexasPlayerInfoOpenVideo": "Attiva video",
+    "UIClub_AddJackpotTemplate_Btn": "Aggiungi modello Jackpot",
+    "UIClub_CreateJackpotTemplate": "Crea modello Jackpot",
+    "UIClub_EditJackpotTemplate": "Modifica modello Jackpot"
 };
 var jaMap = {
     "4": "\u901A\u4FE1\u30A8\u30E9\u30FC\u3067\u3059\u3002\u3082\u3046\u4E00\u5EA6\u8A66\u3057\u3066\u304F\u3060\u3055\u3044\u3002",
@@ -50296,7 +50314,7 @@ var jaMap = {
     "UIClub_CreatProvince": "\u90FD\u9053\u5E9C\u770C\u3092\u9078\u629E",
     "UIClub_CreatCity": "\u90FD\u5E02\u3092\u9078\u629E",
     "UIClub_FundDetail": "\u8CC7\u91D1",
-    "UIClub_FundGive": "\u5206\u5E03",
+    "UIClub_FundGive": "\u652F\u7D66",
     "UIClub_FundGiveSub": "\u8CC7\u91D1\u306E\u5206\u914D",
     "UIClub_FundRecharge": "\u6C7A\u6E08",
     "UIClub_Mlist": "\u30AF\u30E9\u30D6\u30E1\u30F3\u30D0\u30FC",
@@ -51367,7 +51385,7 @@ var jaMap = {
     "UIGameNiuZai_continuebtn": "\u7D9A\u884C",
     "UIGameNiuZai_qingpingbtn": "\u753B\u9762\u3092\u30AF\u30EA\u30A2",
     "UILobby_Menu_menu_btn_lobby": "\u30ED\u30D3\u30FC",
-    "UIClub_FundDetail_recycle": "\u30EA\u30B5\u30A4\u30AF\u30EB",
+    "UIClub_FundDetail_recycle": "\u56DE\u53CE",
     "UIClub_FundRecharge_tishiText": "UC \u3092\u30C1\u30E3\u30FC\u30B8\u3059\u308B\u306B\u306F\u6C7A\u6E08\u91D1\u984D\u306B\u6B63\u306E\u6570\u5024\u3092\u5165\u529B\u3057\u3001UC \u3092\u5F15\u304D\u51FA\u3059\u306B\u306F\u8CA0\u306E\u6570\u5024\u3092\u5165\u529B\u3057\u307E\u3059\\n\\n\u4F8B: \u5165\u91D1 500 500 \u3092\u5165\u529B \u51FA\u91D1 500 -500 \u3092\u5165\u529B",
     "UIClub_FundRecharge_tishiGolden": "\u65E2\u5B58\u306E UC:",
     "UIClub_FundRecharge_tishiAmount": "\u6C7A\u6E08\u91D1\u984D:",
@@ -57010,7 +57028,10 @@ var jaMap = {
     "UITexasStopSpeak_Cancel": "\u30DF\u30E5\u30FC\u30C8\u89E3\u9664",
     "UITexasBlockName": "\u540D\u524D\u3092\u96A0\u3059",
     "UITexasBlockName_Cancel": "\u540D\u524D\u3092\u8868\u793A",
-    "UITexasPlayerInfoOpenVideo": "\u30D3\u30C7\u30AA\u3092\u30AA\u30F3"
+    "UITexasPlayerInfoOpenVideo": "\u30D3\u30C7\u30AA\u3092\u30AA\u30F3",
+    "UIClub_AddJackpotTemplate_Btn": "\u30B8\u30E3\u30C3\u30AF\u30DD\u30C3\u30C8\u30C6\u30F3\u30D7\u30EC\u30FC\u30C8\u3092\u8FFD\u52A0",
+    "UIClub_CreateJackpotTemplate": "\u30B8\u30E3\u30C3\u30AF\u30DD\u30C3\u30C8\u30C6\u30F3\u30D7\u30EC\u30FC\u30C8\u3092\u4F5C\u6210",
+    "UIClub_EditJackpotTemplate": "\u30B8\u30E3\u30C3\u30AF\u30DD\u30C3\u30C8\u30C6\u30F3\u30D7\u30EC\u30FC\u30C8\u3092\u7DE8\u96C6"
 };
 var koMap = {
     "4": "\uB124\uD2B8\uC6CC\uD06C \uC624\uB958. \uB2E4\uC2DC \uC2DC\uB3C4.",
@@ -58438,7 +58459,7 @@ var koMap = {
     "UIClub_CreatProvince": "\uC9C0\uBC29 \uC120\uD0DD",
     "UIClub_CreatCity": "\uB3C4\uC2DC \uC120\uD0DD",
     "UIClub_FundDetail": "\uAE30\uAE08",
-    "UIClub_FundGive": "\uBC30\uD3EC",
+    "UIClub_FundGive": "\uC9C0\uAE09",
     "UIClub_FundGiveSub": "\uC790\uAE08 \uBD84\uBC30",
     "UIClub_FundRecharge": "\uC815\uCC29\uC9C0",
     "UIClub_Mlist": "\uD074\uB7FD\uBA64\uBC84",
@@ -59509,7 +59530,7 @@ var koMap = {
     "UIGameNiuZai_continuebtn": "\uAC31\uC2E0",
     "UIGameNiuZai_qingpingbtn": "\uD654\uBA74 \uC9C0\uC6B0\uAE30",
     "UILobby_Menu_menu_btn_lobby": "\uB85C\uBE44",
-    "UIClub_FundDetail_recycle": "\uC7AC\uD65C\uC6A9",
+    "UIClub_FundDetail_recycle": "\uD68C\uC218",
     "UIClub_FundRecharge_tishiText": "UC\uB97C \uCDA9\uC804\uD558\uB824\uBA74 \uC815\uC0B0\uAE08\uC561\uC5D0 \uC591\uC218\uB97C \uC785\uB825\uD558\uACE0, UC\uB97C \uC778\uCD9C\uD558\uB824\uBA74 \uC74C\uC218\uB97C \uC785\uB825\uD558\uC138\uC694.\\n\\n\uC608: \uC785\uAE08 500 \uC785\uB825 500 \uCD9C\uAE08 500 \uC785\uB825 -500",
     "UIClub_FundRecharge_tishiGolden": "\uAE30\uC874 UC:",
     "UIClub_FundRecharge_tishiAmount": "\uACB0\uC81C \uAE08\uC561:",
@@ -60285,7 +60306,7 @@ var koMap = {
     "UIHappyShop_ActivityShopTicket": "\uBB34\uB8CC 1\uC704\uC548 \uD65C\uB3D9 \uCFE0\uD3F0*{0}",
     "UIHappyShop_ActivityShopCheckBuy": "1\uC77C \uB3D9\uC548 VIP \uD2B9\uAD8C\uC744 \uAD6C\uB9E4\uD558\uACE0 1\uC704\uC548 \uD65C\uB3D9 \uCFE0\uD3F0*{0}\uC744 \uBC1B\uC73C\uC138\uC694",
     "UIHappyShop_ActivityShopBuy": "\uC0C1\uD658 \uD655\uC778",
-    "UIHappyShop_ActivityShopDay": "\uB0A0",
+    "UIHappyShop_ActivityShopDay": "\uC77C\uC218",
     "UIHappyShop_ActivityShopVips": "VIP \uC11C\uBE44\uC2A4",
     "UIHappyShop_ActivityShopNogold": "\uADC0\uD558\uC758 UC \uC794\uC561\uC774 \uBD80\uC871\uD569\uB2C8\uB2E4. \uC0AC\uC6A9\uD558\uC9C0 \uB9C8\uC138\uC694.",
     "UIMTTRank_ShareMyVictory": "\uB0B4 \uC2B9\uB9AC\uB97C \uACF5\uC720\uD574 \uC8FC\uC138\uC694",
@@ -65152,7 +65173,10 @@ var koMap = {
     "UITexasStopSpeak_Cancel": "\uCC44\uD305 \uAE08\uC9C0 \uD574\uC81C",
     "UITexasBlockName": "\uC774\uB984 \uC228\uAE30\uAE30",
     "UITexasBlockName_Cancel": "\uC774\uB984 \uD45C\uC2DC",
-    "UITexasPlayerInfoOpenVideo": "\uBE44\uB514\uC624 \uCF1C\uAE30"
+    "UITexasPlayerInfoOpenVideo": "\uBE44\uB514\uC624 \uCF1C\uAE30",
+    "UIClub_AddJackpotTemplate_Btn": "\uC7AD\uD31F \uD15C\uD50C\uB9BF \uCD94\uAC00",
+    "UIClub_CreateJackpotTemplate": "\uC7AD\uD31F \uD15C\uD50C\uB9BF \uC0DD\uC131",
+    "UIClub_EditJackpotTemplate": "\uC7AD\uD31F \uD15C\uD50C\uB9BF \uD3B8\uC9D1"
 };
 var ptMap = {
     "4": "Erro de conex\xE3o, favor tentar novamente. ",
@@ -73294,7 +73318,10 @@ var ptMap = {
     "UITexasStopSpeak_Cancel": "Reativar chat",
     "UITexasBlockName": "Ocultar nome",
     "UITexasBlockName_Cancel": "Mostrar nome",
-    "UITexasPlayerInfoOpenVideo": "Ativar v\xEDdeo"
+    "UITexasPlayerInfoOpenVideo": "Ativar v\xEDdeo",
+    "UIClub_AddJackpotTemplate_Btn": "Adicionar modelo de Jackpot",
+    "UIClub_CreateJackpotTemplate": "Criar modelo de Jackpot",
+    "UIClub_EditJackpotTemplate": "Editar modelo de Jackpot"
 };
 var ruMap = {
     "4": "\u0421\u0435\u0442\u044C. \u041F\u043E\u0432\u0442\u043E\u0440\u0438\u0442\u0435.",
@@ -74722,7 +74749,7 @@ var ruMap = {
     "UIClub_CreatProvince": "\u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044E",
     "UIClub_CreatCity": "\u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u0433\u043E\u0440\u043E\u0434",
     "UIClub_FundDetail": "\u0424\u043E\u043D\u0434",
-    "UIClub_FundGive": "\u0420\u0430\u0441\u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0435\u043D\u0438\u0435",
+    "UIClub_FundGive": "\u0412\u044B\u0434\u0430\u0447\u0430",
     "UIClub_FundGiveSub": "\u0420\u0430\u0441\u043F\u0440\u0435\u0434\u0435\u043B\u0435\u043D\u0438\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432",
     "UIClub_FundRecharge": "\u041F\u043E\u0441\u0435\u043B\u0435\u043D\u0438\u0435",
     "UIClub_Mlist": "\u041A\u043B\u0443\u0431\u0423\u0447\u0430\u0441\u0442\u043D\u0438\u043A",
@@ -75793,7 +75820,7 @@ var ruMap = {
     "UIGameNiuZai_continuebtn": "\u0412\u043E\u0437\u043E\u0431\u043D\u043E\u0432\u0438\u0442\u044C \u0438\u043D\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438",
     "UIGameNiuZai_qingpingbtn": "\u041E\u0447\u0438\u0441\u0442\u0438\u0442\u044C \u044D\u043A\u0440\u0430\u043D",
     "UILobby_Menu_menu_btn_lobby": "\u0417\u0430\u043B",
-    "UIClub_FundDetail_recycle": "\u041F\u0435\u0440\u0435\u0440\u0430\u0431\u043E\u0442\u043A\u0430",
+    "UIClub_FundDetail_recycle": "\u0418\u0437\u044A\u044F\u0442\u0438\u0435",
     "UIClub_FundRecharge_tishiText": "\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043F\u043E\u043B\u043E\u0436\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0435 \u0447\u0438\u0441\u043B\u043E \u0432 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u0441\u0443\u043C\u043C\u044B \u0440\u0430\u0441\u0447\u0435\u0442\u0430 \u0434\u043B\u044F \u0441\u043F\u0438\u0441\u0430\u043D\u0438\u044F UC \u0438 \u043E\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0435 \u0447\u0438\u0441\u043B\u043E \u0434\u043B\u044F \u0432\u044B\u0432\u043E\u0434\u0430 UC\\n\\n\u041F\u0440\u0438\u043C\u0435\u0440: \u0421\u043F\u0438\u0441\u0430\u043D\u0438\u0435 500 \u0412\u0432\u0435\u0434\u0438\u0442\u0435 500 \u0421\u043D\u044F\u0442\u0438\u0435 500 \u0412\u0432\u0435\u0434\u0438\u0442\u0435 -500",
     "UIClub_FundRecharge_tishiGolden": "\u0421\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044E\u0449\u0438\u0439 UC:",
     "UIClub_FundRecharge_tishiAmount": "\u0421\u0443\u043C\u043C\u0430 \u0440\u0430\u0441\u0447\u0435\u0442\u0430:",
@@ -80734,8 +80761,8 @@ var ruMap = {
     "UIClub_AgentSuccess2": "\u041E\u0442\u043C\u0435\u043D\u0438\u0442\u044C \u043F\u0440\u0438\u0432\u044F\u0437\u043A\u0443 \u0410\u0433\u0435\u043D\u0442\u0423\u0441\u043F\u0435\u0448\u043D\u043E",
     "UIClub_Text27": "\u041E\u0431\u0449\u0435\u0435 \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A\u043E\u0432",
     "UIClub_Club4": "\u041A\u043B\u0443\u0431 \u0422\u043E\u0442\u0430\u043B \u0411\u0430\u043B\u0430\u043D\u0441",
-    "UIClub_Member2": "\u041E\u0433\u0440\u0430\u043D\u0438\u0447\u0435\u043D\u0438\u0435 \u043E\u0431\u0449\u0435\u0433\u043E \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0445 \u043F\u043E\u043A\u0443\u043F\u043E\u043A \u0434\u043B\u044F \u0443\u0447\u0430\u0441\u0442\u043D\u0438\u043A\u043E\u0432",
-    "UIClub_Text28": "Revenue share",
+    "UIClub_Member2": "\u041E\u0431\u0449\u0438\u0439 \u043B\u0438\u043C\u0438\u0442 \u0430\u0432\u0442\u043E\u043F\u043E\u043A\u0443\u043F\u043E\u043A",
+    "UIClub_Text28": "\u0414\u043E\u043B\u044F \u043F\u0440\u0438\u0431\u044B\u043B\u0438",
     "UIClub_Text29": "\u0418\u0437\u043C\u0435\u043D\u0438\u0442\u044C",
     "UIClub_Union2": "\u0421\u043E\u044E\u0437 \u0411\u0430\u043B\u0430\u043D\u0441\u043E\u0432\u044B\u0435 \u0440\u0430\u0441\u0445\u043E\u0434\u044B",
     "UIClub_FetchClubFundFail": "\u041F\u043E\u043B\u0443\u0447\u0438\u0442\u044C \u041A\u043B\u0443\u0431\u043D\u044B\u0439 \u0444\u043E\u043D\u0434 \u041E\u0448\u0438\u0431\u043A\u0430",
@@ -81436,7 +81463,10 @@ var ruMap = {
     "UITexasStopSpeak_Cancel": "\u0421\u043D\u044F\u0442\u044C \u0431\u043B\u043E\u043A\u0438\u0440\u043E\u0432\u043A\u0443",
     "UITexasBlockName": "\u0421\u043A\u0440\u044B\u0442\u044C \u0438\u043C\u044F",
     "UITexasBlockName_Cancel": "\u041F\u043E\u043A\u0430\u0437\u0430\u0442\u044C \u0438\u043C\u044F",
-    "UITexasPlayerInfoOpenVideo": "\u0412\u043A\u043B\u044E\u0447\u0438\u0442\u044C \u0432\u0438\u0434\u0435\u043E"
+    "UITexasPlayerInfoOpenVideo": "\u0412\u043A\u043B\u044E\u0447\u0438\u0442\u044C \u0432\u0438\u0434\u0435\u043E",
+    "UIClub_AddJackpotTemplate_Btn": "\u0414\u043E\u0431\u0430\u0432\u0438\u0442\u044C \u0448\u0430\u0431\u043B\u043E\u043D \u0434\u0436\u0435\u043A\u043F\u043E\u0442\u0430",
+    "UIClub_CreateJackpotTemplate": "\u0421\u043E\u0437\u0434\u0430\u0442\u044C \u0448\u0430\u0431\u043B\u043E\u043D \u0434\u0436\u0435\u043A\u043F\u043E\u0442\u0430",
+    "UIClub_EditJackpotTemplate": "\u0418\u0437\u043C\u0435\u043D\u0438\u0442\u044C \u0448\u0430\u0431\u043B\u043E\u043D \u0434\u0436\u0435\u043A\u043F\u043E\u0442\u0430"
 };
 var thMap = {
     "4": "\u0E40\u0E19\u0E47\u0E15\u0E1C\u0E34\u0E14\u0E1E\u0E25\u0E32\u0E14 \u0E25\u0E2D\u0E07\u0E43\u0E2B\u0E21\u0E48",
@@ -82864,7 +82894,7 @@ var thMap = {
     "UIClub_CreatProvince": "\u0E40\u0E25\u0E37\u0E2D\u0E01\u0E08\u0E31\u0E07\u0E2B\u0E27\u0E31\u0E14",
     "UIClub_CreatCity": "\u0E40\u0E25\u0E37\u0E2D\u0E01\u0E40\u0E21\u0E37\u0E2D\u0E07",
     "UIClub_FundDetail": "\u0E01\u0E2D\u0E07\u0E17\u0E38\u0E19",
-    "UIClub_FundGive": "\u0E01\u0E32\u0E23\u0E01\u0E23\u0E30\u0E08\u0E32\u0E22",
+    "UIClub_FundGive": "\u0E08\u0E48\u0E32\u0E22\u0E2D\u0E2D\u0E01",
     "UIClub_FundGiveSub": "\u0E01\u0E32\u0E23\u0E01\u0E23\u0E30\u0E08\u0E32\u0E22\u0E01\u0E2D\u0E07\u0E17\u0E38\u0E19",
     "UIClub_FundRecharge": "\u0E01\u0E32\u0E23\u0E15\u0E31\u0E49\u0E07\u0E16\u0E34\u0E48\u0E19\u0E10\u0E32\u0E19",
     "UIClub_Mlist": "\u0E04\u0E25\u0E31\u0E1A\u0E2A\u0E21\u0E32\u0E0A\u0E34\u0E01",
@@ -83935,7 +83965,7 @@ var thMap = {
     "UIGameNiuZai_continuebtn": "\u0E15\u0E48\u0E2D\u0E2D\u0E32\u0E22\u0E38\u0E01\u0E32\u0E23\u0E25\u0E07\u0E17\u0E38\u0E19",
     "UIGameNiuZai_qingpingbtn": "\u0E25\u0E49\u0E32\u0E07\u0E2B\u0E19\u0E49\u0E32\u0E08\u0E2D",
     "UILobby_Menu_menu_btn_lobby": "\u0E25\u0E47\u0E2D\u0E1A\u0E1A\u0E35\u0E49",
-    "UIClub_FundDetail_recycle": "\u0E23\u0E35\u0E44\u0E0B\u0E40\u0E04\u0E34\u0E25",
+    "UIClub_FundDetail_recycle": "\u0E40\u0E23\u0E35\u0E22\u0E01\u0E04\u0E37\u0E19",
     "UIClub_FundRecharge_tishiText": "\u0E1B\u0E49\u0E2D\u0E19\u0E08\u0E33\u0E19\u0E27\u0E19\u0E1A\u0E27\u0E01\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E08\u0E33\u0E19\u0E27\u0E19\u0E40\u0E07\u0E34\u0E19\u0E17\u0E35\u0E48\u0E0A\u0E33\u0E23\u0E30\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E40\u0E23\u0E35\u0E22\u0E01\u0E40\u0E01\u0E47\u0E1A\u0E40\u0E07\u0E34\u0E19 UC \u0E41\u0E25\u0E30\u0E08\u0E33\u0E19\u0E27\u0E19\u0E25\u0E1A\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E16\u0E2D\u0E19 UC\\n\\n\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07: \u0E40\u0E23\u0E35\u0E22\u0E01\u0E40\u0E01\u0E47\u0E1A\u0E40\u0E07\u0E34\u0E19 500 \u0E1B\u0E49\u0E2D\u0E19 500 \u0E16\u0E2D\u0E19\u0E2D\u0E2D\u0E01 500 \u0E1B\u0E49\u0E2D\u0E19 -500",
     "UIClub_FundRecharge_tishiGolden": "UC \u0E17\u0E35\u0E48\u0E21\u0E35\u0E2D\u0E22\u0E39\u0E48:",
     "UIClub_FundRecharge_tishiAmount": "\u0E08\u0E33\u0E19\u0E27\u0E19\u0E40\u0E07\u0E34\u0E19\u0E17\u0E35\u0E48\u0E0A\u0E33\u0E23\u0E30:",
@@ -89578,7 +89608,10 @@ var thMap = {
     "UITexasStopSpeak_Cancel": "\u0E22\u0E01\u0E40\u0E25\u0E34\u0E01\u0E1B\u0E34\u0E14\u0E40\u0E2A\u0E35\u0E22\u0E07",
     "UITexasBlockName": "\u0E0B\u0E48\u0E2D\u0E19\u0E0A\u0E37\u0E48\u0E2D",
     "UITexasBlockName_Cancel": "\u0E41\u0E2A\u0E14\u0E07\u0E0A\u0E37\u0E48\u0E2D",
-    "UITexasPlayerInfoOpenVideo": "\u0E40\u0E1B\u0E34\u0E14\u0E27\u0E34\u0E14\u0E35\u0E42\u0E2D"
+    "UITexasPlayerInfoOpenVideo": "\u0E40\u0E1B\u0E34\u0E14\u0E27\u0E34\u0E14\u0E35\u0E42\u0E2D",
+    "UIClub_AddJackpotTemplate_Btn": "\u0E40\u0E1E\u0E34\u0E48\u0E21\u0E40\u0E17\u0E21\u0E40\u0E1E\u0E25\u0E15\u0E41\u0E08\u0E47\u0E01\u0E1E\u0E2D\u0E15",
+    "UIClub_CreateJackpotTemplate": "\u0E2A\u0E23\u0E49\u0E32\u0E07\u0E40\u0E17\u0E21\u0E40\u0E1E\u0E25\u0E15\u0E41\u0E08\u0E47\u0E01\u0E1E\u0E2D\u0E15",
+    "UIClub_EditJackpotTemplate": "\u0E41\u0E01\u0E49\u0E44\u0E02\u0E40\u0E17\u0E21\u0E40\u0E1E\u0E25\u0E15\u0E41\u0E08\u0E47\u0E01\u0E1E\u0E2D\u0E15"
 };
 var zh_TWMap = {
     "4": "\u7DB2\u8DEF\u932F\u8AA4\uFF0C\u8ACB\u7A0D\u5F8C\u91CD\u8A66",
@@ -97720,7 +97753,10 @@ var zh_TWMap = {
     "UITexasStopSpeak_Cancel": "\u53D6\u6D88\u7981\u8A00",
     "UITexasBlockName": "\u5C4F\u853D\u540D\u5B57",
     "UITexasBlockName_Cancel": "\u53D6\u6D88\u5C4F\u853D",
-    "UITexasPlayerInfoOpenVideo": "\u958B\u555F\u8996\u8A0A"
+    "UITexasPlayerInfoOpenVideo": "\u958B\u555F\u8996\u8A0A",
+    "UIClub_AddJackpotTemplate_Btn": "\u65B0\u589E\u734E\u6C60\u6A21\u677F",
+    "UIClub_CreateJackpotTemplate": "\u5EFA\u7ACB\u734E\u6C60\u6A21\u677F",
+    "UIClub_EditJackpotTemplate": "\u7DE8\u8F2F\u734E\u6C60\u6A21\u677F"
 };
 var viMap = {
     "4": "L\u1ED7i m\u1EA1ng. Th\u1EED l\u1EA1i.",
@@ -99148,7 +99184,7 @@ var viMap = {
     "UIClub_CreatProvince": "Ch\u1ECDn t\u1EC9nh",
     "UIClub_CreatCity": "Ch\u1ECDn th\xE0nh ph\u1ED1",
     "UIClub_FundDetail": "Qu\u1EF9",
-    "UIClub_FundGive": "Ph\xE2n ph\u1ED1i",
+    "UIClub_FundGive": "C\u1EA5p ph\xE1t",
     "UIClub_FundGiveSub": "Ph\xE2n ph\u1ED1i qu\u1EF9",
     "UIClub_FundRecharge": "Quy\u1EBFt to\xE1n",
     "UIClub_Mlist": "Club Th\xE0nh vi\xEAn",
@@ -100219,7 +100255,7 @@ var viMap = {
     "UIGameNiuZai_continuebtn": "Ti\u1EBFp t\u1EE5c \u0111\u1EA7u t\u01B0",
     "UIGameNiuZai_qingpingbtn": "X\xF3a m\xE0n h\xECnh",
     "UILobby_Menu_menu_btn_lobby": "S\u1EA3nh",
-    "UIClub_FundDetail_recycle": "T\xE1i ch\u1EBF",
+    "UIClub_FundDetail_recycle": "Thu h\u1ED3i",
     "UIClub_FundRecharge_tishiText": "Nh\u1EADp s\u1ED1 d\u01B0\u01A1ng cho s\u1ED1 ti\u1EC1n quy\u1EBFt to\xE1n \u0111\u1EC3 n\u1EA1p UC, s\u1ED1 \xE2m \u0111\u1EC3 r\xFAt UC\\n\\nV\xED d\u1EE5: G\u1EEDi 500 Nh\u1EADp 500 R\xFAt 500 Nh\u1EADp -500",
     "UIClub_FundRecharge_tishiGolden": "UC hi\u1EC7n t\u1EA1i:",
     "UIClub_FundRecharge_tishiAmount": "H\u1EA1n m\u1EE9c quy\u1EBFt to\xE1n:",
@@ -105862,7 +105898,10 @@ var viMap = {
     "UITexasStopSpeak_Cancel": "B\u1ECF c\u1EA5m chat",
     "UITexasBlockName": "\u1EA8n t\xEAn",
     "UITexasBlockName_Cancel": "Hi\u1EC7n t\xEAn",
-    "UITexasPlayerInfoOpenVideo": "B\u1EADt video"
+    "UITexasPlayerInfoOpenVideo": "B\u1EADt video",
+    "UIClub_AddJackpotTemplate_Btn": "Th\xEAm m\u1EABu Jackpot",
+    "UIClub_CreateJackpotTemplate": "T\u1EA1o m\u1EABu Jackpot",
+    "UIClub_EditJackpotTemplate": "S\u1EEDa m\u1EABu Jackpot"
 };
 var zh_CNMap = {
     "4": "\u7F51\u7EDC\u9519\u8BEF\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5",
@@ -114004,7 +114043,10 @@ var zh_CNMap = {
     "UITexasStopSpeak_Cancel": "\u53D6\u6D88\u7981\u8A00",
     "UITexasBlockName": "\u5C4F\u853D\u540D\u5B57",
     "UITexasBlockName_Cancel": "\u53D6\u6D88\u5C4F\u853D",
-    "UITexasPlayerInfoOpenVideo": "\u6253\u5F00\u89C6\u9891"
+    "UITexasPlayerInfoOpenVideo": "\u6253\u5F00\u89C6\u9891",
+    "UIClub_AddJackpotTemplate_Btn": "\u6DFB\u52A0\u5956\u6C60\u6A21\u677F",
+    "UIClub_CreateJackpotTemplate": "\u521B\u5EFA\u5956\u6C60\u6A21\u677F",
+    "UIClub_EditJackpotTemplate": "\u7F16\u8F91\u5956\u6C60\u6A21\u677F"
 };
 var localesData = {
     "de": deMap,

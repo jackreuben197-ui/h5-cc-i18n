@@ -8151,3 +8151,6 @@ UITexasStopSpeak_Cancel=取消禁言
 UITexasBlockName=屏蔽名字
 UITexasBlockName_Cancel=取消屏蔽
 UITexasPlayerInfoOpenVideo=開啟視訊
+UIClub_AddJackpotTemplate_Btn=新增獎池模板
+UIClub_CreateJackpotTemplate=建立獎池模板
+UIClub_EditJackpotTemplate=編輯獎池模板
