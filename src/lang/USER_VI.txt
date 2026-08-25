@@ -8102,3 +8102,6 @@ Page_AboutUs_Heading=Về nền tảng
 Page_AboutUs_Body=Chúng tôi luôn nỗ lực xây dựng một cộng đồng những người yêu thích poker, giúp họ có thể chơi với tốc độ thư giãn mong muốn trên W poker. Là đơn vị tiên phong trong các trò chơi poker do bạn bè làm chủ và trò chơi nhanh, chúng tôi đã được nhiều người chơi poker công nhận. W poker tự hào là một nền tảng poker công bằng và đáng tin cậy. Thuật toán xáo bài và máy tạo số ngẫu nhiên của chúng tôi đã được chứng nhận bởi Gaming Laboratories International (GLI), cơ quan chứng nhận độc lập hàng đầu trong ngành, và được xác minh là công bằng cho poker và các trò chơi may rủi liên quan. Đối với một nền tảng poker, sự công bằng là yếu tố then chốt. Máy tạo số ngẫu nhiên của chúng tôi quyết định trình tự xáo và chia bài, và chứng nhận GLI của chúng tôi chứng minh rằng sự công bằng của chúng tôi sẽ không bị ảnh hưởng trong bất kỳ trường hợp nào.
 
 Page_MineBill_UCTotalAmount=Tổng UC
+
+Page_Audit_Approve=Chấp thuận
+Page_Audit_Reject=Từ chối

@@ -8102,3 +8102,6 @@ Page_AboutUs_Heading=Über die Plattform
 Page_AboutUs_Body=Wir sind stets bestrebt, eine Gemeinschaft von Pokerliebhabern aufzubauen, damit diese auf W Poker in ihrem gewünschten, entspannten Tempo spielen können. Als Wegbereiter für von Freunden veranstaltete Pokerspiele und Schnellspiele haben wir die Anerkennung vieler Pokerspieler gewonnen. W Poker ist stolz darauf, eine faire und vertrauenswürdige Pokerplattform zu sein. Unsere Mischalgorithmen und Zufallszahlengeneratoren wurden von Gaming Laboratories International (GLI), der führenden unabhängigen Zertifizierungsstelle der Branche, zertifiziert und als fair für Poker und verwandte Glücksspiele eingestuft. Für eine Pokerplattform ist Fairness der Schlüssel. Unsere Zufallszahlengeneratoren bestimmen unsere Misch- und Gebersequenzen, und unsere GLI-Zertifizierung beweist, dass unsere Fairness unter keinen Umständen beeinträchtigt wird.
 
 Page_MineBill_UCTotalAmount=Gesamt-UC
+
+Page_Audit_Approve=Genehmigen
+Page_Audit_Reject=Ablehnen

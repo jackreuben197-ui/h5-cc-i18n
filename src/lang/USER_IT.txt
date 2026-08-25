@@ -8102,3 +8102,6 @@ Page_AboutUs_Heading=Informazioni sulla piattaforma
 Page_AboutUs_Body=Ci siamo sempre impegnati a coltivare una comunità di amanti del poker, per consentire loro di giocare al ritmo rilassato che desiderano su W poker. Come pionieri delle partite di poker ospitate da amici e delle partite veloci, abbiamo ottenuto il consenso di molti giocatori di poker. W poker è orgoglioso di essere una piattaforma di poker equa e affidabile. I nostri algoritmi di mescolamento e i generatori di numeri casuali sono stati certificati da Gaming Laboratories International (GLI), l'istituto di certificazione indipendente leader del settore, e sono verificati per essere equi per il poker e i giochi di carte correlati. Per una piattaforma di poker, l'equità è fondamentale. I nostri generatori di numeri casuali decidono le sequenze di mescolamento e distribuzione e la nostra certificazione GLI dimostra che la nostra equità non sarà compromessa in nessuno scenario.
 
 Page_MineBill_UCTotalAmount=Totale UC
+
+Page_Audit_Approve=Approva
+Page_Audit_Reject=Rifiuta

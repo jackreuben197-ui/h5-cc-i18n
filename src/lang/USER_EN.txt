@@ -8102,3 +8102,6 @@ Page_AboutUs_Heading=About the platform
 Page_AboutUs_Body=We have always strived to cultivate a community of poker lovers, to enable poker lovers to play in their desired casual pace on W poker. As the pioneer of friend hosted poker games and quick games, we have been approved by many poker players. W poker is proud to be a fair and trustworthy poker platform. Our shuffling algorithms and random number generators have been certified by Gaming Laboratories International (GLI), the leading independent certification agency in the industry, and is verified to be fair for poker and related games of chance. For a poker platform, fairness is key. Our random number generators decides our shuffling and dealing sequences, and our GLI certification proves that our fairness will in no scenario be compromised.
 
 Page_MineBill_UCTotalAmount=Total UC
+
+Page_Audit_Approve=Approve
+Page_Audit_Reject=Reject
