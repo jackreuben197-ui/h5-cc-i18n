@@ -1621,7 +1621,7 @@ UITexasGameEnding_rewardCard=Тип победной медали
 UITexasGameEnding_reward=Получите награду
 UITexasGameEnding_insurancePool=Страховка пул
 UITexasGameEnding_allBring=Общий бай-ин
-UITexasGameEnding_BigPot=Самый большой горшок
+UITexasGameEnding_BigPot=Самый большой банк
 UITexasGameEnding_upper=Данные над водой
 UITexasGameEnding_down=Подводные данные
 UITexasGameEnding_tips=-Результаты игры предназначены только для развлечения, любые формы азартных игр строго запрещены-
@@ -7647,7 +7647,7 @@ UIClub_Fail13=Создать заказ Ошибка
 UIClub_No13=Отсутствует номер заказа
 UIClub_ApplyLoading=Загрузка статуса приложения
 
-UIClub_Text94=Общее количество замен
+UIClub_Text94=Всего бай-инов
 UIClub_Text95=Фирменная этикетка
 UIClub_Can4=Безопасно в использовании
 UIClub_Fail14=Любимая ошибка

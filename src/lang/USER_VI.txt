@@ -1621,7 +1621,7 @@ UITexasGameEnding_rewardCard=Loại huy chương chiến thắng
 UITexasGameEnding_reward=Nhận thưởng
 UITexasGameEnding_insurancePool=Bảo hiểm pool
 UITexasGameEnding_allBring=Tổng số tiền mua vào
-UITexasGameEnding_BigPot=Nồi tối đa
+UITexasGameEnding_BigPot=Pot lớn nhất
 UITexasGameEnding_upper=Dữ liệu nước
 UITexasGameEnding_down=Dữ liệu dưới nước
 UITexasGameEnding_tips=-Kết quả trận đấu chỉ mang tính chất tham khảo giải trí, nghiêm cấm mọi hình thức cờ bạc-
@@ -7647,7 +7647,7 @@ UIClub_Fail13=Tạo đơn hàng Thất bại
 UIClub_No13=Số đơn hàng bị thiếu
 UIClub_ApplyLoading=Trạng thái ứng dụng đang tải
 
-UIClub_Text94=Tổng số lần thay người
+UIClub_Text94=Tổng số buy-in
 UIClub_Text95=Nhãn hiệu
 UIClub_Can4=An toàn khi sử dụng
 UIClub_Fail14=Bộ sưu tập thất bại

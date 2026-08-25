@@ -7647,7 +7647,7 @@ UIClub_Fail13=Créer une commande Échec
 UIClub_No13=Le numéro de commande est manquant
 UIClub_ApplyLoading=L'état de l'application est en cours de chargement
 
-UIClub_Text94=Nombre total de remplacements
+UIClub_Text94=Total des buy-ins
 UIClub_Text95=Étiquette de marque
 UIClub_Can4=Utilisation sûre
 UIClub_Fail14=Récupérez Échec

@@ -1621,7 +1621,7 @@ UITexasGameEnding_rewardCard=우승 메달 종류
 UITexasGameEnding_reward=보상 받기
 UITexasGameEnding_insurancePool=인슈어런스 pool
 UITexasGameEnding_allBring=총 바이인
-UITexasGameEnding_BigPot=최대 냄비
+UITexasGameEnding_BigPot=최대 팟
 UITexasGameEnding_upper=물 데이터
 UITexasGameEnding_down=수중 데이터
 UITexasGameEnding_tips=-게임 결과는 오락용이며 어떠한 형태의 도박도 엄격히 금지됩니다.-
@@ -7647,7 +7647,7 @@ UIClub_Fail13=주문 생성 실패
 UIClub_No13=주문 번호가 누락되었습니다
 UIClub_ApplyLoading=애플리케이션 상태가 로드 중입니다
 
-UIClub_Text94=총 교체 횟수
+UIClub_Text94=총 바이인 수
 UIClub_Text95=브랜드 라벨
 UIClub_Can4=사용하기에 안전함
 UIClub_Fail14=좋아하는 실패

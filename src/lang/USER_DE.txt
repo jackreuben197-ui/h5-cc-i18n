@@ -1621,7 +1621,7 @@ UITexasGameEnding_rewardCard=Siegermedaillentyp
 UITexasGameEnding_reward=Belohnung erhalten
 UITexasGameEnding_insurancePool=Versicherungspool
 UITexasGameEnding_allBring=Gesamt-Buy-in
-UITexasGameEnding_BigPot=Größter Topf
+UITexasGameEnding_BigPot=Größter Pot
 UITexasGameEnding_upper=Überwasserdaten
 UITexasGameEnding_down=Unterwasserdaten
 UITexasGameEnding_tips=-Spielergebnisse dienen nur der Unterhaltung, jegliche Form von Glücksspiel ist strengstens verboten-
@@ -7647,7 +7647,7 @@ UIClub_Fail13=Bestellung erstellen Fehler
 UIClub_No13=Bestellnummer fehlt
 UIClub_ApplyLoading=Bewerbungsstatus wird geladen
 
-UIClub_Text94=Gesamtzahl der Auswechslungen
+UIClub_Text94=Buy-ins gesamt
 UIClub_Text95=Markenetikett
 UIClub_Can4=Sicher zu verwenden
 UIClub_Fail14=Lieblingsfehler

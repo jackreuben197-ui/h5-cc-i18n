@@ -7647,7 +7647,7 @@ UIClub_Fail13=Crea ordine Errore
 UIClub_No13=Manca il numero dell'ordine
 UIClub_ApplyLoading=Caricamento stato applicazione
 
-UIClub_Text94=Numero totale di sostituzioni
+UIClub_Text94=Buy-in totali
 UIClub_Text95=Etichetta del marchio
 UIClub_Can4=Sicuro da usare
 UIClub_Fail14=Preferito Errore

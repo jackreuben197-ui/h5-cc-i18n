@@ -1621,7 +1621,7 @@ UITexasGameEnding_rewardCard=ประเภทเหรียญรางวั
 UITexasGameEnding_reward=รับรางวัล
 UITexasGameEnding_insurancePool=ประกันพูล
 UITexasGameEnding_allBring=ยอดบายอินทั้งหมด
-UITexasGameEnding_BigPot=หม้อสูงสุด
+UITexasGameEnding_BigPot=พ็อตสูงสุด
 UITexasGameEnding_upper=ข้อมูลน้ำ
 UITexasGameEnding_down=ข้อมูลใต้น้ำ
 UITexasGameEnding_tips=- ผลลัพธ์ของเกมมีไว้เพื่อความบันเทิงเท่านั้น ห้ามเล่นการพนันทุกรูปแบบโดยเด็ดขาด -
@@ -7647,7 +7647,7 @@ UIClub_Fail13=สร้างคำสั่งซื้อของบริษ
 UIClub_No13=หมายเลขคำสั่งซื้อหายไป
 UIClub_ApplyLoading=กำลังโหลดสถานะการสมัคร
 
-UIClub_Text94=จำนวนการเปลี่ยนตัวทั้งหมด
+UIClub_Text94=ไบอินทั้งหมด
 UIClub_Text95=ป้ายประเภทแบรนด์
 UIClub_Can4=ปลอดภัยต่อการใช้งาน
 UIClub_Fail14=Collection ของบางคน

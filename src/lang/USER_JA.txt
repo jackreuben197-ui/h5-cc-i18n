@@ -7647,7 +7647,7 @@ UIClub_Fail13=注文作成に失敗しました
 UIClub_No13=注文番号がありません
 UIClub_ApplyLoading=アプリケーションのステータスは読み込み中です
 
-UIClub_Text94=総交代数
+UIClub_Text94=総バイイン数
 UIClub_Text95=カードタイプラベル
 UIClub_Can4=安全に使用できる
 UIClub_Fail14=収集に失敗しました

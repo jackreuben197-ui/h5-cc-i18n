@@ -7647,7 +7647,7 @@ UIClub_Fail13=ऑर्डर बनाएं
 UIClub_No13=ऑर्डर क्रमांक गुम है
 UIClub_ApplyLoading=आवेदन की स्थिति लोड हो रही है
 
-UIClub_Text94=प्रतिस्थापनों की कुल संख्या
+UIClub_Text94=कुल बाय-इन
 UIClub_Text95=कार्ड प्रकार टैग
 UIClub_Can4=उपयोग करने में सुरक्षित
 UIClub_Fail14=संग्रह संग्रह
