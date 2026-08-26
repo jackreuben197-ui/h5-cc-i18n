@@ -1,0 +1,6 @@
+# Содержимое dist/ генерируется через `npm run build` из src/lang/*.txt.
+# -merge  git не пытается мёржить построчно. При расхождении оставляет нашу
+#         версию и помечает файл конфликтным — исправление всегда одно:
+#         пересобрать (npm run build), затем git add dist
+# -diff   не выводить текстовый diff (h5-cc-i18n.min.js — 16 МБ в 5 строках)
+dist/** -merge -diff linguist-generated=true
