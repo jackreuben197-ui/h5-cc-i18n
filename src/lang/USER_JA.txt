@@ -8145,3 +8145,4 @@ UITexasPlayerInfoOpenVideo=ビデオをオン
 UIClub_AddJackpotTemplate_Btn=ジャックポットテンプレートを追加
 UIClub_CreateJackpotTemplate=ジャックポットテンプレートを作成
 UIClub_EditJackpotTemplate=ジャックポットテンプレートを編集
+UIFriendsTable_FilterNLH=NLH

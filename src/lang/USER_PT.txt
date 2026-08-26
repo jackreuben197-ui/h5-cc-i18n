@@ -8145,3 +8145,4 @@ UITexasPlayerInfoOpenVideo=Ativar vídeo
 UIClub_AddJackpotTemplate_Btn=Adicionar modelo de Jackpot
 UIClub_CreateJackpotTemplate=Criar modelo de Jackpot
 UIClub_EditJackpotTemplate=Editar modelo de Jackpot
+UIFriendsTable_FilterNLH=NLH

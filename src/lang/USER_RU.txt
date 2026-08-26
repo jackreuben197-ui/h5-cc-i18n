@@ -8145,3 +8145,4 @@ UITexasPlayerInfoOpenVideo=Включить видео
 UIClub_AddJackpotTemplate_Btn=Добавить шаблон джекпота
 UIClub_CreateJackpotTemplate=Создать шаблон джекпота
 UIClub_EditJackpotTemplate=Изменить шаблон джекпота
+UIFriendsTable_FilterNLH=NLH

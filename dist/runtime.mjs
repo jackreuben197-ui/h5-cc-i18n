@@ -8152,7 +8152,8 @@ var deMap = {
     "UITexasPlayerInfoOpenVideo": "Video einschalten",
     "UIClub_AddJackpotTemplate_Btn": "Jackpot-Vorlage hinzuf\xFCgen",
     "UIClub_CreateJackpotTemplate": "Jackpot-Vorlage erstellen",
-    "UIClub_EditJackpotTemplate": "Jackpot-Vorlage bearbeiten"
+    "UIClub_EditJackpotTemplate": "Jackpot-Vorlage bearbeiten",
+    "UIFriendsTable_FilterNLH": "NLH"
 };
 var enMap = {
     "4": "Failed to connect, please try again later. ",
@@ -16288,7 +16289,8 @@ var enMap = {
     "UITexasPlayerInfoOpenVideo": "Turn on video",
     "UIClub_AddJackpotTemplate_Btn": "Add Jackpot Template",
     "UIClub_CreateJackpotTemplate": "Create Jackpot Template",
-    "UIClub_EditJackpotTemplate": "Edit Jackpot Template"
+    "UIClub_EditJackpotTemplate": "Edit Jackpot Template",
+    "UIFriendsTable_FilterNLH": "NLH"
 };
 var esMap = {
     "4": "Error de red. Reintente.",
@@ -24424,7 +24426,8 @@ var esMap = {
     "UITexasPlayerInfoOpenVideo": "Activar v\xEDdeo",
     "UIClub_AddJackpotTemplate_Btn": "A\xF1adir plantilla de Jackpot",
     "UIClub_CreateJackpotTemplate": "Crear plantilla de Jackpot",
-    "UIClub_EditJackpotTemplate": "Editar plantilla de Jackpot"
+    "UIClub_EditJackpotTemplate": "Editar plantilla de Jackpot",
+    "UIFriendsTable_FilterNLH": "NLH"
 };
 var frMap = {
     "4": "Erreur r\xE9seau. R\xE9essayez.",
@@ -32560,7 +32563,8 @@ var frMap = {
     "UITexasPlayerInfoOpenVideo": "Activer la vid\xE9o",
     "UIClub_AddJackpotTemplate_Btn": "Ajouter un mod\xE8le de Jackpot",
     "UIClub_CreateJackpotTemplate": "Cr\xE9er un mod\xE8le de Jackpot",
-    "UIClub_EditJackpotTemplate": "Modifier le mod\xE8le de Jackpot"
+    "UIClub_EditJackpotTemplate": "Modifier le mod\xE8le de Jackpot",
+    "UIFriendsTable_FilterNLH": "NLH"
 };
 var hiMap = {
     "4": "\u0928\u0947\u091F\u0935\u0930\u094D\u0915 \u0924\u094D\u0930\u0941\u091F\u093F\u0964 \u092C\u093E\u0926 \u092E\u0947\u0902 \u0915\u094B\u0936\u093F\u0936 \u0915\u0930\u0947\u0902\u0964",
@@ -40696,7 +40700,8 @@ var hiMap = {
     "UITexasPlayerInfoOpenVideo": "\u0935\u0940\u0921\u093F\u092F\u094B \u091A\u093E\u0932\u0942 \u0915\u0930\u0947\u0902",
     "UIClub_AddJackpotTemplate_Btn": "\u091C\u0948\u0915\u092A\u0949\u091F \u091F\u0947\u092E\u094D\u092A\u0932\u0947\u091F \u091C\u094B\u0921\u093C\u0947\u0902",
     "UIClub_CreateJackpotTemplate": "\u091C\u0948\u0915\u092A\u0949\u091F \u091F\u0947\u092E\u094D\u092A\u0932\u0947\u091F \u092C\u0928\u093E\u090F\u0901",
-    "UIClub_EditJackpotTemplate": "\u091C\u0948\u0915\u092A\u0949\u091F \u091F\u0947\u092E\u094D\u092A\u0932\u0947\u091F \u0938\u0902\u092A\u093E\u0926\u093F\u0924 \u0915\u0930\u0947\u0902"
+    "UIClub_EditJackpotTemplate": "\u091C\u0948\u0915\u092A\u0949\u091F \u091F\u0947\u092E\u094D\u092A\u0932\u0947\u091F \u0938\u0902\u092A\u093E\u0926\u093F\u0924 \u0915\u0930\u0947\u0902",
+    "UIFriendsTable_FilterNLH": "NLH"
 };
 var itMap = {
     "4": "Errore di rete. Riprova.",
@@ -48832,7 +48837,8 @@ var itMap = {
     "UITexasPlayerInfoOpenVideo": "Attiva video",
     "UIClub_AddJackpotTemplate_Btn": "Aggiungi modello Jackpot",
     "UIClub_CreateJackpotTemplate": "Crea modello Jackpot",
-    "UIClub_EditJackpotTemplate": "Modifica modello Jackpot"
+    "UIClub_EditJackpotTemplate": "Modifica modello Jackpot",
+    "UIFriendsTable_FilterNLH": "NLH"
 };
 var jaMap = {
     "4": "\u901A\u4FE1\u30A8\u30E9\u30FC\u3067\u3059\u3002\u3082\u3046\u4E00\u5EA6\u8A66\u3057\u3066\u304F\u3060\u3055\u3044\u3002",
@@ -56968,7 +56974,8 @@ var jaMap = {
     "UITexasPlayerInfoOpenVideo": "\u30D3\u30C7\u30AA\u3092\u30AA\u30F3",
     "UIClub_AddJackpotTemplate_Btn": "\u30B8\u30E3\u30C3\u30AF\u30DD\u30C3\u30C8\u30C6\u30F3\u30D7\u30EC\u30FC\u30C8\u3092\u8FFD\u52A0",
     "UIClub_CreateJackpotTemplate": "\u30B8\u30E3\u30C3\u30AF\u30DD\u30C3\u30C8\u30C6\u30F3\u30D7\u30EC\u30FC\u30C8\u3092\u4F5C\u6210",
-    "UIClub_EditJackpotTemplate": "\u30B8\u30E3\u30C3\u30AF\u30DD\u30C3\u30C8\u30C6\u30F3\u30D7\u30EC\u30FC\u30C8\u3092\u7DE8\u96C6"
+    "UIClub_EditJackpotTemplate": "\u30B8\u30E3\u30C3\u30AF\u30DD\u30C3\u30C8\u30C6\u30F3\u30D7\u30EC\u30FC\u30C8\u3092\u7DE8\u96C6",
+    "UIFriendsTable_FilterNLH": "NLH"
 };
 var koMap = {
     "4": "\uB124\uD2B8\uC6CC\uD06C \uC624\uB958. \uB2E4\uC2DC \uC2DC\uB3C4.",
@@ -65104,7 +65111,8 @@ var koMap = {
     "UITexasPlayerInfoOpenVideo": "\uBE44\uB514\uC624 \uCF1C\uAE30",
     "UIClub_AddJackpotTemplate_Btn": "\uC7AD\uD31F \uD15C\uD50C\uB9BF \uCD94\uAC00",
     "UIClub_CreateJackpotTemplate": "\uC7AD\uD31F \uD15C\uD50C\uB9BF \uC0DD\uC131",
-    "UIClub_EditJackpotTemplate": "\uC7AD\uD31F \uD15C\uD50C\uB9BF \uD3B8\uC9D1"
+    "UIClub_EditJackpotTemplate": "\uC7AD\uD31F \uD15C\uD50C\uB9BF \uD3B8\uC9D1",
+    "UIFriendsTable_FilterNLH": "NLH"
 };
 var ptMap = {
     "4": "Erro de conex\xE3o, favor tentar novamente. ",
@@ -73240,7 +73248,8 @@ var ptMap = {
     "UITexasPlayerInfoOpenVideo": "Ativar v\xEDdeo",
     "UIClub_AddJackpotTemplate_Btn": "Adicionar modelo de Jackpot",
     "UIClub_CreateJackpotTemplate": "Criar modelo de Jackpot",
-    "UIClub_EditJackpotTemplate": "Editar modelo de Jackpot"
+    "UIClub_EditJackpotTemplate": "Editar modelo de Jackpot",
+    "UIFriendsTable_FilterNLH": "NLH"
 };
 var ruMap = {
     "4": "\u0421\u0435\u0442\u044C. \u041F\u043E\u0432\u0442\u043E\u0440\u0438\u0442\u0435.",
@@ -81376,7 +81385,8 @@ var ruMap = {
     "UITexasPlayerInfoOpenVideo": "\u0412\u043A\u043B\u044E\u0447\u0438\u0442\u044C \u0432\u0438\u0434\u0435\u043E",
     "UIClub_AddJackpotTemplate_Btn": "\u0414\u043E\u0431\u0430\u0432\u0438\u0442\u044C \u0448\u0430\u0431\u043B\u043E\u043D \u0434\u0436\u0435\u043A\u043F\u043E\u0442\u0430",
     "UIClub_CreateJackpotTemplate": "\u0421\u043E\u0437\u0434\u0430\u0442\u044C \u0448\u0430\u0431\u043B\u043E\u043D \u0434\u0436\u0435\u043A\u043F\u043E\u0442\u0430",
-    "UIClub_EditJackpotTemplate": "\u0418\u0437\u043C\u0435\u043D\u0438\u0442\u044C \u0448\u0430\u0431\u043B\u043E\u043D \u0434\u0436\u0435\u043A\u043F\u043E\u0442\u0430"
+    "UIClub_EditJackpotTemplate": "\u0418\u0437\u043C\u0435\u043D\u0438\u0442\u044C \u0448\u0430\u0431\u043B\u043E\u043D \u0434\u0436\u0435\u043A\u043F\u043E\u0442\u0430",
+    "UIFriendsTable_FilterNLH": "NLH"
 };
 var thMap = {
     "4": "\u0E40\u0E19\u0E47\u0E15\u0E1C\u0E34\u0E14\u0E1E\u0E25\u0E32\u0E14 \u0E25\u0E2D\u0E07\u0E43\u0E2B\u0E21\u0E48",
@@ -89512,7 +89522,8 @@ var thMap = {
     "UITexasPlayerInfoOpenVideo": "\u0E40\u0E1B\u0E34\u0E14\u0E27\u0E34\u0E14\u0E35\u0E42\u0E2D",
     "UIClub_AddJackpotTemplate_Btn": "\u0E40\u0E1E\u0E34\u0E48\u0E21\u0E40\u0E17\u0E21\u0E40\u0E1E\u0E25\u0E15\u0E41\u0E08\u0E47\u0E01\u0E1E\u0E2D\u0E15",
     "UIClub_CreateJackpotTemplate": "\u0E2A\u0E23\u0E49\u0E32\u0E07\u0E40\u0E17\u0E21\u0E40\u0E1E\u0E25\u0E15\u0E41\u0E08\u0E47\u0E01\u0E1E\u0E2D\u0E15",
-    "UIClub_EditJackpotTemplate": "\u0E41\u0E01\u0E49\u0E44\u0E02\u0E40\u0E17\u0E21\u0E40\u0E1E\u0E25\u0E15\u0E41\u0E08\u0E47\u0E01\u0E1E\u0E2D\u0E15"
+    "UIClub_EditJackpotTemplate": "\u0E41\u0E01\u0E49\u0E44\u0E02\u0E40\u0E17\u0E21\u0E40\u0E1E\u0E25\u0E15\u0E41\u0E08\u0E47\u0E01\u0E1E\u0E2D\u0E15",
+    "UIFriendsTable_FilterNLH": "NLH"
 };
 var zh_TWMap = {
     "4": "\u7DB2\u8DEF\u932F\u8AA4\uFF0C\u8ACB\u7A0D\u5F8C\u91CD\u8A66",
@@ -97648,7 +97659,8 @@ var zh_TWMap = {
     "UITexasPlayerInfoOpenVideo": "\u958B\u555F\u8996\u8A0A",
     "UIClub_AddJackpotTemplate_Btn": "\u65B0\u589E\u734E\u6C60\u6A21\u677F",
     "UIClub_CreateJackpotTemplate": "\u5EFA\u7ACB\u734E\u6C60\u6A21\u677F",
-    "UIClub_EditJackpotTemplate": "\u7DE8\u8F2F\u734E\u6C60\u6A21\u677F"
+    "UIClub_EditJackpotTemplate": "\u7DE8\u8F2F\u734E\u6C60\u6A21\u677F",
+    "UIFriendsTable_FilterNLH": "\u5FB7\u5DDE"
 };
 var viMap = {
     "4": "L\u1ED7i m\u1EA1ng. Th\u1EED l\u1EA1i.",
@@ -105784,7 +105796,8 @@ var viMap = {
     "UITexasPlayerInfoOpenVideo": "B\u1EADt video",
     "UIClub_AddJackpotTemplate_Btn": "Th\xEAm m\u1EABu Jackpot",
     "UIClub_CreateJackpotTemplate": "T\u1EA1o m\u1EABu Jackpot",
-    "UIClub_EditJackpotTemplate": "S\u1EEDa m\u1EABu Jackpot"
+    "UIClub_EditJackpotTemplate": "S\u1EEDa m\u1EABu Jackpot",
+    "UIFriendsTable_FilterNLH": "NLH"
 };
 var zh_CNMap = {
     "4": "\u7F51\u7EDC\u9519\u8BEF\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5",
@@ -113920,7 +113933,8 @@ var zh_CNMap = {
     "UITexasPlayerInfoOpenVideo": "\u6253\u5F00\u89C6\u9891",
     "UIClub_AddJackpotTemplate_Btn": "\u6DFB\u52A0\u5956\u6C60\u6A21\u677F",
     "UIClub_CreateJackpotTemplate": "\u521B\u5EFA\u5956\u6C60\u6A21\u677F",
-    "UIClub_EditJackpotTemplate": "\u7F16\u8F91\u5956\u6C60\u6A21\u677F"
+    "UIClub_EditJackpotTemplate": "\u7F16\u8F91\u5956\u6C60\u6A21\u677F",
+    "UIFriendsTable_FilterNLH": "\u5FB7\u5DDE"
 };
 var localesData = {
     "de": deMap,

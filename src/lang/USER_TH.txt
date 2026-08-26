@@ -8145,3 +8145,4 @@ UITexasPlayerInfoOpenVideo=เปิดวิดีโอ
 UIClub_AddJackpotTemplate_Btn=เพิ่มเทมเพลตแจ็กพอต
 UIClub_CreateJackpotTemplate=สร้างเทมเพลตแจ็กพอต
 UIClub_EditJackpotTemplate=แก้ไขเทมเพลตแจ็กพอต
+UIFriendsTable_FilterNLH=NLH

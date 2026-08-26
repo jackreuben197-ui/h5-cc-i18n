@@ -8145,3 +8145,4 @@ UITexasPlayerInfoOpenVideo=打开视频
 UIClub_AddJackpotTemplate_Btn=添加奖池模板
 UIClub_CreateJackpotTemplate=创建奖池模板
 UIClub_EditJackpotTemplate=编辑奖池模板
+UIFriendsTable_FilterNLH=德州

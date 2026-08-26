@@ -8145,3 +8145,4 @@ UITexasPlayerInfoOpenVideo=वीडियो चालू करें
 UIClub_AddJackpotTemplate_Btn=जैकपॉट टेम्पलेट जोड़ें
 UIClub_CreateJackpotTemplate=जैकपॉट टेम्पलेट बनाएँ
 UIClub_EditJackpotTemplate=जैकपॉट टेम्पलेट संपादित करें
+UIFriendsTable_FilterNLH=NLH
