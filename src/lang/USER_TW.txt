@@ -7151,6 +7151,7 @@ UICreateMahjongMttTips19=請輸入正確的自動託管限制
 UIMatchProgress=比賽進程
 Spinner_Tip=同步雲端數據中...
 UITabbarHome=主頁
+UITabbarTournaments=比賽
 UIHomeMahjongArea=麻將專區
 UIHomeMahjongAreaTip=真金真人對戰
 UIHomePokerArea=撲克專區
