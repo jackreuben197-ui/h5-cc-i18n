@@ -7152,6 +7152,7 @@ UIMatchProgress=대회 진행
 Spinner_Tip=클라우드 데이터 동기화 중...
 UITabbarHome=홈페이지
 UITabbarTournaments=토너먼트
+UITabbarEvents=토너먼트
 UIHomeMahjongArea=마작 구역
 UIHomeMahjongAreaTip=리얼골드 실감나는 전투
 UIHomePokerArea=포커 존

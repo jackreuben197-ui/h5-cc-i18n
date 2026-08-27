@@ -7152,6 +7152,7 @@ UIMatchProgress=ความคืบหน้าของเกม
 Spinner_Tip=กำลังซิงโครไนซ์ข้อมูลคลาวด์...
 UITabbarHome=หน้าแรก
 UITabbarTournaments=ทัวร์นาเมนต์
+UITabbarEvents=ทัวร์นาเมนต์
 UIHomeMahjongArea=พื้นที่ไพ่นกกระจอก
 UIHomeMahjongAreaTip=การต่อสู้ด้วยเงินจริงด้วยเงินจริง
 UIHomePokerArea=พื้นที่โป๊กเกอร์

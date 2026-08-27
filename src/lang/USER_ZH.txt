@@ -7152,6 +7152,7 @@ UIMatchProgress=比赛进程
 Spinner_Tip=同步云端数据中...
 UITabbarHome=主页
 UITabbarTournaments=比赛
+UITabbarEvents=比赛
 UIHomeMahjongArea=麻将专区
 UIHomeMahjongAreaTip=真金真人对战
 UIHomePokerArea=扑克专区

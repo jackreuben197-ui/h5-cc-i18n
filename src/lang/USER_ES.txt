@@ -7152,6 +7152,7 @@ UIMatchProgress=Progreso de la competencia
 Spinner_Tip=Sincronizando datos en la nube...
 UITabbarHome=Inicio
 UITabbarTournaments=Torneos
+UITabbarEvents=Torneos
 UIHomeMahjongArea=Mahjong
 UIHomeMahjongAreaTip=Batalla de oro real en persona real
 UIHomePokerArea=Póquer
