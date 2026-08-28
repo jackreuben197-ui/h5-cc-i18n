@@ -8222,7 +8222,9 @@ var deMap = {
     "UITexasSetting_FiveButtons": "5 Tasten",
     "UITexasPlayerInfoOpenAudio": "Ton an",
     "UIBridge_SceneNotReady": "Die Spielszene ist noch nicht bereit, bitte warten",
-    "UIBridge_SceneLoadFail": "Spielszene konnte nicht geladen werden. Bitte aktualisieren und erneut versuchen"
+    "UIBridge_SceneLoadFail": "Spielszene konnte nicht geladen werden. Bitte aktualisieren und erneut versuchen",
+    "UIClub_DownlineInviteLinkTip": "Wer sich \xFCber deinen Link registriert, wird automatisch deine Downline",
+    "UIClub_LongPressSaveToAlbum": "Bild lange dr\xFCcken zum Speichern"
 };
 var enMap = {
     "4": "Failed to connect, please try again later. ",
@@ -16369,7 +16371,9 @@ var enMap = {
     "UITexasSetting_FiveButtons": "5 Buttons",
     "UITexasPlayerInfoOpenAudio": "Audio On",
     "UIBridge_SceneNotReady": "Game scene is not ready yet, please wait",
-    "UIBridge_SceneLoadFail": "Failed to load the game scene. Please refresh and try again"
+    "UIBridge_SceneLoadFail": "Failed to load the game scene. Please refresh and try again",
+    "UIClub_DownlineInviteLinkTip": "Players who successfully register through your invitation link will automatically become your downline members",
+    "UIClub_LongPressSaveToAlbum": "Press and hold the image to save it to your album"
 };
 var esMap = {
     "4": "Error de red. Reintente.",
@@ -24516,7 +24520,9 @@ var esMap = {
     "UITexasSetting_FiveButtons": "5 botones",
     "UITexasPlayerInfoOpenAudio": "Audio on",
     "UIBridge_SceneNotReady": "La escena del juego a\xFAn no est\xE1 lista, espera",
-    "UIBridge_SceneLoadFail": "No se pudo cargar la escena del juego. Actualiza e int\xE9ntalo de nuevo"
+    "UIBridge_SceneLoadFail": "No se pudo cargar la escena del juego. Actualiza e int\xE9ntalo de nuevo",
+    "UIClub_DownlineInviteLinkTip": "Quien se registre con tu enlace ser\xE1 autom\xE1ticamente tu l\xEDnea descendente",
+    "UIClub_LongPressSaveToAlbum": "Mant\xE9n pulsada la imagen para guardarla"
 };
 var frMap = {
     "4": "Erreur r\xE9seau. R\xE9essayez.",
@@ -32663,7 +32669,9 @@ var frMap = {
     "UITexasSetting_FiveButtons": "5 boutons",
     "UITexasPlayerInfoOpenAudio": "Audio on",
     "UIBridge_SceneNotReady": "La sc\xE8ne de jeu n'est pas encore pr\xEAte, veuillez patienter",
-    "UIBridge_SceneLoadFail": "\xC9chec du chargement de la sc\xE8ne de jeu. Veuillez actualiser et r\xE9essayer"
+    "UIBridge_SceneLoadFail": "\xC9chec du chargement de la sc\xE8ne de jeu. Veuillez actualiser et r\xE9essayer",
+    "UIClub_DownlineInviteLinkTip": "Les joueurs inscrits via ton lien deviennent automatiquement ta downline",
+    "UIClub_LongPressSaveToAlbum": "Appui long sur l\u2019image pour l\u2019enregistrer"
 };
 var hiMap = {
     "4": "\u0928\u0947\u091F\u0935\u0930\u094D\u0915 \u0924\u094D\u0930\u0941\u091F\u093F\u0964 \u092C\u093E\u0926 \u092E\u0947\u0902 \u0915\u094B\u0936\u093F\u0936 \u0915\u0930\u0947\u0902\u0964",
@@ -40810,7 +40818,9 @@ var hiMap = {
     "UITexasSetting_FiveButtons": "5 \u092C\u091F\u0928",
     "UITexasPlayerInfoOpenAudio": "\u0911\u0921\u093F\u092F\u094B \u091A\u093E\u0932\u0942",
     "UIBridge_SceneNotReady": "\u0917\u0947\u092E \u0938\u0940\u0928 \u0905\u092D\u0940 \u0924\u0948\u092F\u093E\u0930 \u0928\u0939\u0940\u0902 \u0939\u0948, \u0915\u0943\u092A\u092F\u093E \u092A\u094D\u0930\u0924\u0940\u0915\u094D\u0937\u093E \u0915\u0930\u0947\u0902",
-    "UIBridge_SceneLoadFail": "\u0917\u0947\u092E \u0938\u0940\u0928 \u0932\u094B\u0921 \u0928\u0939\u0940\u0902 \u0939\u094B \u0938\u0915\u093E\u0964 \u0915\u0943\u092A\u092F\u093E \u0930\u0940\u092B\u093C\u094D\u0930\u0947\u0936 \u0915\u0930\u0915\u0947 \u092A\u0941\u0928\u0903 \u092A\u094D\u0930\u092F\u093E\u0938 \u0915\u0930\u0947\u0902"
+    "UIBridge_SceneLoadFail": "\u0917\u0947\u092E \u0938\u0940\u0928 \u0932\u094B\u0921 \u0928\u0939\u0940\u0902 \u0939\u094B \u0938\u0915\u093E\u0964 \u0915\u0943\u092A\u092F\u093E \u0930\u0940\u092B\u093C\u094D\u0930\u0947\u0936 \u0915\u0930\u0915\u0947 \u092A\u0941\u0928\u0903 \u092A\u094D\u0930\u092F\u093E\u0938 \u0915\u0930\u0947\u0902",
+    "UIClub_DownlineInviteLinkTip": "\u0906\u092A\u0915\u0947 \u0932\u093F\u0902\u0915 \u0938\u0947 \u0930\u091C\u093F\u0938\u094D\u091F\u0930 \u0915\u0930\u0928\u0947 \u0935\u093E\u0932\u0947 \u0916\u093F\u0932\u093E\u0921\u093C\u0940 \u0905\u092A\u0928\u0947 \u0906\u092A \u0906\u092A\u0915\u0940 \u0921\u093E\u0909\u0928\u0932\u093E\u0907\u0928 \u092C\u0928 \u091C\u093E\u090F\u0902\u0917\u0947",
+    "UIClub_LongPressSaveToAlbum": "\u0907\u092E\u0947\u091C \u0938\u0947\u0935 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093F\u090F \u0926\u0947\u0930 \u0924\u0915 \u0926\u092C\u093E\u090F\u0902"
 };
 var itMap = {
     "4": "Errore di rete. Riprova.",
@@ -48957,7 +48967,9 @@ var itMap = {
     "UITexasSetting_FiveButtons": "5 pulsanti",
     "UITexasPlayerInfoOpenAudio": "Audio on",
     "UIBridge_SceneNotReady": "La scena di gioco non \xE8 ancora pronta, attendi",
-    "UIBridge_SceneLoadFail": "Impossibile caricare la scena di gioco. Aggiorna e riprova"
+    "UIBridge_SceneLoadFail": "Impossibile caricare la scena di gioco. Aggiorna e riprova",
+    "UIClub_DownlineInviteLinkTip": "Chi si registra con il tuo link diventa automaticamente la tua downline",
+    "UIClub_LongPressSaveToAlbum": "Tieni premuta l\u2019immagine per salvarla"
 };
 var jaMap = {
     "4": "\u901A\u4FE1\u30A8\u30E9\u30FC\u3067\u3059\u3002\u3082\u3046\u4E00\u5EA6\u8A66\u3057\u3066\u304F\u3060\u3055\u3044\u3002",
@@ -57104,7 +57116,9 @@ var jaMap = {
     "UITexasSetting_FiveButtons": "5\u30DC\u30BF\u30F3",
     "UITexasPlayerInfoOpenAudio": "\u97F3\u58F0\u30AA\u30F3",
     "UIBridge_SceneNotReady": "\u30B2\u30FC\u30E0\u753B\u9762\u306E\u6E96\u5099\u304C\u3067\u304D\u3066\u3044\u307E\u305B\u3093\u3002\u3057\u3070\u3089\u304F\u304A\u5F85\u3061\u304F\u3060\u3055\u3044",
-    "UIBridge_SceneLoadFail": "\u30B2\u30FC\u30E0\u753B\u9762\u306E\u8AAD\u307F\u8FBC\u307F\u306B\u5931\u6557\u3057\u307E\u3057\u305F\u3002\u66F4\u65B0\u3057\u3066\u304B\u3089\u3082\u3046\u4E00\u5EA6\u304A\u8A66\u3057\u304F\u3060\u3055\u3044"
+    "UIBridge_SceneLoadFail": "\u30B2\u30FC\u30E0\u753B\u9762\u306E\u8AAD\u307F\u8FBC\u307F\u306B\u5931\u6557\u3057\u307E\u3057\u305F\u3002\u66F4\u65B0\u3057\u3066\u304B\u3089\u3082\u3046\u4E00\u5EA6\u304A\u8A66\u3057\u304F\u3060\u3055\u3044",
+    "UIClub_DownlineInviteLinkTip": "\u62DB\u5F85\u30EA\u30F3\u30AF\u304B\u3089\u767B\u9332\u3057\u305F\u30D7\u30EC\u30A4\u30E4\u30FC\u306F\u81EA\u52D5\u3067\u30C0\u30A6\u30F3\u30E9\u30A4\u30F3\u306B\u306A\u308A\u307E\u3059",
+    "UIClub_LongPressSaveToAlbum": "\u753B\u50CF\u3092\u9577\u62BC\u3057\u3067\u30A2\u30EB\u30D0\u30E0\u306B\u4FDD\u5B58"
 };
 var koMap = {
     "4": "\uB124\uD2B8\uC6CC\uD06C \uC624\uB958. \uB2E4\uC2DC \uC2DC\uB3C4.",
@@ -65251,7 +65265,9 @@ var koMap = {
     "UITexasSetting_FiveButtons": "\uBC84\uD2BC 5\uAC1C",
     "UITexasPlayerInfoOpenAudio": "\uC74C\uC131 \uCF1C\uAE30",
     "UIBridge_SceneNotReady": "\uAC8C\uC784 \uD654\uBA74\uC774 \uC544\uC9C1 \uC900\uBE44\uB418\uC9C0 \uC54A\uC558\uC2B5\uB2C8\uB2E4. \uC7A0\uC2DC \uAE30\uB2E4\uB824 \uC8FC\uC138\uC694",
-    "UIBridge_SceneLoadFail": "\uAC8C\uC784 \uD654\uBA74\uC744 \uBD88\uB7EC\uC624\uC9C0 \uBABB\uD588\uC2B5\uB2C8\uB2E4. \uC0C8\uB85C\uACE0\uCE68 \uD6C4 \uB2E4\uC2DC \uC2DC\uB3C4\uD574 \uC8FC\uC138\uC694"
+    "UIBridge_SceneLoadFail": "\uAC8C\uC784 \uD654\uBA74\uC744 \uBD88\uB7EC\uC624\uC9C0 \uBABB\uD588\uC2B5\uB2C8\uB2E4. \uC0C8\uB85C\uACE0\uCE68 \uD6C4 \uB2E4\uC2DC \uC2DC\uB3C4\uD574 \uC8FC\uC138\uC694",
+    "UIClub_DownlineInviteLinkTip": "\uCD08\uB300 \uB9C1\uD06C\uB85C \uAC00\uC785\uD55C \uD50C\uB808\uC774\uC5B4\uB294 \uC790\uB3D9\uC73C\uB85C \uD558\uC704 \uD68C\uC6D0\uC774 \uB429\uB2C8\uB2E4",
+    "UIClub_LongPressSaveToAlbum": "\uC774\uBBF8\uC9C0\uB97C \uAE38\uAC8C \uB20C\uB7EC \uC568\uBC94\uC5D0 \uC800\uC7A5"
 };
 var ptMap = {
     "4": "Erro de conex\xE3o, favor tentar novamente. ",
@@ -73398,7 +73414,9 @@ var ptMap = {
     "UITexasSetting_FiveButtons": "5 bot\xF5es",
     "UITexasPlayerInfoOpenAudio": "\xC1udio on",
     "UIBridge_SceneNotReady": "A cena do jogo ainda n\xE3o est\xE1 pronta, aguarde",
-    "UIBridge_SceneLoadFail": "Falha ao carregar a cena do jogo. Atualize e tente novamente"
+    "UIBridge_SceneLoadFail": "Falha ao carregar a cena do jogo. Atualize e tente novamente",
+    "UIClub_DownlineInviteLinkTip": "Os jogadores que se registarem com sucesso atrav\xE9s do seu link de convite tornar-se-\xE3o automaticamente membros da sua linha descendente",
+    "UIClub_LongPressSaveToAlbum": "Pressione e segure a imagem para guard\xE1-la no \xE1lbum"
 };
 var ruMap = {
     "4": "\u0421\u0435\u0442\u044C. \u041F\u043E\u0432\u0442\u043E\u0440\u0438\u0442\u0435.",
@@ -81545,7 +81563,9 @@ var ruMap = {
     "UITexasSetting_FiveButtons": "5 \u043A\u043D\u043E\u043F\u043E\u043A",
     "UITexasPlayerInfoOpenAudio": "\u0417\u0432\u0443\u043A \u0432\u043A\u043B",
     "UIBridge_SceneNotReady": "\u0418\u0433\u0440\u043E\u0432\u0430\u044F \u0441\u0446\u0435\u043D\u0430 \u0435\u0449\u0451 \u043D\u0435 \u0433\u043E\u0442\u043E\u0432\u0430, \u043F\u043E\u0434\u043E\u0436\u0434\u0438\u0442\u0435",
-    "UIBridge_SceneLoadFail": "\u041D\u0435 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u0437\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044C \u0438\u0433\u0440\u043E\u0432\u0443\u044E \u0441\u0446\u0435\u043D\u0443. \u041E\u0431\u043D\u043E\u0432\u0438\u0442\u0435 \u0441\u0442\u0440\u0430\u043D\u0438\u0446\u0443 \u0438 \u043F\u043E\u0432\u0442\u043E\u0440\u0438\u0442\u0435 \u043F\u043E\u043F\u044B\u0442\u043A\u0443"
+    "UIBridge_SceneLoadFail": "\u041D\u0435 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u0437\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044C \u0438\u0433\u0440\u043E\u0432\u0443\u044E \u0441\u0446\u0435\u043D\u0443. \u041E\u0431\u043D\u043E\u0432\u0438\u0442\u0435 \u0441\u0442\u0440\u0430\u043D\u0438\u0446\u0443 \u0438 \u043F\u043E\u0432\u0442\u043E\u0440\u0438\u0442\u0435 \u043F\u043E\u043F\u044B\u0442\u043A\u0443",
+    "UIClub_DownlineInviteLinkTip": "\u0418\u0433\u0440\u043E\u043A\u0438 \u043F\u043E \u0432\u0430\u0448\u0435\u0439 \u0441\u0441\u044B\u043B\u043A\u0435 \u0430\u0432\u0442\u043E\u043C\u0430\u0442\u0438\u0447\u0435\u0441\u043A\u0438 \u0441\u0442\u0430\u043D\u0443\u0442 \u0432\u0430\u0448\u0438\u043C\u0438 \u0440\u0435\u0444\u0435\u0440\u0430\u043B\u0430\u043C\u0438",
+    "UIClub_LongPressSaveToAlbum": "\u0423\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0439\u0442\u0435 \u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u0435, \u0447\u0442\u043E\u0431\u044B \u0441\u043E\u0445\u0440\u0430\u043D\u0438\u0442\u044C"
 };
 var thMap = {
     "4": "\u0E40\u0E19\u0E47\u0E15\u0E1C\u0E34\u0E14\u0E1E\u0E25\u0E32\u0E14 \u0E25\u0E2D\u0E07\u0E43\u0E2B\u0E21\u0E48",
@@ -89692,7 +89712,9 @@ var thMap = {
     "UITexasSetting_FiveButtons": "5 \u0E1B\u0E38\u0E48\u0E21",
     "UITexasPlayerInfoOpenAudio": "\u0E40\u0E1B\u0E34\u0E14\u0E40\u0E2A\u0E35\u0E22\u0E07",
     "UIBridge_SceneNotReady": "\u0E09\u0E32\u0E01\u0E40\u0E01\u0E21\u0E22\u0E31\u0E07\u0E44\u0E21\u0E48\u0E1E\u0E23\u0E49\u0E2D\u0E21 \u0E01\u0E23\u0E38\u0E13\u0E32\u0E23\u0E2D\u0E2A\u0E31\u0E01\u0E04\u0E23\u0E39\u0E48",
-    "UIBridge_SceneLoadFail": "\u0E42\u0E2B\u0E25\u0E14\u0E09\u0E32\u0E01\u0E40\u0E01\u0E21\u0E44\u0E21\u0E48\u0E2A\u0E33\u0E40\u0E23\u0E47\u0E08 \u0E01\u0E23\u0E38\u0E13\u0E32\u0E23\u0E35\u0E40\u0E1F\u0E23\u0E0A\u0E41\u0E25\u0E49\u0E27\u0E25\u0E2D\u0E07\u0E43\u0E2B\u0E21\u0E48"
+    "UIBridge_SceneLoadFail": "\u0E42\u0E2B\u0E25\u0E14\u0E09\u0E32\u0E01\u0E40\u0E01\u0E21\u0E44\u0E21\u0E48\u0E2A\u0E33\u0E40\u0E23\u0E47\u0E08 \u0E01\u0E23\u0E38\u0E13\u0E32\u0E23\u0E35\u0E40\u0E1F\u0E23\u0E0A\u0E41\u0E25\u0E49\u0E27\u0E25\u0E2D\u0E07\u0E43\u0E2B\u0E21\u0E48",
+    "UIClub_DownlineInviteLinkTip": "\u0E1C\u0E39\u0E49\u0E40\u0E25\u0E48\u0E19\u0E17\u0E35\u0E48\u0E2A\u0E21\u0E31\u0E04\u0E23\u0E1C\u0E48\u0E32\u0E19\u0E25\u0E34\u0E07\u0E01\u0E4C\u0E02\u0E2D\u0E07\u0E04\u0E38\u0E13\u0E08\u0E30\u0E40\u0E1B\u0E47\u0E19\u0E14\u0E32\u0E27\u0E19\u0E4C\u0E44\u0E25\u0E19\u0E4C\u0E42\u0E14\u0E22\u0E2D\u0E31\u0E15\u0E42\u0E19\u0E21\u0E31\u0E15\u0E34",
+    "UIClub_LongPressSaveToAlbum": "\u0E01\u0E14\u0E04\u0E49\u0E32\u0E07\u0E17\u0E35\u0E48\u0E23\u0E39\u0E1B\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E1A\u0E31\u0E19\u0E17\u0E36\u0E01"
 };
 var zh_TWMap = {
     "4": "\u7DB2\u8DEF\u932F\u8AA4\uFF0C\u8ACB\u7A0D\u5F8C\u91CD\u8A66",
@@ -97839,7 +97861,9 @@ var zh_TWMap = {
     "UITexasSetting_FiveButtons": "5\u500B\u6309\u9375",
     "UITexasPlayerInfoOpenAudio": "\u958B\u555F\u97F3\u983B",
     "UIBridge_SceneNotReady": "\u904A\u6232\u5834\u666F\u5C1A\u672A\u5C31\u7DD2\uFF0C\u8ACB\u7A0D\u5019",
-    "UIBridge_SceneLoadFail": "\u904A\u6232\u5834\u666F\u8F09\u5165\u5931\u6557\uFF0C\u8ACB\u91CD\u65B0\u6574\u7406\u5F8C\u518D\u8A66"
+    "UIBridge_SceneLoadFail": "\u904A\u6232\u5834\u666F\u8F09\u5165\u5931\u6557\uFF0C\u8ACB\u91CD\u65B0\u6574\u7406\u5F8C\u518D\u8A66",
+    "UIClub_DownlineInviteLinkTip": "\u73A9\u5BB6\u900F\u904E\u60A8\u7684\u9080\u8ACB\u9023\u7D50\u8A3B\u518A\u6210\u529F\u5F8C\uFF0C\u5C07\u81EA\u52D5\u6210\u70BA\u4F60\u7684\u4E0B\u7DDA",
+    "UIClub_LongPressSaveToAlbum": "\u9577\u6309\u5716\u7247\u5132\u5B58\u5230\u76F8\u7C3F"
 };
 var viMap = {
     "4": "L\u1ED7i m\u1EA1ng. Th\u1EED l\u1EA1i.",
@@ -105986,7 +106010,9 @@ var viMap = {
     "UITexasSetting_FiveButtons": "5 n\xFAt",
     "UITexasPlayerInfoOpenAudio": "B\u1EADt \xE2m",
     "UIBridge_SceneNotReady": "C\u1EA3nh game ch\u01B0a s\u1EB5n s\xE0ng, vui l\xF2ng \u0111\u1EE3i",
-    "UIBridge_SceneLoadFail": "T\u1EA3i c\u1EA3nh game th\u1EA5t b\u1EA1i. Vui l\xF2ng l\xE0m m\u1EDBi v\xE0 th\u1EED l\u1EA1i"
+    "UIBridge_SceneLoadFail": "T\u1EA3i c\u1EA3nh game th\u1EA5t b\u1EA1i. Vui l\xF2ng l\xE0m m\u1EDBi v\xE0 th\u1EED l\u1EA1i",
+    "UIClub_DownlineInviteLinkTip": "Ng\u01B0\u1EDDi ch\u01A1i \u0111\u0103ng k\xFD qua link c\u1EE7a b\u1EA1n s\u1EBD t\u1EF1 \u0111\u1ED9ng th\xE0nh tuy\u1EBFn d\u01B0\u1EDBi",
+    "UIClub_LongPressSaveToAlbum": "Nh\u1EA5n gi\u1EEF \u1EA3nh \u0111\u1EC3 l\u01B0u"
 };
 var zh_CNMap = {
     "4": "\u7F51\u7EDC\u9519\u8BEF\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5",
@@ -114133,7 +114159,9 @@ var zh_CNMap = {
     "UITexasSetting_FiveButtons": "5\u4E2A\u6309\u952E",
     "UITexasPlayerInfoOpenAudio": "\u6253\u5F00\u97F3\u9891",
     "UIBridge_SceneNotReady": "\u6E38\u620F\u573A\u666F\u672A\u5C31\u7EEA\uFF0C\u8BF7\u7B49\u5F85",
-    "UIBridge_SceneLoadFail": "\u6E38\u620F\u573A\u666F\u52A0\u8F7D\u5931\u8D25\uFF0C\u8BF7\u5237\u65B0\u540E\u91CD\u8BD5"
+    "UIBridge_SceneLoadFail": "\u6E38\u620F\u573A\u666F\u52A0\u8F7D\u5931\u8D25\uFF0C\u8BF7\u5237\u65B0\u540E\u91CD\u8BD5",
+    "UIClub_DownlineInviteLinkTip": "\u73A9\u5BB6\u901A\u8FC7\u60A8\u7684\u9080\u8BF7\u94FE\u63A5\u6CE8\u518C\u6210\u529F\u540E\uFF0C\u5C06\u81EA\u52A8\u6210\u4E3A\u4F60\u7684\u4E0B\u7EBF",
+    "UIClub_LongPressSaveToAlbum": "\u957F\u6309\u56FE\u7247\u4FDD\u5B58\u5230\u76F8\u518C"
 };
 var localesData = {
     "de": deMap,

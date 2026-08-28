@@ -8157,3 +8157,5 @@ UITexasPlayerInfoCloseAudio=Audio off
 UITexasPlayerInfoOpenAudio=Audio on
 UIBridge_SceneNotReady=La scena di gioco non è ancora pronta, attendi
 UIBridge_SceneLoadFail=Impossibile caricare la scena di gioco. Aggiorna e riprova
+UIClub_DownlineInviteLinkTip=Chi si registra con il tuo link diventa automaticamente la tua downline
+UIClub_LongPressSaveToAlbum=Tieni premuta l’immagine per salvarla

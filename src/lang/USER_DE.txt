@@ -8157,3 +8157,5 @@ UITexasPlayerInfoCloseAudio=Ton aus
 UITexasPlayerInfoOpenAudio=Ton an
 UIBridge_SceneNotReady=Die Spielszene ist noch nicht bereit, bitte warten
 UIBridge_SceneLoadFail=Spielszene konnte nicht geladen werden. Bitte aktualisieren und erneut versuchen
+UIClub_DownlineInviteLinkTip=Wer sich über deinen Link registriert, wird automatisch deine Downline
+UIClub_LongPressSaveToAlbum=Bild lange drücken zum Speichern

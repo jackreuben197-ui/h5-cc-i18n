@@ -8157,3 +8157,5 @@ UITexasPlayerInfoCloseAudio=ปิดเสียง
 UITexasPlayerInfoOpenAudio=เปิดเสียง
 UIBridge_SceneNotReady=ฉากเกมยังไม่พร้อม กรุณารอสักครู่
 UIBridge_SceneLoadFail=โหลดฉากเกมไม่สำเร็จ กรุณารีเฟรชแล้วลองใหม่
+UIClub_DownlineInviteLinkTip=ผู้เล่นที่สมัครผ่านลิงก์ของคุณจะเป็นดาวน์ไลน์โดยอัตโนมัติ
+UIClub_LongPressSaveToAlbum=กดค้างที่รูปเพื่อบันทึก

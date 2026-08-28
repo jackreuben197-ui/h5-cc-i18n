@@ -8157,3 +8157,5 @@ UITexasPlayerInfoCloseAudio=ऑडियो बंद
 UITexasPlayerInfoOpenAudio=ऑडियो चालू
 UIBridge_SceneNotReady=गेम सीन अभी तैयार नहीं है, कृपया प्रतीक्षा करें
 UIBridge_SceneLoadFail=गेम सीन लोड नहीं हो सका। कृपया रीफ़्रेश करके पुनः प्रयास करें
+UIClub_DownlineInviteLinkTip=आपके लिंक से रजिस्टर करने वाले खिलाड़ी अपने आप आपकी डाउनलाइन बन जाएंगे
+UIClub_LongPressSaveToAlbum=इमेज सेव करने के लिए देर तक दबाएं

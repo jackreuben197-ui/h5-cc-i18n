@@ -8157,3 +8157,5 @@ UITexasPlayerInfoCloseAudio=Звук выкл
 UITexasPlayerInfoOpenAudio=Звук вкл
 UIBridge_SceneNotReady=Игровая сцена ещё не готова, подождите
 UIBridge_SceneLoadFail=Не удалось загрузить игровую сцену. Обновите страницу и повторите попытку
+UIClub_DownlineInviteLinkTip=Игроки по вашей ссылке автоматически станут вашими рефералами
+UIClub_LongPressSaveToAlbum=Удерживайте изображение, чтобы сохранить

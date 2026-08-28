@@ -8157,3 +8157,5 @@ UITexasPlayerInfoCloseAudio=音声オフ
 UITexasPlayerInfoOpenAudio=音声オン
 UIBridge_SceneNotReady=ゲーム画面の準備ができていません。しばらくお待ちください
 UIBridge_SceneLoadFail=ゲーム画面の読み込みに失敗しました。更新してからもう一度お試しください
+UIClub_DownlineInviteLinkTip=招待リンクから登録したプレイヤーは自動でダウンラインになります
+UIClub_LongPressSaveToAlbum=画像を長押しでアルバムに保存

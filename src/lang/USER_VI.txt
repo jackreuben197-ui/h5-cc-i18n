@@ -8157,3 +8157,5 @@ UITexasPlayerInfoCloseAudio=Tắt âm
 UITexasPlayerInfoOpenAudio=Bật âm
 UIBridge_SceneNotReady=Cảnh game chưa sẵn sàng, vui lòng đợi
 UIBridge_SceneLoadFail=Tải cảnh game thất bại. Vui lòng làm mới và thử lại
+UIClub_DownlineInviteLinkTip=Người chơi đăng ký qua link của bạn sẽ tự động thành tuyến dưới
+UIClub_LongPressSaveToAlbum=Nhấn giữ ảnh để lưu
