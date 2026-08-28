@@ -138,7 +138,11 @@ function generateTypeScript(allLocales: AllLocales): string {
     for (var j = 0; j < keys.length; j++) {
       var key = keys[j]
       var value = locMap[key]
-      var escapedValue = value
+      // В .txt перенос строки записан как литеральный \n (других escape-последовательностей
+      // в файлах нет). Разворачиваем его в настоящий перевод строки до экранирования —
+      // иначе бэкслеш удвоится и в UI приедут видимые символы \n вместо переноса.
+      var normalized = value.replace(/\\n/g, '\n')
+      var escapedValue = normalized
         .replace(/\\/g, '\\\\')
         .replace(/'/g, "\\'")
         .replace(/\n/g, '\\n')
