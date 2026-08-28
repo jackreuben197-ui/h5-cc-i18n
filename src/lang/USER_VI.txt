@@ -8155,3 +8155,5 @@ UITexasSetting_ThreeButtons=3 nút
 UITexasSetting_FiveButtons=5 nút
 UITexasPlayerInfoCloseAudio=Tắt âm
 UITexasPlayerInfoOpenAudio=Bật âm
+UIBridge_SceneNotReady=Cảnh game chưa sẵn sàng, vui lòng đợi
+UIBridge_SceneLoadFail=Tải cảnh game thất bại. Vui lòng làm mới và thử lại

@@ -8155,3 +8155,5 @@ UITexasSetting_ThreeButtons=3ボタン
 UITexasSetting_FiveButtons=5ボタン
 UITexasPlayerInfoCloseAudio=音声オフ
 UITexasPlayerInfoOpenAudio=音声オン
+UIBridge_SceneNotReady=ゲーム画面の準備ができていません。しばらくお待ちください
+UIBridge_SceneLoadFail=ゲーム画面の読み込みに失敗しました。更新してからもう一度お試しください

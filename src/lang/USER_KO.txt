@@ -8155,3 +8155,5 @@ UITexasSetting_ThreeButtons=버튼 3개
 UITexasSetting_FiveButtons=버튼 5개
 UITexasPlayerInfoCloseAudio=음성 끄기
 UITexasPlayerInfoOpenAudio=음성 켜기
+UIBridge_SceneNotReady=게임 화면이 아직 준비되지 않았습니다. 잠시 기다려 주세요
+UIBridge_SceneLoadFail=게임 화면을 불러오지 못했습니다. 새로고침 후 다시 시도해 주세요

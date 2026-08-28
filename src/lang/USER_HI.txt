@@ -8155,3 +8155,5 @@ UITexasSetting_ThreeButtons=3 बटन
 UITexasSetting_FiveButtons=5 बटन
 UITexasPlayerInfoCloseAudio=ऑडियो बंद
 UITexasPlayerInfoOpenAudio=ऑडियो चालू
+UIBridge_SceneNotReady=गेम सीन अभी तैयार नहीं है, कृपया प्रतीक्षा करें
+UIBridge_SceneLoadFail=गेम सीन लोड नहीं हो सका। कृपया रीफ़्रेश करके पुनः प्रयास करें

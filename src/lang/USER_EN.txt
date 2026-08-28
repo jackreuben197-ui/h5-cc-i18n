@@ -8155,3 +8155,5 @@ UITexasSetting_ThreeButtons=3 Buttons
 UITexasSetting_FiveButtons=5 Buttons
 UITexasPlayerInfoCloseAudio=Audio Off
 UITexasPlayerInfoOpenAudio=Audio On
+UIBridge_SceneNotReady=Game scene is not ready yet, please wait
+UIBridge_SceneLoadFail=Failed to load the game scene. Please refresh and try again

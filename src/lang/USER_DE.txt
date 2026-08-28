@@ -8155,3 +8155,5 @@ UITexasSetting_ThreeButtons=3 Tasten
 UITexasSetting_FiveButtons=5 Tasten
 UITexasPlayerInfoCloseAudio=Ton aus
 UITexasPlayerInfoOpenAudio=Ton an
+UIBridge_SceneNotReady=Die Spielszene ist noch nicht bereit, bitte warten
+UIBridge_SceneLoadFail=Spielszene konnte nicht geladen werden. Bitte aktualisieren und erneut versuchen

@@ -8155,3 +8155,5 @@ UITexasSetting_ThreeButtons=3個按鍵
 UITexasSetting_FiveButtons=5個按鍵
 UITexasPlayerInfoCloseAudio=關閉音頻
 UITexasPlayerInfoOpenAudio=開啟音頻
+UIBridge_SceneNotReady=遊戲場景尚未就緒，請稍候
+UIBridge_SceneLoadFail=遊戲場景載入失敗，請重新整理後再試
