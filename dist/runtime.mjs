@@ -16313,8 +16313,8 @@ var enMap = {
     "UITexasPlayerInfoOpenAudio": "Audio On",
     "UIBridge_SceneNotReady": "Game scene is not ready yet, please wait",
     "UIBridge_SceneLoadFail": "Failed to load the game scene. Please refresh and try again",
-    "UIClub_DownlineInviteLinkTip": "Players who successfully register through your invitation link will automatically become your downline members",
-    "UIClub_LongPressSaveToAlbum": "Press and hold the image to save it to your album"
+    "UIClub_DownlineInviteLinkTip": "Players who register via your link automatically become your downline",
+    "UIClub_LongPressSaveToAlbum": "Long-press the image to save it"
 };
 var esMap = {
     "4": "Error de red. Reintente.",
@@ -73356,8 +73356,8 @@ var ptMap = {
     "UITexasPlayerInfoOpenAudio": "\xC1udio on",
     "UIBridge_SceneNotReady": "A cena do jogo ainda n\xE3o est\xE1 pronta, aguarde",
     "UIBridge_SceneLoadFail": "Falha ao carregar a cena do jogo. Atualize e tente novamente",
-    "UIClub_DownlineInviteLinkTip": "Os jogadores que se registarem com sucesso atrav\xE9s do seu link de convite tornar-se-\xE3o automaticamente membros da sua linha descendente",
-    "UIClub_LongPressSaveToAlbum": "Pressione e segure a imagem para guard\xE1-la no \xE1lbum"
+    "UIClub_DownlineInviteLinkTip": "Quem se registar pelo teu link torna-se automaticamente tua linha descendente",
+    "UIClub_LongPressSaveToAlbum": "Mant\xE9m premida a imagem para guardar"
 };
 var ruMap = {
     "4": "\u0421\u0435\u0442\u044C. \u041F\u043E\u0432\u0442\u043E\u0440\u0438\u0442\u0435.",

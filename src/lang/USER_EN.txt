@@ -8157,5 +8157,5 @@ UITexasPlayerInfoCloseAudio=Audio Off
 UITexasPlayerInfoOpenAudio=Audio On
 UIBridge_SceneNotReady=Game scene is not ready yet, please wait
 UIBridge_SceneLoadFail=Failed to load the game scene. Please refresh and try again
-UIClub_DownlineInviteLinkTip=Players who successfully register through your invitation link will automatically become your downline members
-UIClub_LongPressSaveToAlbum=Press and hold the image to save it to your album
+UIClub_DownlineInviteLinkTip=Players who register via your link automatically become your downline
+UIClub_LongPressSaveToAlbum=Long-press the image to save it
