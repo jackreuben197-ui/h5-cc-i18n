@@ -7160,6 +7160,7 @@ UICreateMahjongMttTips19=Please enter a valid auto-play limit
 UIMatchProgress=Tournament Progress
 Spinner_Tip=Syncing cloud data...
 UITabbarHome=Home
+UITabbarMatch=Matches
 UIHomeMahjongArea=Mahjong
 UIHomeMahjongAreaTip=Real-money games with real players
 UIHomePokerArea=Poker

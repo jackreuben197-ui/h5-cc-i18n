@@ -7159,6 +7159,7 @@ UICreateMahjongMttTips19=Insira um limite de jogo automático válido
 UIMatchProgress=Progresso do torneio
 Spinner_Tip=Sincronizando dados na nuvem...
 UITabbarHome=Início
+UITabbarMatch=Partidas
 UIHomeMahjongArea=Mahjong
 UIHomeMahjongAreaTip=Partidas com dinheiro real e jogadores reais
 UIHomePokerArea=Poker
