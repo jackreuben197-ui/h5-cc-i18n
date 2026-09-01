@@ -3139,7 +3139,7 @@ UITexasRule_Introduce=<b><size=50>Introducción</size></b>\nHold'em, el juego de
 UIPlO4Rule_Introduce=<b><size=50>Introducción</size></b>\nOmaha y Hold'em son muy similares, con un factor que cambia el juego: las Reglas. En lugar de dos cartas, hay de cuatro a seis cartas. En Omaha, los jugadores deben hacer la mejor mano usando una combinación de dos cartas de su mano y tres cartas de la carta comunitaria.\n\n<b><size=50>PLO4</size></b>\nEn "Pot Limit Omaha" (la forma más popular de Omaha Poker), la cantidad máxima de fichas que un jugador puede colocar es la misma cantidad en el premio acumulado. "4" significa que se repartirán cuatro cartas ocultas a cada jugador.\n\n<b><size=50>Cómo jugar</size></b>\n1.Omaha tiene cuatro rondas;\n2.Flop: Cada jugador recibirá 4 cartas y luego comenzará la primera ronda;\n3.Flop: Después de repartir tres cartas comunitarias, los jugadores restantes de la primera ronda comenzarán la segunda ronda;\n4.Turno: se juega la tercera ronda después de la 4ésima carta comunitaria;\n5.River: se juega la 4 ronda después de la 5ésima carta comunitaria;\n6. Una vez finalizado el juego, todos los jugadores restantes deben mostrar sus cartas y el jugador con la mano más alta gana el premio acumulado.\n\n<b><size=50>Tamaño de mano:</size></b>\nEscalera real > Escalera de color > Póquer > Full > Color > Escalera > Trips > Dos pares > Un par > Carta alta\nTamaño de la mano:\nA>K>Q>J>10>9>8>7>6>5>4>3>2, independientemente del palo\n\n
 UIPlO5Rule_Introduce=<b><size=50>Introducción</size></b>\nOmaha y Hold'em son muy similares, con un factor que cambia el juego: las Reglas. En lugar de dos cartas, hay de cuatro a seis cartas. En Omaha, los jugadores deben hacer la mejor mano usando una combinación de dos cartas de su mano y tres cartas de la carta comunitaria.\n\n<b><size=50>PLO5</size></b>\nEn "Pot Limit Omaha" (la forma más popular de Omaha Poker), la cantidad máxima de fichas que un jugador puede colocar es la misma cantidad en el premio acumulado. "5" significa que se repartirán cinco cartas ocultas a cada jugador.\n\n<b><size=50>Cómo jugar</size></b>\n1.Omaha tiene cuatro rondas;\n2.Flop: Cada jugador recibirá 4 cartas y luego comenzará la primera ronda;\n3.Flop: Después de repartir tres cartas comunitarias, los jugadores restantes de la primera ronda comenzarán la segunda ronda;\n4.Turno: se juega la tercera ronda después de la 4ésima carta comunitaria;\n5.River: Ronda 4 después de jugarse la carta comunitaria 5;\n6. Una vez finalizado el juego, todos los jugadores restantes deben mostrar sus cartas y el jugador con la mano más alta gana el premio acumulado.\n\n<b><size=50>Tamaño de mano:</size></b>\nEscalera real > Escalera de color > Póquer > Full > Color > Escalera > Trips > Dos pares > Un par > Carta alta\nTamaño de la mano:\nA>K>Q>J>10>9>8>7>6>5>4>3>2, independientemente del palo\n\n
 UIPlO6Rule_Introduce=<b><size=46>Introducción</size></b>\nOmaha y Hold'em son muy similares, con un factor que cambia el juego: las Reglas. En lugar de dos cartas, hay de cuatro a seis cartas. En Omaha, los jugadores deben hacer la mejor mano usando una combinación de dos cartas de su mano y tres cartas de la carta comunitaria.\n\n<b><size=46>PLO6</size></b>\nEn "Pot Limit Omaha" (la forma más popular de Omaha Poker), la cantidad máxima de fichas que un jugador puede colocar es la misma cantidad en el premio acumulado. "6" significa que se repartirán seis cartas ocultas a cada jugador.\n\n<b><size=46>Cómo jugar</size></b>\n1.Omaha tiene cuatro rondas;\n2.Flop: Cada jugador recibirá 4 cartas y luego comenzará la primera ronda;\n3.Flop: Después de repartir tres cartas comunitarias, los jugadores restantes de la primera ronda comenzarán la segunda ronda;\n4.Turno: se juega la tercera ronda después de la 4ésima carta comunitaria;\n5.River: Ronda 4 después de jugarse la carta comunitaria 5;\n6. Una vez finalizado el juego, todos los jugadores restantes deben mostrar sus cartas y el jugador con la mano más alta gana el premio acumulado.\n\n<b><size=46>Tamaño de mano:</size></b>\nEscalera real > Escalera de color > Póquer > Full > Color > Escalera > Trips > Dos pares > Un par > Carta alta\nTamaño de la mano:\nA>K>Q>J>10>9>8>7>6>5>4>3>2, independientemente del palo\n\n
-UI6Plus_Introduce=<b><size=46>6+Hold'em</size></b>\n6+ Hold'em es un popular juego de póquer de "baraja corta" que sigue principalmente las mismas reglas que el Hold'em, pero con algunas diferencias interesantes:\n1. Todas las cartas inferiores a 6 se eliminarán del mazo;\n2. La apuesta y el ante de todos\n\nExclusivamente en New Poker, 6+ Hold 'em te brinda la oportunidad de jugar un juego repleto de funciones adorado por jugadores aventureros de todo el mundo.\n\n
+UI6Plus_Introduce=<b><size=46>6+Hold'em</size></b>\n6+ Hold'em es un popular juego de póquer de "baraja corta" que sigue principalmente las mismas reglas que el Hold'em, pero con algunas diferencias interesantes:\n1. Todas las cartas inferiores a 6 se eliminarán del mazo;\n2. La apuesta y el ante de todos\n\nExclusivamente en U POKER, 6+ Hold 'em te brinda la oportunidad de jugar un juego repleto de funciones adorado por jugadores aventureros de todo el mundo.\n\n
 UIRecharge_Input=Recargar
 UIWithdraw_Input=Retirar
 UIReplicationFailed=Error de copia
@@ -3172,10 +3172,10 @@ UIMine_GoogleMap=Google Maps
 UIMine_WazeMap=Mapa de Waze
 UIMine_PleaseEnter=Por favor ingresa
 UIMine_NoOfflineTickets=Otros se han apoderado de las entradas
-UIText_NeedUpdate=NUEVO POKER Actualización inmediata
+UIText_NeedUpdate=U POKER Actualización inmediata
 UIText_Desc1=Revisión del estilo de la página de inicio, contenido más completo, experiencia visual renovada
 UIText_Desc2=Colección de entrada de funciones, conveniente para que pueda encontrar rápidamente los módulos de funciones que desea
-UIText_Desc3=[Cancelar actualización] saldrá directamente de NEW POKER
+UIText_Desc3=[Cancelar actualización] saldrá directamente de U POKER
 UIText_NeedUpdate_Exit=Salir
 UIText_NeedUpdate_Update=Actualización
 UIMTT_StateHuntChampionships=MTT de recompensas
@@ -3197,7 +3197,7 @@ UIHappyShop_JoinRecord=Récord de participación
 UIHappyShop_MyPrize=Mis premios
 UIHappyShop_Ruler=Cómo jugar
 UIHappyShop_FreeJoin=Participación libre
-UIHappyShop_RulerDetail=<P><T>NEW POKER, para agradecer a los jugadores por su continuo apoyo, lanzó especialmente el evento Super 1 para recompensar a nuestros jugadores VIP. Además del marco de avatar exclusivo y otros privilegios en el juego, los jugadores que se convierten en VIP de NEW POKER también pueden recibir cupones de evento para participar en el evento de recompensa especial Super 1<P><H>1. Introducción del evento<P><T>1. ¡Super 1 ha preparado una variedad de generosos obsequios para jugadores VIP que esperan que todos sorteen! <P><T>2.Super 1 divide cada regalo en partes iguales y 1 cupones de eventos se pueden extraer 1 veces. Se obtendrá un número cuando el jugador saque 1 veces. Cuando se sortee el número de ejemplares de este obsequio, el sistema calculará un "código de la suerte" basándose en las Reglas de lotería. ¡El propietario de este "código de la suerte" puede obtener este producto! <P><H>2. Participa en Reglas<P><T>1. Cada jugador puede comprar servicios VIP a través de "My Mall" y recibir cupones de eventos como obsequio. 1 El servicio VIP de Tiande otorgará 1 cupones de eventos. <P><T>2. Cada jugador puede obtener cupones de actividad completando la tarea diaria "Super 1". <P><H>3. Reglas de Lotería<P><T>1. Cuando se distribuya el último número del regalo, el sistema extraerá el tiempo de participación de los últimos 50 usuarios participantes. Si son menos de 50, se tomará el número según el número máximo. <P><T>2. Sume los valores de tiempo de participación de los últimos 50 usuarios participantes para obtener el valor A (cada tiempo se combina en el orden de horas, minutos, segundos y milisegundos. Por ejemplo, 20:15:23.345 es 201523345).<P><T>3. El resto obtenido al dividir el valor A por el número total de premios + el número original 10000001 es el "código de la suerte" final. El jugador que posea el "código de la suerte" recibirá directamente la recompensa. <P><H>4. Recibir Reglas<P><T>1. Regalos físicos. Los usuarios ganadores deben recibir los artículos ganadores dentro de 3 meses después de ganar y proporcionar una dirección postal válida de acuerdo con las indicaciones de esta plataforma. Si pasan más de 3 meses para registrarse para recibir la recompensa o no proporciona una dirección postal válida, se considerará que la recompensa se ha renunciado. <P><T>2. Para obsequios físicos, después de registrarse y proporcionar una dirección postal válida, todos los obsequios físicos requieren 60 días hábiles para su envío. <P><T>3. Cualquier obsequio físico se puede canjear por GC del mismo valor que el obsequio. <P><T>4. Si el regalo ganador es un accesorio virtual NEW POKER, la plataforma lo distribuirá directamente en la mochila del jugador ganador y lo comprobará por sí mismo. <P><H>5.CancelarReglas<P><T>1. Los jugadores que utilicen cupones de eventos para participar en el sorteo de regalos no podrán cancelar el reembolso. <P><T>2.Super 1 Si la actividad de búsqueda del tesoro para un solo artículo no cumple con el número total de veces requeridas dentro de un cierto período de tiempo o hay algunos factores incontrolables, NEW POKER tiene el derecho de cancelar la actividad a mitad de camino, y los cupones de actividad consumidos por el usuario se devolverán de la misma manera. <P><H>6. Declaración de derechos<P><T>1.Super 1 Todas las posventa de obsequios son proporcionadas por la marca de obsequios y no tienen nada que ver con esta plataforma. <P><T>2.Super 1 El tiempo y el período de validez los determina NEW POKER. La hora, las recompensas y todo el contenido de este evento se pueden cambiar en cualquier momento. La decisión de la plataforma es definitiva y no puede ser cuestionada ni apelada.\n
+UIHappyShop_RulerDetail=<P><T>U POKER, para agradecer a los jugadores por su continuo apoyo, lanzó especialmente el evento Super 1 para recompensar a nuestros jugadores VIP. Además del marco de avatar exclusivo y otros privilegios en el juego, los jugadores que se convierten en VIP de U POKER también pueden recibir cupones de evento para participar en el evento de recompensa especial Super 1<P><H>1. Introducción del evento<P><T>1. ¡Super 1 ha preparado una variedad de generosos obsequios para jugadores VIP que esperan que todos sorteen! <P><T>2.Super 1 divide cada regalo en partes iguales y 1 cupones de eventos se pueden extraer 1 veces. Se obtendrá un número cuando el jugador saque 1 veces. Cuando se sortee el número de ejemplares de este obsequio, el sistema calculará un "código de la suerte" basándose en las Reglas de lotería. ¡El propietario de este "código de la suerte" puede obtener este producto! <P><H>2. Participa en Reglas<P><T>1. Cada jugador puede comprar servicios VIP a través de "My Mall" y recibir cupones de eventos como obsequio. 1 El servicio VIP de Tiande otorgará 1 cupones de eventos. <P><T>2. Cada jugador puede obtener cupones de actividad completando la tarea diaria "Super 1". <P><H>3. Reglas de Lotería<P><T>1. Cuando se distribuya el último número del regalo, el sistema extraerá el tiempo de participación de los últimos 50 usuarios participantes. Si son menos de 50, se tomará el número según el número máximo. <P><T>2. Sume los valores de tiempo de participación de los últimos 50 usuarios participantes para obtener el valor A (cada tiempo se combina en el orden de horas, minutos, segundos y milisegundos. Por ejemplo, 20:15:23.345 es 201523345).<P><T>3. El resto obtenido al dividir el valor A por el número total de premios + el número original 10000001 es el "código de la suerte" final. El jugador que posea el "código de la suerte" recibirá directamente la recompensa. <P><H>4. Recibir Reglas<P><T>1. Regalos físicos. Los usuarios ganadores deben recibir los artículos ganadores dentro de 3 meses después de ganar y proporcionar una dirección postal válida de acuerdo con las indicaciones de esta plataforma. Si pasan más de 3 meses para registrarse para recibir la recompensa o no proporciona una dirección postal válida, se considerará que la recompensa se ha renunciado. <P><T>2. Para obsequios físicos, después de registrarse y proporcionar una dirección postal válida, todos los obsequios físicos requieren 60 días hábiles para su envío. <P><T>3. Cualquier obsequio físico se puede canjear por GC del mismo valor que el obsequio. <P><T>4. Si el regalo ganador es un accesorio virtual U POKER, la plataforma lo distribuirá directamente en la mochila del jugador ganador y lo comprobará por sí mismo. <P><H>5.CancelarReglas<P><T>1. Los jugadores que utilicen cupones de eventos para participar en el sorteo de regalos no podrán cancelar el reembolso. <P><T>2.Super 1 Si la actividad de búsqueda del tesoro para un solo artículo no cumple con el número total de veces requeridas dentro de un cierto período de tiempo o hay algunos factores incontrolables, U POKER tiene el derecho de cancelar la actividad a mitad de camino, y los cupones de actividad consumidos por el usuario se devolverán de la misma manera. <P><H>6. Declaración de derechos<P><T>1.Super 1 Todas las posventa de obsequios son proporcionadas por la marca de obsequios y no tienen nada que ver con esta plataforma. <P><T>2.Super 1 El tiempo y el período de validez los determina U POKER. La hora, las recompensas y todo el contenido de este evento se pueden cambiar en cualquier momento. La decisión de la plataforma es definitiva y no puede ser cuestionada ni apelada.\n
 UIHappyShop_Periods=Problema {0}
 UIHappyShop_ActivitySchedule=Progreso del evento
 UIHappyShop_Join=Participa
@@ -5582,7 +5582,7 @@ UI_Share_Image=compartir fotos
 UI_Share_Recommend=Compartir recomendado
 UI_Share_Enter_Club_Room_Fail=Únete a MesaError, aún no te has unido al Club
 UI_Share_Enter_Union_Room_Fail=Únete a MesaError, aún no te has unido a la Unión
-UI_Share_Text={0} te invita a unirte a [NewPoker] Mesa{1}, ¡haz clic en el enlace para unirte a nosotros!
+UI_Share_Text={0} te invita a unirte a [U POKER] Mesa{1}, ¡haz clic en el enlace para unirte a nosotros!
 UICreateClubJackpotTemplate_PotGold_Tip=Cantidad del bote
 UITexasTableSetting_Jackpot_PotGold=La contribución al premio mayor es el {0}% del bote
 UI_Share_Room_Not_Exit=Mesa no existe
@@ -5611,7 +5611,7 @@ UICommunity_TakeList_Tip2=Una sociedad a gran escala que puede tener varios club
 UIMatchViewMain_Nearby_Tip=Centro comercial periférico, aún no desarrollado
 UICreateRandomMatchMode=Crear plantilla
 UIMatchViewMain_OnlineStore=Tienda en línea
-UI_Share_QRCode_Text={0} te invita a unirte a [NewPoker] Mesa{1}
+UI_Share_QRCode_Text={0} te invita a unirte a [U POKER] Mesa{1}
 UI_Share_QRCode_Scan=Escanea el código QR para unirte al juego
 UINoGameTip=Aún no hay juego
 tokenFail=Error al iniciar sesión, vuelva a ingresar
@@ -5792,7 +5792,7 @@ Career_StakeProbability=Tasa de aciertos
 Career_TotalEarn=Beneficio total
 Cowboy_RedToast=Límite rojo alcanzado
 QRCode_JoinUs=Escanea la imagen del código QR para unirte a nosotros
-QRCode_InvatePlay=Te invitamos a jugar NewPoker
+QRCode_InvatePlay=Te invitamos a jugar U POKER
 UIViewAdvancedConfiguration=Ampliar para ver configuraciones más avanzadas
 UIViewSimplifiedConfiguration=Ver configuraciones simplificadas
 UICommon_ActivityPoints=Puntos de actividad
@@ -6252,7 +6252,7 @@ UISituationTotalBringIn=Buy-in
 UISituationCurHandNum=Manos
 UISituationVerBottom=Bote medio
 UISituationCurTime=Duración
-UISituationRemainTime=Tiempo restante
+UISituationRemainTime=Restante
 UISituationActivityScore=Puntos activos
 UISituationTotalInsure=Seguro total
 UISituationShowOnlinePlayer=Solo jugadores en mesa
@@ -6343,7 +6343,7 @@ UICreateTable_AutoSeatCount=Inicio completo
 UICreateTable_MinVPIPLimit=Límite VPIP
 UICreateTable_AllInAfterTwoCard=Correr 2 veces
 SystemMaintenance=Estimados jugadores, el servidor está a punto de recibir mantenimiento, el tiempo de mantenimiento esperado es {0}
-UIShareClub_Title=<color=#82EB4A>Únete a NEWPOKER</color>\nActiva tu viaje competitivo
+UIShareClub_Title=<color=#82EB4A>Únete a U POKER</color>\nActiva tu viaje competitivo
 UIShareClub_Share_Txt=Guardar\nCompartir
 UIShareClub_join_Play=Escanee el código QR para unirse Inicio con un clic
 UICreateTable_HandsCardCount=Hole cards
@@ -7720,7 +7720,7 @@ UIClub_Text108=Actualización
 UIClub_LoadClub=Club de carga
 UIClub_NoClub=Ningún club todavía
 UIClub_Text109=Primero creemos uno
-UIClub_Table2=Tabla
+UIClub_Table2=Mesas
 UIClub_Fund3=Pestaña Fondo
 UIClub_Income5=Consulta de ingresos
 UIClub_Agent2=Propiedad del agente
@@ -8106,7 +8106,7 @@ Page_DataDetails_NoPlayerRecord=Sin registros de jugadores
 Page_DataDetails_Loading=Cargando...
 
 Page_AboutUs_Heading=Sobre la plataforma
-Page_AboutUs_Body=Siempre nos hemos esforzado por cultivar una comunidad de amantes del póquer, para permitirles jugar al ritmo casual que deseen en W poker. Como pioneros de las partidas de póquer organizadas por amigos y de las partidas rápidas, contamos con la aprobación de muchos jugadores de póquer. W poker se enorgullece de ser una plataforma de póquer justa y confiable. Nuestros algoritmos de barajado y generadores de números aleatorios han sido certificados por Gaming Laboratories International (GLI), la agencia de certificación independiente líder en la industria, y se ha verificado que son justos para el póquer y los juegos de azar relacionados. Para una plataforma de póquer, la imparcialidad es clave. Nuestros generadores de números aleatorios deciden nuestras secuencias de barajado y reparto, y nuestra certificación GLI demuestra que nuestra imparcialidad no se verá comprometida en ningún escenario.
+Page_AboutUs_Body=Siempre nos hemos esforzado por cultivar una comunidad de amantes del póquer, para permitirles jugar al ritmo casual que deseen en U POKER. Como pioneros de las partidas de póquer organizadas por amigos y de las partidas rápidas, contamos con la aprobación de muchos jugadores de póquer. U POKER se enorgullece de ser una plataforma de póquer justa y confiable. Nuestros algoritmos de barajado y generadores de números aleatorios han sido certificados por Gaming Laboratories International (GLI), la agencia de certificación independiente líder en la industria, y se ha verificado que son justos para el póquer y los juegos de azar relacionados. Para una plataforma de póquer, la imparcialidad es clave. Nuestros generadores de números aleatorios deciden nuestras secuencias de barajado y reparto, y nuestra certificación GLI demuestra que nuestra imparcialidad no se verá comprometida en ningún escenario.
 
 Page_MineBill_UCTotalAmount=Total de UC
 

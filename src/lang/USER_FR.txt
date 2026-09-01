@@ -3139,7 +3139,7 @@ UITexasRule_Introduce=<b><size=50>Présentation</size></b>\nHold'em, le jeu de p
 UIPlO4Rule_Introduce=<b><size=50>Présentation</size></b>\nL'Omaha et le Hold'em sont très similaires et ont des règles qui changent la donne. Au lieu de deux cartes, il y en a quatre à six. À l'Omaha, les joueurs doivent former la meilleure main en utilisant une combinaison de deux cartes de leur main et de trois cartes de la carte commune.\n\n<b><size=50>PLO4</size></b>\nAu "Pot Limit Omaha" (la forme la plus populaire d'Omaha Poker), le nombre maximum de jetons qu'un joueur peut placer est le même que celui de la cagnotte. "4" signifie que quatre cartes fermées seront distribuées à chaque joueur.\n\n<b><size=50>Comment jouer</size></b>\n1.Omaha a quatre tours ;\n2.Flop : chaque joueur recevra 4 cartes puis commencera le premier tour ;\n3.Flop : après la distribution de trois cartes communes, les joueurs restants du premier tour commenceront le deuxième tour ;\n4.Tour : le troisième tour après la 4ème carte commune est joué ;\n5.River : le tour 4 après la 5ème carte commune est joué ;\n\n\n<b><size=50>Taille de la main :</size></b>\nQuinte Flush Royale > Quinte Flush > Carré > Full House > Quinte Flush > Quinte > Trips > Deux Paires > Une Paire > Carte Haute\nTaille de la main :\nA>K>Q>J>10>9>8>7>6>5>4>3>2, quelle que soit la couleur\n\n
 UIPlO5Rule_Introduce=<b><size=50>Présentation</size></b>\nL'Omaha et le Hold'em sont très similaires et ont des règles qui changent la donne. Au lieu de deux cartes, il y en a quatre à six. À l'Omaha, les joueurs doivent former la meilleure main en utilisant une combinaison de deux cartes de leur main et de trois cartes de la carte commune.\n\n<b><size=50>PLO5</size></b>\nAu "Pot Limit Omaha" (la forme la plus populaire d'Omaha Poker), le nombre maximum de jetons qu'un joueur peut placer est le même que celui de la cagnotte. "5" signifie que cinq cartes fermées seront distribuées à chaque joueur.\n\n<b><size=50>Comment jouer</size></b>\n1.Omaha a quatre tours ;\n2.Flop : chaque joueur recevra 4 cartes puis commencera le premier tour ;\n3.Flop : après la distribution de trois cartes communes, les joueurs restants du premier tour commenceront le deuxième tour ;\n4.Tour : le troisième tour après la 4ème carte commune est joué ;\n5.Rivière : tour 4 après que la carte communautaire 5 ait été jouée ;\n\n\n<b><size=50>Taille de la main :</size></b>\nQuinte Flush Royale > Quinte Flush > Carré > Full House > Quinte Flush > Quinte > Trips > Deux Paires > Une Paire > Carte Haute\nTaille de la main :\nA>K>Q>J>10>9>8>7>6>5>4>3>2, quelle que soit la couleur\n\n
 UIPlO6Rule_Introduce=<b><size=46>Présentation</size></b>\nL'Omaha et le Hold'em sont très similaires et ont des règles qui changent la donne. Au lieu de deux cartes, il y en a quatre à six. À l'Omaha, les joueurs doivent former la meilleure main en utilisant une combinaison de deux cartes de leur main et de trois cartes de la carte commune.\n\n<b><size=46>PLO6</size></b>\nAu "Pot Limit Omaha" (la forme la plus populaire d'Omaha Poker), le nombre maximum de jetons qu'un joueur peut placer est le même que celui de la cagnotte. "6" signifie que six cartes fermées seront distribuées à chaque joueur.\n\n<b><size=46>Comment jouer</size></b>\n1.Omaha a quatre tours ;\n2.Flop : chaque joueur recevra 4 cartes puis commencera le premier tour ;\n3.Flop : après la distribution de trois cartes communes, les joueurs restants du premier tour commenceront le deuxième tour ;\n4.Tour : le troisième tour après la 4ème carte commune est joué ;\n5.Rivière : tour 4 après que la carte communautaire 5 ait été jouée ;\n\n\n<b><size=46>Taille de la main :</size></b>\nQuinte Flush Royale > Quinte Flush > Carré > Full House > Quinte Flush > Quinte > Trips > Deux Paires > Une Paire > Carte Haute\nTaille de la main :\nA>K>Q>J>10>9>8>7>6>5>4>3>2, quelle que soit la couleur\n\n
-UI6Plus_Introduce=<b><size=46>6+Hold'em</size></b>\n6+ Le Hold'em est un jeu de poker "Short Deck" populaire qui suit pour l'essentiel les mêmes règles que le Hold'em, mais avec quelques différences intéressantes :\n1. Toutes les cartes inférieures à 6 seront supprimées du jeu ;\n2. La mise et la mise de chacun\n3. La couleur est supérieure au full et A, 6, 7, 8, 9 sont classés comme la quinte la plus basse.\nEn exclusivité sur New Poker, 6+ Hold 'em vous donne la chance de jouer à un jeu riche en fonctionnalités apprécié des joueurs aventureux du monde entier.\n\n
+UI6Plus_Introduce=<b><size=46>6+Hold'em</size></b>\n6+ Le Hold'em est un jeu de poker "Short Deck" populaire qui suit pour l'essentiel les mêmes règles que le Hold'em, mais avec quelques différences intéressantes :\n1. Toutes les cartes inférieures à 6 seront supprimées du jeu ;\n2. La mise et la mise de chacun\n3. La couleur est supérieure au full et A, 6, 7, 8, 9 sont classés comme la quinte la plus basse.\nEn exclusivité sur U POKER, 6+ Hold 'em vous donne la chance de jouer à un jeu riche en fonctionnalités apprécié des joueurs aventureux du monde entier.\n\n
 UIRecharge_Input=Recharger
 UIWithdraw_Input=Retirer
 UIReplicationFailed=Copier Échec
@@ -3172,10 +3172,10 @@ UIMine_GoogleMap=Google Maps
 UIMine_WazeMap=Carte Waze
 UIMine_PleaseEnter=Veuillez saisir
 UIMine_NoOfflineTickets=Les billets ont été récupérés par d'autres
-UIText_NeedUpdate=NOUVEAU POKER Mise à jour immédiate
+UIText_NeedUpdate=U POKER Mise à jour immédiate
 UIText_Desc1=Révision du style de la page d'accueil, contenu plus complet, expérience visuelle actualisée
 UIText_Desc2=Collection d'entrées de fonctions, pratique pour trouver rapidement les modules de fonctions que vous souhaitez
-UIText_Desc3=[Mise à jour Annuler] quittera directement NEW POKER
+UIText_Desc3=[Mise à jour Annuler] quittera directement U POKER
 UIText_NeedUpdate_Exit=Quitter
 UIText_NeedUpdate_Update=Mise à jour
 UIMTT_StateHuntChampionships=Bounty MTT
@@ -3197,7 +3197,7 @@ UIHappyShop_JoinRecord=Record de participation
 UIHappyShop_MyPrize=Mes prix
 UIHappyShop_Ruler=Comment jouer
 UIHappyShop_FreeJoin=Participer gratuitement
-UIHappyShop_RulerDetail=<P><T>NEW POKER remercie les joueurs avec Super 1, événement VIP. Les VIP reçoivent des privilèges et des coupons.<P><H>1. Présentation<P><T>1. Super 1 propose de nombreux cadeaux aux VIP.<P><T>2. Chaque cadeau est divisé en parts. 1 coupon donne 1 tirage et un code. Quand toutes les parts sont attribuées, le détenteur du code chanceux gagne.<P><H>2. Participation<P><T>1. Chaque jour de service VIP acheté dans “Ma boutique” offre 1 coupon.<P><T>2. Les tâches quotidiennes Super 1 offrent aussi des coupons.<P><H>3. Tirage<P><T>1. Après le dernier numéro, le système utilise les heures des 50 derniers participants, ou de tous s’ils sont moins de 50.<P><T>2. Leur somme donne A. Heures, minutes, secondes et millisecondes sont concaténées : 20:15:23.345 devient 201523345.<P><T>3. Code chanceux = (A modulo nombre total de parts) + 10000001. Son détenteur gagne.<P><H>4. Réception<P><T>1. Un cadeau physique doit être réclamé sous 3 mois avec une adresse valide ; passé ce délai ou sans adresse, il est abandonné.<P><T>2. L’expédition prend 60 jours ouvrés.<P><T>3. Tout cadeau physique peut être converti en GC de même valeur.<P><T>4. Les objets virtuels NEW POKER sont envoyés dans le sac du gagnant.<P><H>5. Annulation<P><T>1. Une participation ne peut être ni annulée ni remboursée.<P><T>2. Si le nombre requis n’est pas atteint ou en cas de facteur incontrôlable, NEW POKER peut annuler et rendre les coupons.<P><H>6. Droits<P><T>1. Le service après-vente relève de la marque du cadeau.<P><T>2. NEW POKER peut modifier durée, récompenses et contenu ; sa décision est définitive.\n
+UIHappyShop_RulerDetail=<P><T>U POKER remercie les joueurs avec Super 1, événement VIP. Les VIP reçoivent des privilèges et des coupons.<P><H>1. Présentation<P><T>1. Super 1 propose de nombreux cadeaux aux VIP.<P><T>2. Chaque cadeau est divisé en parts. 1 coupon donne 1 tirage et un code. Quand toutes les parts sont attribuées, le détenteur du code chanceux gagne.<P><H>2. Participation<P><T>1. Chaque jour de service VIP acheté dans “Ma boutique” offre 1 coupon.<P><T>2. Les tâches quotidiennes Super 1 offrent aussi des coupons.<P><H>3. Tirage<P><T>1. Après le dernier numéro, le système utilise les heures des 50 derniers participants, ou de tous s’ils sont moins de 50.<P><T>2. Leur somme donne A. Heures, minutes, secondes et millisecondes sont concaténées : 20:15:23.345 devient 201523345.<P><T>3. Code chanceux = (A modulo nombre total de parts) + 10000001. Son détenteur gagne.<P><H>4. Réception<P><T>1. Un cadeau physique doit être réclamé sous 3 mois avec une adresse valide ; passé ce délai ou sans adresse, il est abandonné.<P><T>2. L’expédition prend 60 jours ouvrés.<P><T>3. Tout cadeau physique peut être converti en GC de même valeur.<P><T>4. Les objets virtuels U POKER sont envoyés dans le sac du gagnant.<P><H>5. Annulation<P><T>1. Une participation ne peut être ni annulée ni remboursée.<P><T>2. Si le nombre requis n’est pas atteint ou en cas de facteur incontrôlable, U POKER peut annuler et rendre les coupons.<P><H>6. Droits<P><T>1. Le service après-vente relève de la marque du cadeau.<P><T>2. U POKER peut modifier durée, récompenses et contenu ; sa décision est définitive.\n
 UIHappyShop_Periods=Problème {0}
 UIHappyShop_ActivitySchedule=Progression de l'activité
 UIHappyShop_Join=Participer
@@ -5582,7 +5582,7 @@ UI_Share_Image=Partage d'images
 UI_Share_Recommend=Partage recommandé
 UI_Share_Enter_Club_Room_Fail=Rejoignez TableÉchec, vous n'êtes pas encore inscrit au Club
 UI_Share_Enter_Union_Room_Fail=Rejoignez TableÉchec, vous n'êtes pas encore adhérent à l'Union
-UI_Share_Text={0} vous invite à rejoindre la table [NewPoker]{1}, cliquez sur le lien pour nous rejoindre !
+UI_Share_Text={0} vous invite à rejoindre la table [U POKER]{1}, cliquez sur le lien pour nous rejoindre !
 UICreateClubJackpotTemplate_PotGold_Tip=Montant du pot
 UITexasTableSetting_Jackpot_PotGold=La contribution au jackpot est de {0} % du pot
 UI_Share_Room_Not_Exit=Le tableau n'existe pas
@@ -5611,7 +5611,7 @@ UICommunity_TakeList_Tip2=Une société à grande échelle qui peut avoir plusie
 UIMatchViewMain_Nearby_Tip=Centre commercial périphérique, pas encore développé
 UICreateRandomMatchMode=Créer un modèle
 UIMatchViewMain_OnlineStore=Boutique en ligne
-UI_Share_QRCode_Text={0} vous invite à rejoindre la table [NewPoker]{1}
+UI_Share_QRCode_Text={0} vous invite à rejoindre la table [U POKER]{1}
 UI_Share_QRCode_Scan=Scannez le code QR pour rejoindre le jeu
 UINoGameTip=Pas encore de jeu
 tokenFail=La connexion a échoué, veuillez vous reconnecter
@@ -5792,7 +5792,7 @@ Career_StakeProbability=Taux de réussite
 Career_TotalEarn=Bénéfice total
 Cowboy_RedToast=Limite rouge atteinte
 QRCode_JoinUs=Scannez l'image du code QR pour nous rejoindre
-QRCode_InvatePlay=Vous invite à jouer à NewPoker
+QRCode_InvatePlay=Vous invite à jouer à U POKER
 UIViewAdvancedConfiguration=Développez pour afficher des configurations plus avancées
 UIViewSimplifiedConfiguration=Afficher les configurations simplifiées
 UICommon_ActivityPoints=Points d'activité
@@ -6252,7 +6252,7 @@ UISituationTotalBringIn=Buy-in
 UISituationCurHandNum=Mains
 UISituationVerBottom=Pot moyen
 UISituationCurTime=Durée
-UISituationRemainTime=Temps restant
+UISituationRemainTime=Restant
 UISituationActivityScore=Points actifs
 UISituationTotalInsure=Assurance totale
 UISituationShowOnlinePlayer=Joueurs à table seulement
@@ -6343,7 +6343,7 @@ UICreateTable_AutoSeatCount=Démarrage complet
 UICreateTable_MinVPIPLimit=Limite VPIP
 UICreateTable_AllInAfterTwoCard=Jouer 2 fois
 SystemMaintenance=Chers joueurs, le serveur est sur le point d'être maintenu, la durée de maintenance prévue est de {0}
-UIShareClub_Title=<color=#82EB4A>Rejoignez NEWPOKER</color>\nActivez votre parcours compétitif
+UIShareClub_Title=<color=#82EB4A>Rejoignez U POKER</color>\nActivez votre parcours compétitif
 UIShareClub_Share_Txt=Enregistrer\nPartager
 UIShareClub_join_Play=Scannez le code QR pour rejoindre le démarrage en un clic
 UICreateTable_HandsCardCount=Hole cards
@@ -7720,7 +7720,7 @@ UIClub_Text108=Mise à niveau
 UIClub_LoadClub=Chargement du club
 UIClub_NoClub=Pas encore de club
 UIClub_Text109=Créez-en un d’abord
-UIClub_Table2=Bureau
+UIClub_Table2=Tables
 UIClub_Fund3=Onglet Fonds
 UIClub_Income5=Requête de revenu
 UIClub_Agent2=Agent
@@ -8106,7 +8106,7 @@ Page_DataDetails_NoPlayerRecord=Aucun enregistrement de joueur
 Page_DataDetails_Loading=Chargement...
 
 Page_AboutUs_Heading=À propos de la plateforme
-Page_AboutUs_Body=Nous nous sommes toujours efforcés de cultiver une communauté de passionnés de poker, afin de leur permettre de jouer à leur propre rythme sur W poker. En tant que pionnier des parties de poker hébergées par des amis et des parties rapides, nous avons reçu l'approbation de nombreux joueurs de poker. W poker est fier d'être une plateforme de poker équitable et digne de confiance. Nos algorithmes de mélange et nos générateurs de nombres aléatoires ont été certifiés par Gaming Laboratories International (GLI), le principal organisme de certification indépendant du secteur, et se sont révélés équitables pour le poker et les jeux de hasard associés. Pour une plateforme de poker, l'équité est primordiale. Nos générateurs de nombres aléatoires déterminent nos séquences de mélange et de distribution, et notre certification GLI prouve que notre équité ne sera en aucun cas compromise.
+Page_AboutUs_Body=Nous nous sommes toujours efforcés de cultiver une communauté de passionnés de poker, afin de leur permettre de jouer à leur propre rythme sur U POKER. En tant que pionnier des parties de poker hébergées par des amis et des parties rapides, nous avons reçu l'approbation de nombreux joueurs de poker. U POKER est fier d'être une plateforme de poker équitable et digne de confiance. Nos algorithmes de mélange et nos générateurs de nombres aléatoires ont été certifiés par Gaming Laboratories International (GLI), le principal organisme de certification indépendant du secteur, et se sont révélés équitables pour le poker et les jeux de hasard associés. Pour une plateforme de poker, l'équité est primordiale. Nos générateurs de nombres aléatoires déterminent nos séquences de mélange et de distribution, et notre certification GLI prouve que notre équité ne sera en aucun cas compromise.
 
 Page_MineBill_UCTotalAmount=Total de UC
 

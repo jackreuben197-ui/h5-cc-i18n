@@ -3139,7 +3139,7 @@ UITexasRule_Introduce=<b><size=50>介绍</size></b>\n德州扑克, 扑克游戏�
 UIPlO4Rule_Introduce=<b><size=50>介绍</size></b>\n奥马哈和德州扑克非常相似，有一个改变游戏规则的因素。不是两张牌，而是四到六张牌。在奥马哈，玩家必须用他们手上的两张牌和社区牌的三张牌的组合来做出最好的手牌。\n\n<b><size=50>PLO4</size></b>\nIn “池底限注奥马哈”(最受欢迎的形式的奥马哈扑克)，一个玩家可以放筹码的最大值是相同的金额在奖池。“4”意味着四张底牌将发给每个玩家。\n\n<b><size=50>玩法</size></b>\n1.奥马哈有四轮;\n2.翻牌前:每个玩家将被处理4张牌，然后开始第一轮;\n3.翻牌:发完三张公共牌后，第一轮剩余的玩家将开始第二轮;\n4.转牌:打出第4张公共牌后的第三回合;\n5.河牌:第5张社区卡出牌后的第4轮;\n6.游戏结束后，所有剩下的玩家都必须出示他们的牌，手牌最高的玩家赢得奖池。\n\n<b><size=50>手牌大小:</size></b>\n皇家同花顺>同花顺>四条>葫芦>同花>顺子>三条>两对>一对>高牌\n牌的大小: \nA>K>Q>J>10>9>8>7>6>5>4>3>2, 不管花色\n\n
 UIPlO5Rule_Introduce=<b><size=50>介绍</size></b>\n奥马哈和德州扑克非常相似，有一个改变游戏规则的因素。不是两张牌，而是四到六张牌。在奥马哈，玩家必须用他们手上的两张牌和社区牌的三张牌的组合来做出最好的手牌。\n\n<b><size=50>PLO5</size></b>\nIn “池底限注奥马哈”(最受欢迎的形式的奥马哈扑克)，一个玩家可以放筹码的最大值是相同的金额在奖池。 “5”意味着五张底牌将发给每个玩家。\n\n<b><size=50>玩法</size></b>\n1.奥马哈有四轮;\n2.翻牌前:每个玩家将被处理4张牌，然后开始第一轮;\n3.翻牌:发完三张公共牌后，第一轮剩余的玩家将开始第二轮;\n4.转牌:打出第4张公共牌后的第三回合;\n5.河牌:第5张社区牌出牌后的第4轮;\n6.游戏结束后，所有剩下的玩家都必须出示他们的牌，手牌最高的玩家赢得奖池。\n\n<b><size=50>手牌大小:</size></b>\n皇家同花顺>同花顺>四条>葫芦>同花>顺子>三条>两对>一对>高牌\n牌的大小: \nA>K>Q>J>10>9>8>7>6>5>4>3>2, 不管花色\n\n
 UIPlO6Rule_Introduce=<b><size=46>介绍</size></b>\n奥马哈和德州扑克非常相似，有一个改变游戏规则的因素。不是两张牌，而是四到六张牌。在奥马哈，玩家必须用他们手上的两张牌和社区牌的三张牌的组合来做出最好的手牌。\n\n<b><size=46>PLO6</size></b>\nIn  “池底限注奥马哈”(最受欢迎的形式的奥马哈扑克)，一个玩家可以放筹码的最大值是相同的金额在奖池。“6”意味着六张底牌将发给每个玩家。\n\n<b><size=46>玩法</size></b>\n1.奥马哈有四轮;\n2.翻牌前:每个玩家将被处理4张牌，然后开始第一轮;\n3.翻牌:发完三张公共牌后，第一轮剩余的玩家将开始第二轮;\n4.转牌:打出第4张公共牌后的第三回合;\n5.河牌:第5张社区牌出牌后的第4轮;\n6.游戏结束后，所有剩下的玩家都必须出示他们的牌，手牌最高的玩家赢得奖池。\n\n<b><size=46>手牌大小:</size></b>\n皇家同花顺>同花顺>四条>葫芦>同花>顺子>三条>两对>一对>高牌\n牌的大小: \nA>K>Q>J>10>9>8>7>6>5>4>3>2, 不管花色\n\n
-UI6Plus_Introduce=<b><size=46>6+德州</size></b>\n6+ 德州 是一种流行的“短牌”扑克玩法，大部分遵循与德州扑克相同的规则，但有一些令人兴奋的不同:\n1.所有低于6的牌将从牌组中移除;\n2.每个人下注和底注\n3.同花比葫芦大，A, 6, 7, 8, 9被归类为最低顺子\n独家在New Poker，6+ Hold 'em让你有机会玩一个内容丰富的游戏，受到世界各地喜欢冒险玩家的喜爱。\n\n
+UI6Plus_Introduce=<b><size=46>6+德州</size></b>\n6+ 德州 是一种流行的“短牌”扑克玩法，大部分遵循与德州扑克相同的规则，但有一些令人兴奋的不同:\n1.所有低于6的牌将从牌组中移除;\n2.每个人下注和底注\n3.同花比葫芦大，A, 6, 7, 8, 9被归类为最低顺子\n独家在U POKER，6+ Hold 'em让你有机会玩一个内容丰富的游戏，受到世界各地喜欢冒险玩家的喜爱。\n\n
 UIRecharge_Input=充值游戏币数量
 UIWithdraw_Input=提取游戏币数量
 UIReplicationFailed=复制失败
@@ -3172,10 +3172,10 @@ UIMine_GoogleMap=谷歌地图
 UIMine_WazeMap=Waze地图
 UIMine_PleaseEnter=请输入
 UIMine_NoOfflineTickets=门票已被他人抢到
-UIText_NeedUpdate=NEW POKER 立即更新
+UIText_NeedUpdate=U POKER 立即更新
 UIText_Desc1=首页风格改版，更全面的内容，焕然一新的视觉体验
 UIText_Desc2=功能入口集结，方便您快速找到自己想要的功能模块
-UIText_Desc3=[取消更新]会直接退出 NEW POKER
+UIText_Desc3=[取消更新]会直接退出 U POKER
 UIText_NeedUpdate_Exit=退出
 UIText_NeedUpdate_Update=更新
 UIMTT_StateHuntChampionships=悬赏金锦标赛
@@ -3197,7 +3197,7 @@ UIHappyShop_JoinRecord=参与记录
 UIHappyShop_MyPrize=我的奖品
 UIHappyShop_Ruler=规则说明
 UIHappyShop_FreeJoin=免费参与
-UIHappyShop_RulerDetail=<P><T>NEW POKER为了感谢玩家们一直以来的支持，特意推出Super 1活动回馈我们VIP玩家。凡是成为NEW POKER VIP的玩家除了游戏中的专属头像框等特权以外，还可获得活动券参加Super 1特别回馈活动<P><H>一.活动介绍<P><T>1. Super 1 为VIP玩家准备多种丰厚的礼品等待大家抽取！<P><T>2.Super 1将每件礼品分成若干等份，1张活动券可抽1次。当玩家抽取1次后会获的一个编号，当这件礼品的份数被抽取完毕后，系统会根据抽奖规则计算出一个“幸运编码”，此“幸运编码”的拥有者即可获得这件商品！<P><H>二.参与规则<P><T>1. 每个玩家可通过“我的商城”购买VIP服务，赠送获得活动券参与，1天得VIP服务赠送1次活动券。<P><T>2. 每个玩家可通过完成“Super 1”每日任务获得活动券参与.<P><H>三.抽奖规则<P><T>1.当礼品最后一个号码分配完毕后，系统会将奖品最后50个参与用户的参与时间提取，不足50个按照最多数取。<P><T>2.将最后50个参与用户的参与时间数值进行求和，得到数值A（每个时间按照小时、份、秒、毫秒的顺序组合，如20:15:23.345则为201523345）.<P><T>3.数值A除以该奖品总该奖品总份数得到的余数+原始数10000001，得到最终“幸运编码”，拥有该“幸运编码”的玩家，直接获得该奖励。<P><H>四.领奖规则<P><T>1.实物礼品，需中奖的用户在中奖后的3个月内领取中奖物品，并且根据本平台提示，提供有效通讯地址，超过3个月为登记领取奖励或则未提供有效通讯地址则视为放弃奖励。<P><T>2.实物礼品，在登记提供有效通讯地址后，所有实物礼品需要60个工作日运输日期。<P><T>3.任何实物礼品都可兑换成该礼品对等价值的GC。<P><T>4.若中奖礼品为NEW POKER虚拟道具，平台将直接发放到中奖玩家背包，自行查收。<P><H>五.取消规则<P><T>1.玩家使用活动券参与礼品的抽奖，将无法取消退回。<P><T>2.Super 1单件商品的夺宝活动在一定时间没有挤满总次数要求或存在某些不可控因素，NEW POKER有权中途取消，用户消耗的活动券会原路反还。<P><H>六.权益声明<P><T>1.Super 1所有礼品售后均由礼品品牌方提供，和本平台没有任何关系<P><T>2.Super 1的时间有效期由NEW POKER决定，可随时更改时间，奖励以及和此活动的一切内容，平台的决定是最终的，不得质疑和申述。\n
+UIHappyShop_RulerDetail=<P><T>U POKER为了感谢玩家们一直以来的支持，特意推出Super 1活动回馈我们VIP玩家。凡是成为U POKER VIP的玩家除了游戏中的专属头像框等特权以外，还可获得活动券参加Super 1特别回馈活动<P><H>一.活动介绍<P><T>1. Super 1 为VIP玩家准备多种丰厚的礼品等待大家抽取！<P><T>2.Super 1将每件礼品分成若干等份，1张活动券可抽1次。当玩家抽取1次后会获的一个编号，当这件礼品的份数被抽取完毕后，系统会根据抽奖规则计算出一个“幸运编码”，此“幸运编码”的拥有者即可获得这件商品！<P><H>二.参与规则<P><T>1. 每个玩家可通过“我的商城”购买VIP服务，赠送获得活动券参与，1天得VIP服务赠送1次活动券。<P><T>2. 每个玩家可通过完成“Super 1”每日任务获得活动券参与.<P><H>三.抽奖规则<P><T>1.当礼品最后一个号码分配完毕后，系统会将奖品最后50个参与用户的参与时间提取，不足50个按照最多数取。<P><T>2.将最后50个参与用户的参与时间数值进行求和，得到数值A（每个时间按照小时、份、秒、毫秒的顺序组合，如20:15:23.345则为201523345）.<P><T>3.数值A除以该奖品总该奖品总份数得到的余数+原始数10000001，得到最终“幸运编码”，拥有该“幸运编码”的玩家，直接获得该奖励。<P><H>四.领奖规则<P><T>1.实物礼品，需中奖的用户在中奖后的3个月内领取中奖物品，并且根据本平台提示，提供有效通讯地址，超过3个月为登记领取奖励或则未提供有效通讯地址则视为放弃奖励。<P><T>2.实物礼品，在登记提供有效通讯地址后，所有实物礼品需要60个工作日运输日期。<P><T>3.任何实物礼品都可兑换成该礼品对等价值的GC。<P><T>4.若中奖礼品为U POKER虚拟道具，平台将直接发放到中奖玩家背包，自行查收。<P><H>五.取消规则<P><T>1.玩家使用活动券参与礼品的抽奖，将无法取消退回。<P><T>2.Super 1单件商品的夺宝活动在一定时间没有挤满总次数要求或存在某些不可控因素，U POKER有权中途取消，用户消耗的活动券会原路反还。<P><H>六.权益声明<P><T>1.Super 1所有礼品售后均由礼品品牌方提供，和本平台没有任何关系<P><T>2.Super 1的时间有效期由U POKER决定，可随时更改时间，奖励以及和此活动的一切内容，平台的决定是最终的，不得质疑和申述。\n
 UIHappyShop_Periods=第{0}期
 UIHappyShop_ActivitySchedule=活动进度
 UIHappyShop_Join=参与
@@ -5582,7 +5582,7 @@ UI_Share_Image=图片分享
 UI_Share_Recommend=推荐分享
 UI_Share_Enter_Club_Room_Fail=加入牌桌失败，您暂未加入俱乐部
 UI_Share_Enter_Union_Room_Fail=加入牌桌失败，您暂未加入联盟
-UI_Share_Text={0}邀请您加入【NewPoker】牌桌{1}，点击链接加入我们吧！
+UI_Share_Text={0}邀请您加入【U POKER】牌桌{1}，点击链接加入我们吧！
 UICreateClubJackpotTemplate_PotGold_Tip=底池金额
 UITexasTableSetting_Jackpot_PotGold=Jackpot贡献为底池的{0}%
 UI_Share_Room_Not_Exit=牌桌不存在
@@ -5611,7 +5611,7 @@ UICommunity_TakeList_Tip2=可拥有多个俱乐部，旗下俱乐部玩家可以
 UIMatchViewMain_Nearby_Tip=周边商城，暂未开发
 UICreateRandomMatchMode=创建模版
 UIMatchViewMain_OnlineStore=在线商店
-UI_Share_QRCode_Text={0}邀请您加入【NewPoker】牌桌{1}
+UI_Share_QRCode_Text={0}邀请您加入【U POKER】牌桌{1}
 UI_Share_QRCode_Scan=扫描二维码加入牌局
 UINoGameTip=暂无牌局
 tokenFail=登錄失效,请重新登录
@@ -5792,7 +5792,7 @@ Career_StakeProbability=押中率
 Career_TotalEarn=总盈利
 Cowboy_RedToast=已达限红
 QRCode_JoinUs=扫描二维码图片，加入我们吧
-QRCode_InvatePlay=邀请你来玩 NewPoker
+QRCode_InvatePlay=邀请你来玩 U POKER
 UIViewAdvancedConfiguration=展开查看更多高级配置
 UIViewSimplifiedConfiguration=查看简化配置
 UICommon_ActivityPoints=活跃度积分
@@ -6343,7 +6343,7 @@ UICreateTable_AutoSeatCount=人满开局
 UICreateTable_MinVPIPLimit=入局率限制
 UICreateTable_AllInAfterTwoCard=ALLIN后支持两次
 SystemMaintenance=亲爱的玩家，服务器即将维护，预计维护时间{0}
-UIShareClub_Title=<color=#82EB4A>加入 NEWPOKER</color>\n开启你的竞技之旅
+UIShareClub_Title=<color=#82EB4A>加入 U POKER</color>\n开启你的竞技之旅
 UIShareClub_Share_Txt=保存\n分享
 UIShareClub_join_Play=扫码加入 一键开局
 UICreateTable_HandsCardCount=手牌数
@@ -8106,7 +8106,7 @@ Page_DataDetails_NoPlayerRecord=暂无玩家记录
 Page_DataDetails_Loading=加载中...
 
 Page_AboutUs_Heading=关于平台
-Page_AboutUs_Body=我们一直致力于培育一个扑克爱好者社区，让玩家能够在W poker上以自己喜欢的节奏休闲娱乐。作为好友局和快速游戏的先驱，我们已获得众多扑克玩家的认可。W poker致力于成为一个公平、值得信赖的扑克平台。我们的洗牌算法和随机数生成器已通过业内领先的独立认证机构——国际游戏实验室（GLI）的认证，被验证为对扑克及相关博彩游戏公平公正。对于一个扑克平台而言，公平是核心。我们的随机数生成器决定洗牌和发牌顺序，GLI认证证明我们的公平性在任何情况下都不会妥协。
+Page_AboutUs_Body=我们一直致力于培育一个扑克爱好者社区，让玩家能够在U POKER上以自己喜欢的节奏休闲娱乐。作为好友局和快速游戏的先驱，我们已获得众多扑克玩家的认可。U POKER致力于成为一个公平、值得信赖的扑克平台。我们的洗牌算法和随机数生成器已通过业内领先的独立认证机构——国际游戏实验室（GLI）的认证，被验证为对扑克及相关博彩游戏公平公正。对于一个扑克平台而言，公平是核心。我们的随机数生成器决定洗牌和发牌顺序，GLI认证证明我们的公平性在任何情况下都不会妥协。
 
 Page_MineBill_UCTotalAmount=联盟币总金额
 

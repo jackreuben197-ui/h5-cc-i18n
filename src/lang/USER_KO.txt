@@ -1971,7 +1971,7 @@ UITexasRule_detail2=다음 핸드에서 플레이어가 빅 SB 포지션이 아�
 UITexasRule_title113=최소 제공 시간
 UITexasRule_detail3=최소 플레이 시간이 관리자 켜기인 경우, 플레이어의 게임 플레이 시간은 최소 시간을 충족해야 합니다. 그렇지 않으면 시스템은 블라인드 플레이 호스팅 모드를 구현합니다.
 UITexasRule_detail4=1. 모든 플레이어가 All in 상태일 때 인슈어런스를 활성화하세요.
-UITexasRule_detail5=2. Currently there is a purchase proceeding by the player with the highest card type. If there are multiple pots, the player who leads the largest pot will buy it, and only the largest pot can be purchased
+UITexasRule_detail5=2. 현재 가장 높은 족보를 가진 플레이어가 구매합니다. 팟이 여러 개일 경우 가장 큰 팟에서 앞서고 있는 플레이어가 구매하며, 가장 큰 팟만 구매할 수 있습니다
 UITexasRule_detail6=3. 인슈어런스 팟에 3명 이상의 플레이어가 있을 경우 인슈어런스가 활성화되지 않습니다. (인슈어런스는 2명 또는 3명일 때 구매 가능합니다.)
 UITexasRule_detail7=4. 쓰리 플롭은 구매할 수 없으며 턴 보험 금액은 0.25*팟을 초과할 수 없으며 리버 보험 금액은 0.5*팟을 초과할 수 없습니다
 UITexasRule_detail8=5. Turn인슈어런스를 구매하면 시스템은 플레이어가 River 인슈어런스를 소량 구매하고 Turn의 인슈어런스 투자금을 회수하도록 강제합니다.
@@ -3139,7 +3139,7 @@ UITexasRule_Introduce=<b><size=50>소개</size></b>\n홀덤(Hold'em) 포커 게�
 UIPlO4Rule_Introduce=<b><size=50>소개</size></b>\n오마하는 텍사스 홀덤과 매우 비슷하지만 게임 규칙을 바꾸는 중요한 차이가 있습니다. 2장이 아니라 4~6장의 카드를 받습니다. 오마하에서는 반드시 손에 든 카드 2장과 커뮤니티 카드 3장을 조합해 최고의 패를 만들어야 합니다.\n\n<b><size=50>PLO4</size></b>\n“Pot Limit Omaha”(가장 인기 있는 오마하 포커 형식)에서는 플레이어가 베팅할 수 있는 최대 Chips가 팟의 금액과 같습니다. “4”는 각 플레이어에게 홀 카드 4장을 준다는 뜻입니다.\n\n<b><size=50>진행 방식</size></b>\n1. 오마하는 4번의 베팅 라운드로 진행됩니다;\n2. 프리플롭: 각 플레이어에게 카드 4장을 준 뒤 첫 번째 베팅 라운드를 시작합니다;\n3. 플롭: 커뮤니티 카드 3장을 준 뒤 첫 라운드에 남은 플레이어가 두 번째 베팅 라운드를 시작합니다;\n4. 턴: 네 번째 커뮤니티 카드를 낸 뒤 세 번째 베팅 라운드를 진행합니다;\n5. 리버: 다섯 번째 커뮤니티 카드를 낸 뒤 네 번째 베팅 라운드를 진행합니다;\n6. 게임 종료 후 남은 모든 플레이어가 패를 공개하며 가장 높은 패를 가진 플레이어가 팟을 이깁니다.\n\n<b><size=50>패 순위:</size></b>\n로열 플러시>스트레이트 플러시>포카드>풀하우스>플러시>스트레이트>트리플>투 페어>원 페어>하이 카드\n카드 순위: \nA>K>Q>J>10>9>8>7>6>5>4>3>2, 무늬는 모두 동등합니다\n\n
 UIPlO5Rule_Introduce=<b><size=50>소개</size></b>\n오마하는 텍사스 홀덤과 매우 비슷하지만 게임 규칙을 바꾸는 중요한 차이가 있습니다. 2장이 아니라 4~6장의 카드를 받습니다. 오마하에서는 반드시 손에 든 카드 2장과 커뮤니티 카드 3장을 조합해 최고의 패를 만들어야 합니다.\n\n<b><size=50>PLO5</size></b>\n“Pot Limit Omaha”(가장 인기 있는 오마하 포커 형식)에서는 플레이어가 베팅할 수 있는 최대 Chips가 팟의 금액과 같습니다. “5”는 각 플레이어에게 홀 카드 5장을 준다는 뜻입니다.\n\n<b><size=50>진행 방식</size></b>\n1. 오마하는 4번의 베팅 라운드로 진행됩니다;\n2. 프리플롭: 각 플레이어에게 카드 4장을 준 뒤 첫 번째 베팅 라운드를 시작합니다;\n3. 플롭: 커뮤니티 카드 3장을 준 뒤 첫 라운드에 남은 플레이어가 두 번째 베팅 라운드를 시작합니다;\n4. 턴: 네 번째 커뮤니티 카드를 낸 뒤 세 번째 베팅 라운드를 진행합니다;\n5. 리버: 다섯 번째 커뮤니티 카드를 낸 뒤 네 번째 베팅 라운드를 진행합니다;\n6. 게임 종료 후 남은 모든 플레이어가 패를 공개하며 가장 높은 패를 가진 플레이어가 팟을 이깁니다.\n\n<b><size=50>패 순위:</size></b>\n로열 플러시>스트레이트 플러시>포카드>풀하우스>플러시>스트레이트>트리플>투 페어>원 페어>하이 카드\n카드 순위: \nA>K>Q>J>10>9>8>7>6>5>4>3>2, 무늬는 모두 동등합니다\n\n
 UIPlO6Rule_Introduce=<b><size=46>소개</size></b>\n오마하는 텍사스 홀덤과 매우 비슷하지만 게임 규칙을 바꾸는 중요한 차이가 있습니다. 2장이 아니라 4~6장의 카드를 받습니다. 오마하에서는 반드시 손에 든 카드 2장과 커뮤니티 카드 3장을 조합해 최고의 패를 만들어야 합니다.\n\n<b><size=46>PLO6</size></b>\n“Pot Limit Omaha”(가장 인기 있는 오마하 포커 형식)에서는 플레이어가 베팅할 수 있는 최대 Chips가 팟의 금액과 같습니다. “6”은 각 플레이어에게 홀 카드 6장을 준다는 뜻입니다.\n\n<b><size=46>진행 방식</size></b>\n1. 오마하는 4번의 베팅 라운드로 진행됩니다;\n2. 프리플롭: 각 플레이어에게 카드 4장을 준 뒤 첫 번째 베팅 라운드를 시작합니다;\n3. 플롭: 커뮤니티 카드 3장을 준 뒤 첫 라운드에 남은 플레이어가 두 번째 베팅 라운드를 시작합니다;\n4. 턴: 네 번째 커뮤니티 카드를 낸 뒤 세 번째 베팅 라운드를 진행합니다;\n5. 리버: 다섯 번째 커뮤니티 카드를 낸 뒤 네 번째 베팅 라운드를 진행합니다;\n6. 게임 종료 후 남은 모든 플레이어가 패를 공개하며 가장 높은 패를 가진 플레이어가 팟을 이깁니다.\n\n<b><size=46>패 순위:</size></b>\n로열 플러시>스트레이트 플러시>포카드>풀하우스>플러시>스트레이트>트리플>투 페어>원 페어>하이 카드\n카드 순위: \nA>K>Q>J>10>9>8>7>6>5>4>3>2, 무늬는 모두 동등합니다\n\n
-UI6Plus_Introduce=<b><size=46>6+Hold'em</size></b>\n6+ 홀덤은 대부분 홀덤과 동일한 규칙을 따르지만 몇 가지 흥미로운 차이점이 있는 인기 있는 "쇼트 데크" 포커 플레이입니다.\n1. 6개 이하의 모든 카드가 덱에서 제거됩니다.\n2.모두의 베팅 및 앤티\n3. 플러쉬는 풀하우스보다 높고 A, 6, 7, 8, 9가 가장 낮은 스트레이트로 분류됩니다.\nNew Poker에서만 제공되는 6+ 홀덤을 통해 전 세계 모험을 좋아하는 플레이어들에게 사랑받는 기능이 가득한 게임을 플레이할 수 있습니다.\n\n
+UI6Plus_Introduce=<b><size=46>6+Hold'em</size></b>\n6+ 홀덤은 대부분 홀덤과 동일한 규칙을 따르지만 몇 가지 흥미로운 차이점이 있는 인기 있는 "쇼트 데크" 포커 플레이입니다.\n1. 6개 이하의 모든 카드가 덱에서 제거됩니다.\n2.모두의 베팅 및 앤티\n3. 플러쉬는 풀하우스보다 높고 A, 6, 7, 8, 9가 가장 낮은 스트레이트로 분류됩니다.\nU POKER에서만 제공되는 6+ 홀덤을 통해 전 세계 모험을 좋아하는 플레이어들에게 사랑받는 기능이 가득한 게임을 플레이할 수 있습니다.\n\n
 UIRecharge_Input=충전게임 코인의 양
 UIWithdraw_Input=게임 화폐 금액 인출
 UIReplicationFailed=복사 실패
@@ -3172,10 +3172,10 @@ UIMine_GoogleMap=구글 지도
 UIMine_WazeMap=Waze 지도
 UIMine_PleaseEnter=입력하세요
 UIMine_NoOfflineTickets=티켓을 다른 사용자가 먼저 받았습니다
-UIText_NeedUpdate=NEW POKER 즉시 업데이트
+UIText_NeedUpdate=U POKER 즉시 업데이트
 UIText_Desc1=홈페이지 스타일 개정, 더욱 포괄적인 콘텐츠, 새로운 시각적 경험
 UIText_Desc2=원하는 기능 모듈을 빠르게 찾을 수 있도록 도와주는 기능 입구 컬렉션
-UIText_Desc3=[취소업데이트] NEW POKER에서 바로 종료됩니다.
+UIText_Desc3=[취소업데이트] U POKER에서 바로 종료됩니다.
 UIText_NeedUpdate_Exit=종료
 UIText_NeedUpdate_Update=업데이트
 UIMTT_StateHuntChampionships=현상금 MTT
@@ -3197,7 +3197,7 @@ UIHappyShop_JoinRecord=참가기록
 UIHappyShop_MyPrize=내 상품
 UIHappyShop_Ruler=규제 지침
 UIHappyShop_FreeJoin=무료로 참여 가능
-UIHappyShop_RulerDetail=<P><T>NEW POKER는 VIP 플레이어를 위한 Super 1 이벤트를 제공합니다<P><H>1. 소개<P><T>1. 다양한 경품이 준비되어 있습니다<P><T>2. 쿠폰 1장으로 1회 참여해 번호를 받으며 번호가 모두 배정되면 행운 코드를 계산합니다<P><H>2. 참여<P><T>1. VIP 1일 구매 시 쿠폰 1장을 받습니다<P><T>2. 일일 미션으로 쿠폰을 받습니다<P><H>3. 추첨<P><T>1. 최근 참여자 50명의 시간을 사용합니다<P><T>2. 시, 분, 초, 밀리초를 결합해 A를 구합니다. 예: 20:15:23.345 = 201523345<P><T>3. A를 경품 총 몫으로 나눈 나머지에 10000001을 더해 행운 코드를 정합니다<P><H>4. 수령<P><T>1. 실물은 3개월 안에 주소를 등록해야 합니다<P><T>2. 60영업일 이내 배송됩니다<P><T>3. 동등한 GC로 교환할 수 있습니다<P><T>4. 가상 아이템은 가방에 지급됩니다<P><H>5. 취소<P><T>1. 사용한 쿠폰은 반환할 수 없습니다<P><T>2. 불가항력 시 취소하고 쿠폰을 반환할 수 있습니다<P><H>6. 고지<P><T>1. 사후 서비스는 브랜드가 제공합니다<P><T>2. NEW POKER는 기간과 보상을 변경할 수 있으며 플랫폼 결정이 최종입니다\n
+UIHappyShop_RulerDetail=<P><T>U POKER는 VIP 플레이어를 위한 Super 1 이벤트를 제공합니다<P><H>1. 소개<P><T>1. 다양한 경품이 준비되어 있습니다<P><T>2. 쿠폰 1장으로 1회 참여해 번호를 받으며 번호가 모두 배정되면 행운 코드를 계산합니다<P><H>2. 참여<P><T>1. VIP 1일 구매 시 쿠폰 1장을 받습니다<P><T>2. 일일 미션으로 쿠폰을 받습니다<P><H>3. 추첨<P><T>1. 최근 참여자 50명의 시간을 사용합니다<P><T>2. 시, 분, 초, 밀리초를 결합해 A를 구합니다. 예: 20:15:23.345 = 201523345<P><T>3. A를 경품 총 몫으로 나눈 나머지에 10000001을 더해 행운 코드를 정합니다<P><H>4. 수령<P><T>1. 실물은 3개월 안에 주소를 등록해야 합니다<P><T>2. 60영업일 이내 배송됩니다<P><T>3. 동등한 GC로 교환할 수 있습니다<P><T>4. 가상 아이템은 가방에 지급됩니다<P><H>5. 취소<P><T>1. 사용한 쿠폰은 반환할 수 없습니다<P><T>2. 불가항력 시 취소하고 쿠폰을 반환할 수 있습니다<P><H>6. 고지<P><T>1. 사후 서비스는 브랜드가 제공합니다<P><T>2. U POKER는 기간과 보상을 변경할 수 있으며 플랫폼 결정이 최종입니다\n
 UIHappyShop_Periods=문제 {0}
 UIHappyShop_ActivitySchedule=활동 진행
 UIHappyShop_Join=참여
@@ -5582,7 +5582,7 @@ UI_Share_Image=이미지 공유
 UI_Share_Recommend=추천 공유
 UI_Share_Enter_Club_Room_Fail=Table실패에 가입하세요, 아직 Club에 가입하지 않으셨습니다
 UI_Share_Enter_Union_Room_Fail=JoinTable실패님, 아직 유니온 에 가입하지 않으셨습니다
-UI_Share_Text={0}님이 당신을 【NewPoker】테이블{1}에 초대합니다. 링크를 클릭해 참여하세요!
+UI_Share_Text={0}님이 당신을 【U POKER】테이블{1}에 초대합니다. 링크를 클릭해 참여하세요!
 UICreateClubJackpotTemplate_PotGold_Tip=냄비 양
 UITexasTableSetting_Jackpot_PotGold=잭팟 기여도는 팟의 {0}%
 UI_Share_Room_Not_Exit=테이블이 존재하지 않습니다
@@ -5611,7 +5611,7 @@ UICommunity_TakeList_Tip2=여러 개의 클럽을 가질 수 있는 대규모 �
 UIMatchViewMain_Nearby_Tip=아직 개발되지 않은 주변 상가
 UICreateRandomMatchMode=템플릿 생성
 UIMatchViewMain_OnlineStore=온라인 상점
-UI_Share_QRCode_Text={0} 님이 귀하를 [NewPoker] 테이블에 초대했습니다{1}
+UI_Share_QRCode_Text={0} 님이 귀하를 [U POKER] 테이블에 초대했습니다{1}
 UI_Share_QRCode_Scan=QR 코드를 스캔하여 게임에 참여하세요
 UINoGameTip=아직 게임이 없습니다
 tokenFail=로그인에 실패했습니다. 다시 시도해 주세요
@@ -5792,7 +5792,7 @@ Career_StakeProbability=승률
 Career_TotalEarn=총 이익
 Cowboy_RedToast=빨간색 한계에 도달했습니다
 QRCode_JoinUs=QR 코드 이미지를 스캔하여 참여하세요
-QRCode_InvatePlay=NewPoker 플레이에 당신을 초대합니다
+QRCode_InvatePlay=U POKER 플레이에 당신을 초대합니다
 UIViewAdvancedConfiguration=더 많은 고급 구성을 보려면 확장하세요
 UIViewSimplifiedConfiguration=단순화된 구성 보기
 UICommon_ActivityPoints=활동 포인트
@@ -6343,7 +6343,7 @@ UICreateTable_AutoSeatCount=본격적인 시작
 UICreateTable_MinVPIPLimit=입장률 제한
 UICreateTable_AllInAfterTwoCard=ALLIN 이후 2회 지원
 SystemMaintenance=플레이어 여러분, 서버 점검이 곧 진행될 예정이며 예상 점검 시간은 {0}
-UIShareClub_Title=<color=#82EB4A>뉴포커에 가입하세요</color>\n켜기당신의 경쟁 여정
+UIShareClub_Title=<color=#82EB4A>U POKER에 가입하세요</color>\n켜기당신의 경쟁 여정
 UIShareClub_Share_Txt=저장\n공유
 UIShareClub_join_Play=QR 코드를 스캔하여 참여하세요. 원클릭 시작
 UICreateTable_HandsCardCount=홀카드 수
@@ -8106,7 +8106,7 @@ Page_DataDetails_NoPlayerRecord=플레이어 기록 없음
 Page_DataDetails_Loading=로딩 중...
 
 Page_AboutUs_Heading=플랫폼 소개
-Page_AboutUs_Body=우리는 항상 포커 애호가들이 W 포커에서 원하는 편안한 속도로 플레이할 수 있도록 포커 애호가 커뮤니티를 육성하기 위해 노력해 왔습니다. 친구가 개설하는 포커 게임과 퀵 게임의 선구자로서 우리는 많은 포커 플레이어들로부터 인정받았습니다. W 포커는 공정하고 신뢰할 수 있는 포커 플랫폼임을 자랑스럽게 생각합니다. 우리의 셔플 알고리즘과 난수 생성기는 업계 최고의 독립 인증 기관인 GLI(Gaming Laboratories International)의 인증을 받았으며 포커 및 관련 확률 게임에 대해 공정하다는 것이 검증되었습니다. 포커 플랫폼에서 공정성은 핵심입니다. 우리의 난수 생성기가 셔플 및 딜링 순서를 결정하며, GLI 인증은 어떠한 시나리오에서도 우리의 공정성이 타협되지 않음을 증명합니다.
+Page_AboutUs_Body=우리는 항상 포커 애호가들이 U POKER에서 원하는 편안한 속도로 플레이할 수 있도록 포커 애호가 커뮤니티를 육성하기 위해 노력해 왔습니다. 친구가 개설하는 포커 게임과 퀵 게임의 선구자로서 우리는 많은 포커 플레이어들로부터 인정받았습니다. U POKER는 공정하고 신뢰할 수 있는 포커 플랫폼임을 자랑스럽게 생각합니다. 우리의 셔플 알고리즘과 난수 생성기는 업계 최고의 독립 인증 기관인 GLI(Gaming Laboratories International)의 인증을 받았으며 포커 및 관련 확률 게임에 대해 공정하다는 것이 검증되었습니다. 포커 플랫폼에서 공정성은 핵심입니다. 우리의 난수 생성기가 셔플 및 딜링 순서를 결정하며, GLI 인증은 어떠한 시나리오에서도 우리의 공정성이 타협되지 않음을 증명합니다.
 
 Page_MineBill_UCTotalAmount=총 UC
 
