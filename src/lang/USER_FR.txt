@@ -8072,10 +8072,10 @@ UICasino_Game_DBLive=DB Live
 UIClub_SearchClubID=Rechercher l’ID du club
 
 UIMine_ClubChips=Jetons du Club
-ForgotPass_Title=Mot de passe oubli�
+ForgotPass_Title=Mot de passe oublié
 ForgotPass_EmailPlaceholder=Entrez votre e-mail
 ForgotPass_OTPButton=Obtenir OTP
-ForgotPass_OTPPlaceholder=Entrez le code de v�rification
+ForgotPass_OTPPlaceholder=Entrez le code de vérification
 ForgotPass_PasswordPlaceholder=Entrez le nouveau mot de passe
 ForgotPass_Submit=Confirmer
 ForgotPass_Submitting=Envoi en cours...

@@ -8072,11 +8072,11 @@ UICasino_Game_DBLive=DB Live
 UIClub_SearchClubID=Buscar ID del club
 
 UIMine_ClubChips=Fichas del Club
-ForgotPass_Title=Contrase�a olvidada
+ForgotPass_Title=Contraseña olvidada
 ForgotPass_EmailPlaceholder=Ingrese su correo
 ForgotPass_OTPButton=Obtener OTP
-ForgotPass_OTPPlaceholder=Ingrese el c�digo de verificaci�n
-ForgotPass_PasswordPlaceholder=Ingrese nueva contrase�a
+ForgotPass_OTPPlaceholder=Ingrese el código de verificación
+ForgotPass_PasswordPlaceholder=Ingrese nueva contraseña
 ForgotPass_Submit=Confirmar
 ForgotPass_Submitting=Enviando...
 Wallet_DepositAmount=Monto del depósito
