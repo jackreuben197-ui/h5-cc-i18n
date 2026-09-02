@@ -7156,6 +7156,7 @@ UITabbarHome=Trang chủ
 UITabbarTournaments=Giải đấu
 UITabbarEvents=Giải đấu
 UITabbarGames=Trò chơi
+UITabbarMatch=Giải đấu
 UIHomeMahjongArea=Khu mạt chược
 UIHomeMahjongAreaTip=Trận chiến người thật bằng vàng thật
 UIHomePokerArea=Khu vực đánh bài

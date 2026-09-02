@@ -7156,6 +7156,7 @@ UITabbarHome=Inicio
 UITabbarTournaments=Torneos
 UITabbarEvents=Torneos
 UITabbarGames=Juegos
+UITabbarMatch=Torneos
 UIHomeMahjongArea=Mahjong
 UIHomeMahjongAreaTip=Batalla de oro real en persona real
 UIHomePokerArea=Póquer

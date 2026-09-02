@@ -7156,6 +7156,7 @@ UITabbarHome=主頁
 UITabbarTournaments=比賽
 UITabbarEvents=比賽
 UITabbarGames=朋友桌
+UITabbarMatch=比賽
 UIHomeMahjongArea=麻將專區
 UIHomeMahjongAreaTip=真金真人對戰
 UIHomePokerArea=撲克專區

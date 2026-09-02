@@ -7156,6 +7156,7 @@ UITabbarHome=ホーム
 UITabbarTournaments=トーナメント
 UITabbarEvents=大会
 UITabbarGames=ゲーム
+UITabbarMatch=大会
 UIHomeMahjongArea=麻雀ゾーン
 UIHomeMahjongAreaTip=リアルゴールドのリアルパーソンバトル
 UIHomePokerArea=ポーカーエリア

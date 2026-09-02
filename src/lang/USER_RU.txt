@@ -7156,6 +7156,7 @@ UITabbarHome=Главная
 UITabbarTournaments=Турниры
 UITabbarEvents=Турниры
 UITabbarGames=Игры
+UITabbarMatch=Турниры
 UIHomeMahjongArea=Маджонг
 UIHomeMahjongAreaTip=Битва с реальными людьми на реальные деньги
 UIHomePokerArea=Покер

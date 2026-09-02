@@ -7156,6 +7156,7 @@ UITabbarHome=หน้าแรก
 UITabbarTournaments=ทัวร์นาเมนต์
 UITabbarEvents=แข่งขัน
 UITabbarGames=เกม
+UITabbarMatch=แข่งขัน
 UIHomeMahjongArea=พื้นที่ไพ่นกกระจอก
 UIHomeMahjongAreaTip=การต่อสู้ด้วยเงินจริงด้วยเงินจริง
 UIHomePokerArea=พื้นที่โป๊กเกอร์
