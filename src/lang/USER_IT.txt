@@ -7167,6 +7167,7 @@ UIHomeMttAreaTip=Biglietti per eventi
 UIHomeMinigameArea=Minigiochi
 UIHomeComingSoon=Prossimamente
 UIMTTLatestRegister=Ultima registrazione
+UIMTT_SeriesMoreAllMonthly=Tornei mensili
 PageMessageApplyForCreditLimit=Richiesta di limite di credito
 PageMessageApplyForUC=Applicazione UC
 PageMineClubCareer=Carriera nel club

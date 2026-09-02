@@ -7167,6 +7167,7 @@ UIHomeMttAreaTip=Nhận vé offline số lượng lớn
 UIHomeMinigameArea=Khu trò chơi mini
 UIHomeComingSoon=Sắp có
 UIMTTLatestRegister=Đăng ký lần cuối
+UIMTT_SeriesMoreAllMonthly=Giải đấu hàng tháng
 PageMessageApplyForCreditLimit=Đơn xin hạn mức tín dụng
 PageMessageApplyForUC=Ứng dụng UC
 PageMineClubCareer=Sự nghiệp câu lạc bộ
