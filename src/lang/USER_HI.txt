@@ -7168,6 +7168,7 @@ UIHomeMinigameArea=मिनी-गेम
 UIHomeComingSoon=जल्द आ रहा है
 UIMTTLatestRegister=नवीनतम पंजीकरण
 UIMTT_SeriesMoreAllMonthly=मासिक टूर्नामेंट
+UIMTT_SeriesMoreAllDaily=दैनिक टूर्नामेंट
 PageMessageApplyForCreditLimit=क्रेडिट सीमा आवेदन
 PageMessageApplyForUC=यूसी एप्लीकेशन
 PageMineClubCareer=क्लब कैरियर

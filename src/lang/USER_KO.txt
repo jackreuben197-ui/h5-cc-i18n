@@ -7168,6 +7168,7 @@ UIHomeMinigameArea=미니게임존
 UIHomeComingSoon=출시 예정
 UIMTTLatestRegister=최근 등록
 UIMTT_SeriesMoreAllMonthly=월간 토너먼트
+UIMTT_SeriesMoreAllDaily=일간 토너먼트
 PageMessageApplyForCreditLimit=신용 한도 신청
 PageMessageApplyForUC=UC 지원
 PageMineClubCareer=클럽 경력

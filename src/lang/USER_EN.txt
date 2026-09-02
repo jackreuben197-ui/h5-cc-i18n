@@ -7168,6 +7168,7 @@ UIHomeMinigameArea=Mini Games
 UIHomeComingSoon=Coming Soon
 UIMTTLatestRegister=Late Registration
 UIMTT_SeriesMoreAllMonthly=Monthly events
+UIMTT_SeriesMoreAllDaily=Daily events
 PageMessageApplyForCreditLimit=Credit Limit Application
 PageMessageApplyForUC=Union Coin Application
 PageMineClubCareer=Club Career

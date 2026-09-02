@@ -7168,6 +7168,7 @@ UIHomeMinigameArea=มินิเกมโซน
 UIHomeComingSoon=เร็วๆ นี้
 UIMTTLatestRegister=ลงทะเบียนครั้งล่าสุด
 UIMTT_SeriesMoreAllMonthly=ทัวร์นาเมนต์รายเดือน
+UIMTT_SeriesMoreAllDaily=ทัวร์นาเมนต์รายวัน
 PageMessageApplyForCreditLimit=การขอวงเงินสินเชื่อ
 PageMessageApplyForUC=แอปพลิเคชัน UC
 PageMineClubCareer=อาชีพสโมสร

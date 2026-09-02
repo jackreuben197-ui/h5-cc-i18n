@@ -7168,6 +7168,7 @@ UIHomeMinigameArea=Minijogos
 UIHomeComingSoon=Em breve
 UIMTTLatestRegister=Inscrição tardia
 UIMTT_SeriesMoreAllMonthly=Torneios mensais
+UIMTT_SeriesMoreAllDaily=Torneios diários
 PageMessageApplyForCreditLimit=Solicitação de limite de crédito
 PageMessageApplyForUC=Pedido de UC
 PageMineClubCareer=Carreira no Clube

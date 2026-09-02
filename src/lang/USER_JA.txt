@@ -7168,6 +7168,7 @@ UIHomeMinigameArea=ミニゲームエリア
 UIHomeComingSoon=近日公開予定
 UIMTTLatestRegister=最新の登録
 UIMTT_SeriesMoreAllMonthly=月例トーナメント
+UIMTT_SeriesMoreAllDaily=デイリートーナメント
 PageMessageApplyForCreditLimit=与信限度額の申請
 PageMessageApplyForUC=UC アプリケーション
 PageMineClubCareer=クラブキャリア

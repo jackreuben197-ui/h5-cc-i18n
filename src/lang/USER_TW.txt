@@ -7168,6 +7168,7 @@ UIHomeMinigameArea=小遊戲專區
 UIHomeComingSoon=即將開放
 UIMTTLatestRegister=最晚報名
 UIMTT_SeriesMoreAllMonthly=全部月賽
+UIMTT_SeriesMoreAllDaily=全部日賽
 PageMessageApplyForCreditLimit=信用額度申請
 PageMessageApplyForUC=聯盟幣申請
 PageMineClubCareer=俱樂部生涯

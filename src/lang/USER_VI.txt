@@ -7168,6 +7168,7 @@ UIHomeMinigameArea=Khu trò chơi mini
 UIHomeComingSoon=Sắp có
 UIMTTLatestRegister=Đăng ký lần cuối
 UIMTT_SeriesMoreAllMonthly=Giải đấu hàng tháng
+UIMTT_SeriesMoreAllDaily=Giải đấu hàng ngày
 PageMessageApplyForCreditLimit=Đơn xin hạn mức tín dụng
 PageMessageApplyForUC=Ứng dụng UC
 PageMineClubCareer=Sự nghiệp câu lạc bộ
