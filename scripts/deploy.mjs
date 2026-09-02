@@ -5,16 +5,41 @@ import { fileURLToPath } from 'node:url'
 const rootDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const distDir = path.join(rootDir, 'dist')
 
-const h5GameDir = path.resolve(rootDir, process.env.H5_GAME_DIR || '../../h5-game')
-const ccGameDir = path.resolve(rootDir, process.env.H5_CC_GAME_DIR || '../h5-cc-game')
+function resolveDir(envVar, candidates) {
+  if (envVar && fs.existsSync(envVar)) {
+    return path.resolve(envVar)
+  }
+  for (const c of candidates) {
+    if (fs.existsSync(c)) {
+      return c
+    }
+  }
+  return candidates[0]
+}
+
+const h5GameDir = resolveDir(process.env.H5_GAME_DIR, [
+  path.resolve(rootDir, '../../Ola_Vamos_H5-LittleFish/h5-game'),
+  path.resolve(rootDir, '../../h5-game'),
+  path.resolve(rootDir, '../h5-game'),
+])
+const ccGameDir = resolveDir(process.env.H5_CC_GAME_DIR, [
+  path.resolve(rootDir, '../../Ola_Vamos_New_Outsource_PQ/h5-cc-game'),
+  path.resolve(rootDir, '../h5-cc-game'),
+  path.resolve(rootDir, '../../h5-cc-game'),
+])
 
 const BUNDLE = 'h5-cc-i18n.min.js'
-const RUNTIME = ['runtime.js', 'runtime.mjs']
+const RUNTIME = ['runtime.js', 'runtime.mjs', 'runtime.d.ts', 'index.js', 'index.mjs', 'index.d.ts']
 
 const targets = [
   {
     label: 'h5-game/public',
     dir: path.join(h5GameDir, 'public'),
+    files: [BUNDLE],
+  },
+  {
+    label: 'h5-game/dist',
+    dir: path.join(h5GameDir, 'dist'),
     files: [BUNDLE],
   },
   {
