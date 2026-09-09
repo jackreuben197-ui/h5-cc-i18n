@@ -8204,7 +8204,15 @@ var deMap = {
     "H5Display_SaveUrl": "Adresse speichern",
     "H5Display_UrlHint": "Speichere die folgenden Adressen in den Lesezeichen oder Notizen, um jederzeit schnell zuzugreifen.",
     "UIMatchTicket": "Turnierticket",
-    "UIMTT_free": "GRATIS"
+    "UIMTT_free": "GRATIS",
+    "Wallet_Wallet": "Brieftasche",
+    "Wallet_AddWalletAddress": "Geldb\xF6rsenadresse hinzuf\xFCgen",
+    "Wallet_AddWalletAddressTitle": "Geldb\xF6rsenadresse hinzuf\xFCgen",
+    "Wallet_SelectWalletAccount": "Geldb\xF6rsenkonto ausw\xE4hlen",
+    "Wallet_NoWalletBound": "Keine Geldb\xF6rsenadresse gebunden",
+    "Wallet_WalletAddressLabel": "Geldb\xF6rsenadresse",
+    "Wallet_EnterWalletAddressHint": "Bitte geben Sie die Geldb\xF6rsenadresse ein.",
+    "Wallet_EnterNameHint": "Bitte geben Sie den Namen ein"
 };
 var enMap = {
     "4": "Failed to connect, please try again later. ",
@@ -16392,7 +16400,15 @@ var enMap = {
     "H5Display_SaveUrl": "Save URL",
     "H5Display_UrlHint": "We suggest saving the following URLs to your bookmarks or notes for quick access.",
     "UIMatchTicket": "Tournament ticket",
-    "UIMTT_free": "FREE"
+    "UIMTT_free": "FREE",
+    "Wallet_Wallet": "Wallet",
+    "Wallet_AddWalletAddress": "Add wallet address",
+    "Wallet_AddWalletAddressTitle": "Add wallet address",
+    "Wallet_SelectWalletAccount": "Select wallet account",
+    "Wallet_NoWalletBound": "No wallet address bound",
+    "Wallet_WalletAddressLabel": "wallet address",
+    "Wallet_EnterWalletAddressHint": "Please enter wallet address.",
+    "Wallet_EnterNameHint": "Please enter name"
 };
 var esMap = {
     "4": "Error de red. Reintente.",
@@ -24580,7 +24596,15 @@ var esMap = {
     "H5Display_SaveUrl": "Guardar enlace",
     "H5Display_UrlHint": "Te recomendamos guardar estos enlaces en marcadores o notas para acceder r\xE1pido.",
     "UIMatchTicket": "Entrada del torneo",
-    "UIMTT_free": "GRATIS"
+    "UIMTT_free": "GRATIS",
+    "Wallet_Wallet": "Monedero",
+    "Wallet_AddWalletAddress": "A\xF1adir direcci\xF3n de monedero",
+    "Wallet_AddWalletAddressTitle": "A\xF1adir direcci\xF3n de monedero",
+    "Wallet_SelectWalletAccount": "Seleccionar cuenta de monedero",
+    "Wallet_NoWalletBound": "No hay direcci\xF3n de monedero vinculada",
+    "Wallet_WalletAddressLabel": "direcci\xF3n de monedero",
+    "Wallet_EnterWalletAddressHint": "Por favor ingrese la direcci\xF3n del monedero.",
+    "Wallet_EnterNameHint": "Por favor ingrese el nombre"
 };
 var frMap = {
     "4": "Erreur r\xE9seau. R\xE9essayez.",
@@ -32768,7 +32792,15 @@ var frMap = {
     "H5Display_SaveUrl": "Enregistrer le lien",
     "H5Display_UrlHint": "Enregistrez ces adresses dans vos favoris ou vos notes pour y acc\xE9der rapidement.",
     "UIMatchTicket": "Ticket de tournoi",
-    "UIMTT_free": "GRATUIT"
+    "UIMTT_free": "GRATUIT",
+    "Wallet_Wallet": "Portefeuille",
+    "Wallet_AddWalletAddress": "Ajouter une adresse de portefeuille",
+    "Wallet_AddWalletAddressTitle": "Ajouter une adresse de portefeuille",
+    "Wallet_SelectWalletAccount": "S\xE9lectionner le compte de portefeuille",
+    "Wallet_NoWalletBound": "Aucune adresse de portefeuille li\xE9e",
+    "Wallet_WalletAddressLabel": "adresse de portefeuille",
+    "Wallet_EnterWalletAddressHint": "Veuillez saisir l'adresse du portefeuille.",
+    "Wallet_EnterNameHint": "Veuillez saisir le nom"
 };
 var hiMap = {
     "4": "\u0928\u0947\u091F\u0935\u0930\u094D\u0915 \u0924\u094D\u0930\u0941\u091F\u093F\u0964 \u092C\u093E\u0926 \u092E\u0947\u0902 \u0915\u094B\u0936\u093F\u0936 \u0915\u0930\u0947\u0902\u0964",
@@ -40956,7 +40988,15 @@ var hiMap = {
     "H5Display_SaveUrl": "\u0932\u093F\u0902\u0915 \u0938\u0939\u0947\u091C\u0947\u0902",
     "H5Display_UrlHint": "\u0924\u0947\u091C\u093C \u092A\u0939\u0941\u0902\u091A \u0915\u0947 \u0932\u093F\u090F \u0928\u0940\u091A\u0947 \u0926\u093F\u090F \u0932\u093F\u0902\u0915 \u0915\u094B \u092C\u0941\u0915\u092E\u093E\u0930\u094D\u0915 \u092F\u093E \u0928\u094B\u091F\u094D\u0938 \u092E\u0947\u0902 \u0938\u0939\u0947\u091C\u0947\u0902\u0964",
     "UIMatchTicket": "\u091F\u0942\u0930\u094D\u0928\u093E\u092E\u0947\u0902\u091F \u091F\u093F\u0915\u091F",
-    "UIMTT_free": "\u092E\u0941\u092B\u093C\u094D\u0924"
+    "UIMTT_free": "\u092E\u0941\u092B\u093C\u094D\u0924",
+    "Wallet_Wallet": "\u0935\u0949\u0932\u0947\u091F",
+    "Wallet_AddWalletAddress": "\u0935\u0949\u0932\u0947\u091F \u092A\u0924\u093E \u091C\u094B\u0921\u093C\u0947\u0902",
+    "Wallet_AddWalletAddressTitle": "\u0935\u0949\u0932\u0947\u091F \u092A\u0924\u093E \u091C\u094B\u0921\u093C\u0947\u0902",
+    "Wallet_SelectWalletAccount": "\u0935\u0949\u0932\u0947\u091F \u0916\u093E\u0924\u093E \u091A\u0941\u0928\u0947\u0902",
+    "Wallet_NoWalletBound": "\u0915\u094B\u0908 \u0935\u0949\u0932\u0947\u091F \u092A\u0924\u093E \u092C\u093E\u0927\u094D\u092F \u0928\u0939\u0940\u0902 \u0939\u0948",
+    "Wallet_WalletAddressLabel": "\u0935\u0949\u0932\u0947\u091F \u092A\u0924\u093E",
+    "Wallet_EnterWalletAddressHint": "\u0915\u0943\u092A\u092F\u093E \u0935\u0949\u0932\u0947\u091F \u092A\u0924\u093E \u0926\u0930\u094D\u091C \u0915\u0930\u0947\u0902\u0964",
+    "Wallet_EnterNameHint": "\u0915\u0943\u092A\u092F\u093E \u0928\u093E\u092E \u0926\u0930\u094D\u091C \u0915\u0930\u0947\u0902"
 };
 var itMap = {
     "4": "Errore di rete. Riprova.",
@@ -49144,7 +49184,15 @@ var itMap = {
     "H5Display_SaveUrl": "Salva il link",
     "H5Display_UrlHint": "Ti consigliamo di salvare questi link nei preferiti o nelle note per un accesso rapido.",
     "UIMatchTicket": "Biglietto del torneo",
-    "UIMTT_free": "GRATIS"
+    "UIMTT_free": "GRATIS",
+    "Wallet_Wallet": "Portafoglio",
+    "Wallet_AddWalletAddress": "Aggiungi indirizzo del portafoglio",
+    "Wallet_AddWalletAddressTitle": "Aggiungi indirizzo del portafoglio",
+    "Wallet_SelectWalletAccount": "Seleziona conto portafoglio",
+    "Wallet_NoWalletBound": "Nessun indirizzo di portafoglio collegato",
+    "Wallet_WalletAddressLabel": "indirizzo del portafoglio",
+    "Wallet_EnterWalletAddressHint": "Inserisci l'indirizzo del portafoglio.",
+    "Wallet_EnterNameHint": "Inserisci il nome"
 };
 var jaMap = {
     "4": "\u901A\u4FE1\u30A8\u30E9\u30FC\u3067\u3059\u3002\u3082\u3046\u4E00\u5EA6\u8A66\u3057\u3066\u304F\u3060\u3055\u3044\u3002",
@@ -57332,7 +57380,15 @@ var jaMap = {
     "H5Display_SaveUrl": "URL\u3092\u4FDD\u5B58",
     "H5Display_UrlHint": "\u4EE5\u4E0B\u306EURL\u3092\u30D6\u30C3\u30AF\u30DE\u30FC\u30AF\u3084\u30E1\u30E2\u306B\u4FDD\u5B58\u3059\u308B\u3068\u3001\u3044\u3064\u3067\u3082\u3059\u3050\u306B\u30A2\u30AF\u30BB\u30B9\u3067\u304D\u307E\u3059\u3002",
     "UIMatchTicket": "\u30C8\u30FC\u30CA\u30E1\u30F3\u30C8\u30C1\u30B1\u30C3\u30C8",
-    "UIMTT_free": "\u7121\u6599"
+    "UIMTT_free": "\u7121\u6599",
+    "Wallet_Wallet": "\u30A6\u30A9\u30EC\u30C3\u30C8",
+    "Wallet_AddWalletAddress": "\u30A6\u30A9\u30EC\u30C3\u30C8\u30A2\u30C9\u30EC\u30B9\u3092\u8FFD\u52A0",
+    "Wallet_AddWalletAddressTitle": "\u30A6\u30A9\u30EC\u30C3\u30C8\u30A2\u30C9\u30EC\u30B9\u3092\u8FFD\u52A0",
+    "Wallet_SelectWalletAccount": "\u30A6\u30A9\u30EC\u30C3\u30C8\u53E3\u5EA7\u3092\u9078\u629E",
+    "Wallet_NoWalletBound": "\u30D0\u30A4\u30F3\u30C9\u3055\u308C\u305F\u30A6\u30A9\u30EC\u30C3\u30C8\u30A2\u30C9\u30EC\u30B9\u306F\u3042\u308A\u307E\u305B\u3093",
+    "Wallet_WalletAddressLabel": "\u30A6\u30A9\u30EC\u30C3\u30C8\u30A2\u30C9\u30EC\u30B9",
+    "Wallet_EnterWalletAddressHint": "\u30A6\u30A9\u30EC\u30C3\u30C8\u30A2\u30C9\u30EC\u30B9\u3092\u5165\u529B\u3057\u3066\u304F\u3060\u3055\u3044\u3002",
+    "Wallet_EnterNameHint": "\u540D\u524D\u3092\u5165\u529B\u3057\u3066\u304F\u3060\u3055\u3044"
 };
 var koMap = {
     "4": "\uB124\uD2B8\uC6CC\uD06C \uC624\uB958. \uB2E4\uC2DC \uC2DC\uB3C4.",
@@ -65520,7 +65576,15 @@ var koMap = {
     "H5Display_SaveUrl": "\uC8FC\uC18C \uC800\uC7A5",
     "H5Display_UrlHint": "\uC544\uB798 \uC8FC\uC18C\uB97C \uC990\uACA8\uCC3E\uAE30\uB098 \uBA54\uBAA8\uC5D0 \uC800\uC7A5\uD574 \uB450\uBA74 \uC5B8\uC81C\uB4E0 \uBE60\uB974\uAC8C \uC811\uC18D\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
     "UIMatchTicket": "\uD1A0\uB108\uBA3C\uD2B8 \uD2F0\uCF13",
-    "UIMTT_free": "\uBB34\uB8CC"
+    "UIMTT_free": "\uBB34\uB8CC",
+    "Wallet_Wallet": "\uC9C0\uAC11",
+    "Wallet_AddWalletAddress": "\uC9C0\uAC11 \uC8FC\uC18C \uCD94\uAC00",
+    "Wallet_AddWalletAddressTitle": "\uC9C0\uAC11 \uC8FC\uC18C \uCD94\uAC00",
+    "Wallet_SelectWalletAccount": "\uC9C0\uAC11 \uACC4\uC815 \uC120\uD0DD",
+    "Wallet_NoWalletBound": "\uC5F0\uACB0\uB41C \uC9C0\uAC11 \uC8FC\uC18C\uAC00 \uC5C6\uC2B5\uB2C8\uB2E4",
+    "Wallet_WalletAddressLabel": "\uC9C0\uAC11 \uC8FC\uC18C",
+    "Wallet_EnterWalletAddressHint": "\uC9C0\uAC11 \uC8FC\uC18C\uB97C \uC785\uB825\uD558\uC138\uC694.",
+    "Wallet_EnterNameHint": "\uC774\uB984\uC744 \uC785\uB825\uD558\uC138\uC694"
 };
 var ptMap = {
     "4": "Erro de conex\xE3o, favor tentar novamente. ",
@@ -73708,7 +73772,15 @@ var ptMap = {
     "H5Display_SaveUrl": "Salvar link",
     "H5Display_UrlHint": "Recomendamos salvar os links abaixo nos favoritos ou nas notas para acesso r\xE1pido.",
     "UIMatchTicket": "Ingresso do torneio",
-    "UIMTT_free": "GR\xC1TIS"
+    "UIMTT_free": "GR\xC1TIS",
+    "Wallet_Wallet": "Carteira",
+    "Wallet_AddWalletAddress": "Adicionar endere\xE7o de carteira",
+    "Wallet_AddWalletAddressTitle": "Adicionar endere\xE7o de carteira",
+    "Wallet_SelectWalletAccount": "Selecionar conta da carteira",
+    "Wallet_NoWalletBound": "Nenhum endere\xE7o de carteira vinculado",
+    "Wallet_WalletAddressLabel": "endere\xE7o de carteira",
+    "Wallet_EnterWalletAddressHint": "Por favor, insira o endere\xE7o da carteira.",
+    "Wallet_EnterNameHint": "Por favor, insira o nome"
 };
 var ruMap = {
     "4": "\u0421\u0435\u0442\u044C. \u041F\u043E\u0432\u0442\u043E\u0440\u0438\u0442\u0435.",
@@ -81896,7 +81968,15 @@ var ruMap = {
     "H5Display_SaveUrl": "\u0421\u043E\u0445\u0440\u0430\u043D\u0438\u0442\u044C \u0430\u0434\u0440\u0435\u0441",
     "H5Display_UrlHint": "\u0421\u043E\u0445\u0440\u0430\u043D\u0438\u0442\u0435 \u0430\u0434\u0440\u0435\u0441\u0430 \u043D\u0438\u0436\u0435 \u0432 \u0437\u0430\u043A\u043B\u0430\u0434\u043A\u0430\u0445 \u0438\u043B\u0438 \u0437\u0430\u043C\u0435\u0442\u043A\u0430\u0445, \u0447\u0442\u043E\u0431\u044B \u0431\u044B\u0441\u0442\u0440\u043E \u0437\u0430\u0445\u043E\u0434\u0438\u0442\u044C \u0432 \u043B\u044E\u0431\u043E\u0439 \u043C\u043E\u043C\u0435\u043D\u0442.",
     "UIMatchTicket": "\u0411\u0438\u043B\u0435\u0442 \u043D\u0430 \u0442\u0443\u0440\u043D\u0438\u0440",
-    "UIMTT_free": "\u0411\u0415\u0421\u041F\u041B\u0410\u0422\u041D\u041E"
+    "UIMTT_free": "\u0411\u0415\u0421\u041F\u041B\u0410\u0422\u041D\u041E",
+    "Wallet_Wallet": "\u041A\u043E\u0448\u0435\u043B\u0435\u043A",
+    "Wallet_AddWalletAddress": "\u0414\u043E\u0431\u0430\u0432\u0438\u0442\u044C \u0430\u0434\u0440\u0435\u0441 \u043A\u043E\u0448\u0435\u043B\u044C\u043A\u0430",
+    "Wallet_AddWalletAddressTitle": "\u0414\u043E\u0431\u0430\u0432\u0438\u0442\u044C \u0430\u0434\u0440\u0435\u0441 \u043A\u043E\u0448\u0435\u043B\u044C\u043A\u0430",
+    "Wallet_SelectWalletAccount": "\u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u0441\u0447\u0435\u0442 \u043A\u043E\u0448\u0435\u043B\u044C\u043A\u0430",
+    "Wallet_NoWalletBound": "\u041D\u0435\u0442 \u043F\u0440\u0438\u0432\u044F\u0437\u0430\u043D\u043D\u043E\u0433\u043E \u0430\u0434\u0440\u0435\u0441\u0430 \u043A\u043E\u0448\u0435\u043B\u044C\u043A\u0430",
+    "Wallet_WalletAddressLabel": "\u0430\u0434\u0440\u0435\u0441 \u043A\u043E\u0448\u0435\u043B\u044C\u043A\u0430",
+    "Wallet_EnterWalletAddressHint": "\u041F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u0430\u0434\u0440\u0435\u0441 \u043A\u043E\u0448\u0435\u043B\u044C\u043A\u0430.",
+    "Wallet_EnterNameHint": "\u041F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043C\u044F"
 };
 var thMap = {
     "4": "\u0E40\u0E19\u0E47\u0E15\u0E1C\u0E34\u0E14\u0E1E\u0E25\u0E32\u0E14 \u0E25\u0E2D\u0E07\u0E43\u0E2B\u0E21\u0E48",
@@ -90084,7 +90164,15 @@ var thMap = {
     "H5Display_SaveUrl": "\u0E1A\u0E31\u0E19\u0E17\u0E36\u0E01\u0E25\u0E34\u0E07\u0E01\u0E4C",
     "H5Display_UrlHint": "\u0E41\u0E19\u0E30\u0E19\u0E33\u0E43\u0E2B\u0E49\u0E1A\u0E31\u0E19\u0E17\u0E36\u0E01\u0E25\u0E34\u0E07\u0E01\u0E4C\u0E14\u0E49\u0E32\u0E19\u0E25\u0E48\u0E32\u0E07\u0E44\u0E27\u0E49\u0E43\u0E19\u0E1A\u0E38\u0E4A\u0E01\u0E21\u0E32\u0E23\u0E4C\u0E01\u0E2B\u0E23\u0E37\u0E2D\u0E42\u0E19\u0E49\u0E15 \u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E40\u0E02\u0E49\u0E32\u0E16\u0E36\u0E07\u0E44\u0E14\u0E49\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E23\u0E27\u0E14\u0E40\u0E23\u0E47\u0E27",
     "UIMatchTicket": "\u0E15\u0E31\u0E4B\u0E27\u0E17\u0E31\u0E27\u0E23\u0E4C\u0E19\u0E32\u0E40\u0E21\u0E19\u0E15\u0E4C",
-    "UIMTT_free": "\u0E1F\u0E23\u0E35"
+    "UIMTT_free": "\u0E1F\u0E23\u0E35",
+    "Wallet_Wallet": "\u0E01\u0E23\u0E30\u0E40\u0E1B\u0E4B\u0E32\u0E40\u0E07\u0E34\u0E19",
+    "Wallet_AddWalletAddress": "\u0E40\u0E1E\u0E34\u0E48\u0E21\u0E17\u0E35\u0E48\u0E2D\u0E22\u0E39\u0E48\u0E01\u0E23\u0E30\u0E40\u0E1B\u0E4B\u0E32\u0E40\u0E07\u0E34\u0E19",
+    "Wallet_AddWalletAddressTitle": "\u0E40\u0E1E\u0E34\u0E48\u0E21\u0E17\u0E35\u0E48\u0E2D\u0E22\u0E39\u0E48\u0E01\u0E23\u0E30\u0E40\u0E1B\u0E4B\u0E32\u0E40\u0E07\u0E34\u0E19",
+    "Wallet_SelectWalletAccount": "\u0E40\u0E25\u0E37\u0E2D\u0E01\u0E1A\u0E31\u0E0D\u0E0A\u0E35\u0E01\u0E23\u0E30\u0E40\u0E1B\u0E4B\u0E32\u0E40\u0E07\u0E34\u0E19",
+    "Wallet_NoWalletBound": "\u0E22\u0E31\u0E07\u0E44\u0E21\u0E48\u0E21\u0E35\u0E01\u0E32\u0E23\u0E1C\u0E39\u0E01\u0E17\u0E35\u0E48\u0E2D\u0E22\u0E39\u0E48\u0E01\u0E23\u0E30\u0E40\u0E1B\u0E4B\u0E32\u0E40\u0E07\u0E34\u0E19",
+    "Wallet_WalletAddressLabel": "\u0E17\u0E35\u0E48\u0E2D\u0E22\u0E39\u0E48\u0E01\u0E23\u0E30\u0E40\u0E1B\u0E4B\u0E32\u0E40\u0E07\u0E34\u0E19",
+    "Wallet_EnterWalletAddressHint": "\u0E01\u0E23\u0E38\u0E13\u0E32\u0E01\u0E23\u0E2D\u0E01\u0E17\u0E35\u0E48\u0E2D\u0E22\u0E39\u0E48\u0E01\u0E23\u0E30\u0E40\u0E1B\u0E4B\u0E32\u0E40\u0E07\u0E34\u0E19",
+    "Wallet_EnterNameHint": "\u0E01\u0E23\u0E38\u0E13\u0E32\u0E01\u0E23\u0E2D\u0E01\u0E0A\u0E37\u0E48\u0E2D"
 };
 var zh_TWMap = {
     "4": "\u7DB2\u8DEF\u932F\u8AA4\uFF0C\u8ACB\u7A0D\u5F8C\u91CD\u8A66",
@@ -98272,7 +98360,15 @@ var zh_TWMap = {
     "H5Display_SaveUrl": "\u5132\u5B58\u7DB2\u5740",
     "H5Display_UrlHint": "\u5EFA\u8B70\u5C07\u4EE5\u4E0B\u7DB2\u5740\u5132\u5B58\u81F3\u700F\u89BD\u5668\u66F8\u7C64\u6216\u624B\u6A5F\u5099\u5FD8\u9304\uFF0C\u4EE5\u4FBF\u96A8\u6642\u5FEB\u901F\u5B58\u53D6",
     "UIMatchTicket": "\u6BD4\u8CFD\u9580\u7968",
-    "UIMTT_free": "\u514D\u8CBB"
+    "UIMTT_free": "\u514D\u8CBB",
+    "Wallet_Wallet": "\u9322\u5305",
+    "Wallet_AddWalletAddress": "\u6DFB\u52A0\u9322\u5305\u5730\u5740",
+    "Wallet_AddWalletAddressTitle": "\u6DFB\u52A0\u9322\u5305\u5730\u5740",
+    "Wallet_SelectWalletAccount": "\u8ACB\u9078\u64C7\u9322\u5305\u5E33\u6236",
+    "Wallet_NoWalletBound": "\u66AB\u7121\u7D81\u5B9A\u9322\u5305\u5730\u5740",
+    "Wallet_WalletAddressLabel": "\u9322\u5305\u5730\u5740",
+    "Wallet_EnterWalletAddressHint": "\u8ACB\u8F38\u5165\u9322\u5305\u5730\u5740",
+    "Wallet_EnterNameHint": "\u8ACB\u8F38\u5165\u59D3\u540D"
 };
 var viMap = {
     "4": "L\u1ED7i m\u1EA1ng. Th\u1EED l\u1EA1i.",
@@ -106460,7 +106556,15 @@ var viMap = {
     "H5Display_SaveUrl": "L\u01B0u \u0111\u1ECBa ch\u1EC9",
     "H5Display_UrlHint": "B\u1EA1n n\xEAn l\u01B0u c\xE1c \u0111\u1ECBa ch\u1EC9 d\u01B0\u1EDBi \u0111\xE2y v\xE0o d\u1EA5u trang ho\u1EB7c ghi ch\xFA \u0111\u1EC3 truy c\u1EADp nhanh.",
     "UIMatchTicket": "V\xE9 gi\u1EA3i \u0111\u1EA5u",
-    "UIMTT_free": "MI\u1EC4N PH\xCD"
+    "UIMTT_free": "MI\u1EC4N PH\xCD",
+    "Wallet_Wallet": "V\xED",
+    "Wallet_AddWalletAddress": "Th\xEAm \u0111\u1ECBa ch\u1EC9 v\xED",
+    "Wallet_AddWalletAddressTitle": "Th\xEAm \u0111\u1ECBa ch\u1EC9 v\xED",
+    "Wallet_SelectWalletAccount": "Ch\u1ECDn t\xE0i kho\u1EA3n v\xED",
+    "Wallet_NoWalletBound": "Ch\u01B0a li\xEAn k\u1EBFt \u0111\u1ECBa ch\u1EC9 v\xED",
+    "Wallet_WalletAddressLabel": "\u0111\u1ECBa ch\u1EC9 v\xED",
+    "Wallet_EnterWalletAddressHint": "Vui l\xF2ng nh\u1EADp \u0111\u1ECBa ch\u1EC9 v\xED.",
+    "Wallet_EnterNameHint": "Vui l\xF2ng nh\u1EADp t\xEAn"
 };
 var zh_CNMap = {
     "4": "\u7F51\u7EDC\u9519\u8BEF\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5",
@@ -114648,7 +114752,15 @@ var zh_CNMap = {
     "H5Display_SaveUrl": "\u4FDD\u5B58\u7F51\u5740",
     "H5Display_UrlHint": "\u5EFA\u8BAE\u5C06\u4EE5\u4E0B\u7F51\u5740\u4FDD\u5B58\u81F3\u6D4F\u89C8\u5668\u4E66\u7B7E\u6216\u624B\u673A\u5907\u5FD8\u5F55\uFF0C\u4EE5\u4FBF\u968F\u65F6\u5FEB\u901F\u8BBF\u95EE",
     "UIMatchTicket": "\u6BD4\u8D5B\u95E8\u7968",
-    "UIMTT_free": "\u514D\u8D39"
+    "UIMTT_free": "\u514D\u8D39",
+    "Wallet_Wallet": "\u94B1\u5305",
+    "Wallet_AddWalletAddress": "\u6DFB\u52A0\u94B1\u5305\u5730\u5740",
+    "Wallet_AddWalletAddressTitle": "\u6DFB\u52A0\u94B1\u5305\u5730\u5740",
+    "Wallet_SelectWalletAccount": "\u8BF7\u9009\u62E9\u94B1\u5305\u8D26\u6237",
+    "Wallet_NoWalletBound": "\u6682\u65E0\u7ED1\u5B9A\u94B1\u5305\u5730\u5740",
+    "Wallet_WalletAddressLabel": "\u94B1\u5305\u5730\u5740",
+    "Wallet_EnterWalletAddressHint": "\u8BF7\u8F93\u5165\u94B1\u5305\u5730\u5740",
+    "Wallet_EnterNameHint": "\u8BF7\u8F93\u5165\u59D3\u540D"
 };
 var localesData = {
     "de": deMap,
