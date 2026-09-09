@@ -8203,6 +8203,6 @@ Wallet_AddWalletAddress=Add wallet address
 Wallet_AddWalletAddressTitle=Add wallet address
 Wallet_SelectWalletAccount=Select wallet account
 Wallet_NoWalletBound=No wallet address bound
-Wallet_WalletAddressLabel=wallet address
+Wallet_WalletAddressLabel=Wallet address
 Wallet_EnterWalletAddressHint=Please enter wallet address.
 Wallet_EnterNameHint=Please enter name

@@ -8203,6 +8203,6 @@ Wallet_AddWalletAddress=Ajouter une adresse de portefeuille
 Wallet_AddWalletAddressTitle=Ajouter une adresse de portefeuille
 Wallet_SelectWalletAccount=Sélectionner le compte de portefeuille
 Wallet_NoWalletBound=Aucune adresse de portefeuille liée
-Wallet_WalletAddressLabel=adresse de portefeuille
+Wallet_WalletAddressLabel=Adresse de portefeuille
 Wallet_EnterWalletAddressHint=Veuillez saisir l'adresse du portefeuille.
 Wallet_EnterNameHint=Veuillez saisir le nom

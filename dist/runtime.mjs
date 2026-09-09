@@ -16406,7 +16406,7 @@ var enMap = {
     "Wallet_AddWalletAddressTitle": "Add wallet address",
     "Wallet_SelectWalletAccount": "Select wallet account",
     "Wallet_NoWalletBound": "No wallet address bound",
-    "Wallet_WalletAddressLabel": "wallet address",
+    "Wallet_WalletAddressLabel": "Wallet address",
     "Wallet_EnterWalletAddressHint": "Please enter wallet address.",
     "Wallet_EnterNameHint": "Please enter name"
 };
@@ -24602,7 +24602,7 @@ var esMap = {
     "Wallet_AddWalletAddressTitle": "A\xF1adir direcci\xF3n de monedero",
     "Wallet_SelectWalletAccount": "Seleccionar cuenta de monedero",
     "Wallet_NoWalletBound": "No hay direcci\xF3n de monedero vinculada",
-    "Wallet_WalletAddressLabel": "direcci\xF3n de monedero",
+    "Wallet_WalletAddressLabel": "Direcci\xF3n de monedero",
     "Wallet_EnterWalletAddressHint": "Por favor ingrese la direcci\xF3n del monedero.",
     "Wallet_EnterNameHint": "Por favor ingrese el nombre"
 };
@@ -32798,7 +32798,7 @@ var frMap = {
     "Wallet_AddWalletAddressTitle": "Ajouter une adresse de portefeuille",
     "Wallet_SelectWalletAccount": "S\xE9lectionner le compte de portefeuille",
     "Wallet_NoWalletBound": "Aucune adresse de portefeuille li\xE9e",
-    "Wallet_WalletAddressLabel": "adresse de portefeuille",
+    "Wallet_WalletAddressLabel": "Adresse de portefeuille",
     "Wallet_EnterWalletAddressHint": "Veuillez saisir l'adresse du portefeuille.",
     "Wallet_EnterNameHint": "Veuillez saisir le nom"
 };
@@ -49190,7 +49190,7 @@ var itMap = {
     "Wallet_AddWalletAddressTitle": "Aggiungi indirizzo del portafoglio",
     "Wallet_SelectWalletAccount": "Seleziona conto portafoglio",
     "Wallet_NoWalletBound": "Nessun indirizzo di portafoglio collegato",
-    "Wallet_WalletAddressLabel": "indirizzo del portafoglio",
+    "Wallet_WalletAddressLabel": "Indirizzo del portafoglio",
     "Wallet_EnterWalletAddressHint": "Inserisci l'indirizzo del portafoglio.",
     "Wallet_EnterNameHint": "Inserisci il nome"
 };
@@ -73778,7 +73778,7 @@ var ptMap = {
     "Wallet_AddWalletAddressTitle": "Adicionar endere\xE7o de carteira",
     "Wallet_SelectWalletAccount": "Selecionar conta da carteira",
     "Wallet_NoWalletBound": "Nenhum endere\xE7o de carteira vinculado",
-    "Wallet_WalletAddressLabel": "endere\xE7o de carteira",
+    "Wallet_WalletAddressLabel": "Endere\xE7o de carteira",
     "Wallet_EnterWalletAddressHint": "Por favor, insira o endere\xE7o da carteira.",
     "Wallet_EnterNameHint": "Por favor, insira o nome"
 };
@@ -81974,7 +81974,7 @@ var ruMap = {
     "Wallet_AddWalletAddressTitle": "\u0414\u043E\u0431\u0430\u0432\u0438\u0442\u044C \u0430\u0434\u0440\u0435\u0441 \u043A\u043E\u0448\u0435\u043B\u044C\u043A\u0430",
     "Wallet_SelectWalletAccount": "\u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u0441\u0447\u0435\u0442 \u043A\u043E\u0448\u0435\u043B\u044C\u043A\u0430",
     "Wallet_NoWalletBound": "\u041D\u0435\u0442 \u043F\u0440\u0438\u0432\u044F\u0437\u0430\u043D\u043D\u043E\u0433\u043E \u0430\u0434\u0440\u0435\u0441\u0430 \u043A\u043E\u0448\u0435\u043B\u044C\u043A\u0430",
-    "Wallet_WalletAddressLabel": "\u0430\u0434\u0440\u0435\u0441 \u043A\u043E\u0448\u0435\u043B\u044C\u043A\u0430",
+    "Wallet_WalletAddressLabel": "\u0410\u0434\u0440\u0435\u0441 \u043A\u043E\u0448\u0435\u043B\u044C\u043A\u0430",
     "Wallet_EnterWalletAddressHint": "\u041F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u0430\u0434\u0440\u0435\u0441 \u043A\u043E\u0448\u0435\u043B\u044C\u043A\u0430.",
     "Wallet_EnterNameHint": "\u041F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u0438\u043C\u044F"
 };
@@ -106562,7 +106562,7 @@ var viMap = {
     "Wallet_AddWalletAddressTitle": "Th\xEAm \u0111\u1ECBa ch\u1EC9 v\xED",
     "Wallet_SelectWalletAccount": "Ch\u1ECDn t\xE0i kho\u1EA3n v\xED",
     "Wallet_NoWalletBound": "Ch\u01B0a li\xEAn k\u1EBFt \u0111\u1ECBa ch\u1EC9 v\xED",
-    "Wallet_WalletAddressLabel": "\u0111\u1ECBa ch\u1EC9 v\xED",
+    "Wallet_WalletAddressLabel": "\u0110\u1ECBa ch\u1EC9 v\xED",
     "Wallet_EnterWalletAddressHint": "Vui l\xF2ng nh\u1EADp \u0111\u1ECBa ch\u1EC9 v\xED.",
     "Wallet_EnterNameHint": "Vui l\xF2ng nh\u1EADp t\xEAn"
 };
