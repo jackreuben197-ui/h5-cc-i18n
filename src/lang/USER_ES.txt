@@ -7224,6 +7224,7 @@ Wallet_OrderPayAddr=Dirección de pago
 Wallet_OrderRecvName=Nombre del pago
 Wallet_OrderRecvAddr=Ubicación del recibo
 Wallet_OrderTime=Ingresar tiempo
+Wallet_OrderTimeWithdraw=Hora del retiro
 Wallet_StatusPending=Aplicando
 UIMatchPokerTournament=Evento de póquer
 UIMatchMahjongTournament=Evento de Mahjong

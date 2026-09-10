@@ -7224,6 +7224,7 @@ Wallet_OrderPayAddr=지불 주소
 Wallet_OrderRecvName=지불 이름
 Wallet_OrderRecvAddr=영수증 위치
 Wallet_OrderTime=충전 시간
+Wallet_OrderTimeWithdraw=출금 시간
 Wallet_StatusPending=신청 중
 UIMatchPokerTournament=포커 이벤트
 UIMatchMahjongTournament=마작 이벤트

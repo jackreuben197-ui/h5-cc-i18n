@@ -7224,6 +7224,7 @@ Wallet_OrderPayAddr=Payment Address
 Wallet_OrderRecvName=Recipient Name
 Wallet_OrderRecvAddr=Recipient Address
 Wallet_OrderTime=Recharge Time
+Wallet_OrderTimeWithdraw=Withdrawal Time
 Wallet_StatusPending=Pending
 UIMatchPokerTournament=Poker Tournament
 UIMatchMahjongTournament=Mahjong Tournament

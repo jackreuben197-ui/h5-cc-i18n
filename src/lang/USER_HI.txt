@@ -7224,6 +7224,7 @@ Wallet_OrderPayAddr=भुगतान पता
 Wallet_OrderRecvName=भुगतान नाम
 Wallet_OrderRecvAddr=प्राप्ति स्थान
 Wallet_OrderTime=जमा समय
+Wallet_OrderTimeWithdraw=निकासी समय
 Wallet_StatusPending=आवेदन करना
 UIMatchPokerTournament=पोकर इवेंट
 UIMatchMahjongTournament=माहजोंग घटना

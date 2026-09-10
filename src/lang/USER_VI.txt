@@ -7224,6 +7224,7 @@ Wallet_OrderPayAddr=Địa chỉ thanh toán
 Wallet_OrderRecvName=Tên thanh toán
 Wallet_OrderRecvAddr=Nơi thanh toán
 Wallet_OrderTime=Nạp thời gian
+Wallet_OrderTimeWithdraw=Thời gian rút tiền
 Wallet_StatusPending=Áp dụng
 UIMatchPokerTournament=Sự kiện poker
 UIMatchMahjongTournament=sự kiện mạt chược

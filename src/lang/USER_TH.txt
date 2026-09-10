@@ -7224,6 +7224,7 @@ Wallet_OrderPayAddr=ที่อยู่การชำระเงิน
 Wallet_OrderRecvName=ชื่อการชำระเงิน
 Wallet_OrderRecvAddr=สถานที่รับเงิน
 Wallet_OrderTime=ฝากเวลา
+Wallet_OrderTimeWithdraw=เวลาถอนเงิน
 Wallet_StatusPending=การใช้
 UIMatchPokerTournament=งานโป๊กเกอร์
 UIMatchMahjongTournament=กิจกรรมไพ่นกกระจอก
