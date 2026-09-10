@@ -8206,3 +8206,15 @@ Wallet_NoWalletBound=कोई वॉलेट पता बाध्य नह�
 Wallet_WalletAddressLabel=वॉलेट पता
 Wallet_EnterWalletAddressHint=कृपया वॉलेट पता दर्ज करें।
 Wallet_EnterNameHint=कृपया नाम दर्ज करें
+Wallet_AddAccount=खाता जोड़ें
+Wallet_ReceivingAccount=प्राप्तकर्ता खाता
+Wallet_WithdrawalAmount=निकासी राशि
+Wallet_EnterWithdrawalAmount=निकासी राशि दर्ज करें
+Wallet_Fee=शुल्क
+Wallet_EstimatedAmountReceived=अनुमानित प्राप्त राशि
+Wallet_NoCardBound=कोई बैंक कार्ड बाइंड नहीं है
+Wallet_NoWithdrawMethod=कोई निकासी विधि उपलब्ध नहीं है
+Wallet_Submit=सबमिट करें
+Wallet_CsWithdraw=ग्राहक सेवा निकासी
+Wallet_ContactCs=ग्राहक सेवा से संपर्क करें
+

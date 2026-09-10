@@ -8206,3 +8206,15 @@ Wallet_NoWalletBound=Aucune adresse de portefeuille liée
 Wallet_WalletAddressLabel=adresse de portefeuille
 Wallet_EnterWalletAddressHint=Veuillez saisir l'adresse du portefeuille.
 Wallet_EnterNameHint=Veuillez saisir le nom
+Wallet_AddAccount=Ajouter un compte
+Wallet_ReceivingAccount=Compte de réception
+Wallet_WithdrawalAmount=Montant du retrait
+Wallet_EnterWithdrawalAmount=Entrer le montant du retrait
+Wallet_Fee=Frais
+Wallet_EstimatedAmountReceived=Montant estimé reçu
+Wallet_NoCardBound=Aucune carte bancaire liée
+Wallet_NoWithdrawMethod=Aucun mode de retrait disponible
+Wallet_Submit=Soumettre
+Wallet_CsWithdraw=Retrait via support
+Wallet_ContactCs=Contacter le service client
+

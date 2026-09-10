@@ -8206,3 +8206,15 @@ Wallet_NoWalletBound=ยังไม่มีการผูกที่อย�
 Wallet_WalletAddressLabel=ที่อยู่กระเป๋าเงิน
 Wallet_EnterWalletAddressHint=กรุณากรอกที่อยู่กระเป๋าเงิน
 Wallet_EnterNameHint=กรุณากรอกชื่อ
+Wallet_AddAccount=เพิ่มบัญชี
+Wallet_ReceivingAccount=บัญชีรับเงิน
+Wallet_WithdrawalAmount=จำนวนเงินถอน
+Wallet_EnterWithdrawalAmount=กรุณาระบุจำนวนเงินถอน
+Wallet_Fee=ค่าธรรมเนียม
+Wallet_EstimatedAmountReceived=จำนวนเงินที่คาดว่าจะได้รับ
+Wallet_NoCardBound=ยังไม่ได้ผูกบัตรธนาคาร
+Wallet_NoWithdrawMethod=ไม่มีช่องทางการถอนเงินที่ใช้ได้
+Wallet_Submit=ส่ง
+Wallet_CsWithdraw=ถอนเงินผ่านบริการลูกค้า
+Wallet_ContactCs=ติดต่อบริการลูกค้า
+

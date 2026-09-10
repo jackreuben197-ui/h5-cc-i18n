@@ -8206,3 +8206,15 @@ Wallet_NoWalletBound=Chưa liên kết địa chỉ ví
 Wallet_WalletAddressLabel=địa chỉ ví
 Wallet_EnterWalletAddressHint=Vui lòng nhập địa chỉ ví.
 Wallet_EnterNameHint=Vui lòng nhập tên
+Wallet_AddAccount=Thêm tài khoản
+Wallet_ReceivingAccount=Tài khoản nhận
+Wallet_WithdrawalAmount=Số tiền rút
+Wallet_EnterWithdrawalAmount=Vui lòng nhập số tiền rút
+Wallet_Fee=Phí
+Wallet_EstimatedAmountReceived=Số tiền dự kiến nhận
+Wallet_NoCardBound=Chưa liên kết thẻ ngân hàng
+Wallet_NoWithdrawMethod=Không có phương thức rút tiền khả dụng
+Wallet_Submit=Gửi
+Wallet_CsWithdraw=Rút tiền qua CSKH
+Wallet_ContactCs=Liên hệ CSKH
+

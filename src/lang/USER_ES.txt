@@ -8206,3 +8206,15 @@ Wallet_NoWalletBound=No hay dirección de monedero vinculada
 Wallet_WalletAddressLabel=dirección de monedero
 Wallet_EnterWalletAddressHint=Por favor ingrese la dirección del monedero.
 Wallet_EnterNameHint=Por favor ingrese el nombre
+Wallet_AddAccount=Añadir cuenta
+Wallet_ReceivingAccount=Cuenta receptora
+Wallet_WithdrawalAmount=Monto de retiro
+Wallet_EnterWithdrawalAmount=Ingrese el monto de retiro
+Wallet_Fee=Comisión
+Wallet_EstimatedAmountReceived=Monto estimado a recibir
+Wallet_NoCardBound=Sin tarjeta bancaria vinculada
+Wallet_NoWithdrawMethod=No hay método de retiro disponible
+Wallet_Submit=Enviar
+Wallet_CsWithdraw=Retiro por soporte
+Wallet_ContactCs=Contactar soporte
+

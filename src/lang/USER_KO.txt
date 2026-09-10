@@ -8206,3 +8206,15 @@ Wallet_NoWalletBound=연결된 지갑 주소가 없습니다
 Wallet_WalletAddressLabel=지갑 주소
 Wallet_EnterWalletAddressHint=지갑 주소를 입력하세요.
 Wallet_EnterNameHint=이름을 입력하세요
+Wallet_AddAccount=계좌 추가
+Wallet_ReceivingAccount=수령 계좌
+Wallet_WithdrawalAmount=출금 금액
+Wallet_EnterWithdrawalAmount=출금 금액을 입력하세요
+Wallet_Fee=수수료
+Wallet_EstimatedAmountReceived=예상 입금액
+Wallet_NoCardBound=연동된 은행 카드가 없습니다
+Wallet_NoWithdrawMethod=이용 가능한 출금 수단이 없습니다
+Wallet_Submit=제출
+Wallet_CsWithdraw=고객센터 출금
+Wallet_ContactCs=고객센터 문의
+

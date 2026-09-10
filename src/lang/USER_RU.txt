@@ -8206,3 +8206,15 @@ Wallet_NoWalletBound=Нет привязанного адреса кошельк
 Wallet_WalletAddressLabel=адрес кошелька
 Wallet_EnterWalletAddressHint=Пожалуйста, введите адрес кошелька.
 Wallet_EnterNameHint=Пожалуйста, введите имя
+Wallet_AddAccount=Добавить счет
+Wallet_ReceivingAccount=Счет получателя
+Wallet_WithdrawalAmount=Сумма вывода
+Wallet_EnterWithdrawalAmount=Введите сумму вывода
+Wallet_Fee=Комиссия
+Wallet_EstimatedAmountReceived=Ожидаемая сумма
+Wallet_NoCardBound=Нет привязанной банковской карты
+Wallet_NoWithdrawMethod=Нет доступного способа вывода
+Wallet_Submit=Отправить
+Wallet_CsWithdraw=Вывод через поддержку
+Wallet_ContactCs=Связаться с поддержкой
+

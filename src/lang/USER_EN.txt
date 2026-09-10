@@ -8206,3 +8206,14 @@ Wallet_NoWalletBound=No wallet address bound
 Wallet_WalletAddressLabel=wallet address
 Wallet_EnterWalletAddressHint=Please enter wallet address.
 Wallet_EnterNameHint=Please enter name
+Wallet_AddAccount=Add Account
+Wallet_ReceivingAccount=Receiving Account
+Wallet_WithdrawalAmount=Withdrawal Amount
+Wallet_EnterWithdrawalAmount=Enter withdrawal amount
+Wallet_Fee=Fee
+Wallet_EstimatedAmountReceived=Estimated Amount Received
+Wallet_NoWithdrawMethod=No withdrawal method available
+Wallet_Submit=Submit
+Wallet_CsWithdraw=CS Withdraw
+Wallet_ContactCs=Contact CS
+

@@ -8206,3 +8206,14 @@ Wallet_NoWalletBound=暫無綁定錢包地址
 Wallet_WalletAddressLabel=錢包地址
 Wallet_EnterWalletAddressHint=請輸入錢包地址
 Wallet_EnterNameHint=請輸入姓名
+Wallet_AddAccount=添加帳戶
+Wallet_ReceivingAccount=收款帳號
+Wallet_WithdrawalAmount=取款金額
+Wallet_EnterWithdrawalAmount=請輸入取款金額
+Wallet_Fee=手續費
+Wallet_EstimatedAmountReceived=預計到帳
+Wallet_NoWithdrawMethod=暫無可用提現方式
+Wallet_Submit=提交
+Wallet_CsWithdraw=客服提現
+Wallet_ContactCs=聯繫客服
+

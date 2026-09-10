@@ -8206,3 +8206,15 @@ Wallet_NoWalletBound=バインドされたウォレットアドレスはあり�
 Wallet_WalletAddressLabel=ウォレットアドレス
 Wallet_EnterWalletAddressHint=ウォレットアドレスを入力してください。
 Wallet_EnterNameHint=名前を入力してください
+Wallet_AddAccount=アカウント追加
+Wallet_ReceivingAccount=受取口座
+Wallet_WithdrawalAmount=出金額
+Wallet_EnterWithdrawalAmount=出金額を入力してください
+Wallet_Fee=手数料
+Wallet_EstimatedAmountReceived=着金予想額
+Wallet_NoCardBound=連携済みの銀行口座がありません
+Wallet_NoWithdrawMethod=利用可能な出金方法がありません
+Wallet_Submit=送信
+Wallet_CsWithdraw=カスタマーサポート出金
+Wallet_ContactCs=カスタマーサポートへ連絡
+

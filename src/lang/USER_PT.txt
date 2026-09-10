@@ -8206,3 +8206,15 @@ Wallet_NoWalletBound=Nenhum endereço de carteira vinculado
 Wallet_WalletAddressLabel=endereço de carteira
 Wallet_EnterWalletAddressHint=Por favor, insira o endereço da carteira.
 Wallet_EnterNameHint=Por favor, insira o nome
+Wallet_AddAccount=Adicionar conta
+Wallet_ReceivingAccount=Conta de recebimento
+Wallet_WithdrawalAmount=Valor do saque
+Wallet_EnterWithdrawalAmount=Insira o valor do saque
+Wallet_Fee=Taxa
+Wallet_EstimatedAmountReceived=Valor estimado a receber
+Wallet_NoCardBound=Nenhum cartão bancário vinculado
+Wallet_NoWithdrawMethod=Nenhum método de saque disponível
+Wallet_Submit=Enviar
+Wallet_CsWithdraw=Saque pelo suporte
+Wallet_ContactCs=Contatar suporte
+
