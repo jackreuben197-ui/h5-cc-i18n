@@ -8220,6 +8220,6 @@ Wallet_Fee=手续费
 Wallet_EstimatedAmountReceived=预计到账
 Wallet_NoWithdrawMethod=暂无可用提现方式
 Wallet_Submit=提交
-Wallet_CsWithdraw=客服提现
+Wallet_CsWithdraw=客服
 Wallet_ContactCs=联系客服
 

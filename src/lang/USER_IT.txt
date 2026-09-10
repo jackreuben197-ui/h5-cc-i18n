@@ -8221,6 +8221,6 @@ Wallet_EstimatedAmountReceived=Importo stimato ricevuto
 Wallet_NoCardBound=Nessuna carta bancaria collegata
 Wallet_NoWithdrawMethod=Nessun metodo di prelievo disponibile
 Wallet_Submit=Invia
-Wallet_CsWithdraw=Prelievo assistenza
+Wallet_CsWithdraw=Supporto
 Wallet_ContactCs=Contatta assistenza
 

@@ -8221,6 +8221,6 @@ Wallet_EstimatedAmountReceived=Ожидаемая сумма
 Wallet_NoCardBound=Нет привязанной банковской карты
 Wallet_NoWithdrawMethod=Нет доступного способа вывода
 Wallet_Submit=Отправить
-Wallet_CsWithdraw=Вывод через поддержку
+Wallet_CsWithdraw=Поддержка
 Wallet_ContactCs=Связаться с поддержкой
 

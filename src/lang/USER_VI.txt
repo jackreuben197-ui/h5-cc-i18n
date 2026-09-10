@@ -8221,6 +8221,6 @@ Wallet_EstimatedAmountReceived=Số tiền dự kiến nhận
 Wallet_NoCardBound=Chưa liên kết thẻ ngân hàng
 Wallet_NoWithdrawMethod=Không có phương thức rút tiền khả dụng
 Wallet_Submit=Gửi
-Wallet_CsWithdraw=Rút tiền qua CSKH
+Wallet_CsWithdraw=Hỗ trợ
 Wallet_ContactCs=Liên hệ CSKH
 

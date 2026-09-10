@@ -8221,6 +8221,6 @@ Wallet_EstimatedAmountReceived=예상 입금액
 Wallet_NoCardBound=연동된 은행 카드가 없습니다
 Wallet_NoWithdrawMethod=이용 가능한 출금 수단이 없습니다
 Wallet_Submit=제출
-Wallet_CsWithdraw=고객센터 출금
+Wallet_CsWithdraw=고객지원
 Wallet_ContactCs=고객센터 문의
 

@@ -8221,6 +8221,6 @@ Wallet_EstimatedAmountReceived=Monto estimado a recibir
 Wallet_NoCardBound=Sin tarjeta bancaria vinculada
 Wallet_NoWithdrawMethod=No hay método de retiro disponible
 Wallet_Submit=Enviar
-Wallet_CsWithdraw=Retiro por soporte
+Wallet_CsWithdraw=Soporte
 Wallet_ContactCs=Contactar soporte
 

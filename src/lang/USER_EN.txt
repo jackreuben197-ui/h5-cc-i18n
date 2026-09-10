@@ -8220,6 +8220,6 @@ Wallet_Fee=Fee
 Wallet_EstimatedAmountReceived=Estimated Amount Received
 Wallet_NoWithdrawMethod=No withdrawal method available
 Wallet_Submit=Submit
-Wallet_CsWithdraw=CS Withdraw
+Wallet_CsWithdraw=Support
 Wallet_ContactCs=Contact CS
 

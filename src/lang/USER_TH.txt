@@ -8221,6 +8221,6 @@ Wallet_EstimatedAmountReceived=จำนวนเงินที่คาดว�
 Wallet_NoCardBound=ยังไม่ได้ผูกบัตรธนาคาร
 Wallet_NoWithdrawMethod=ไม่มีช่องทางการถอนเงินที่ใช้ได้
 Wallet_Submit=ส่ง
-Wallet_CsWithdraw=ถอนเงินผ่านบริการลูกค้า
+Wallet_CsWithdraw=บริการลูกค้า
 Wallet_ContactCs=ติดต่อบริการลูกค้า
 

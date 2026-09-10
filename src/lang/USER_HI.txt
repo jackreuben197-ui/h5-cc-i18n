@@ -8221,6 +8221,6 @@ Wallet_EstimatedAmountReceived=अनुमानित प्राप्त �
 Wallet_NoCardBound=कोई बैंक कार्ड बाइंड नहीं है
 Wallet_NoWithdrawMethod=कोई निकासी विधि उपलब्ध नहीं है
 Wallet_Submit=सबमिट करें
-Wallet_CsWithdraw=ग्राहक सेवा निकासी
+Wallet_CsWithdraw=सहायता
 Wallet_ContactCs=ग्राहक सेवा से संपर्क करें
 
