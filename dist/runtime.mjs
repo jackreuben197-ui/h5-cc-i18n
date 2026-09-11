@@ -8225,7 +8225,9 @@ var deMap = {
     "Wallet_EnterWithdrawalAmount": "Auszahlungsbetrag eingeben",
     "Wallet_Fee": "Geb\xFChr",
     "Wallet_EstimatedAmountReceived": "Gesch\xE4tzter Betrag",
-    "Wallet_Submit": "Senden"
+    "Wallet_Submit": "Senden",
+    "Wallet_WithdrawLimitUc": "UC-Auszahlungslimit: {0}\u2013{1}",
+    "Wallet_AmountRangeError": "Bitte geben Sie einen Betrag zwischen {0} und {1} ein"
 };
 var enMap = {
     "4": "Failed to connect, please try again later. ",
@@ -16434,7 +16436,9 @@ var enMap = {
     "Wallet_EnterWithdrawalAmount": "Enter withdrawal amount",
     "Wallet_Fee": "Fee",
     "Wallet_EstimatedAmountReceived": "Estimated Amount Received",
-    "Wallet_Submit": "Submit"
+    "Wallet_Submit": "Submit",
+    "Wallet_WithdrawLimitUc": "Withdrawal limit for UC: {0}\u2013{1}",
+    "Wallet_AmountRangeError": "Please enter an amount between {0} and {1}"
 };
 var esMap = {
     "4": "Error de red. Reintente.",
@@ -24643,7 +24647,9 @@ var esMap = {
     "Wallet_EnterWithdrawalAmount": "Ingrese el monto de retiro",
     "Wallet_Fee": "Comisi\xF3n",
     "Wallet_EstimatedAmountReceived": "Monto estimado a recibir",
-    "Wallet_Submit": "Enviar"
+    "Wallet_Submit": "Enviar",
+    "Wallet_WithdrawLimitUc": "L\xEDmite de retiro de UC: {0}\u2013{1}",
+    "Wallet_AmountRangeError": "Ingrese un monto entre {0} y {1}"
 };
 var frMap = {
     "4": "Erreur r\xE9seau. R\xE9essayez.",
@@ -32852,7 +32858,9 @@ var frMap = {
     "Wallet_EnterWithdrawalAmount": "Entrer le montant du retrait",
     "Wallet_Fee": "Frais",
     "Wallet_EstimatedAmountReceived": "Montant estim\xE9 re\xE7u",
-    "Wallet_Submit": "Soumettre"
+    "Wallet_Submit": "Soumettre",
+    "Wallet_WithdrawLimitUc": "Limite de retrait UC : {0}\u2013{1}",
+    "Wallet_AmountRangeError": "Veuillez saisir un montant entre {0} et {1}"
 };
 var hiMap = {
     "4": "\u0928\u0947\u091F\u0935\u0930\u094D\u0915 \u0924\u094D\u0930\u0941\u091F\u093F\u0964 \u092C\u093E\u0926 \u092E\u0947\u0902 \u0915\u094B\u0936\u093F\u0936 \u0915\u0930\u0947\u0902\u0964",
@@ -41061,7 +41069,9 @@ var hiMap = {
     "Wallet_EnterWithdrawalAmount": "\u0928\u093F\u0915\u093E\u0938\u0940 \u0930\u093E\u0936\u093F \u0926\u0930\u094D\u091C \u0915\u0930\u0947\u0902",
     "Wallet_Fee": "\u0936\u0941\u0932\u094D\u0915",
     "Wallet_EstimatedAmountReceived": "\u0905\u0928\u0941\u092E\u093E\u0928\u093F\u0924 \u092A\u094D\u0930\u093E\u092A\u094D\u0924 \u0930\u093E\u0936\u093F",
-    "Wallet_Submit": "\u0938\u092C\u092E\u093F\u091F \u0915\u0930\u0947\u0902"
+    "Wallet_Submit": "\u0938\u092C\u092E\u093F\u091F \u0915\u0930\u0947\u0902",
+    "Wallet_WithdrawLimitUc": "UC \u0928\u093F\u0915\u093E\u0938\u0940 \u0938\u0940\u092E\u093E: {0}\u2013{1}",
+    "Wallet_AmountRangeError": "\u0915\u0943\u092A\u092F\u093E {0} \u0914\u0930 {1} \u0915\u0947 \u092C\u0940\u091A \u0930\u093E\u0936\u093F \u0926\u0930\u094D\u091C \u0915\u0930\u0947\u0902"
 };
 var itMap = {
     "4": "Errore di rete. Riprova.",
@@ -49270,7 +49280,9 @@ var itMap = {
     "Wallet_EnterWithdrawalAmount": "Inserisci l'importo di prelievo",
     "Wallet_Fee": "Commissione",
     "Wallet_EstimatedAmountReceived": "Importo stimato ricevuto",
-    "Wallet_Submit": "Invia"
+    "Wallet_Submit": "Invia",
+    "Wallet_WithdrawLimitUc": "Limite di prelievo UC: {0}\u2013{1}",
+    "Wallet_AmountRangeError": "Inserisci un importo compreso tra {0} e {1}"
 };
 var jaMap = {
     "4": "\u901A\u4FE1\u30A8\u30E9\u30FC\u3067\u3059\u3002\u3082\u3046\u4E00\u5EA6\u8A66\u3057\u3066\u304F\u3060\u3055\u3044\u3002",
@@ -57479,7 +57491,9 @@ var jaMap = {
     "Wallet_EnterWithdrawalAmount": "\u51FA\u91D1\u984D\u3092\u5165\u529B\u3057\u3066\u304F\u3060\u3055\u3044",
     "Wallet_Fee": "\u624B\u6570\u6599",
     "Wallet_EstimatedAmountReceived": "\u7740\u91D1\u4E88\u60F3\u984D",
-    "Wallet_Submit": "\u9001\u4FE1"
+    "Wallet_Submit": "\u9001\u4FE1",
+    "Wallet_WithdrawLimitUc": "UC\u51FA\u91D1\u9650\u5EA6\u984D\uFF1A{0}\u2013{1}",
+    "Wallet_AmountRangeError": "{0}\u301C{1}\u306E\u91D1\u984D\u3092\u5165\u529B\u3057\u3066\u304F\u3060\u3055\u3044"
 };
 var koMap = {
     "4": "\uB124\uD2B8\uC6CC\uD06C \uC624\uB958. \uB2E4\uC2DC \uC2DC\uB3C4.",
@@ -65688,7 +65702,9 @@ var koMap = {
     "Wallet_EnterWithdrawalAmount": "\uCD9C\uAE08 \uAE08\uC561\uC744 \uC785\uB825\uD558\uC138\uC694",
     "Wallet_Fee": "\uC218\uC218\uB8CC",
     "Wallet_EstimatedAmountReceived": "\uC608\uC0C1 \uC785\uAE08\uC561",
-    "Wallet_Submit": "\uC81C\uCD9C"
+    "Wallet_Submit": "\uC81C\uCD9C",
+    "Wallet_WithdrawLimitUc": "UC \uCD9C\uAE08 \uD55C\uB3C4: {0}\u2013{1}",
+    "Wallet_AmountRangeError": "{0}~{1} \uC0AC\uC774\uC758 \uAE08\uC561\uC744 \uC785\uB825\uD558\uC138\uC694"
 };
 var ptMap = {
     "4": "Erro de conex\xE3o, favor tentar novamente. ",
@@ -73897,7 +73913,9 @@ var ptMap = {
     "Wallet_EnterWithdrawalAmount": "Insira o valor do saque",
     "Wallet_Fee": "Taxa",
     "Wallet_EstimatedAmountReceived": "Valor estimado a receber",
-    "Wallet_Submit": "Enviar"
+    "Wallet_Submit": "Enviar",
+    "Wallet_WithdrawLimitUc": "Limite de saque de UC: {0}\u2013{1}",
+    "Wallet_AmountRangeError": "Insira um valor entre {0} e {1}"
 };
 var ruMap = {
     "4": "\u0421\u0435\u0442\u044C. \u041F\u043E\u0432\u0442\u043E\u0440\u0438\u0442\u0435.",
@@ -82106,7 +82124,9 @@ var ruMap = {
     "Wallet_EnterWithdrawalAmount": "\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0443\u043C\u043C\u0443 \u0432\u044B\u0432\u043E\u0434\u0430",
     "Wallet_Fee": "\u041A\u043E\u043C\u0438\u0441\u0441\u0438\u044F",
     "Wallet_EstimatedAmountReceived": "\u041E\u0436\u0438\u0434\u0430\u0435\u043C\u0430\u044F \u0441\u0443\u043C\u043C\u0430",
-    "Wallet_Submit": "\u041E\u0442\u043F\u0440\u0430\u0432\u0438\u0442\u044C"
+    "Wallet_Submit": "\u041E\u0442\u043F\u0440\u0430\u0432\u0438\u0442\u044C",
+    "Wallet_WithdrawLimitUc": "\u041B\u0438\u043C\u0438\u0442 \u0432\u044B\u0432\u043E\u0434\u0430 UC: {0}\u2013{1}",
+    "Wallet_AmountRangeError": "\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0443\u043C\u043C\u0443 \u043E\u0442 {0} \u0434\u043E {1}"
 };
 var thMap = {
     "4": "\u0E40\u0E19\u0E47\u0E15\u0E1C\u0E34\u0E14\u0E1E\u0E25\u0E32\u0E14 \u0E25\u0E2D\u0E07\u0E43\u0E2B\u0E21\u0E48",
@@ -90315,7 +90335,9 @@ var thMap = {
     "Wallet_EnterWithdrawalAmount": "\u0E01\u0E23\u0E38\u0E13\u0E32\u0E23\u0E30\u0E1A\u0E38\u0E08\u0E33\u0E19\u0E27\u0E19\u0E40\u0E07\u0E34\u0E19\u0E16\u0E2D\u0E19",
     "Wallet_Fee": "\u0E04\u0E48\u0E32\u0E18\u0E23\u0E23\u0E21\u0E40\u0E19\u0E35\u0E22\u0E21",
     "Wallet_EstimatedAmountReceived": "\u0E08\u0E33\u0E19\u0E27\u0E19\u0E40\u0E07\u0E34\u0E19\u0E17\u0E35\u0E48\u0E04\u0E32\u0E14\u0E27\u0E48\u0E32\u0E08\u0E30\u0E44\u0E14\u0E49\u0E23\u0E31\u0E1A",
-    "Wallet_Submit": "\u0E2A\u0E48\u0E07"
+    "Wallet_Submit": "\u0E2A\u0E48\u0E07",
+    "Wallet_WithdrawLimitUc": "\u0E27\u0E07\u0E40\u0E07\u0E34\u0E19\u0E16\u0E2D\u0E19 UC: {0}\u2013{1}",
+    "Wallet_AmountRangeError": "\u0E01\u0E23\u0E38\u0E13\u0E32\u0E01\u0E23\u0E2D\u0E01\u0E08\u0E33\u0E19\u0E27\u0E19\u0E40\u0E07\u0E34\u0E19\u0E23\u0E30\u0E2B\u0E27\u0E48\u0E32\u0E07 {0} \u0E16\u0E36\u0E07 {1}"
 };
 var zh_TWMap = {
     "4": "\u7DB2\u8DEF\u932F\u8AA4\uFF0C\u8ACB\u7A0D\u5F8C\u91CD\u8A66",
@@ -98524,7 +98546,9 @@ var zh_TWMap = {
     "Wallet_EnterWithdrawalAmount": "\u8ACB\u8F38\u5165\u53D6\u6B3E\u91D1\u984D",
     "Wallet_Fee": "\u624B\u7E8C\u8CBB",
     "Wallet_EstimatedAmountReceived": "\u9810\u8A08\u5230\u5E33",
-    "Wallet_Submit": "\u63D0\u4EA4"
+    "Wallet_Submit": "\u63D0\u4EA4",
+    "Wallet_WithdrawLimitUc": "\u806F\u76DF\u5E63\u63D0\u73FE\u9650\u984D\uFF1A{0}\u2013{1}",
+    "Wallet_AmountRangeError": "\u8ACB\u8F38\u5165{0}-{1}\u7684\u91D1\u984D\u7BC4\u570D"
 };
 var viMap = {
     "4": "L\u1ED7i m\u1EA1ng. Th\u1EED l\u1EA1i.",
@@ -106733,7 +106757,9 @@ var viMap = {
     "Wallet_EnterWithdrawalAmount": "Vui l\xF2ng nh\u1EADp s\u1ED1 ti\u1EC1n r\xFAt",
     "Wallet_Fee": "Ph\xED",
     "Wallet_EstimatedAmountReceived": "S\u1ED1 ti\u1EC1n d\u1EF1 ki\u1EBFn nh\u1EADn",
-    "Wallet_Submit": "G\u1EEDi"
+    "Wallet_Submit": "G\u1EEDi",
+    "Wallet_WithdrawLimitUc": "H\u1EA1n m\u1EE9c r\xFAt UC: {0}\u2013{1}",
+    "Wallet_AmountRangeError": "Vui l\xF2ng nh\u1EADp s\u1ED1 ti\u1EC1n t\u1EEB {0} \u0111\u1EBFn {1}"
 };
 var zh_CNMap = {
     "4": "\u7F51\u7EDC\u9519\u8BEF\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5",
@@ -114942,7 +114968,9 @@ var zh_CNMap = {
     "Wallet_EnterWithdrawalAmount": "\u8BF7\u8F93\u5165\u53D6\u6B3E\u91D1\u989D",
     "Wallet_Fee": "\u624B\u7EED\u8D39",
     "Wallet_EstimatedAmountReceived": "\u9884\u8BA1\u5230\u8D26",
-    "Wallet_Submit": "\u63D0\u4EA4"
+    "Wallet_Submit": "\u63D0\u4EA4",
+    "Wallet_WithdrawLimitUc": "\u8054\u76DF\u5E01\u63D0\u73B0\u9650\u989D\uFF1A{0}\u2013{1}",
+    "Wallet_AmountRangeError": "\u8BF7\u8F93\u5165{0}-{1}\u7684\u91D1\u989D\u8303\u56F4"
 };
 var localesData = {
     "de": deMap,

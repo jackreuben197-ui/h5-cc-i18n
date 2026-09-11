@@ -8223,3 +8223,5 @@ Wallet_Submit=提交
 Wallet_CsWithdraw=客服
 Wallet_ContactCs=聯繫客服
 
+Wallet_WithdrawLimitUc=聯盟幣提現限額：{0}–{1}
+Wallet_AmountRangeError=請輸入{0}-{1}的金額範圍

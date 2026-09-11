@@ -8224,3 +8224,5 @@ Wallet_Submit=Отправить
 Wallet_CsWithdraw=Поддержка
 Wallet_ContactCs=Связаться с поддержкой
 
+Wallet_WithdrawLimitUc=Лимит вывода UC: {0}–{1}
+Wallet_AmountRangeError=Введите сумму от {0} до {1}

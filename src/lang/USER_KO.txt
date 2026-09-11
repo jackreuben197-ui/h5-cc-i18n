@@ -8224,3 +8224,5 @@ Wallet_Submit=제출
 Wallet_CsWithdraw=고객지원
 Wallet_ContactCs=고객센터 문의
 
+Wallet_WithdrawLimitUc=UC 출금 한도: {0}–{1}
+Wallet_AmountRangeError={0}~{1} 사이의 금액을 입력하세요

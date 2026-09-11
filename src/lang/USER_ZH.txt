@@ -8223,3 +8223,5 @@ Wallet_Submit=提交
 Wallet_CsWithdraw=客服
 Wallet_ContactCs=联系客服
 
+Wallet_WithdrawLimitUc=联盟币提现限额：{0}–{1}
+Wallet_AmountRangeError=请输入{0}-{1}的金额范围
