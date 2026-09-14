@@ -8246,7 +8246,12 @@ var deMap = {
     "Wallet_PleaseSelectAlipayName": "Bitte Alipay-Namen ausw\xE4hlen",
     "Wallet_EnterAlipayReceivingAccount": "Alipay-Empfangskonto eingeben",
     "Wallet_AlipayName": "Alipay-Name",
-    "Wallet_SaveFailed": "Speichern fehlgeschlagen"
+    "Wallet_SaveFailed": "Speichern fehlgeschlagen",
+    "Wallet_USDT": "USDT",
+    "Wallet_UsdtAddressLabel": "USDT-Wallet-Adresse",
+    "Wallet_EnterWalletAddress": "Wallet-Adresse eingeben",
+    "Wallet_WalletQrLabel": "Wallet-QR",
+    "Wallet_UsdtDisclaimer": "Bitte geben Sie die Zahlungsdaten ein, die mit der \xDCberweisung \xFCbereinstimmen. Fehler f\xFChren zum Verlust von Geldern."
 };
 var enMap = {
     "4": "Failed to connect, please try again later. ",
@@ -16476,7 +16481,12 @@ var enMap = {
     "Wallet_PleaseSelectAlipayName": "Please select Alipay name",
     "Wallet_EnterAlipayReceivingAccount": "Enter Alipay Receiving Account",
     "Wallet_AlipayName": "Alipay Name",
-    "Wallet_SaveFailed": "Save failed"
+    "Wallet_SaveFailed": "Save failed",
+    "Wallet_USDT": "USDT",
+    "Wallet_UsdtAddressLabel": "USDT wallet address",
+    "Wallet_EnterWalletAddress": "Enter wallet address",
+    "Wallet_WalletQrLabel": "wallet QR",
+    "Wallet_UsdtDisclaimer": "Please fill in payment info that matches transfer. Mistakes will lead to loss of funds."
 };
 var esMap = {
     "4": "Error de red. Reintente.",
@@ -24706,7 +24716,12 @@ var esMap = {
     "Wallet_PleaseSelectAlipayName": "Seleccione Nombre de Alipay",
     "Wallet_EnterAlipayReceivingAccount": "Ingrese Cuenta de Recepci\xF3n Alipay",
     "Wallet_AlipayName": "Nombre de Alipay",
-    "Wallet_SaveFailed": "Error al Guardar"
+    "Wallet_SaveFailed": "Error al Guardar",
+    "Wallet_USDT": "USDT",
+    "Wallet_UsdtAddressLabel": "Direcci\xF3n de monedero USDT",
+    "Wallet_EnterWalletAddress": "Ingrese la direcci\xF3n del monedero",
+    "Wallet_WalletQrLabel": "QR del monedero",
+    "Wallet_UsdtDisclaimer": "Complete la informaci\xF3n de pago que coincida con la transferencia. Los errores pueden causar p\xE9rdida de fondos."
 };
 var frMap = {
     "4": "Erreur r\xE9seau. R\xE9essayez.",
@@ -32936,7 +32951,12 @@ var frMap = {
     "Wallet_PleaseSelectAlipayName": "Veuillez S\xE9lectionner le Nom Alipay",
     "Wallet_EnterAlipayReceivingAccount": "Entrez le Compte de R\xE9ception Alipay",
     "Wallet_AlipayName": "Nom Alipay",
-    "Wallet_SaveFailed": "\xC9chec de l'enregistrement"
+    "Wallet_SaveFailed": "\xC9chec de l'enregistrement",
+    "Wallet_USDT": "USDT",
+    "Wallet_UsdtAddressLabel": "Adresse du portefeuille USDT",
+    "Wallet_EnterWalletAddress": "Entrez l'adresse du portefeuille",
+    "Wallet_WalletQrLabel": "QR du portefeuille",
+    "Wallet_UsdtDisclaimer": "Veuillez remplir les informations de paiement correspondant au transfert. Des erreurs entra\xEEneront une perte de fonds."
 };
 var hiMap = {
     "4": "\u0928\u0947\u091F\u0935\u0930\u094D\u0915 \u0924\u094D\u0930\u0941\u091F\u093F\u0964 \u092C\u093E\u0926 \u092E\u0947\u0902 \u0915\u094B\u0936\u093F\u0936 \u0915\u0930\u0947\u0902\u0964",
@@ -41166,7 +41186,12 @@ var hiMap = {
     "Wallet_PleaseSelectAlipayName": "\u0915\u0943\u092A\u092F\u093E Alipay \u0928\u093E\u092E \u091A\u0941\u0928\u0947\u0902",
     "Wallet_EnterAlipayReceivingAccount": "Alipay \u092A\u094D\u0930\u093E\u092A\u094D\u0924\u0915\u0930\u094D\u0924\u093E \u0916\u093E\u0924\u093E \u0926\u0930\u094D\u091C \u0915\u0930\u0947\u0902",
     "Wallet_AlipayName": "Alipay \u0928\u093E\u092E",
-    "Wallet_SaveFailed": "\u0938\u0939\u0947\u091C\u0928\u0947 \u092E\u0947\u0902 \u0935\u093F\u092B\u0932"
+    "Wallet_SaveFailed": "\u0938\u0939\u0947\u091C\u0928\u0947 \u092E\u0947\u0902 \u0935\u093F\u092B\u0932",
+    "Wallet_USDT": "USDT",
+    "Wallet_UsdtAddressLabel": "USDT \u0935\u0949\u0932\u0947\u091F \u092A\u0924\u093E",
+    "Wallet_EnterWalletAddress": "\u0935\u0949\u0932\u0947\u091F \u092A\u0924\u093E \u0926\u0930\u094D\u091C \u0915\u0930\u0947\u0902",
+    "Wallet_WalletQrLabel": "\u0935\u0949\u0932\u0947\u091F \u0915\u094D\u092F\u0942\u0906\u0930",
+    "Wallet_UsdtDisclaimer": "\u0915\u0943\u092A\u092F\u093E \u0938\u094D\u0925\u093E\u0928\u093E\u0902\u0924\u0930\u0923 \u0938\u0947 \u092E\u0947\u0932 \u0916\u093E\u0928\u0947 \u0935\u093E\u0932\u0940 \u092D\u0941\u0917\u0924\u093E\u0928 \u091C\u093E\u0928\u0915\u093E\u0930\u0940 \u092D\u0930\u0947\u0902\u0964 \u0924\u094D\u0930\u0941\u091F\u093F\u092F\u094B\u0902 \u0915\u0947 \u0915\u093E\u0930\u0923 \u0927\u0928 \u0915\u0940 \u0939\u093E\u0928\u093F \u0939\u094B \u0938\u0915\u0924\u0940 \u0939\u0948\u0964"
 };
 var itMap = {
     "4": "Errore di rete. Riprova.",
@@ -49396,7 +49421,12 @@ var itMap = {
     "Wallet_PleaseSelectAlipayName": "Seleziona Nome Alipay",
     "Wallet_EnterAlipayReceivingAccount": "Inserisci Account Ricevente Alipay",
     "Wallet_AlipayName": "Nome Alipay",
-    "Wallet_SaveFailed": "Salvataggio non riuscito"
+    "Wallet_SaveFailed": "Salvataggio non riuscito",
+    "Wallet_USDT": "USDT",
+    "Wallet_UsdtAddressLabel": "Indirizzo del portafoglio USDT",
+    "Wallet_EnterWalletAddress": "Inserisci l'indirizzo del portafoglio",
+    "Wallet_WalletQrLabel": "QR del portafoglio",
+    "Wallet_UsdtDisclaimer": "Compila le informazioni di pagamento corrispondenti al trasferimento. Eventuali errori causeranno la perdita dei fondi."
 };
 var jaMap = {
     "4": "\u901A\u4FE1\u30A8\u30E9\u30FC\u3067\u3059\u3002\u3082\u3046\u4E00\u5EA6\u8A66\u3057\u3066\u304F\u3060\u3055\u3044\u3002",
@@ -57626,7 +57656,12 @@ var jaMap = {
     "Wallet_PleaseSelectAlipayName": "Alipay\u540D\u3092\u9078\u629E\u3057\u3066\u304F\u3060\u3055\u3044",
     "Wallet_EnterAlipayReceivingAccount": "Alipay\u53D7\u53D6\u53E3\u5EA7\u3092\u5165\u529B",
     "Wallet_AlipayName": "Alipay\u540D",
-    "Wallet_SaveFailed": "\u4FDD\u5B58\u5931\u6557"
+    "Wallet_SaveFailed": "\u4FDD\u5B58\u5931\u6557",
+    "Wallet_USDT": "USDT",
+    "Wallet_UsdtAddressLabel": "USDT\u30A6\u30A9\u30EC\u30C3\u30C8\u30A2\u30C9\u30EC\u30B9",
+    "Wallet_EnterWalletAddress": "\u30A6\u30A9\u30EC\u30C3\u30C8\u30A2\u30C9\u30EC\u30B9\u3092\u5165\u529B",
+    "Wallet_WalletQrLabel": "\u30A6\u30A9\u30EC\u30C3\u30C8QR",
+    "Wallet_UsdtDisclaimer": "\u9001\u91D1\u60C5\u5831\u3068\u4E00\u81F4\u3059\u308B\u652F\u6255\u3044\u60C5\u5831\u3092\u5165\u529B\u3057\u3066\u304F\u3060\u3055\u3044\u3002\u8AA4\u308A\u304C\u3042\u308B\u3068\u8CC7\u91D1\u304C\u5931\u308F\u308C\u308B\u53EF\u80FD\u6027\u304C\u3042\u308A\u307E\u3059\u3002"
 };
 var koMap = {
     "4": "\uB124\uD2B8\uC6CC\uD06C \uC624\uB958. \uB2E4\uC2DC \uC2DC\uB3C4.",
@@ -65856,7 +65891,12 @@ var koMap = {
     "Wallet_PleaseSelectAlipayName": "Alipay \uC774\uB984\uC744 \uC120\uD0DD\uD558\uC138\uC694",
     "Wallet_EnterAlipayReceivingAccount": "Alipay \uC218\uAE08 \uACC4\uC88C \uC785\uB825",
     "Wallet_AlipayName": "Alipay \uC774\uB984",
-    "Wallet_SaveFailed": "\uC800\uC7A5 \uC2E4\uD328"
+    "Wallet_SaveFailed": "\uC800\uC7A5 \uC2E4\uD328",
+    "Wallet_USDT": "USDT",
+    "Wallet_UsdtAddressLabel": "USDT \uC9C0\uAC11 \uC8FC\uC18C",
+    "Wallet_EnterWalletAddress": "\uC9C0\uAC11 \uC8FC\uC18C\uB97C \uC785\uB825\uD558\uC138\uC694",
+    "Wallet_WalletQrLabel": "\uC9C0\uAC11 QR",
+    "Wallet_UsdtDisclaimer": "\uC774\uCCB4\uC640 \uC77C\uCE58\uD558\uB294 \uACB0\uC81C \uC815\uBCF4\uB97C \uC785\uB825\uD558\uC138\uC694. \uC624\uC785\uB825 \uC2DC \uC790\uAE08\uC774 \uC190\uC2E4\uB420 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
 };
 var ptMap = {
     "4": "Erro de conex\xE3o, favor tentar novamente. ",
@@ -74086,7 +74126,12 @@ var ptMap = {
     "Wallet_PleaseSelectAlipayName": "Selecione o Nome do Alipay",
     "Wallet_EnterAlipayReceivingAccount": "Insira a Conta de Recebimento Alipay",
     "Wallet_AlipayName": "Nome do Alipay",
-    "Wallet_SaveFailed": "Falha ao Salvar"
+    "Wallet_SaveFailed": "Falha ao Salvar",
+    "Wallet_USDT": "USDT",
+    "Wallet_UsdtAddressLabel": "Endere\xE7o da carteira USDT",
+    "Wallet_EnterWalletAddress": "Insira o endere\xE7o da carteira",
+    "Wallet_WalletQrLabel": "QR da carteira",
+    "Wallet_UsdtDisclaimer": "Preencha as informa\xE7\xF5es de pagamento correspondentes \xE0 transfer\xEAncia. Erros levar\xE3o \xE0 perda de fundos."
 };
 var ruMap = {
     "4": "\u0421\u0435\u0442\u044C. \u041F\u043E\u0432\u0442\u043E\u0440\u0438\u0442\u0435.",
@@ -82316,7 +82361,12 @@ var ruMap = {
     "Wallet_PleaseSelectAlipayName": "\u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 Alipay",
     "Wallet_EnterAlipayReceivingAccount": "\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0441\u0447\u0435\u0442 \u043F\u043E\u043B\u0443\u0447\u0430\u0442\u0435\u043B\u044F Alipay",
     "Wallet_AlipayName": "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 Alipay",
-    "Wallet_SaveFailed": "\u041E\u0448\u0438\u0431\u043A\u0430 \u0441\u043E\u0445\u0440\u0430\u043D\u0435\u043D\u0438\u044F"
+    "Wallet_SaveFailed": "\u041E\u0448\u0438\u0431\u043A\u0430 \u0441\u043E\u0445\u0440\u0430\u043D\u0435\u043D\u0438\u044F",
+    "Wallet_USDT": "USDT",
+    "Wallet_UsdtAddressLabel": "\u0410\u0434\u0440\u0435\u0441 \u043A\u043E\u0448\u0435\u043B\u044C\u043A\u0430 USDT",
+    "Wallet_EnterWalletAddress": "\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u0430\u0434\u0440\u0435\u0441 \u043A\u043E\u0448\u0435\u043B\u044C\u043A\u0430",
+    "Wallet_WalletQrLabel": "QR-\u043A\u043E\u0434 \u043A\u043E\u0448\u0435\u043B\u044C\u043A\u0430",
+    "Wallet_UsdtDisclaimer": "\u0423\u043A\u0430\u0436\u0438\u0442\u0435 \u043F\u043B\u0430\u0442\u0435\u0436\u043D\u0443\u044E \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044E, \u0441\u043E\u0432\u043F\u0430\u0434\u0430\u044E\u0449\u0443\u044E \u0441 \u043F\u0435\u0440\u0435\u0432\u043E\u0434\u043E\u043C. \u041E\u0448\u0438\u0431\u043A\u0438 \u043C\u043E\u0433\u0443\u0442 \u043F\u0440\u0438\u0432\u0435\u0441\u0442\u0438 \u043A \u043F\u043E\u0442\u0435\u0440\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432."
 };
 var thMap = {
     "4": "\u0E40\u0E19\u0E47\u0E15\u0E1C\u0E34\u0E14\u0E1E\u0E25\u0E32\u0E14 \u0E25\u0E2D\u0E07\u0E43\u0E2B\u0E21\u0E48",
@@ -90546,7 +90596,12 @@ var thMap = {
     "Wallet_PleaseSelectAlipayName": "\u0E42\u0E1B\u0E23\u0E14\u0E40\u0E25\u0E37\u0E2D\u0E01\u0E0A\u0E37\u0E48\u0E2D Alipay",
     "Wallet_EnterAlipayReceivingAccount": "\u0E01\u0E23\u0E2D\u0E01\u0E1A\u0E31\u0E0D\u0E0A\u0E35\u0E23\u0E31\u0E1A\u0E40\u0E07\u0E34\u0E19 Alipay",
     "Wallet_AlipayName": "\u0E0A\u0E37\u0E48\u0E2D Alipay",
-    "Wallet_SaveFailed": "\u0E1A\u0E31\u0E19\u0E17\u0E36\u0E01\u0E44\u0E21\u0E48\u0E2A\u0E33\u0E40\u0E23\u0E47\u0E08"
+    "Wallet_SaveFailed": "\u0E1A\u0E31\u0E19\u0E17\u0E36\u0E01\u0E44\u0E21\u0E48\u0E2A\u0E33\u0E40\u0E23\u0E47\u0E08",
+    "Wallet_USDT": "USDT",
+    "Wallet_UsdtAddressLabel": "\u0E17\u0E35\u0E48\u0E2D\u0E22\u0E39\u0E48\u0E01\u0E23\u0E30\u0E40\u0E1B\u0E4B\u0E32\u0E40\u0E07\u0E34\u0E19 USDT",
+    "Wallet_EnterWalletAddress": "\u0E1B\u0E49\u0E2D\u0E19\u0E17\u0E35\u0E48\u0E2D\u0E22\u0E39\u0E48\u0E01\u0E23\u0E30\u0E40\u0E1B\u0E4B\u0E32\u0E40\u0E07\u0E34\u0E19",
+    "Wallet_WalletQrLabel": "\u0E04\u0E34\u0E27\u0E2D\u0E32\u0E23\u0E4C\u0E42\u0E04\u0E49\u0E14\u0E01\u0E23\u0E30\u0E40\u0E1B\u0E4B\u0E32\u0E40\u0E07\u0E34\u0E19",
+    "Wallet_UsdtDisclaimer": "\u0E42\u0E1B\u0E23\u0E14\u0E01\u0E23\u0E2D\u0E01\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25\u0E01\u0E32\u0E23\u0E0A\u0E33\u0E23\u0E30\u0E40\u0E07\u0E34\u0E19\u0E17\u0E35\u0E48\u0E15\u0E23\u0E07\u0E01\u0E31\u0E1A\u0E01\u0E32\u0E23\u0E42\u0E2D\u0E19 \u0E02\u0E49\u0E2D\u0E1C\u0E34\u0E14\u0E1E\u0E25\u0E32\u0E14\u0E2D\u0E32\u0E08\u0E17\u0E33\u0E43\u0E2B\u0E49\u0E2A\u0E39\u0E0D\u0E40\u0E2A\u0E35\u0E22\u0E40\u0E07\u0E34\u0E19"
 };
 var zh_TWMap = {
     "4": "\u7DB2\u8DEF\u932F\u8AA4\uFF0C\u8ACB\u7A0D\u5F8C\u91CD\u8A66",
@@ -98776,7 +98831,12 @@ var zh_TWMap = {
     "Wallet_PleaseSelectAlipayName": "\u8ACB\u9078\u64C7\u652F\u4ED8\u5BF6\u540D\u7A31",
     "Wallet_EnterAlipayReceivingAccount": "\u8ACB\u8F38\u5165\u652F\u4ED8\u5BF6\u6536\u6B3E\u5E33\u865F",
     "Wallet_AlipayName": "\u652F\u4ED8\u5BF6\u540D\u7A31",
-    "Wallet_SaveFailed": "\u5132\u5B58\u5931\u6557"
+    "Wallet_SaveFailed": "\u4FDD\u5B58\u5931\u6557",
+    "Wallet_USDT": "USDT",
+    "Wallet_UsdtAddressLabel": "USDT\u9322\u5305\u5730\u5740",
+    "Wallet_EnterWalletAddress": "\u8ACB\u8F38\u5165\u9322\u5305\u5730\u5740",
+    "Wallet_WalletQrLabel": "\u9322\u5305\u4E8C\u7DAD\u78BC",
+    "Wallet_UsdtDisclaimer": "\u8ACB\u586B\u5BEB\u8207\u8F49\u8CEC/\u4ED8\u6B3E\u4E00\u81F4\u7684\u652F\u4ED8\u4FE1\u606F\uFF0C\u5982\u8CC7\u8A0A\u6709\u8AA4\uFF0C\u53EF\u80FD\u5C0E\u81F4\u4EA4\u6613\u5931\u6557\u3002"
 };
 var viMap = {
     "4": "L\u1ED7i m\u1EA1ng. Th\u1EED l\u1EA1i.",
@@ -107006,7 +107066,12 @@ var viMap = {
     "Wallet_PleaseSelectAlipayName": "Vui l\xF2ng ch\u1ECDn t\xEAn Alipay",
     "Wallet_EnterAlipayReceivingAccount": "Nh\u1EADp t\xE0i kho\u1EA3n nh\u1EADn Alipay",
     "Wallet_AlipayName": "T\xEAn Alipay",
-    "Wallet_SaveFailed": "L\u01B0u th\u1EA5t b\u1EA1i"
+    "Wallet_SaveFailed": "L\u01B0u th\u1EA5t b\u1EA1i",
+    "Wallet_USDT": "USDT",
+    "Wallet_UsdtAddressLabel": "\u0110\u1ECBa ch\u1EC9 v\xED USDT",
+    "Wallet_EnterWalletAddress": "Nh\u1EADp \u0111\u1ECBa ch\u1EC9 v\xED",
+    "Wallet_WalletQrLabel": "M\xE3 QR v\xED",
+    "Wallet_UsdtDisclaimer": "Vui l\xF2ng \u0111i\u1EC1n th\xF4ng tin thanh to\xE1n kh\u1EDBp v\u1EDBi giao d\u1ECBch chuy\u1EC3n ti\u1EC1n. Sai s\xF3t c\xF3 th\u1EC3 d\u1EABn \u0111\u1EBFn m\u1EA5t ti\u1EC1n."
 };
 var zh_CNMap = {
     "4": "\u7F51\u7EDC\u9519\u8BEF\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5",
@@ -115236,7 +115301,12 @@ var zh_CNMap = {
     "Wallet_PleaseSelectAlipayName": "\u8BF7\u9009\u62E9\u652F\u4ED8\u5B9D\u540D\u79F0",
     "Wallet_EnterAlipayReceivingAccount": "\u8BF7\u8F93\u5165\u652F\u4ED8\u5B9D\u6536\u6B3E\u8D26\u53F7",
     "Wallet_AlipayName": "\u652F\u4ED8\u5B9D\u540D\u79F0",
-    "Wallet_SaveFailed": "\u4FDD\u5B58\u5931\u8D25"
+    "Wallet_SaveFailed": "\u4FDD\u5B58\u5931\u8D25",
+    "Wallet_USDT": "USDT",
+    "Wallet_UsdtAddressLabel": "USDT\u94B1\u5305\u5730\u5740",
+    "Wallet_EnterWalletAddress": "\u8BF7\u8F93\u5165\u94B1\u5305\u5730\u5740",
+    "Wallet_WalletQrLabel": "\u94B1\u5305\u4E8C\u7EF4\u7801",
+    "Wallet_UsdtDisclaimer": "\u8BF7\u586B\u5199\u4E0E\u8F6C\u8D26/\u4ED8\u6B3E\u4E00\u81F4\u7684\u652F\u4ED8\u4FE1\u606F\uFF0C\u5982\u4FE1\u606F\u6709\u8BEF\uFF0C\u53EF\u80FD\u5BFC\u81F4\u4EA4\u6613\u5931\u8D25\u3002"
 };
 var localesData = {
     "de": deMap,
