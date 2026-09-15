@@ -8250,3 +8250,5 @@ Wallet_UsdtAddressLabel=Endereço da carteira USDT
 Wallet_EnterWalletAddress=Insira o endereço da carteira
 Wallet_WalletQrLabel=QR da carteira
 Wallet_UsdtDisclaimer=Preencha as informações de pagamento correspondentes à transferência. Erros levarão à perda de fundos.
+UIPreloadingTips=Carregando recursos do jogo, aguarde
+UIPreloadingPrepare=Preparando recursos

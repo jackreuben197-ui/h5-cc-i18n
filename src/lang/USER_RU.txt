@@ -8250,3 +8250,5 @@ Wallet_UsdtAddressLabel=Адрес кошелька USDT
 Wallet_EnterWalletAddress=Введите адрес кошелька
 Wallet_WalletQrLabel=QR-код кошелька
 Wallet_UsdtDisclaimer=Укажите платежную информацию, совпадающую с переводом. Ошибки могут привести к потере средств.
+UIPreloadingTips=Загружаем ресурсы игры, подождите
+UIPreloadingPrepare=Подготовка ресурсов

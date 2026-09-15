@@ -8249,3 +8249,5 @@ Wallet_UsdtAddressLabel=USDT钱包地址
 Wallet_EnterWalletAddress=请输入钱包地址
 Wallet_WalletQrLabel=钱包二维码
 Wallet_UsdtDisclaimer=请填写与转账/付款一致的支付信息，如信息有误，可能导致交易失败。
+UIPreloadingTips=正在加载游戏资源，请稍候
+UIPreloadingPrepare=准备资源

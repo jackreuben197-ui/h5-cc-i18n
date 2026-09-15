@@ -8250,3 +8250,5 @@ Wallet_UsdtAddressLabel=Dirección de monedero USDT
 Wallet_EnterWalletAddress=Ingrese la dirección del monedero
 Wallet_WalletQrLabel=QR del monedero
 Wallet_UsdtDisclaimer=Complete la información de pago que coincida con la transferencia. Los errores pueden causar pérdida de fondos.
+UIPreloadingTips=Cargando recursos del juego, espera
+UIPreloadingPrepare=Preparando recursos

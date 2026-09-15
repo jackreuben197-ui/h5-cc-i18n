@@ -8250,3 +8250,5 @@ Wallet_UsdtAddressLabel=USDT वॉलेट पता
 Wallet_EnterWalletAddress=वॉलेट पता दर्ज करें
 Wallet_WalletQrLabel=वॉलेट क्यूआर
 Wallet_UsdtDisclaimer=कृपया स्थानांतरण से मेल खाने वाली भुगतान जानकारी भरें। त्रुटियों के कारण धन की हानि हो सकती है।
+UIPreloadingTips=गेम संसाधन लोड हो रहे हैं, कृपया प्रतीक्षा करें
+UIPreloadingPrepare=संसाधन तैयार हो रहे हैं

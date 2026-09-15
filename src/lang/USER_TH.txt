@@ -8250,3 +8250,5 @@ Wallet_UsdtAddressLabel=ที่อยู่กระเป๋าเงิน U
 Wallet_EnterWalletAddress=ป้อนที่อยู่กระเป๋าเงิน
 Wallet_WalletQrLabel=คิวอาร์โค้ดกระเป๋าเงิน
 Wallet_UsdtDisclaimer=โปรดกรอกข้อมูลการชำระเงินที่ตรงกับการโอน ข้อผิดพลาดอาจทำให้สูญเสียเงิน
+UIPreloadingTips=กำลังโหลดทรัพยากรเกม โปรดรอสักครู่
+UIPreloadingPrepare=กำลังเตรียมทรัพยากร

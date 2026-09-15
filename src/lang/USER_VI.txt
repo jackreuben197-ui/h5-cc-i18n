@@ -8250,3 +8250,5 @@ Wallet_UsdtAddressLabel=Địa chỉ ví USDT
 Wallet_EnterWalletAddress=Nhập địa chỉ ví
 Wallet_WalletQrLabel=Mã QR ví
 Wallet_UsdtDisclaimer=Vui lòng điền thông tin thanh toán khớp với giao dịch chuyển tiền. Sai sót có thể dẫn đến mất tiền.
+UIPreloadingTips=Đang tải tài nguyên trò chơi, vui lòng chờ
+UIPreloadingPrepare=Đang chuẩn bị tài nguyên

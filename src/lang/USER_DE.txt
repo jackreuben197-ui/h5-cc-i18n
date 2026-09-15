@@ -8250,3 +8250,5 @@ Wallet_UsdtAddressLabel=USDT-Wallet-Adresse
 Wallet_EnterWalletAddress=Wallet-Adresse eingeben
 Wallet_WalletQrLabel=Wallet-QR
 Wallet_UsdtDisclaimer=Bitte geben Sie die Zahlungsdaten ein, die mit der Überweisung übereinstimmen. Fehler führen zum Verlust von Geldern.
+UIPreloadingTips=Spielressourcen werden geladen, bitte warten
+UIPreloadingPrepare=Ressourcen werden vorbereitet

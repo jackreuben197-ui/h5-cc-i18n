@@ -8250,3 +8250,5 @@ Wallet_UsdtAddressLabel=USDTウォレットアドレス
 Wallet_EnterWalletAddress=ウォレットアドレスを入力
 Wallet_WalletQrLabel=ウォレットQR
 Wallet_UsdtDisclaimer=送金情報と一致する支払い情報を入力してください。誤りがあると資金が失われる可能性があります。
+UIPreloadingTips=ゲームリソースを読み込んでいます。しばらくお待ちください
+UIPreloadingPrepare=リソースを準備中

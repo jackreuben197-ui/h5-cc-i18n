@@ -8250,3 +8250,5 @@ Wallet_UsdtAddressLabel=USDT 지갑 주소
 Wallet_EnterWalletAddress=지갑 주소를 입력하세요
 Wallet_WalletQrLabel=지갑 QR
 Wallet_UsdtDisclaimer=이체와 일치하는 결제 정보를 입력하세요. 오입력 시 자금이 손실될 수 있습니다.
+UIPreloadingTips=게임 리소스를 불러오는 중입니다. 잠시만 기다려 주세요
+UIPreloadingPrepare=리소스 준비 중
