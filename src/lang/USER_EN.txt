@@ -1676,7 +1676,7 @@ UIData_YGvXd5iXr=Data
 UIData_Today=Today
 UIData_Month=Month
 UIData_Week=Week
-UIData_KrVdD5WqB=Career
+UIData_KrVdD5WqB=Results
 UIData_TodayMoney=Today's earnings
 UIData_WeekMoney=Week's earnings
 UIData_MonthMoney=Month's earnings
@@ -8114,7 +8114,7 @@ Page_DataDetails_Loading=Loading...
 Page_AboutUs_Heading=About the platform
 Page_AboutUs_Body=We have always strived to cultivate a community of poker lovers, to enable poker lovers to play in their desired casual pace on NEX-GAME. As the pioneer of friend hosted poker games and quick games, we have been approved by many poker players. NEX-GAME is proud to be a fair and trustworthy poker platform. Our shuffling algorithms and random number generators have been certified by Gaming Laboratories International (GLI), the leading independent certification agency in the industry, and is verified to be fair for poker and related games of chance. For a poker platform, fairness is key. Our random number generators decides our shuffling and dealing sequences, and our GLI certification proves that our fairness will in no scenario be compromised.
 
-Page_MineBill_UCTotalAmount=Total UC
+Page_MineBill_UCTotalAmount=Total Amount
 
 Page_Audit_Approve=Approve
 Page_Audit_Reject=Reject

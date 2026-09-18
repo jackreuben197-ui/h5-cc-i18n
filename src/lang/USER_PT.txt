@@ -1676,7 +1676,7 @@ UIData_YGvXd5iXr=Dados
 UIData_Today=Hoje
 UIData_Month=Mês
 UIData_Week=Semana
-UIData_KrVdD5WqB=Histórico
+UIData_KrVdD5WqB=Resultados
 UIData_TodayMoney=Ganhos de hoje
 UIData_WeekMoney=Ganhos da semana
 UIData_MonthMoney=Ganhos mensais
@@ -8114,7 +8114,7 @@ Page_DataDetails_Loading=Carregando...
 Page_AboutUs_Heading=Sobre a plataforma
 Page_AboutUs_Body=Sempre nos esforçamos para cultivar uma comunidade de amantes de poker, permitindo que os jogadores joguem no ritmo casual que desejam no NEX-GAME. Como pioneiro nos jogos entre amigos e partidas rápidas, fomos aprovados por muitos jogadores de poker. O NEX-GAME tem orgulho de ser uma plataforma de poker justa e confiável. Nossos algoritmos de embaralhamento e geradores de números aleatórios foram certificados pelo Gaming Laboratories International (GLI), a principal agência de certificação independente do setor, e verificados como justos para poker e jogos de azar relacionados. Para uma plataforma de poker, a justiça é fundamental. Nossos geradores de números aleatórios determinam nossas sequências de embaralhamento e distribuição, e nossa certificação GLI prova que nossa justiça não será comprometida em nenhum cenário.
 
-Page_MineBill_UCTotalAmount=Total de UC
+Page_MineBill_UCTotalAmount=Valor total
 
 Page_Audit_Approve=Aprovar
 Page_Audit_Reject=Rejeitar

@@ -1676,7 +1676,7 @@ UIData_YGvXd5iXr=データ
 UIData_Today=今日
 UIData_Month=30 日
 UIData_Week=7 日
-UIData_KrVdD5WqB=キャリア
+UIData_KrVdD5WqB=戦績
 UIData_TodayMoney=今日の利益
 UIData_WeekMoney=7 日の利益
 UIData_MonthMoney=30 日の利益
@@ -8114,7 +8114,7 @@ Page_DataDetails_Loading=読み込み中...
 Page_AboutUs_Heading=プラットフォームについて
 Page_AboutUs_Body=私たちは常にポーカー愛好家のコミュニティを育成し、愛好家がNEX-GAMEで希望するカジュアルなペースでプレイできるように努めてきました。友人が主催するポーカーゲームやクイックゲーム의パイオニアとして、多くのポーカープレイヤーから認められています。NEX-GAMEは、公平で信頼できるポーカープラットフォームであることを誇りに思っています。当社のシャッフルアルゴリズムと乱数ジェネレーターは、業界をリードする独立した認証機関であるGaming Laboratories International（GLI）によって認証されており、ポーカーおよび関連するチャンスゲームに対して公平であることが証明されています。ポーカープラットフォームにとって、公平さは極めて重要です。当社の乱数ジェネレーターがシャッフルと配牌のシーケンスを決定し、GLI認証は当社の公平性がいかなるシナリオでも損なわれないことを証明しています。
 
-Page_MineBill_UCTotalAmount=UC総額
+Page_MineBill_UCTotalAmount=合計金額
 
 Page_Audit_Approve=承認
 Page_Audit_Reject=拒否

@@ -1676,7 +1676,7 @@ UIData_YGvXd5iXr=数据
 UIData_Today=今天
 UIData_Month=30日
 UIData_Week=7日
-UIData_KrVdD5WqB=生涯
+UIData_KrVdD5WqB=战绩
 UIData_TodayMoney=今日盈利
 UIData_WeekMoney=7日盈利
 UIData_MonthMoney=30日盈利
@@ -8114,7 +8114,7 @@ Page_DataDetails_Loading=加载中...
 Page_AboutUs_Heading=关于平台
 Page_AboutUs_Body=我们一直致力于培育一个扑克爱好者社区，让玩家能够在NEX-GAME上以自己喜欢的节奏休闲娱乐。作为好友局和快速游戏的先驱，我们已获得众多扑克玩家的认可。NEX-GAME致力于成为一个公平、值得信赖的扑克平台。我们的洗牌算法和随机数生成器已通过业内领先的独立认证机构——国际游戏实验室（GLI）的认证，被验证为对扑克及相关博彩游戏公平公正。对于一个扑克平台而言，公平是核心。我们的随机数生成器决定洗牌和发牌顺序，GLI认证证明我们的公平性在任何情况下都不会妥协。
 
-Page_MineBill_UCTotalAmount=联盟币总金额
+Page_MineBill_UCTotalAmount=总金额
 
 Page_Audit_Approve=同意
 Page_Audit_Reject=拒绝
