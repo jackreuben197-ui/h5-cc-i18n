@@ -29,6 +29,27 @@ runtime 部署在 CDN，业务代码只引入 proxy，翻译数据不参与项�
 <script src="https://your-cdn/h5-cc-i18n.min.js"></script>
 ```
 
+`h5-cc-i18n.min.js` 只包含 runtime 和语言文件清单（约 5 KB）；每种语言的词典是独立文件
+`i18n/h5-cc-i18n.<locale>.<hash>.js`，必须与 runtime 一起部署，目录结构保持不变
+（runtime 按自身 `<script>` 的地址解析 `i18n/` 目录）。
+
+```html
+<!-- 首屏只同步加载当前语言 -->
+<script>
+  var runtime = window.__H5_CC_I18N__
+  document.write('<script src="' + runtime.getLocaleUrl('en') + '"><\/script>')
+</script>
+<script>
+  window.__H5_CC_I18N__.setLocale('en')
+</script>
+```
+
+```ts
+i18n.hasLocale('ru')                      // 词典是否已加载
+i18n.loadLocale('ru', ok => { ... })      // 按需加载，完成后回调
+i18n.setLocale('ru')                      // 未加载时自动加载，加载完成后切换
+```
+
 ```ts
 // ESM
 import i18n from '@silenthill/h5-cc-i18n'
@@ -119,5 +140,8 @@ i18n.setLocale(i18n.LANG_EN)   // 用常量代替硬编码字符串
 # 构建所有产物
 npm run build
 
-# 构建流程：对齐语言文件 → 生成内嵌数据 → 构建 proxy + runtime
+# 构建流程：对齐语言文件 → 生成内嵌数据与各语言文件 → 构建 proxy + runtime
 ```
+
+产物：`dist/h5-cc-i18n.min.js`（runtime）、`dist/i18n/*.js`（各语言词典，文件名带内容 hash）、
+`dist/runtime.*`（方式二，内嵌全部语言）。`npm run deploy` 会把 runtime 和 `i18n/` 目录一起复制到 h5-game 与 h5-cc-game。

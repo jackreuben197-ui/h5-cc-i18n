@@ -1,7 +1,7 @@
 import { defineConfig } from 'tsup'
 
 export default defineConfig({
-  entry: { 'h5-cc-i18n.min': 'src/runtime.ts' },
+  entry: { 'h5-cc-i18n.min': 'src/runtime-lite.ts' },
   format: ['iife'],
   target: 'es5',
   outDir: 'dist',

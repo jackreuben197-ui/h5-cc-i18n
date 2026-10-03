@@ -29,6 +29,7 @@ const ccGameDir = resolveDir(process.env.H5_CC_GAME_DIR, [
 ])
 
 const BUNDLE = 'h5-cc-i18n.min.js'
+const LOCALES_DIR = 'i18n'
 const RUNTIME = ['runtime.js', 'runtime.mjs', 'runtime.d.ts', 'index.js', 'index.mjs', 'index.d.ts']
 
 const targets = [
@@ -78,6 +79,13 @@ for (const target of targets) {
     if (!fs.existsSync(from)) continue
     fs.copyFileSync(from, path.join(target.dir, file))
     copied += 1
+  }
+  const localesFrom = path.join(distDir, LOCALES_DIR)
+  const localesTo = path.join(target.dir, LOCALES_DIR)
+  fs.rmSync(localesTo, { recursive: true, force: true })
+  if (fs.existsSync(localesFrom)) {
+    fs.cpSync(localesFrom, localesTo, { recursive: true })
+    copied += fs.readdirSync(localesFrom).length
   }
   console.log(`[deploy] ${target.label}`)
 }

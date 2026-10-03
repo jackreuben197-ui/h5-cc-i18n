@@ -18,6 +18,10 @@ declare var i18n: {
     setLocale: (locale: string) => void;
     get: (key: string, defaultValue?: string) => string;
     getCurrentLocale: () => string;
+    hasLocale: (locale: string) => boolean;
+    getLocaleUrl: (locale: string) => string;
+    loadLocale: (locale: string, callback?: (ok: boolean) => void) => void;
+    registerLocale: (locale: string, map: Record<string, string>) => void;
 };
 
 export { i18n as default };
