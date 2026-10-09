@@ -24,7 +24,8 @@
     "dist/runtime.js",
     "dist/runtime.mjs",
     "dist/runtime.d.ts",
-    "dist/h5-cc-i18n.min.js"
+    "dist/h5-cc-i18n.min.js",
+    "dist/i18n"
   ],
   "scripts": {
     "build": "tsx scripts/build.ts",

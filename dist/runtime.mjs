@@ -17,6 +17,185 @@ function _create_class(Constructor, protoProps, staticProps) {
     if (staticProps) _defineProperties(Constructor, staticProps);
     return Constructor;
 }
+// src/i18n.ts
+var RETRY_DELAY_MS = 5e3;
+var I18n = /*#__PURE__*/ function() {
+    "use strict";
+    function I18n(files, baseUrl) {
+        _class_call_check(this, I18n);
+        this.data = {};
+        this.files = files || {};
+        this.baseUrl = baseUrl || "";
+        this.currentLocale = "zh-CN";
+        this.wantedLocale = "";
+        this.waiting = {};
+        this.failedAt = {};
+    }
+    _create_class(I18n, [
+        {
+            key: "getAllLocales",
+            value: function getAllLocales() {
+                var names = Object.keys(this.files);
+                for(var locale in this.data){
+                    if (names.indexOf(locale) === -1) names.push(locale);
+                }
+                return names;
+            }
+        },
+        {
+            key: "hasLocale",
+            value: function hasLocale(locale) {
+                return locale in this.data;
+            }
+        },
+        {
+            key: "getLocaleUrl",
+            value: function getLocaleUrl(locale) {
+                var file = this.files[locale];
+                return file ? this.baseUrl + file : "";
+            }
+        },
+        {
+            key: "registerLocale",
+            value: function registerLocale(locale, map) {
+                this.data[locale] = map;
+                this.flush(locale, true);
+            }
+        },
+        {
+            key: "loadLocale",
+            value: function loadLocale(locale, callback) {
+                var self = this;
+                if (locale in this.data) {
+                    if (callback) callback(true);
+                    return;
+                }
+                var url = this.getLocaleUrl(locale);
+                if (!url || typeof document === "undefined") {
+                    if (callback) callback(false);
+                    return;
+                }
+                var queue = this.waiting[locale];
+                if (queue) {
+                    if (callback) queue.push(callback);
+                    return;
+                }
+                this.waiting[locale] = callback ? [
+                    callback
+                ] : [];
+                var script = document.createElement("script");
+                script.src = url;
+                script.async = true;
+                script.onload = function() {
+                    self.flush(locale, locale in self.data);
+                };
+                script.onerror = function() {
+                    self.flush(locale, false);
+                };
+                (document.head || document.documentElement).appendChild(script);
+            }
+        },
+        {
+            key: "setLocale",
+            value: function setLocale(locale) {
+                var self = this;
+                if (locale in this.data) {
+                    this.wantedLocale = "";
+                    this.currentLocale = locale;
+                    return;
+                }
+                if (!(locale in this.files) || this.wantedLocale === locale) return;
+                var failedAt = this.failedAt[locale];
+                if (failedAt && Date.now() - failedAt < RETRY_DELAY_MS) return;
+                this.wantedLocale = locale;
+                this.loadLocale(locale, function(ok) {
+                    if (self.wantedLocale !== locale) return;
+                    self.wantedLocale = "";
+                    if (ok) self.currentLocale = locale;
+                });
+            }
+        },
+        {
+            key: "getCurrentLocale",
+            value: function getCurrentLocale() {
+                return this.currentLocale;
+            }
+        },
+        {
+            key: "get",
+            value: function get(key, defaultValue) {
+                var map = this.data[this.currentLocale];
+                if (!map) return defaultValue !== void 0 ? defaultValue : key;
+                var val = map[key];
+                if (val !== void 0 && val !== "") return val;
+                return defaultValue !== void 0 ? defaultValue : key;
+            }
+        },
+        {
+            key: "flush",
+            value: function flush(locale, ok) {
+                if (ok) {
+                    delete this.failedAt[locale];
+                } else {
+                    this.failedAt[locale] = Date.now();
+                }
+                var queue = this.waiting[locale];
+                if (!queue) return;
+                delete this.waiting[locale];
+                for(var i = 0; i < queue.length; i++){
+                    queue[i](ok);
+                }
+            }
+        }
+    ]);
+    return I18n;
+}();
+// src/facade.ts
+function createFacade(instance) {
+    return {
+        LANG_ZH_CN: "zh-CN",
+        LANG_ZH_TW: "zh-TW",
+        LANG_EN: "en",
+        LANG_PT: "pt",
+        LANG_DE: "de",
+        LANG_ES: "es",
+        LANG_FR: "fr",
+        LANG_HI: "hi",
+        LANG_IT: "it",
+        LANG_JA: "ja",
+        LANG_KO: "ko",
+        LANG_RU: "ru",
+        LANG_TH: "th",
+        LANG_VI: "vi",
+        get currentLocale () {
+            return instance.getCurrentLocale();
+        },
+        getAllLocales: function getAllLocales() {
+            return instance.getAllLocales();
+        },
+        setLocale: function setLocale(locale) {
+            instance.setLocale(locale);
+        },
+        get: function get(key, defaultValue) {
+            return instance.get(key, defaultValue);
+        },
+        getCurrentLocale: function getCurrentLocale() {
+            return instance.getCurrentLocale();
+        },
+        hasLocale: function hasLocale(locale) {
+            return instance.hasLocale(locale);
+        },
+        getLocaleUrl: function getLocaleUrl(locale) {
+            return instance.getLocaleUrl(locale);
+        },
+        loadLocale: function loadLocale(locale, callback) {
+            instance.loadLocale(locale, callback);
+        },
+        registerLocale: function registerLocale(locale, map) {
+            instance.registerLocale(locale, map);
+        }
+    };
+}
 // src/locales-data.ts
 var deMap = {
     "4": "Netzfehler. Erneut.",
@@ -115352,80 +115531,12 @@ var localesData = {
     "vi": viMap,
     "zh-CN": zh_CNMap
 };
-// src/i18n.ts
-var I18n = /*#__PURE__*/ function() {
-    "use strict";
-    function I18n() {
-        _class_call_check(this, I18n);
-        this.data = localesData;
-        this.currentLocale = "zh-CN";
-    }
-    _create_class(I18n, [
-        {
-            key: "getAllLocales",
-            value: function getAllLocales() {
-                return Object.keys(this.data);
-            }
-        },
-        {
-            key: "setLocale",
-            value: function setLocale(locale) {
-                if (locale in this.data) {
-                    this.currentLocale = locale;
-                }
-            }
-        },
-        {
-            key: "getCurrentLocale",
-            value: function getCurrentLocale() {
-                return this.currentLocale;
-            }
-        },
-        {
-            key: "get",
-            value: function get(key, defaultValue) {
-                var map = this.data[this.currentLocale];
-                if (!map) return defaultValue !== void 0 ? defaultValue : key;
-                var val = map[key];
-                if (val !== void 0 && val !== "") return val;
-                return defaultValue !== void 0 ? defaultValue : key;
-            }
-        }
-    ]);
-    return I18n;
-}();
 // src/runtime.ts
 var _instance = new I18n();
-var i18n = {
-    LANG_ZH_CN: "zh-CN",
-    LANG_ZH_TW: "zh-TW",
-    LANG_EN: "en",
-    LANG_PT: "pt",
-    LANG_DE: "de",
-    LANG_ES: "es",
-    LANG_FR: "fr",
-    LANG_HI: "hi",
-    LANG_IT: "it",
-    LANG_JA: "ja",
-    LANG_KO: "ko",
-    LANG_RU: "ru",
-    LANG_TH: "th",
-    LANG_VI: "vi",
-    get currentLocale () {
-        return _instance.getCurrentLocale();
-    },
-    getAllLocales: function getAllLocales() {
-        return _instance.getAllLocales();
-    },
-    setLocale: function setLocale(locale) {
-        _instance.setLocale(locale);
-    },
-    get: function get(key, defaultValue) {
-        return _instance.get(key, defaultValue);
-    },
-    getCurrentLocale: function getCurrentLocale() {
-        return _instance.getCurrentLocale();
-    }
-};
+for(locale in localesData){
+    _instance.registerLocale(locale, localesData[locale]);
+}
+var locale;
+var i18n = createFacade(_instance);
 var runtime_default = i18n;
 export { runtime_default as default };
