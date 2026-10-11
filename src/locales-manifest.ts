@@ -2,17 +2,17 @@
 
 export var localeFiles: Record<string, string> = {
   'de': 'i18n/h5-cc-i18n.de.b05bd023.js',
-  'en': 'i18n/h5-cc-i18n.en.8874ec73.js',
+  'en': 'i18n/h5-cc-i18n.en.cee98d33.js',
   'es': 'i18n/h5-cc-i18n.es.4418f07a.js',
   'fr': 'i18n/h5-cc-i18n.fr.f2435482.js',
   'hi': 'i18n/h5-cc-i18n.hi.9c7d9660.js',
   'it': 'i18n/h5-cc-i18n.it.db5c1e31.js',
   'ja': 'i18n/h5-cc-i18n.ja.84c7a732.js',
   'ko': 'i18n/h5-cc-i18n.ko.b91ab551.js',
-  'pt': 'i18n/h5-cc-i18n.pt.8b7b6aa5.js',
+  'pt': 'i18n/h5-cc-i18n.pt.2f741d05.js',
   'ru': 'i18n/h5-cc-i18n.ru.0202164c.js',
   'th': 'i18n/h5-cc-i18n.th.e31d08cf.js',
-  'zh-TW': 'i18n/h5-cc-i18n.zh-TW.68c7dd56.js',
+  'zh-TW': 'i18n/h5-cc-i18n.zh-TW.dd126831.js',
   'vi': 'i18n/h5-cc-i18n.vi.e79fd8d9.js',
-  'zh-CN': 'i18n/h5-cc-i18n.zh-CN.eee9b9a1.js',
+  'zh-CN': 'i18n/h5-cc-i18n.zh-CN.7c72b436.js',
 }
