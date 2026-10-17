@@ -8432,7 +8432,18 @@ var deMap = {
     "Wallet_WalletQrLabel": "Wallet-QR",
     "Wallet_UsdtDisclaimer": "Bitte geben Sie die Zahlungsdaten ein, die mit der \xDCberweisung \xFCbereinstimmen. Fehler f\xFChren zum Verlust von Geldern.",
     "UIPreloadingTips": "Spielressourcen werden geladen, bitte warten",
-    "UIPreloadingPrepare": "Ressourcen werden vorbereitet"
+    "UIPreloadingPrepare": "Ressourcen werden vorbereitet",
+    "UIRechargeReward_ActivityLabel": "Aufladebonus",
+    "UIRechargeReward_FirstBadge": "Erste Aufladung",
+    "UIRechargeReward_FirstDescription": "Belohnung bei der ersten Aufladung",
+    "UIRechargeReward_EveryBadge": "Aufladegeschenk",
+    "UIRechargeReward_EveryDescription": "Belohnungen bei jeder Aufladung",
+    "UIRechargeReward_ReceivedTitle": "Belohnungen erhalten",
+    "UIRechargeReward_ReceivedDescription": "Aufladung erfolgreich. Die folgenden Belohnungen wurden an \u201EMein Rucksack\u201C gesendet.",
+    "UIRechargeReward_Confirm": "Verstanden",
+    "UIRechargeReward_Value": "Wert {0}",
+    "UIRechargeReward_ActivityBadge": "Aufladebonus",
+    "UIRechargeReward_ActivityDescription": "Bei jeder Aufladung ein Ticket f\xFCr ein kostenpflichtiges Turnier!"
 };
 var enMap = {
     "4": "Failed to connect, please try again later. ",
@@ -16669,7 +16680,18 @@ var enMap = {
     "Wallet_WalletQrLabel": "wallet QR",
     "Wallet_UsdtDisclaimer": "Please fill in payment info that matches transfer. Mistakes will lead to loss of funds.",
     "UIPreloadingTips": "Loading game resources, please wait",
-    "UIPreloadingPrepare": "Preparing resources"
+    "UIPreloadingPrepare": "Preparing resources",
+    "UIRechargeReward_ActivityLabel": "Top-up rewards",
+    "UIRechargeReward_FirstBadge": "First top-up",
+    "UIRechargeReward_FirstDescription": "Get a reward with your first top-up",
+    "UIRechargeReward_EveryBadge": "Top-up gift",
+    "UIRechargeReward_EveryDescription": "Get rewards with every top-up",
+    "UIRechargeReward_ReceivedTitle": "Rewards received",
+    "UIRechargeReward_ReceivedDescription": "Top-up successful. The rewards below were sent to My Backpack.",
+    "UIRechargeReward_Confirm": "Got it",
+    "UIRechargeReward_Value": "Value {0}",
+    "UIRechargeReward_ActivityBadge": "Top-up Bonus",
+    "UIRechargeReward_ActivityDescription": "Get a paid-tournament ticket with every top-up!"
 };
 var esMap = {
     "4": "Error de red. Reintente.",
@@ -24906,7 +24928,18 @@ var esMap = {
     "Wallet_WalletQrLabel": "QR del monedero",
     "Wallet_UsdtDisclaimer": "Complete la informaci\xF3n de pago que coincida con la transferencia. Los errores pueden causar p\xE9rdida de fondos.",
     "UIPreloadingTips": "Cargando recursos del juego, espera",
-    "UIPreloadingPrepare": "Preparando recursos"
+    "UIPreloadingPrepare": "Preparando recursos",
+    "UIRechargeReward_ActivityLabel": "Recompensas por recarga",
+    "UIRechargeReward_FirstBadge": "Primera recarga",
+    "UIRechargeReward_FirstDescription": "Obt\xE9n una recompensa con tu primera recarga",
+    "UIRechargeReward_EveryBadge": "Regalo por recarga",
+    "UIRechargeReward_EveryDescription": "Obt\xE9n recompensas con cada recarga",
+    "UIRechargeReward_ReceivedTitle": "Recompensas recibidas",
+    "UIRechargeReward_ReceivedDescription": "Recarga exitosa. Las siguientes recompensas se enviaron a \xABMi mochila\xBB.",
+    "UIRechargeReward_Confirm": "Entendido",
+    "UIRechargeReward_Value": "Valor {0}",
+    "UIRechargeReward_ActivityBadge": "Bono de recarga",
+    "UIRechargeReward_ActivityDescription": "\xA1Consigue una entrada a un torneo de pago con cada recarga!"
 };
 var frMap = {
     "4": "Erreur r\xE9seau. R\xE9essayez.",
@@ -33143,7 +33176,18 @@ var frMap = {
     "Wallet_WalletQrLabel": "QR du portefeuille",
     "Wallet_UsdtDisclaimer": "Veuillez remplir les informations de paiement correspondant au transfert. Des erreurs entra\xEEneront une perte de fonds.",
     "UIPreloadingTips": "Chargement des ressources du jeu, veuillez patienter",
-    "UIPreloadingPrepare": "Pr\xE9paration des ressources"
+    "UIPreloadingPrepare": "Pr\xE9paration des ressources",
+    "UIRechargeReward_ActivityLabel": "R\xE9compenses de recharge",
+    "UIRechargeReward_FirstBadge": "Premi\xE8re recharge",
+    "UIRechargeReward_FirstDescription": "Recevez une r\xE9compense pour votre premi\xE8re recharge",
+    "UIRechargeReward_EveryBadge": "Cadeau de recharge",
+    "UIRechargeReward_EveryDescription": "Recevez des r\xE9compenses \xE0 chaque recharge",
+    "UIRechargeReward_ReceivedTitle": "R\xE9compenses re\xE7ues",
+    "UIRechargeReward_ReceivedDescription": "Recharge r\xE9ussie. Les r\xE9compenses ci-dessous ont \xE9t\xE9 envoy\xE9es dans \xAB Mon sac \xE0 dos \xBB.",
+    "UIRechargeReward_Confirm": "Compris",
+    "UIRechargeReward_Value": "Valeur {0}",
+    "UIRechargeReward_ActivityBadge": "Bonus de recharge",
+    "UIRechargeReward_ActivityDescription": "Un ticket de tournoi payant offert \xE0 chaque recharge !"
 };
 var hiMap = {
     "4": "\u0928\u0947\u091F\u0935\u0930\u094D\u0915 \u0924\u094D\u0930\u0941\u091F\u093F\u0964 \u092C\u093E\u0926 \u092E\u0947\u0902 \u0915\u094B\u0936\u093F\u0936 \u0915\u0930\u0947\u0902\u0964",
@@ -41380,7 +41424,18 @@ var hiMap = {
     "Wallet_WalletQrLabel": "\u0935\u0949\u0932\u0947\u091F \u0915\u094D\u092F\u0942\u0906\u0930",
     "Wallet_UsdtDisclaimer": "\u0915\u0943\u092A\u092F\u093E \u0938\u094D\u0925\u093E\u0928\u093E\u0902\u0924\u0930\u0923 \u0938\u0947 \u092E\u0947\u0932 \u0916\u093E\u0928\u0947 \u0935\u093E\u0932\u0940 \u092D\u0941\u0917\u0924\u093E\u0928 \u091C\u093E\u0928\u0915\u093E\u0930\u0940 \u092D\u0930\u0947\u0902\u0964 \u0924\u094D\u0930\u0941\u091F\u093F\u092F\u094B\u0902 \u0915\u0947 \u0915\u093E\u0930\u0923 \u0927\u0928 \u0915\u0940 \u0939\u093E\u0928\u093F \u0939\u094B \u0938\u0915\u0924\u0940 \u0939\u0948\u0964",
     "UIPreloadingTips": "\u0917\u0947\u092E \u0938\u0902\u0938\u093E\u0927\u0928 \u0932\u094B\u0921 \u0939\u094B \u0930\u0939\u0947 \u0939\u0948\u0902, \u0915\u0943\u092A\u092F\u093E \u092A\u094D\u0930\u0924\u0940\u0915\u094D\u0937\u093E \u0915\u0930\u0947\u0902",
-    "UIPreloadingPrepare": "\u0938\u0902\u0938\u093E\u0927\u0928 \u0924\u0948\u092F\u093E\u0930 \u0939\u094B \u0930\u0939\u0947 \u0939\u0948\u0902"
+    "UIPreloadingPrepare": "\u0938\u0902\u0938\u093E\u0927\u0928 \u0924\u0948\u092F\u093E\u0930 \u0939\u094B \u0930\u0939\u0947 \u0939\u0948\u0902",
+    "UIRechargeReward_ActivityLabel": "\u0930\u093F\u091A\u093E\u0930\u094D\u091C \u0907\u0928\u093E\u092E",
+    "UIRechargeReward_FirstBadge": "\u092A\u0939\u0932\u093E \u0930\u093F\u091A\u093E\u0930\u094D\u091C",
+    "UIRechargeReward_FirstDescription": "\u092A\u0939\u0932\u0947 \u0930\u093F\u091A\u093E\u0930\u094D\u091C \u092A\u0930 \u0907\u0928\u093E\u092E \u092A\u093E\u090F\u0901",
+    "UIRechargeReward_EveryBadge": "\u0930\u093F\u091A\u093E\u0930\u094D\u091C \u0909\u092A\u0939\u093E\u0930",
+    "UIRechargeReward_EveryDescription": "\u0939\u0930 \u0930\u093F\u091A\u093E\u0930\u094D\u091C \u092A\u0930 \u0907\u0928\u093E\u092E \u092A\u093E\u090F\u0901",
+    "UIRechargeReward_ReceivedTitle": "\u0907\u0928\u093E\u092E \u092E\u093F\u0932 \u0917\u090F",
+    "UIRechargeReward_ReceivedDescription": "\u0930\u093F\u091A\u093E\u0930\u094D\u091C \u0938\u092B\u0932\u0964 \u0928\u0940\u091A\u0947 \u0926\u093F\u090F \u0907\u0928\u093E\u092E \xAB\u092E\u0947\u0930\u093E \u092C\u0948\u0915\u092A\u0948\u0915\xBB \u092E\u0947\u0902 \u092D\u0947\u091C \u0926\u093F\u090F \u0917\u090F \u0939\u0948\u0902\u0964",
+    "UIRechargeReward_Confirm": "\u0938\u092E\u091D \u0917\u092F\u093E",
+    "UIRechargeReward_Value": "\u092E\u0942\u0932\u094D\u092F {0}",
+    "UIRechargeReward_ActivityBadge": "\u0930\u093F\u091A\u093E\u0930\u094D\u091C \u092C\u094B\u0928\u0938",
+    "UIRechargeReward_ActivityDescription": "\u0939\u0930 \u0930\u093F\u091A\u093E\u0930\u094D\u091C \u092A\u0930 \u092A\u0947\u0921 \u091F\u0942\u0930\u094D\u0928\u093E\u092E\u0947\u0902\u091F \u091F\u093F\u0915\u091F \u092A\u093E\u090F\u0901!"
 };
 var itMap = {
     "4": "Errore di rete. Riprova.",
@@ -49617,7 +49672,18 @@ var itMap = {
     "Wallet_WalletQrLabel": "QR del portafoglio",
     "Wallet_UsdtDisclaimer": "Compila le informazioni di pagamento corrispondenti al trasferimento. Eventuali errori causeranno la perdita dei fondi.",
     "UIPreloadingTips": "Caricamento delle risorse di gioco, attendere",
-    "UIPreloadingPrepare": "Preparazione delle risorse"
+    "UIPreloadingPrepare": "Preparazione delle risorse",
+    "UIRechargeReward_ActivityLabel": "Premi ricarica",
+    "UIRechargeReward_FirstBadge": "Prima ricarica",
+    "UIRechargeReward_FirstDescription": "Ricevi un premio con la prima ricarica",
+    "UIRechargeReward_EveryBadge": "Regalo ricarica",
+    "UIRechargeReward_EveryDescription": "Ricevi premi a ogni ricarica",
+    "UIRechargeReward_ReceivedTitle": "Premi ricevuti",
+    "UIRechargeReward_ReceivedDescription": "Ricarica riuscita. I premi qui sotto sono stati inviati a \xABIl mio zaino\xBB.",
+    "UIRechargeReward_Confirm": "Ho capito",
+    "UIRechargeReward_Value": "Valore {0}",
+    "UIRechargeReward_ActivityBadge": "Bonus ricarica",
+    "UIRechargeReward_ActivityDescription": "Un biglietto per un torneo a pagamento a ogni ricarica!"
 };
 var jaMap = {
     "4": "\u901A\u4FE1\u30A8\u30E9\u30FC\u3067\u3059\u3002\u3082\u3046\u4E00\u5EA6\u8A66\u3057\u3066\u304F\u3060\u3055\u3044\u3002",
@@ -57854,7 +57920,18 @@ var jaMap = {
     "Wallet_WalletQrLabel": "\u30A6\u30A9\u30EC\u30C3\u30C8QR",
     "Wallet_UsdtDisclaimer": "\u9001\u91D1\u60C5\u5831\u3068\u4E00\u81F4\u3059\u308B\u652F\u6255\u3044\u60C5\u5831\u3092\u5165\u529B\u3057\u3066\u304F\u3060\u3055\u3044\u3002\u8AA4\u308A\u304C\u3042\u308B\u3068\u8CC7\u91D1\u304C\u5931\u308F\u308C\u308B\u53EF\u80FD\u6027\u304C\u3042\u308A\u307E\u3059\u3002",
     "UIPreloadingTips": "\u30B2\u30FC\u30E0\u30EA\u30BD\u30FC\u30B9\u3092\u8AAD\u307F\u8FBC\u3093\u3067\u3044\u307E\u3059\u3002\u3057\u3070\u3089\u304F\u304A\u5F85\u3061\u304F\u3060\u3055\u3044",
-    "UIPreloadingPrepare": "\u30EA\u30BD\u30FC\u30B9\u3092\u6E96\u5099\u4E2D"
+    "UIPreloadingPrepare": "\u30EA\u30BD\u30FC\u30B9\u3092\u6E96\u5099\u4E2D",
+    "UIRechargeReward_ActivityLabel": "\u30C1\u30E3\u30FC\u30B8\u7279\u5178",
+    "UIRechargeReward_FirstBadge": "\u521D\u56DE\u30C1\u30E3\u30FC\u30B8",
+    "UIRechargeReward_FirstDescription": "\u521D\u56DE\u30C1\u30E3\u30FC\u30B8\u3067\u7279\u5178\u3092\u30B2\u30C3\u30C8",
+    "UIRechargeReward_EveryBadge": "\u30C1\u30E3\u30FC\u30B8\u30AE\u30D5\u30C8",
+    "UIRechargeReward_EveryDescription": "\u30C1\u30E3\u30FC\u30B8\u306E\u305F\u3073\u306B\u7279\u5178\u3092\u30B2\u30C3\u30C8",
+    "UIRechargeReward_ReceivedTitle": "\u5831\u916C\u3092\u53D7\u3051\u53D6\u308A\u307E\u3057\u305F",
+    "UIRechargeReward_ReceivedDescription": "\u30C1\u30E3\u30FC\u30B8\u6210\u529F\u3002\u4EE5\u4E0B\u306E\u5831\u916C\u306F\u300C\u79C1\u306E\u30D0\u30C3\u30AF\u30D1\u30C3\u30AF\u300D\u306B\u914D\u5E03\u3055\u308C\u307E\u3057\u305F\u3002",
+    "UIRechargeReward_Confirm": "OK",
+    "UIRechargeReward_Value": "\u4FA1\u5024 {0}",
+    "UIRechargeReward_ActivityBadge": "\u30C1\u30E3\u30FC\u30B8\u30DC\u30FC\u30CA\u30B9",
+    "UIRechargeReward_ActivityDescription": "\u30C1\u30E3\u30FC\u30B8\u3054\u3068\u306B\u6709\u6599\u30C8\u30FC\u30CA\u30E1\u30F3\u30C8\u30C1\u30B1\u30C3\u30C8\u3092\u30D7\u30EC\u30BC\u30F3\u30C8\uFF01"
 };
 var koMap = {
     "4": "\uB124\uD2B8\uC6CC\uD06C \uC624\uB958. \uB2E4\uC2DC \uC2DC\uB3C4.",
@@ -66091,7 +66168,18 @@ var koMap = {
     "Wallet_WalletQrLabel": "\uC9C0\uAC11 QR",
     "Wallet_UsdtDisclaimer": "\uC774\uCCB4\uC640 \uC77C\uCE58\uD558\uB294 \uACB0\uC81C \uC815\uBCF4\uB97C \uC785\uB825\uD558\uC138\uC694. \uC624\uC785\uB825 \uC2DC \uC790\uAE08\uC774 \uC190\uC2E4\uB420 \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
     "UIPreloadingTips": "\uAC8C\uC784 \uB9AC\uC18C\uC2A4\uB97C \uBD88\uB7EC\uC624\uB294 \uC911\uC785\uB2C8\uB2E4. \uC7A0\uC2DC\uB9CC \uAE30\uB2E4\uB824 \uC8FC\uC138\uC694",
-    "UIPreloadingPrepare": "\uB9AC\uC18C\uC2A4 \uC900\uBE44 \uC911"
+    "UIPreloadingPrepare": "\uB9AC\uC18C\uC2A4 \uC900\uBE44 \uC911",
+    "UIRechargeReward_ActivityLabel": "\uCDA9\uC804 \uBCF4\uC0C1",
+    "UIRechargeReward_FirstBadge": "\uCCAB \uCDA9\uC804",
+    "UIRechargeReward_FirstDescription": "\uCCAB \uCDA9\uC804 \uC2DC \uBCF4\uC0C1 \uC9C0\uAE09",
+    "UIRechargeReward_EveryBadge": "\uCDA9\uC804 \uC120\uBB3C",
+    "UIRechargeReward_EveryDescription": "\uB9E4 \uCDA9\uC804\uB9C8\uB2E4 \uBCF4\uC0C1 \uC9C0\uAE09",
+    "UIRechargeReward_ReceivedTitle": "\uBCF4\uC0C1 \uC9C0\uAE09 \uC644\uB8CC",
+    "UIRechargeReward_ReceivedDescription": "\uCDA9\uC804 \uC131\uACF5. \uC544\uB798 \uBCF4\uC0C1\uC774 \u300C\uB0B4 \uBC30\uB0AD\u300D\uC73C\uB85C \uC9C0\uAE09\uB418\uC5C8\uC2B5\uB2C8\uB2E4.",
+    "UIRechargeReward_Confirm": "\uD655\uC778",
+    "UIRechargeReward_Value": "\uAC00\uCE58 {0}",
+    "UIRechargeReward_ActivityBadge": "\uCDA9\uC804 \uBCF4\uB108\uC2A4",
+    "UIRechargeReward_ActivityDescription": "\uCDA9\uC804\uD560 \uB54C\uB9C8\uB2E4 \uC720\uB8CC \uD1A0\uB108\uBA3C\uD2B8 \uD2F0\uCF13 \uC99D\uC815!"
 };
 var ptMap = {
     "4": "Erro de conex\xE3o, favor tentar novamente. ",
@@ -74328,7 +74416,18 @@ var ptMap = {
     "Wallet_WalletQrLabel": "QR da carteira",
     "Wallet_UsdtDisclaimer": "Preencha as informa\xE7\xF5es de pagamento correspondentes \xE0 transfer\xEAncia. Erros levar\xE3o \xE0 perda de fundos.",
     "UIPreloadingTips": "Carregando recursos do jogo, aguarde",
-    "UIPreloadingPrepare": "Preparando recursos"
+    "UIPreloadingPrepare": "Preparando recursos",
+    "UIRechargeReward_ActivityLabel": "Recompensas de recarga",
+    "UIRechargeReward_FirstBadge": "1\xAA recarga",
+    "UIRechargeReward_FirstDescription": "Receba uma recompensa na primeira recarga",
+    "UIRechargeReward_EveryBadge": "B\xF4nus",
+    "UIRechargeReward_EveryDescription": "Receba recompensas em cada recarga",
+    "UIRechargeReward_ReceivedTitle": "Recompensas recebidas",
+    "UIRechargeReward_ReceivedDescription": "Recarga conclu\xEDda. As recompensas foram enviadas para Minha Mochila.",
+    "UIRechargeReward_Confirm": "Entendi",
+    "UIRechargeReward_Value": "Valor {0}",
+    "UIRechargeReward_ActivityBadge": "B\xF4nus de recarga",
+    "UIRechargeReward_ActivityDescription": "Ganhe um ingresso para torneio pago em cada recarga!"
 };
 var ruMap = {
     "4": "\u0421\u0435\u0442\u044C. \u041F\u043E\u0432\u0442\u043E\u0440\u0438\u0442\u0435.",
@@ -82565,7 +82664,18 @@ var ruMap = {
     "Wallet_WalletQrLabel": "QR-\u043A\u043E\u0434 \u043A\u043E\u0448\u0435\u043B\u044C\u043A\u0430",
     "Wallet_UsdtDisclaimer": "\u0423\u043A\u0430\u0436\u0438\u0442\u0435 \u043F\u043B\u0430\u0442\u0435\u0436\u043D\u0443\u044E \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044E, \u0441\u043E\u0432\u043F\u0430\u0434\u0430\u044E\u0449\u0443\u044E \u0441 \u043F\u0435\u0440\u0435\u0432\u043E\u0434\u043E\u043C. \u041E\u0448\u0438\u0431\u043A\u0438 \u043C\u043E\u0433\u0443\u0442 \u043F\u0440\u0438\u0432\u0435\u0441\u0442\u0438 \u043A \u043F\u043E\u0442\u0435\u0440\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432.",
     "UIPreloadingTips": "\u0417\u0430\u0433\u0440\u0443\u0436\u0430\u0435\u043C \u0440\u0435\u0441\u0443\u0440\u0441\u044B \u0438\u0433\u0440\u044B, \u043F\u043E\u0434\u043E\u0436\u0434\u0438\u0442\u0435",
-    "UIPreloadingPrepare": "\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u0440\u0435\u0441\u0443\u0440\u0441\u043E\u0432"
+    "UIPreloadingPrepare": "\u041F\u043E\u0434\u0433\u043E\u0442\u043E\u0432\u043A\u0430 \u0440\u0435\u0441\u0443\u0440\u0441\u043E\u0432",
+    "UIRechargeReward_ActivityLabel": "\u0411\u043E\u043D\u0443\u0441 \u0437\u0430 \u043F\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435",
+    "UIRechargeReward_FirstBadge": "\u041F\u0435\u0440\u0432\u043E\u0435 \u043F\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435",
+    "UIRechargeReward_FirstDescription": "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 \u0437\u0430 \u043F\u0435\u0440\u0432\u043E\u0435 \u043F\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435",
+    "UIRechargeReward_EveryBadge": "\u041F\u043E\u0434\u0430\u0440\u043E\u043A \u0437\u0430 \u043F\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435",
+    "UIRechargeReward_EveryDescription": "\u041D\u0430\u0433\u0440\u0430\u0434\u0430 \u0437\u0430 \u043A\u0430\u0436\u0434\u043E\u0435 \u043F\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435",
+    "UIRechargeReward_ReceivedTitle": "\u041D\u0430\u0433\u0440\u0430\u0434\u044B \u043D\u0430\u0447\u0438\u0441\u043B\u0435\u043D\u044B",
+    "UIRechargeReward_ReceivedDescription": "\u041F\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435 \u043F\u0440\u043E\u0448\u043B\u043E \u0443\u0441\u043F\u0435\u0448\u043D\u043E. \u041D\u0430\u0433\u0440\u0430\u0434\u044B \u043D\u0438\u0436\u0435 \u043E\u0442\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u044B \u0432 \xAB\u041C\u043E\u0439 \u0440\u044E\u043A\u0437\u0430\u043A\xBB.",
+    "UIRechargeReward_Confirm": "\u041F\u043E\u043D\u044F\u0442\u043D\u043E",
+    "UIRechargeReward_Value": "\u0421\u0442\u043E\u0438\u043C\u043E\u0441\u0442\u044C {0}",
+    "UIRechargeReward_ActivityBadge": "\u0411\u043E\u043D\u0443\u0441 \u0437\u0430 \u043F\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435",
+    "UIRechargeReward_ActivityDescription": "\u0411\u0438\u043B\u0435\u0442 \u043D\u0430 \u043F\u043B\u0430\u0442\u043D\u044B\u0439 \u0442\u0443\u0440\u043D\u0438\u0440 \u0437\u0430 \u043A\u0430\u0436\u0434\u043E\u0435 \u043F\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435!"
 };
 var thMap = {
     "4": "\u0E40\u0E19\u0E47\u0E15\u0E1C\u0E34\u0E14\u0E1E\u0E25\u0E32\u0E14 \u0E25\u0E2D\u0E07\u0E43\u0E2B\u0E21\u0E48",
@@ -90802,7 +90912,18 @@ var thMap = {
     "Wallet_WalletQrLabel": "\u0E04\u0E34\u0E27\u0E2D\u0E32\u0E23\u0E4C\u0E42\u0E04\u0E49\u0E14\u0E01\u0E23\u0E30\u0E40\u0E1B\u0E4B\u0E32\u0E40\u0E07\u0E34\u0E19",
     "Wallet_UsdtDisclaimer": "\u0E42\u0E1B\u0E23\u0E14\u0E01\u0E23\u0E2D\u0E01\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25\u0E01\u0E32\u0E23\u0E0A\u0E33\u0E23\u0E30\u0E40\u0E07\u0E34\u0E19\u0E17\u0E35\u0E48\u0E15\u0E23\u0E07\u0E01\u0E31\u0E1A\u0E01\u0E32\u0E23\u0E42\u0E2D\u0E19 \u0E02\u0E49\u0E2D\u0E1C\u0E34\u0E14\u0E1E\u0E25\u0E32\u0E14\u0E2D\u0E32\u0E08\u0E17\u0E33\u0E43\u0E2B\u0E49\u0E2A\u0E39\u0E0D\u0E40\u0E2A\u0E35\u0E22\u0E40\u0E07\u0E34\u0E19",
     "UIPreloadingTips": "\u0E01\u0E33\u0E25\u0E31\u0E07\u0E42\u0E2B\u0E25\u0E14\u0E17\u0E23\u0E31\u0E1E\u0E22\u0E32\u0E01\u0E23\u0E40\u0E01\u0E21 \u0E42\u0E1B\u0E23\u0E14\u0E23\u0E2D\u0E2A\u0E31\u0E01\u0E04\u0E23\u0E39\u0E48",
-    "UIPreloadingPrepare": "\u0E01\u0E33\u0E25\u0E31\u0E07\u0E40\u0E15\u0E23\u0E35\u0E22\u0E21\u0E17\u0E23\u0E31\u0E1E\u0E22\u0E32\u0E01\u0E23"
+    "UIPreloadingPrepare": "\u0E01\u0E33\u0E25\u0E31\u0E07\u0E40\u0E15\u0E23\u0E35\u0E22\u0E21\u0E17\u0E23\u0E31\u0E1E\u0E22\u0E32\u0E01\u0E23",
+    "UIRechargeReward_ActivityLabel": "\u0E23\u0E32\u0E07\u0E27\u0E31\u0E25\u0E40\u0E15\u0E34\u0E21\u0E40\u0E07\u0E34\u0E19",
+    "UIRechargeReward_FirstBadge": "\u0E40\u0E15\u0E34\u0E21\u0E40\u0E07\u0E34\u0E19\u0E04\u0E23\u0E31\u0E49\u0E07\u0E41\u0E23\u0E01",
+    "UIRechargeReward_FirstDescription": "\u0E23\u0E31\u0E1A\u0E23\u0E32\u0E07\u0E27\u0E31\u0E25\u0E40\u0E21\u0E37\u0E48\u0E2D\u0E40\u0E15\u0E34\u0E21\u0E40\u0E07\u0E34\u0E19\u0E04\u0E23\u0E31\u0E49\u0E07\u0E41\u0E23\u0E01",
+    "UIRechargeReward_EveryBadge": "\u0E02\u0E2D\u0E07\u0E02\u0E27\u0E31\u0E0D\u0E40\u0E15\u0E34\u0E21\u0E40\u0E07\u0E34\u0E19",
+    "UIRechargeReward_EveryDescription": "\u0E23\u0E31\u0E1A\u0E23\u0E32\u0E07\u0E27\u0E31\u0E25\u0E17\u0E38\u0E01\u0E04\u0E23\u0E31\u0E49\u0E07\u0E17\u0E35\u0E48\u0E40\u0E15\u0E34\u0E21\u0E40\u0E07\u0E34\u0E19",
+    "UIRechargeReward_ReceivedTitle": "\u0E44\u0E14\u0E49\u0E23\u0E31\u0E1A\u0E23\u0E32\u0E07\u0E27\u0E31\u0E25\u0E41\u0E25\u0E49\u0E27",
+    "UIRechargeReward_ReceivedDescription": "\u0E40\u0E15\u0E34\u0E21\u0E40\u0E07\u0E34\u0E19\u0E2A\u0E33\u0E40\u0E23\u0E47\u0E08 \u0E23\u0E32\u0E07\u0E27\u0E31\u0E25\u0E14\u0E49\u0E32\u0E19\u0E25\u0E48\u0E32\u0E07\u0E16\u0E39\u0E01\u0E2A\u0E48\u0E07\u0E44\u0E1B\u0E17\u0E35\u0E48 \xAB\u0E01\u0E23\u0E30\u0E40\u0E1B\u0E4B\u0E32\u0E02\u0E2D\u0E07\u0E09\u0E31\u0E19\xBB \u0E41\u0E25\u0E49\u0E27",
+    "UIRechargeReward_Confirm": "\u0E40\u0E02\u0E49\u0E32\u0E43\u0E08\u0E41\u0E25\u0E49\u0E27",
+    "UIRechargeReward_Value": "\u0E21\u0E39\u0E25\u0E04\u0E48\u0E32 {0}",
+    "UIRechargeReward_ActivityBadge": "\u0E42\u0E1A\u0E19\u0E31\u0E2A\u0E40\u0E15\u0E34\u0E21\u0E40\u0E07\u0E34\u0E19",
+    "UIRechargeReward_ActivityDescription": "\u0E23\u0E31\u0E1A\u0E15\u0E31\u0E4B\u0E27\u0E17\u0E31\u0E27\u0E23\u0E4C\u0E19\u0E32\u0E40\u0E21\u0E19\u0E15\u0E4C\u0E41\u0E1A\u0E1A\u0E40\u0E2A\u0E35\u0E22\u0E04\u0E48\u0E32\u0E40\u0E02\u0E49\u0E32\u0E17\u0E38\u0E01\u0E04\u0E23\u0E31\u0E49\u0E07\u0E17\u0E35\u0E48\u0E40\u0E15\u0E34\u0E21\u0E40\u0E07\u0E34\u0E19!"
 };
 var zh_TWMap = {
     "4": "\u7DB2\u8DEF\u932F\u8AA4\uFF0C\u8ACB\u7A0D\u5F8C\u91CD\u8A66",
@@ -99039,7 +99160,18 @@ var zh_TWMap = {
     "Wallet_WalletQrLabel": "\u9322\u5305\u4E8C\u7DAD\u78BC",
     "Wallet_UsdtDisclaimer": "\u8ACB\u586B\u5BEB\u8207\u8F49\u8CEC/\u4ED8\u6B3E\u4E00\u81F4\u7684\u652F\u4ED8\u4FE1\u606F\uFF0C\u5982\u8CC7\u8A0A\u6709\u8AA4\uFF0C\u53EF\u80FD\u5C0E\u81F4\u4EA4\u6613\u5931\u6557\u3002",
     "UIPreloadingTips": "\u6B63\u5728\u8F09\u5165\u904A\u6232\u8CC7\u6E90\uFF0C\u8ACB\u7A0D\u5019",
-    "UIPreloadingPrepare": "\u6E96\u5099\u8CC7\u6E90"
+    "UIPreloadingPrepare": "\u6E96\u5099\u8CC7\u6E90",
+    "UIRechargeReward_ActivityLabel": "\u5145\u503C\u8D08\u79AE",
+    "UIRechargeReward_FirstBadge": "\u9996\u5145\u79AE",
+    "UIRechargeReward_FirstDescription": "\u9996\u6B21\u5145\u503C\uFF0C\u5373\u4EAB\u734E\u52F5",
+    "UIRechargeReward_EveryBadge": "\u5145\u503C\u79AE",
+    "UIRechargeReward_EveryDescription": "\u6BCF\u7B46\u5145\u503C\uFF0C\u90FD\u4EAB\u734E\u52F5",
+    "UIRechargeReward_ReceivedTitle": "\u734E\u52F5\u5DF2\u5230\u8CEC",
+    "UIRechargeReward_ReceivedDescription": "\u5145\u503C\u6210\u529F\uFF0C\u4EE5\u4E0B\u734E\u52F5\u5DF2\u767C\u653E\u81F3\u300C\u6211\u7684\u80CC\u5305\u300D\u3002",
+    "UIRechargeReward_Confirm": "\u6211\u77E5\u9053\u4E86",
+    "UIRechargeReward_Value": "\u50F9\u503C{0}",
+    "UIRechargeReward_ActivityBadge": "\u5145\u503C\u79AE",
+    "UIRechargeReward_ActivityDescription": "\u5145\u503C\u5373\u9001\u6536\u8CBB\u8CFD\u9580\u7968\uFF0C\u7B46\u7B46\u90FD\u9001\uFF01"
 };
 var viMap = {
     "4": "L\u1ED7i m\u1EA1ng. Th\u1EED l\u1EA1i.",
@@ -107276,7 +107408,18 @@ var viMap = {
     "Wallet_WalletQrLabel": "M\xE3 QR v\xED",
     "Wallet_UsdtDisclaimer": "Vui l\xF2ng \u0111i\u1EC1n th\xF4ng tin thanh to\xE1n kh\u1EDBp v\u1EDBi giao d\u1ECBch chuy\u1EC3n ti\u1EC1n. Sai s\xF3t c\xF3 th\u1EC3 d\u1EABn \u0111\u1EBFn m\u1EA5t ti\u1EC1n.",
     "UIPreloadingTips": "\u0110ang t\u1EA3i t\xE0i nguy\xEAn tr\xF2 ch\u01A1i, vui l\xF2ng ch\u1EDD",
-    "UIPreloadingPrepare": "\u0110ang chu\u1EA9n b\u1ECB t\xE0i nguy\xEAn"
+    "UIPreloadingPrepare": "\u0110ang chu\u1EA9n b\u1ECB t\xE0i nguy\xEAn",
+    "UIRechargeReward_ActivityLabel": "Th\u01B0\u1EDFng n\u1EA1p ti\u1EC1n",
+    "UIRechargeReward_FirstBadge": "N\u1EA1p l\u1EA7n \u0111\u1EA7u",
+    "UIRechargeReward_FirstDescription": "Nh\u1EADn th\u01B0\u1EDFng khi n\u1EA1p l\u1EA7n \u0111\u1EA7u",
+    "UIRechargeReward_EveryBadge": "Qu\xE0 n\u1EA1p ti\u1EC1n",
+    "UIRechargeReward_EveryDescription": "Nh\u1EADn th\u01B0\u1EDFng v\u1EDBi m\u1ED7i l\u1EA7n n\u1EA1p",
+    "UIRechargeReward_ReceivedTitle": "\u0110\xE3 nh\u1EADn th\u01B0\u1EDFng",
+    "UIRechargeReward_ReceivedDescription": "N\u1EA1p ti\u1EC1n th\xE0nh c\xF4ng. C\xE1c ph\u1EA7n th\u01B0\u1EDFng d\u01B0\u1EDBi \u0111\xE2y \u0111\xE3 \u0111\u01B0\u1EE3c g\u1EEDi v\xE0o \xABBa l\xF4 c\u1EE7a t\xF4i\xBB.",
+    "UIRechargeReward_Confirm": "\u0110\xE3 hi\u1EC3u",
+    "UIRechargeReward_Value": "Gi\xE1 tr\u1ECB {0}",
+    "UIRechargeReward_ActivityBadge": "Th\u01B0\u1EDFng n\u1EA1p ti\u1EC1n",
+    "UIRechargeReward_ActivityDescription": "Nh\u1EADn v\xE9 gi\u1EA3i \u0111\u1EA5u tr\u1EA3 ph\xED v\u1EDBi m\u1ED7i l\u1EA7n n\u1EA1p!"
 };
 var zh_CNMap = {
     "4": "\u7F51\u7EDC\u9519\u8BEF\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5",
@@ -115513,7 +115656,18 @@ var zh_CNMap = {
     "Wallet_WalletQrLabel": "\u94B1\u5305\u4E8C\u7EF4\u7801",
     "Wallet_UsdtDisclaimer": "\u8BF7\u586B\u5199\u4E0E\u8F6C\u8D26/\u4ED8\u6B3E\u4E00\u81F4\u7684\u652F\u4ED8\u4FE1\u606F\uFF0C\u5982\u4FE1\u606F\u6709\u8BEF\uFF0C\u53EF\u80FD\u5BFC\u81F4\u4EA4\u6613\u5931\u8D25\u3002",
     "UIPreloadingTips": "\u6B63\u5728\u52A0\u8F7D\u6E38\u620F\u8D44\u6E90\uFF0C\u8BF7\u7A0D\u5019",
-    "UIPreloadingPrepare": "\u51C6\u5907\u8D44\u6E90"
+    "UIPreloadingPrepare": "\u51C6\u5907\u8D44\u6E90",
+    "UIRechargeReward_ActivityLabel": "\u5145\u503C\u8D60\u793C",
+    "UIRechargeReward_FirstBadge": "\u9996\u5145\u793C",
+    "UIRechargeReward_FirstDescription": "\u9996\u6B21\u5145\u503C\uFF0C\u5373\u4EAB\u5956\u52B1",
+    "UIRechargeReward_EveryBadge": "\u5145\u503C\u793C",
+    "UIRechargeReward_EveryDescription": "\u6BCF\u7B14\u5145\u503C\uFF0C\u90FD\u4EAB\u5956\u52B1",
+    "UIRechargeReward_ReceivedTitle": "\u5956\u52B1\u5DF2\u5230\u8D26",
+    "UIRechargeReward_ReceivedDescription": "\u5145\u503C\u6210\u529F\uFF0C\u4EE5\u4E0B\u5956\u52B1\u5DF2\u53D1\u653E\u81F3\u300C\u6211\u7684\u80CC\u5305\u300D\u3002",
+    "UIRechargeReward_Confirm": "\u6211\u77E5\u9053\u4E86",
+    "UIRechargeReward_Value": "\u4EF7\u503C{0}",
+    "UIRechargeReward_ActivityBadge": "\u5145\u503C\u793C",
+    "UIRechargeReward_ActivityDescription": "\u5145\u503C\u5373\u9001\u6536\u8D39\u8D5B\u95E8\u7968\uFF0C\u7B14\u7B14\u90FD\u9001\uFF01"
 };
 var localesData = {
     "de": deMap,
