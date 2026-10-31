@@ -8341,3 +8341,4 @@ UIChannelC_Retry=다시 시도
 UIRechargeReward_CombinedDescription={0}. UC는 내 지갑에 지급되었고, 아이템 보상은 내 배낭에서 확인할 수 있습니다.
 UIRechargeReward_CoinsDescription={0}. UC 보상이 내 지갑에 지급되었습니다.
 UIRechargeReward_RechargeSource=충전 보상
+UIChannelC_LiveWins=실시간 당첨

@@ -8341,3 +8341,4 @@ UIChannelC_Retry=Thử lại
 UIRechargeReward_CombinedDescription={0}. UC đã vào Ví của tôi, phần thưởng vật phẩm xem tại Ba lô của tôi.
 UIRechargeReward_CoinsDescription={0}. Thưởng UC đã vào Ví của tôi.
 UIRechargeReward_RechargeSource=Thưởng nạp tiền
+UIChannelC_LiveWins=Thắng lớn

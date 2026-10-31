@@ -8341,3 +8341,4 @@ UIChannelC_Retry=फिर से प्रयास करें
 UIRechargeReward_CombinedDescription={0}। UC मेरा वॉलेट में है और आइटम इनाम मेरा बैकपैक में हैं।
 UIRechargeReward_CoinsDescription={0}। आपका UC इनाम मेरा वॉलेट में है।
 UIRechargeReward_RechargeSource=रिचार्ज इनाम
+UIChannelC_LiveWins=लाइव जीत

@@ -8450,9 +8450,9 @@ var deMap = {
     "UIRechargeReward_ActivityDescription": "Bei jeder Aufladung ein Ticket f\xFCr ein kostenpflichtiges Turnier!",
     "UIChannelC_Home": "Startseite",
     "UIChannelC_GameReward": "Spielbelohnungen",
-    "UIChannelC_Announcements": "Ank\xFCndigungen",
-    "UIChannelC_RechargeGift": "Aufladegeschenke",
-    "UIChannelC_InviteGift": "Einladungsbelohnungen",
+    "UIChannelC_Announcements": "News",
+    "UIChannelC_RechargeGift": "Bonus",
+    "UIChannelC_InviteGift": "Freunde",
     "UIChannelC_Support": "Support",
     "UIChannelC_AllTables": "Alle Tische",
     "UIChannelC_AllMatches": "Alle Turniere",
@@ -8521,7 +8521,8 @@ var deMap = {
     "UIChannelC_Retry": "Erneut versuchen",
     "UIRechargeReward_CombinedDescription": "{0}. UC ist in Meine Brieftasche, Gegenstandsbelohnungen in Mein Rucksack.",
     "UIRechargeReward_CoinsDescription": "{0}. Deine UC-Belohnung ist in Meine Brieftasche.",
-    "UIRechargeReward_RechargeSource": "Aufladebelohnungen"
+    "UIRechargeReward_RechargeSource": "Aufladebelohnungen",
+    "UIChannelC_LiveWins": "Gewinne"
 };
 var enMap = {
     "4": "Failed to connect, please try again later. ",
@@ -16847,7 +16848,8 @@ var enMap = {
     "UIChannelC_Retry": "Retry",
     "UIRechargeReward_CombinedDescription": "{0}. UC is in My Wallet and item rewards are in My Backpack.",
     "UIRechargeReward_CoinsDescription": "{0}. Your UC reward is in My Wallet.",
-    "UIRechargeReward_RechargeSource": "Recharge rewards"
+    "UIRechargeReward_RechargeSource": "Recharge rewards",
+    "UIChannelC_LiveWins": "Live wins"
 };
 var esMap = {
     "4": "Error de red. Reintente.",
@@ -25103,8 +25105,8 @@ var esMap = {
     "UIChannelC_Home": "Inicio",
     "UIChannelC_GameReward": "Recompensas de partida",
     "UIChannelC_Announcements": "Anuncios",
-    "UIChannelC_RechargeGift": "Regalos por recarga",
-    "UIChannelC_InviteGift": "Recompensas por invitaci\xF3n",
+    "UIChannelC_RechargeGift": "Por recarga",
+    "UIChannelC_InviteGift": "Por invitar",
     "UIChannelC_Support": "Soporte",
     "UIChannelC_AllTables": "Todas las mesas",
     "UIChannelC_AllMatches": "Todos los torneos",
@@ -25173,7 +25175,8 @@ var esMap = {
     "UIChannelC_Retry": "Reintentar",
     "UIRechargeReward_CombinedDescription": "{0}. Los UC est\xE1n en Mi Monedero y los objetos en mi mochila.",
     "UIRechargeReward_CoinsDescription": "{0}. Tu recompensa UC est\xE1 en Mi Monedero.",
-    "UIRechargeReward_RechargeSource": "Recompensas por recarga"
+    "UIRechargeReward_RechargeSource": "Recompensas por recarga",
+    "UIChannelC_LiveWins": "Premios"
 };
 var frMap = {
     "4": "Erreur r\xE9seau. R\xE9essayez.",
@@ -33429,8 +33432,8 @@ var frMap = {
     "UIChannelC_Home": "Accueil",
     "UIChannelC_GameReward": "R\xE9compenses de partie",
     "UIChannelC_Announcements": "Annonces",
-    "UIChannelC_RechargeGift": "Cadeaux de recharge",
-    "UIChannelC_InviteGift": "R\xE9compenses de parrainage",
+    "UIChannelC_RechargeGift": "Recharge",
+    "UIChannelC_InviteGift": "Amis",
     "UIChannelC_Support": "Support",
     "UIChannelC_AllTables": "Toutes les tables",
     "UIChannelC_AllMatches": "Tous les tournois",
@@ -33499,7 +33502,8 @@ var frMap = {
     "UIChannelC_Retry": "R\xE9essayer",
     "UIRechargeReward_CombinedDescription": "{0}. Les UC sont dans Mon Portefeuille et les objets dans Mon sac \xE0 dos.",
     "UIRechargeReward_CoinsDescription": "{0}. Votre r\xE9compense UC est dans Mon Portefeuille.",
-    "UIRechargeReward_RechargeSource": "R\xE9compenses de recharge"
+    "UIRechargeReward_RechargeSource": "R\xE9compenses de recharge",
+    "UIChannelC_LiveWins": "Gains"
 };
 var hiMap = {
     "4": "\u0928\u0947\u091F\u0935\u0930\u094D\u0915 \u0924\u094D\u0930\u0941\u091F\u093F\u0964 \u092C\u093E\u0926 \u092E\u0947\u0902 \u0915\u094B\u0936\u093F\u0936 \u0915\u0930\u0947\u0902\u0964",
@@ -41825,7 +41829,8 @@ var hiMap = {
     "UIChannelC_Retry": "\u092B\u093F\u0930 \u0938\u0947 \u092A\u094D\u0930\u092F\u093E\u0938 \u0915\u0930\u0947\u0902",
     "UIRechargeReward_CombinedDescription": "{0}\u0964 UC \u092E\u0947\u0930\u093E \u0935\u0949\u0932\u0947\u091F \u092E\u0947\u0902 \u0939\u0948 \u0914\u0930 \u0906\u0907\u091F\u092E \u0907\u0928\u093E\u092E \u092E\u0947\u0930\u093E \u092C\u0948\u0915\u092A\u0948\u0915 \u092E\u0947\u0902 \u0939\u0948\u0902\u0964",
     "UIRechargeReward_CoinsDescription": "{0}\u0964 \u0906\u092A\u0915\u093E UC \u0907\u0928\u093E\u092E \u092E\u0947\u0930\u093E \u0935\u0949\u0932\u0947\u091F \u092E\u0947\u0902 \u0939\u0948\u0964",
-    "UIRechargeReward_RechargeSource": "\u0930\u093F\u091A\u093E\u0930\u094D\u091C \u0907\u0928\u093E\u092E"
+    "UIRechargeReward_RechargeSource": "\u0930\u093F\u091A\u093E\u0930\u094D\u091C \u0907\u0928\u093E\u092E",
+    "UIChannelC_LiveWins": "\u0932\u093E\u0907\u0935 \u091C\u0940\u0924"
 };
 var itMap = {
     "4": "Errore di rete. Riprova.",
@@ -50081,9 +50086,9 @@ var itMap = {
     "UIChannelC_Home": "Home",
     "UIChannelC_GameReward": "Premi di partita",
     "UIChannelC_Announcements": "Annunci",
-    "UIChannelC_RechargeGift": "Regali ricarica",
-    "UIChannelC_InviteGift": "Premi per invito",
-    "UIChannelC_Support": "Assistenza",
+    "UIChannelC_RechargeGift": "Ricarica",
+    "UIChannelC_InviteGift": "Inviti",
+    "UIChannelC_Support": "Aiuto",
     "UIChannelC_AllTables": "Tutti i tavoli",
     "UIChannelC_AllMatches": "Tutti i tornei",
     "UIChannelC_PaidMatches": "A pagamento",
@@ -50151,7 +50156,8 @@ var itMap = {
     "UIChannelC_Retry": "Riprova",
     "UIRechargeReward_CombinedDescription": "{0}. Gli UC sono in Il mio portafoglio, gli oggetti in Il mio zaino.",
     "UIRechargeReward_CoinsDescription": "{0}. Il tuo premio UC \xE8 in Il mio portafoglio.",
-    "UIRechargeReward_RechargeSource": "Premi ricarica"
+    "UIRechargeReward_RechargeSource": "Premi ricarica",
+    "UIChannelC_LiveWins": "Vincite"
 };
 var jaMap = {
     "4": "\u901A\u4FE1\u30A8\u30E9\u30FC\u3067\u3059\u3002\u3082\u3046\u4E00\u5EA6\u8A66\u3057\u3066\u304F\u3060\u3055\u3044\u3002",
@@ -58477,7 +58483,8 @@ var jaMap = {
     "UIChannelC_Retry": "\u518D\u8A66\u884C",
     "UIRechargeReward_CombinedDescription": "{0}\u3002UC\u306F\u300C\u79C1\u306E\u30A6\u30A9\u30EC\u30C3\u30C8\u300D\u306B\u4ED8\u4E0E\u3055\u308C\u3001\u30A2\u30A4\u30C6\u30E0\u5831\u916C\u306F\u300C\u79C1\u306E\u30D0\u30C3\u30AF\u30D1\u30C3\u30AF\u300D\u3067\u78BA\u8A8D\u3067\u304D\u307E\u3059\u3002",
     "UIRechargeReward_CoinsDescription": "{0}\u3002UC\u5831\u916C\u306F\u300C\u79C1\u306E\u30A6\u30A9\u30EC\u30C3\u30C8\u300D\u306B\u4ED8\u4E0E\u3055\u308C\u307E\u3057\u305F\u3002",
-    "UIRechargeReward_RechargeSource": "\u30C1\u30E3\u30FC\u30B8\u5831\u916C"
+    "UIRechargeReward_RechargeSource": "\u30C1\u30E3\u30FC\u30B8\u5831\u916C",
+    "UIChannelC_LiveWins": "\u5927\u5F53\u305F\u308A"
 };
 var koMap = {
     "4": "\uB124\uD2B8\uC6CC\uD06C \uC624\uB958. \uB2E4\uC2DC \uC2DC\uB3C4.",
@@ -66803,7 +66810,8 @@ var koMap = {
     "UIChannelC_Retry": "\uB2E4\uC2DC \uC2DC\uB3C4",
     "UIRechargeReward_CombinedDescription": "{0}. UC\uB294 \uB0B4 \uC9C0\uAC11\uC5D0 \uC9C0\uAE09\uB418\uC5C8\uACE0, \uC544\uC774\uD15C \uBCF4\uC0C1\uC740 \uB0B4 \uBC30\uB0AD\uC5D0\uC11C \uD655\uC778\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4.",
     "UIRechargeReward_CoinsDescription": "{0}. UC \uBCF4\uC0C1\uC774 \uB0B4 \uC9C0\uAC11\uC5D0 \uC9C0\uAE09\uB418\uC5C8\uC2B5\uB2C8\uB2E4.",
-    "UIRechargeReward_RechargeSource": "\uCDA9\uC804 \uBCF4\uC0C1"
+    "UIRechargeReward_RechargeSource": "\uCDA9\uC804 \uBCF4\uC0C1",
+    "UIChannelC_LiveWins": "\uC2E4\uC2DC\uAC04 \uB2F9\uCCA8"
 };
 var ptMap = {
     "4": "Erro de conex\xE3o, favor tentar novamente. ",
@@ -75129,7 +75137,8 @@ var ptMap = {
     "UIChannelC_Retry": "Tentar novamente",
     "UIRechargeReward_CombinedDescription": "{0}. O UC est\xE1 em Minha Carteira e os itens em Minha Mochila.",
     "UIRechargeReward_CoinsDescription": "{0}. Sua recompensa em UC foi enviada para Minha Carteira.",
-    "UIRechargeReward_RechargeSource": "Recompensas de recarga"
+    "UIRechargeReward_RechargeSource": "Recompensas de recarga",
+    "UIChannelC_LiveWins": "Ganhos"
 };
 var ruMap = {
     "4": "\u0421\u0435\u0442\u044C. \u041F\u043E\u0432\u0442\u043E\u0440\u0438\u0442\u0435.",
@@ -83384,10 +83393,10 @@ var ruMap = {
     "UIRechargeReward_ActivityDescription": "\u0411\u0438\u043B\u0435\u0442 \u043D\u0430 \u043F\u043B\u0430\u0442\u043D\u044B\u0439 \u0442\u0443\u0440\u043D\u0438\u0440 \u0437\u0430 \u043A\u0430\u0436\u0434\u043E\u0435 \u043F\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435!",
     "UIChannelC_Home": "\u0413\u043B\u0430\u0432\u043D\u0430\u044F",
     "UIChannelC_GameReward": "\u041D\u0430\u0433\u0440\u0430\u0434\u044B \u0437\u0430 \u0438\u0433\u0440\u0443",
-    "UIChannelC_Announcements": "\u041E\u0431\u044A\u044F\u0432\u043B\u0435\u043D\u0438\u044F",
-    "UIChannelC_RechargeGift": "\u041F\u043E\u0434\u0430\u0440\u043A\u0438 \u0437\u0430 \u043F\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435",
-    "UIChannelC_InviteGift": "\u041D\u0430\u0433\u0440\u0430\u0434\u044B \u0437\u0430 \u043F\u0440\u0438\u0433\u043B\u0430\u0448\u0435\u043D\u0438\u044F",
-    "UIChannelC_Support": "\u041F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0430",
+    "UIChannelC_Announcements": "\u041D\u043E\u0432\u043E\u0441\u0442\u0438",
+    "UIChannelC_RechargeGift": "\u0417\u0430 \u0434\u0435\u043F\u043E\u0437\u0438\u0442",
+    "UIChannelC_InviteGift": "\u0417\u0430 \u0434\u0440\u0443\u0437\u0435\u0439",
+    "UIChannelC_Support": "\u041F\u043E\u043C\u043E\u0449\u044C",
     "UIChannelC_AllTables": "\u0412\u0441\u0435 \u0441\u0442\u043E\u043B\u044B",
     "UIChannelC_AllMatches": "\u0412\u0441\u0435 \u0442\u0443\u0440\u043D\u0438\u0440\u044B",
     "UIChannelC_PaidMatches": "\u041F\u043B\u0430\u0442\u043D\u044B\u0435",
@@ -83455,7 +83464,8 @@ var ruMap = {
     "UIChannelC_Retry": "\u041F\u043E\u0432\u0442\u043E\u0440\u0438\u0442\u044C",
     "UIRechargeReward_CombinedDescription": "{0}. UC \u2014 \u0432 \u0440\u0430\u0437\u0434\u0435\u043B\u0435 \u041C\u043E\u0439 \u041A\u043E\u0448\u0435\u043B\u0451\u043A, \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u044B \u2014 \u0432 \u0440\u0430\u0437\u0434\u0435\u043B\u0435 \u041C\u043E\u0439 \u0440\u044E\u043A\u0437\u0430\u043A.",
     "UIRechargeReward_CoinsDescription": "{0}. \u041D\u0430\u0433\u0440\u0430\u0434\u0430 UC \u2014 \u0432 \u0440\u0430\u0437\u0434\u0435\u043B\u0435 \u041C\u043E\u0439 \u041A\u043E\u0448\u0435\u043B\u0451\u043A.",
-    "UIRechargeReward_RechargeSource": "\u041D\u0430\u0433\u0440\u0430\u0434\u044B \u0437\u0430 \u043F\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435"
+    "UIRechargeReward_RechargeSource": "\u041D\u0430\u0433\u0440\u0430\u0434\u044B \u0437\u0430 \u043F\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435",
+    "UIChannelC_LiveWins": "\u0412\u044B\u0438\u0433\u0440\u044B\u0448\u0438"
 };
 var thMap = {
     "4": "\u0E40\u0E19\u0E47\u0E15\u0E1C\u0E34\u0E14\u0E1E\u0E25\u0E32\u0E14 \u0E25\u0E2D\u0E07\u0E43\u0E2B\u0E21\u0E48",
@@ -91711,8 +91721,8 @@ var thMap = {
     "UIChannelC_Home": "\u0E2B\u0E19\u0E49\u0E32\u0E41\u0E23\u0E01",
     "UIChannelC_GameReward": "\u0E23\u0E32\u0E07\u0E27\u0E31\u0E25\u0E08\u0E32\u0E01\u0E01\u0E32\u0E23\u0E40\u0E25\u0E48\u0E19",
     "UIChannelC_Announcements": "\u0E1B\u0E23\u0E30\u0E01\u0E32\u0E28",
-    "UIChannelC_RechargeGift": "\u0E02\u0E2D\u0E07\u0E02\u0E27\u0E31\u0E0D\u0E40\u0E15\u0E34\u0E21\u0E40\u0E07\u0E34\u0E19",
-    "UIChannelC_InviteGift": "\u0E23\u0E32\u0E07\u0E27\u0E31\u0E25\u0E40\u0E0A\u0E34\u0E0D\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E19",
+    "UIChannelC_RechargeGift": "\u0E40\u0E15\u0E34\u0E21\u0E40\u0E07\u0E34\u0E19",
+    "UIChannelC_InviteGift": "\u0E40\u0E0A\u0E34\u0E0D\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E19",
     "UIChannelC_Support": "\u0E1D\u0E48\u0E32\u0E22\u0E1A\u0E23\u0E34\u0E01\u0E32\u0E23",
     "UIChannelC_AllTables": "\u0E42\u0E15\u0E4A\u0E30\u0E17\u0E31\u0E49\u0E07\u0E2B\u0E21\u0E14",
     "UIChannelC_AllMatches": "\u0E17\u0E31\u0E27\u0E23\u0E4C\u0E19\u0E32\u0E40\u0E21\u0E19\u0E15\u0E4C\u0E17\u0E31\u0E49\u0E07\u0E2B\u0E21\u0E14",
@@ -91781,7 +91791,8 @@ var thMap = {
     "UIChannelC_Retry": "\u0E25\u0E2D\u0E07\u0E43\u0E2B\u0E21\u0E48",
     "UIRechargeReward_CombinedDescription": "{0} UC \u0E40\u0E02\u0E49\u0E32\u0E17\u0E35\u0E48 \u0E01\u0E23\u0E30\u0E40\u0E1B\u0E4B\u0E32\u0E40\u0E07\u0E34\u0E19 \u0E41\u0E25\u0E49\u0E27 \u0E2A\u0E48\u0E27\u0E19\u0E23\u0E32\u0E07\u0E27\u0E31\u0E25\u0E44\u0E2D\u0E40\u0E17\u0E21\u0E14\u0E39\u0E44\u0E14\u0E49\u0E17\u0E35\u0E48 \u0E01\u0E23\u0E30\u0E40\u0E1B\u0E4B\u0E32\u0E02\u0E2D\u0E07\u0E09\u0E31\u0E19",
     "UIRechargeReward_CoinsDescription": "{0} \u0E23\u0E32\u0E07\u0E27\u0E31\u0E25 UC \u0E40\u0E02\u0E49\u0E32\u0E17\u0E35\u0E48 \u0E01\u0E23\u0E30\u0E40\u0E1B\u0E4B\u0E32\u0E40\u0E07\u0E34\u0E19 \u0E41\u0E25\u0E49\u0E27",
-    "UIRechargeReward_RechargeSource": "\u0E23\u0E32\u0E07\u0E27\u0E31\u0E25\u0E40\u0E15\u0E34\u0E21\u0E40\u0E07\u0E34\u0E19"
+    "UIRechargeReward_RechargeSource": "\u0E23\u0E32\u0E07\u0E27\u0E31\u0E25\u0E40\u0E15\u0E34\u0E21\u0E40\u0E07\u0E34\u0E19",
+    "UIChannelC_LiveWins": "\u0E23\u0E32\u0E07\u0E27\u0E31\u0E25\u0E2A\u0E14"
 };
 var zh_TWMap = {
     "4": "\u7DB2\u8DEF\u932F\u8AA4\uFF0C\u8ACB\u7A0D\u5F8C\u91CD\u8A66",
@@ -100107,7 +100118,8 @@ var zh_TWMap = {
     "UIChannelC_Retry": "\u91CD\u8A66",
     "UIRechargeReward_CombinedDescription": "{0}\uFF0CUC \u5DF2\u767C\u653E\u81F3\u300C\u6211\u7684\u9322\u5305\u300D\uFF0C\u9053\u5177\u734E\u52F5\u53EF\u5728\u300C\u6211\u7684\u80CC\u5305\u300D\u67E5\u770B\u3002",
     "UIRechargeReward_CoinsDescription": "{0}\uFF0CUC \u734E\u52F5\u5DF2\u767C\u653E\u81F3\u300C\u6211\u7684\u9322\u5305\u300D\u3002",
-    "UIRechargeReward_RechargeSource": "\u5132\u503C\u734E\u52F5"
+    "UIRechargeReward_RechargeSource": "\u5132\u503C\u734E\u52F5",
+    "UIChannelC_LiveWins": "\u5373\u6642\u7206\u734E"
 };
 var viMap = {
     "4": "L\u1ED7i m\u1EA1ng. Th\u1EED l\u1EA1i.",
@@ -108433,7 +108445,8 @@ var viMap = {
     "UIChannelC_Retry": "Th\u1EED l\u1EA1i",
     "UIRechargeReward_CombinedDescription": "{0}. UC \u0111\xE3 v\xE0o V\xED c\u1EE7a t\xF4i, ph\u1EA7n th\u01B0\u1EDFng v\u1EADt ph\u1EA9m xem t\u1EA1i Ba l\xF4 c\u1EE7a t\xF4i.",
     "UIRechargeReward_CoinsDescription": "{0}. Th\u01B0\u1EDFng UC \u0111\xE3 v\xE0o V\xED c\u1EE7a t\xF4i.",
-    "UIRechargeReward_RechargeSource": "Th\u01B0\u1EDFng n\u1EA1p ti\u1EC1n"
+    "UIRechargeReward_RechargeSource": "Th\u01B0\u1EDFng n\u1EA1p ti\u1EC1n",
+    "UIChannelC_LiveWins": "Th\u1EAFng l\u1EDBn"
 };
 var zh_CNMap = {
     "4": "\u7F51\u7EDC\u9519\u8BEF\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5",
@@ -116759,7 +116772,8 @@ var zh_CNMap = {
     "UIChannelC_Retry": "\u91CD\u8BD5",
     "UIRechargeReward_CombinedDescription": "{0}\uFF0CUC \u5DF2\u53D1\u653E\u81F3\u300C\u6211\u7684\u94B1\u5305\u300D\uFF0C\u9053\u5177\u5956\u52B1\u53EF\u5728\u300C\u6211\u7684\u80CC\u5305\u300D\u67E5\u770B\u3002",
     "UIRechargeReward_CoinsDescription": "{0}\uFF0CUC \u5956\u52B1\u5DF2\u53D1\u653E\u81F3\u300C\u6211\u7684\u94B1\u5305\u300D\u3002",
-    "UIRechargeReward_RechargeSource": "\u5145\u503C\u5956\u52B1"
+    "UIRechargeReward_RechargeSource": "\u5145\u503C\u5956\u52B1",
+    "UIChannelC_LiveWins": "\u5B9E\u65F6\u7206\u5956"
 };
 var localesData = {
     "de": deMap,

@@ -8340,3 +8340,4 @@ UIChannelC_Retry=重試
 UIRechargeReward_CombinedDescription={0}，UC 已發放至「我的錢包」，道具獎勵可在「我的背包」查看。
 UIRechargeReward_CoinsDescription={0}，UC 獎勵已發放至「我的錢包」。
 UIRechargeReward_RechargeSource=儲值獎勵
+UIChannelC_LiveWins=即時爆獎

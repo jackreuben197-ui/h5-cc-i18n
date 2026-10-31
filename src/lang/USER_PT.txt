@@ -8341,3 +8341,4 @@ UIChannelC_Retry=Tentar novamente
 UIRechargeReward_CombinedDescription={0}. O UC está em Minha Carteira e os itens em Minha Mochila.
 UIRechargeReward_CoinsDescription={0}. Sua recompensa em UC foi enviada para Minha Carteira.
 UIRechargeReward_RechargeSource=Recompensas de recarga
+UIChannelC_LiveWins=Ganhos
