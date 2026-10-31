@@ -8275,6 +8275,7 @@ UIChannelC_InviteGift=Thưởng mời bạn
 UIChannelC_Support=Hỗ trợ
 UIChannelC_AllTables=Tất cả bàn
 UIChannelC_AllMatches=Tất cả giải đấu
+UIChannelC_AllMatchesShort=Tất cả
 UIChannelC_PaidMatches=Có phí
 UIChannelC_SnowballMatches=Snowball
 UIChannelC_TableFeature=Đặc điểm bàn

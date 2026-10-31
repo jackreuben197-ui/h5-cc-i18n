@@ -8275,6 +8275,7 @@ UIChannelC_InviteGift=За друзей
 UIChannelC_Support=Помощь
 UIChannelC_AllTables=Все столы
 UIChannelC_AllMatches=Все турниры
+UIChannelC_AllMatchesShort=Все
 UIChannelC_PaidMatches=Платные
 UIChannelC_SnowballMatches=Снежный ком
 UIChannelC_TableFeature=Особенности стола

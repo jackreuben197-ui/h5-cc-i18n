@@ -8275,6 +8275,7 @@ UIChannelC_InviteGift=आमंत्रण इनाम
 UIChannelC_Support=सहायता
 UIChannelC_AllTables=सभी टेबल
 UIChannelC_AllMatches=सभी टूर्नामेंट
+UIChannelC_AllMatchesShort=सभी
 UIChannelC_PaidMatches=सशुल्क
 UIChannelC_SnowballMatches=स्नोबॉल
 UIChannelC_TableFeature=टेबल की विशेषताएँ

@@ -8274,6 +8274,7 @@ UIChannelC_InviteGift=邀請有禮
 UIChannelC_Support=線上客服
 UIChannelC_AllTables=全部牌桌
 UIChannelC_AllMatches=全部賽事
+UIChannelC_AllMatchesShort=全部賽事
 UIChannelC_PaidMatches=收費賽
 UIChannelC_SnowballMatches=滾雪球賽
 UIChannelC_TableFeature=牌桌特色

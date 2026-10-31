@@ -8275,6 +8275,7 @@ UIChannelC_InviteGift=Bônus por convite
 UIChannelC_Support=Atendimento
 UIChannelC_AllTables=Todas as mesas
 UIChannelC_AllMatches=Todos os torneios
+UIChannelC_AllMatchesShort=Todos
 UIChannelC_PaidMatches=Pagos
 UIChannelC_SnowballMatches=Bola de neve
 UIChannelC_TableFeature=Recursos da mesa

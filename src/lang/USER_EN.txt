@@ -8274,6 +8274,7 @@ UIChannelC_InviteGift=Invite rewards
 UIChannelC_Support=Support
 UIChannelC_AllTables=All tables
 UIChannelC_AllMatches=All tournaments
+UIChannelC_AllMatchesShort=All
 UIChannelC_PaidMatches=Paid
 UIChannelC_SnowballMatches=Snowball
 UIChannelC_TableFeature=Table features

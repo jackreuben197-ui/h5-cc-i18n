@@ -8275,6 +8275,7 @@ UIChannelC_InviteGift=เชิญเพื่อน
 UIChannelC_Support=ฝ่ายบริการ
 UIChannelC_AllTables=โต๊ะทั้งหมด
 UIChannelC_AllMatches=ทัวร์นาเมนต์ทั้งหมด
+UIChannelC_AllMatchesShort=ทั้งหมด
 UIChannelC_PaidMatches=เสียค่าสมัคร
 UIChannelC_SnowballMatches=สโนว์บอล
 UIChannelC_TableFeature=จุดเด่นของโต๊ะ

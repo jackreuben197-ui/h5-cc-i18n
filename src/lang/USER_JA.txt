@@ -8275,6 +8275,7 @@ UIChannelC_InviteGift=招待特典
 UIChannelC_Support=サポート
 UIChannelC_AllTables=すべてのテーブル
 UIChannelC_AllMatches=すべてのトーナメント
+UIChannelC_AllMatchesShort=すべて
 UIChannelC_PaidMatches=有料
 UIChannelC_SnowballMatches=スノーボール
 UIChannelC_TableFeature=テーブルの特徴

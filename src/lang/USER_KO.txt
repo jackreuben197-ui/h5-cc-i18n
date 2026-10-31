@@ -8275,6 +8275,7 @@ UIChannelC_InviteGift=초대 선물
 UIChannelC_Support=고객센터
 UIChannelC_AllTables=전체 테이블
 UIChannelC_AllMatches=전체 토너먼트
+UIChannelC_AllMatchesShort=전체
 UIChannelC_PaidMatches=유료
 UIChannelC_SnowballMatches=스노우볼
 UIChannelC_TableFeature=테이블 특징
