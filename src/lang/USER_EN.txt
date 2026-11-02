@@ -8070,3 +8070,4 @@ UIRechargeReward_CoinsDescription={0}. Your UC reward is in My Wallet.
 UIRechargeReward_RechargeSource=Recharge rewards
 UIMTT_ContinueWatching=Continue watching
 UIMTT_ReturnLobby=Return to lobby
+UIMTT_ObservedRoomDissolved=The table you were watching has been closed.

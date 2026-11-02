@@ -8070,3 +8070,4 @@ UIRechargeReward_CoinsDescription={0}. Sua recompensa em UC foi enviada para Min
 UIRechargeReward_RechargeSource=Recompensas de recarga
 UIMTT_ContinueWatching=Continuar assistindo
 UIMTT_ReturnLobby=Voltar ao lobby
+UIMTT_ObservedRoomDissolved=A mesa que você estava assistindo foi encerrada.
