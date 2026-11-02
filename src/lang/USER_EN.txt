@@ -8068,3 +8068,5 @@ UIChannelC_Retry=Retry
 UIRechargeReward_CombinedDescription={0}. UC is in My Wallet and item rewards are in My Backpack.
 UIRechargeReward_CoinsDescription={0}. Your UC reward is in My Wallet.
 UIRechargeReward_RechargeSource=Recharge rewards
+UIMTT_ContinueWatching=Continue watching
+UIMTT_ReturnLobby=Return to lobby
