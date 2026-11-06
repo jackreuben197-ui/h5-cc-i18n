@@ -8345,3 +8345,6 @@ UIRechargeReward_CoinsDescription={0}. Tu recompensa UC está en Mi Monedero.
 UIRechargeReward_RechargeSource=Recompensas por recarga
 UIChannelC_LiveWins=Premios
 UIChannelC_JoinShort=Unirse
+UIMTT_ContinueWatching=Seguir viendo
+UIMTT_ReturnLobby=Volver al lobby
+UIMTT_ObservedRoomDissolved=La mesa que estabas viendo se ha cerrado

@@ -8344,3 +8344,6 @@ UIRechargeReward_CoinsDescription={0}，UC 獎勵已發放至「我的錢包」�
 UIRechargeReward_RechargeSource=儲值獎勵
 UIChannelC_LiveWins=即時爆獎
 UIChannelC_JoinShort=加入
+UIMTT_ContinueWatching=繼續觀戰
+UIMTT_ReturnLobby=返回大廳
+UIMTT_ObservedRoomDissolved=目前觀戰房間已解散

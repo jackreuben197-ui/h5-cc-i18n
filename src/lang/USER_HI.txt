@@ -8345,3 +8345,6 @@ UIRechargeReward_CoinsDescription={0}। आपका UC इनाम मेर�
 UIRechargeReward_RechargeSource=रिचार्ज इनाम
 UIChannelC_LiveWins=लाइव जीत
 UIChannelC_JoinShort=जुड़ें
+UIMTT_ContinueWatching=देखना जारी रखें
+UIMTT_ReturnLobby=लॉबी पर लौटें
+UIMTT_ObservedRoomDissolved=आप जिस टेबल को देख रहे थे वह बंद हो गई है

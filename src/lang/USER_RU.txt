@@ -8345,3 +8345,6 @@ UIRechargeReward_CoinsDescription={0}. Награда UC — в разделе �
 UIRechargeReward_RechargeSource=Награды за пополнение
 UIChannelC_LiveWins=Выигрыши
 UIChannelC_JoinShort=Играть
+UIMTT_ContinueWatching=Продолжить просмотр
+UIMTT_ReturnLobby=В лобби
+UIMTT_ObservedRoomDissolved=Стол, за которым вы наблюдали, закрыт

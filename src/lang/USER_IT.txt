@@ -8345,3 +8345,6 @@ UIRechargeReward_CoinsDescription={0}. Il tuo premio UC è in Il mio portafoglio
 UIRechargeReward_RechargeSource=Premi ricarica
 UIChannelC_LiveWins=Vincite
 UIChannelC_JoinShort=Partecipa
+UIMTT_ContinueWatching=Continua a guardare
+UIMTT_ReturnLobby=Torna alla lobby
+UIMTT_ObservedRoomDissolved=Il tavolo che stavi guardando è stato chiuso

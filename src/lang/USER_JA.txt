@@ -8345,3 +8345,6 @@ UIRechargeReward_CoinsDescription={0}。UC報酬は「私のウォレット」�
 UIRechargeReward_RechargeSource=チャージ報酬
 UIChannelC_LiveWins=大当たり
 UIChannelC_JoinShort=参加する
+UIMTT_ContinueWatching=観戦を続ける
+UIMTT_ReturnLobby=ロビーに戻る
+UIMTT_ObservedRoomDissolved=観戦中のテーブルは解散しました
