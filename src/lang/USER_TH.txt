@@ -8349,3 +8349,5 @@ UITexas_PlayerInfo_SixtyDays=แสดงเฉพาะข้อมูลย้
 UIMTT_ContinueWatching=ดูต่อ
 UIMTT_ReturnLobby=กลับไปล็อบบี้
 UIMTT_ObservedRoomDissolved=โต๊ะที่คุณกำลังดูถูกปิดแล้ว
+UICareer_MttMenu=MTT
+UIClub_MemberDetail_Win=ชนะ

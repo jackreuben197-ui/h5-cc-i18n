@@ -8349,3 +8349,5 @@ UITexas_PlayerInfo_SixtyDays=केवल पिछले 60 दिनों क
 UIMTT_ContinueWatching=देखना जारी रखें
 UIMTT_ReturnLobby=लॉबी पर लौटें
 UIMTT_ObservedRoomDissolved=आप जिस टेबल को देख रहे थे वह बंद हो गई है
+UICareer_MttMenu=MTT
+UIClub_MemberDetail_Win=जीतो

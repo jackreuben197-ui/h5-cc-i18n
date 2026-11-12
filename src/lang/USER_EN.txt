@@ -8348,3 +8348,5 @@ UITexas_PlayerInfo_SixtyDays=Only data from the last 60 days
 UIMTT_ContinueWatching=Continue watching
 UIMTT_ReturnLobby=Return to lobby
 UIMTT_ObservedRoomDissolved=The table you were watching has been closed.
+UICareer_MttMenu=MTT
+UIClub_MemberDetail_Win=Win

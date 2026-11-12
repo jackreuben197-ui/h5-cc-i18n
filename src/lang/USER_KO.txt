@@ -8349,3 +8349,5 @@ UITexas_PlayerInfo_SixtyDays=최근 60일 데이터만 표시
 UIMTT_ContinueWatching=계속 관전
 UIMTT_ReturnLobby=로비로 돌아가기
 UIMTT_ObservedRoomDissolved=관전 중이던 테이블이 종료되었습니다
+UICareer_MttMenu=MTT
+UIClub_MemberDetail_Win=승리

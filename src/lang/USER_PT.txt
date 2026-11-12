@@ -8349,3 +8349,5 @@ UITexas_PlayerInfo_SixtyDays=Apenas dados dos últimos 60 dias
 UIMTT_ContinueWatching=Continuar assistindo
 UIMTT_ReturnLobby=Voltar ao lobby
 UIMTT_ObservedRoomDissolved=A mesa que você estava assistindo foi encerrada.
+UICareer_MttMenu=MTT
+UIClub_MemberDetail_Win=Vencer

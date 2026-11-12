@@ -8529,7 +8529,9 @@ var deMap = {
     "UITexas_PlayerInfo_SixtyDays": "Nur Daten der letzten 60 Tage",
     "UIMTT_ContinueWatching": "Weiter zuschauen",
     "UIMTT_ReturnLobby": "Zur Lobby",
-    "UIMTT_ObservedRoomDissolved": "Der beobachtete Tisch wurde geschlossen"
+    "UIMTT_ObservedRoomDissolved": "Der beobachtete Tisch wurde geschlossen",
+    "UICareer_MttMenu": "MTT",
+    "UIClub_MemberDetail_Win": "Gewinnen"
 };
 var enMap = {
     "4": "Failed to connect, please try again later. ",
@@ -16863,7 +16865,9 @@ var enMap = {
     "UITexas_PlayerInfo_SixtyDays": "Only data from the last 60 days",
     "UIMTT_ContinueWatching": "Continue watching",
     "UIMTT_ReturnLobby": "Return to lobby",
-    "UIMTT_ObservedRoomDissolved": "The table you were watching has been closed."
+    "UIMTT_ObservedRoomDissolved": "The table you were watching has been closed.",
+    "UICareer_MttMenu": "MTT",
+    "UIClub_MemberDetail_Win": "Win"
 };
 var esMap = {
     "4": "Error de red. Reintente.",
@@ -25197,7 +25201,9 @@ var esMap = {
     "UITexas_PlayerInfo_SixtyDays": "Solo datos de los \xFAltimos 60 d\xEDas",
     "UIMTT_ContinueWatching": "Seguir viendo",
     "UIMTT_ReturnLobby": "Volver al lobby",
-    "UIMTT_ObservedRoomDissolved": "La mesa que estabas viendo se ha cerrado"
+    "UIMTT_ObservedRoomDissolved": "La mesa que estabas viendo se ha cerrado",
+    "UICareer_MttMenu": "MTT",
+    "UIClub_MemberDetail_Win": "Ganar"
 };
 var frMap = {
     "4": "Erreur r\xE9seau. R\xE9essayez.",
@@ -33531,7 +33537,9 @@ var frMap = {
     "UITexas_PlayerInfo_SixtyDays": "Donn\xE9es des 60 derniers jours uniquement",
     "UIMTT_ContinueWatching": "Continuer \xE0 regarder",
     "UIMTT_ReturnLobby": "Retour au lobby",
-    "UIMTT_ObservedRoomDissolved": "La table que vous regardiez a \xE9t\xE9 ferm\xE9e"
+    "UIMTT_ObservedRoomDissolved": "La table que vous regardiez a \xE9t\xE9 ferm\xE9e",
+    "UICareer_MttMenu": "MTT",
+    "UIClub_MemberDetail_Win": "Gagner"
 };
 var hiMap = {
     "4": "\u0928\u0947\u091F\u0935\u0930\u094D\u0915 \u0924\u094D\u0930\u0941\u091F\u093F\u0964 \u092C\u093E\u0926 \u092E\u0947\u0902 \u0915\u094B\u0936\u093F\u0936 \u0915\u0930\u0947\u0902\u0964",
@@ -41865,7 +41873,9 @@ var hiMap = {
     "UITexas_PlayerInfo_SixtyDays": "\u0915\u0947\u0935\u0932 \u092A\u093F\u091B\u0932\u0947 60 \u0926\u093F\u0928\u094B\u0902 \u0915\u093E \u0921\u0947\u091F\u093E",
     "UIMTT_ContinueWatching": "\u0926\u0947\u0916\u0928\u093E \u091C\u093E\u0930\u0940 \u0930\u0916\u0947\u0902",
     "UIMTT_ReturnLobby": "\u0932\u0949\u092C\u0940 \u092A\u0930 \u0932\u094C\u091F\u0947\u0902",
-    "UIMTT_ObservedRoomDissolved": "\u0906\u092A \u091C\u093F\u0938 \u091F\u0947\u092C\u0932 \u0915\u094B \u0926\u0947\u0916 \u0930\u0939\u0947 \u0925\u0947 \u0935\u0939 \u092C\u0902\u0926 \u0939\u094B \u0917\u0908 \u0939\u0948"
+    "UIMTT_ObservedRoomDissolved": "\u0906\u092A \u091C\u093F\u0938 \u091F\u0947\u092C\u0932 \u0915\u094B \u0926\u0947\u0916 \u0930\u0939\u0947 \u0925\u0947 \u0935\u0939 \u092C\u0902\u0926 \u0939\u094B \u0917\u0908 \u0939\u0948",
+    "UICareer_MttMenu": "MTT",
+    "UIClub_MemberDetail_Win": "\u091C\u0940\u0924\u094B"
 };
 var itMap = {
     "4": "Errore di rete. Riprova.",
@@ -50199,7 +50209,9 @@ var itMap = {
     "UITexas_PlayerInfo_SixtyDays": "Solo i dati degli ultimi 60 giorni",
     "UIMTT_ContinueWatching": "Continua a guardare",
     "UIMTT_ReturnLobby": "Torna alla lobby",
-    "UIMTT_ObservedRoomDissolved": "Il tavolo che stavi guardando \xE8 stato chiuso"
+    "UIMTT_ObservedRoomDissolved": "Il tavolo che stavi guardando \xE8 stato chiuso",
+    "UICareer_MttMenu": "MTT",
+    "UIClub_MemberDetail_Win": "Vincita"
 };
 var jaMap = {
     "4": "\u901A\u4FE1\u30A8\u30E9\u30FC\u3067\u3059\u3002\u3082\u3046\u4E00\u5EA6\u8A66\u3057\u3066\u304F\u3060\u3055\u3044\u3002",
@@ -58533,7 +58545,9 @@ var jaMap = {
     "UITexas_PlayerInfo_SixtyDays": "\u904E\u53BB60\u65E5\u9593\u306E\u30C7\u30FC\u30BF\u306E\u307F",
     "UIMTT_ContinueWatching": "\u89B3\u6226\u3092\u7D9A\u3051\u308B",
     "UIMTT_ReturnLobby": "\u30ED\u30D3\u30FC\u306B\u623B\u308B",
-    "UIMTT_ObservedRoomDissolved": "\u89B3\u6226\u4E2D\u306E\u30C6\u30FC\u30D6\u30EB\u306F\u89E3\u6563\u3057\u307E\u3057\u305F"
+    "UIMTT_ObservedRoomDissolved": "\u89B3\u6226\u4E2D\u306E\u30C6\u30FC\u30D6\u30EB\u306F\u89E3\u6563\u3057\u307E\u3057\u305F",
+    "UICareer_MttMenu": "MTT",
+    "UIClub_MemberDetail_Win": "\u52DD\u3064"
 };
 var koMap = {
     "4": "\uB124\uD2B8\uC6CC\uD06C \uC624\uB958. \uB2E4\uC2DC \uC2DC\uB3C4.",
@@ -66867,7 +66881,9 @@ var koMap = {
     "UITexas_PlayerInfo_SixtyDays": "\uCD5C\uADFC 60\uC77C \uB370\uC774\uD130\uB9CC \uD45C\uC2DC",
     "UIMTT_ContinueWatching": "\uACC4\uC18D \uAD00\uC804",
     "UIMTT_ReturnLobby": "\uB85C\uBE44\uB85C \uB3CC\uC544\uAC00\uAE30",
-    "UIMTT_ObservedRoomDissolved": "\uAD00\uC804 \uC911\uC774\uB358 \uD14C\uC774\uBE14\uC774 \uC885\uB8CC\uB418\uC5C8\uC2B5\uB2C8\uB2E4"
+    "UIMTT_ObservedRoomDissolved": "\uAD00\uC804 \uC911\uC774\uB358 \uD14C\uC774\uBE14\uC774 \uC885\uB8CC\uB418\uC5C8\uC2B5\uB2C8\uB2E4",
+    "UICareer_MttMenu": "MTT",
+    "UIClub_MemberDetail_Win": "\uC2B9\uB9AC"
 };
 var ptMap = {
     "4": "Erro de conex\xE3o, favor tentar novamente. ",
@@ -75201,7 +75217,9 @@ var ptMap = {
     "UITexas_PlayerInfo_SixtyDays": "Apenas dados dos \xFAltimos 60 dias",
     "UIMTT_ContinueWatching": "Continuar assistindo",
     "UIMTT_ReturnLobby": "Voltar ao lobby",
-    "UIMTT_ObservedRoomDissolved": "A mesa que voc\xEA estava assistindo foi encerrada."
+    "UIMTT_ObservedRoomDissolved": "A mesa que voc\xEA estava assistindo foi encerrada.",
+    "UICareer_MttMenu": "MTT",
+    "UIClub_MemberDetail_Win": "Vencer"
 };
 var ruMap = {
     "4": "\u0421\u0435\u0442\u044C. \u041F\u043E\u0432\u0442\u043E\u0440\u0438\u0442\u0435.",
@@ -77020,7 +77038,7 @@ var ruMap = {
     "UIMine_Paipu_handNum": "{0}-\u044F \u0440\u0443\u043A\u0430",
     "UIMine_Paipu_shengli": "\u0412\u044B\u0438\u0433\u0440\u0430\u043B \u0441 {0}",
     "UIMine_Paipu_qi": "\u041E\u043F\u043F\u043E\u043D\u0435\u043D\u0442 \u0424\u043E\u043B\u0434, \u043F\u043E\u0431\u0435\u0434\u0430: {0}",
-    "UIMine_Paipu_win": "\u041F\u043E\u0431\u0435\u0434\u0438\u0442\u044C",
+    "UIMine_Paipu_win": "\u0412\u044B\u0438\u0433\u0440\u044B\u0448",
     "DataLoading": "\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0430...",
     "NoMoreData": "\u0411\u043E\u043B\u044C\u0448\u0435 \u043D\u0435\u0442 \u0434\u0430\u043D\u043D\u044B\u0445",
     "UIMine_WalletMy": "\u041C\u043E\u0439 \u041A\u043E\u0448\u0435\u043B\u0451\u043A",
@@ -83535,7 +83553,9 @@ var ruMap = {
     "UITexas_PlayerInfo_SixtyDays": "\u0422\u043E\u043B\u044C\u043A\u043E \u0434\u0430\u043D\u043D\u044B\u0435 \u0437\u0430 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 60 \u0434\u043D\u0435\u0439",
     "UIMTT_ContinueWatching": "\u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u044C \u043F\u0440\u043E\u0441\u043C\u043E\u0442\u0440",
     "UIMTT_ReturnLobby": "\u0412 \u043B\u043E\u0431\u0431\u0438",
-    "UIMTT_ObservedRoomDissolved": "\u0421\u0442\u043E\u043B, \u0437\u0430 \u043A\u043E\u0442\u043E\u0440\u044B\u043C \u0432\u044B \u043D\u0430\u0431\u043B\u044E\u0434\u0430\u043B\u0438, \u0437\u0430\u043A\u0440\u044B\u0442"
+    "UIMTT_ObservedRoomDissolved": "\u0421\u0442\u043E\u043B, \u0437\u0430 \u043A\u043E\u0442\u043E\u0440\u044B\u043C \u0432\u044B \u043D\u0430\u0431\u043B\u044E\u0434\u0430\u043B\u0438, \u0437\u0430\u043A\u0440\u044B\u0442",
+    "UICareer_MttMenu": "MTT",
+    "UIClub_MemberDetail_Win": "\u0412\u044B\u0438\u0433\u0440\u044B\u0448"
 };
 var thMap = {
     "4": "\u0E40\u0E19\u0E47\u0E15\u0E1C\u0E34\u0E14\u0E1E\u0E25\u0E32\u0E14 \u0E25\u0E2D\u0E07\u0E43\u0E2B\u0E21\u0E48",
@@ -91869,7 +91889,9 @@ var thMap = {
     "UITexas_PlayerInfo_SixtyDays": "\u0E41\u0E2A\u0E14\u0E07\u0E40\u0E09\u0E1E\u0E32\u0E30\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25\u0E22\u0E49\u0E2D\u0E19\u0E2B\u0E25\u0E31\u0E07 60 \u0E27\u0E31\u0E19",
     "UIMTT_ContinueWatching": "\u0E14\u0E39\u0E15\u0E48\u0E2D",
     "UIMTT_ReturnLobby": "\u0E01\u0E25\u0E31\u0E1A\u0E44\u0E1B\u0E25\u0E47\u0E2D\u0E1A\u0E1A\u0E35\u0E49",
-    "UIMTT_ObservedRoomDissolved": "\u0E42\u0E15\u0E4A\u0E30\u0E17\u0E35\u0E48\u0E04\u0E38\u0E13\u0E01\u0E33\u0E25\u0E31\u0E07\u0E14\u0E39\u0E16\u0E39\u0E01\u0E1B\u0E34\u0E14\u0E41\u0E25\u0E49\u0E27"
+    "UIMTT_ObservedRoomDissolved": "\u0E42\u0E15\u0E4A\u0E30\u0E17\u0E35\u0E48\u0E04\u0E38\u0E13\u0E01\u0E33\u0E25\u0E31\u0E07\u0E14\u0E39\u0E16\u0E39\u0E01\u0E1B\u0E34\u0E14\u0E41\u0E25\u0E49\u0E27",
+    "UICareer_MttMenu": "MTT",
+    "UIClub_MemberDetail_Win": "\u0E0A\u0E19\u0E30"
 };
 var zh_TWMap = {
     "4": "\u7DB2\u8DEF\u932F\u8AA4\uFF0C\u8ACB\u7A0D\u5F8C\u91CD\u8A66",
@@ -93688,7 +93710,7 @@ var zh_TWMap = {
     "UIMine_Paipu_handNum": "\u7B2C{0}\u624B",
     "UIMine_Paipu_shengli": "\u4EE5{0}\u7372\u5F97\u52DD\u5229",
     "UIMine_Paipu_qi": "\u5C0D\u624B\u68C4\u724C\uFF0C{0}\u7372\u5F97\u52DD\u5229",
-    "UIMine_Paipu_win": "\u8D0F",
+    "UIMine_Paipu_win": "\u6230\u7E3E",
     "DataLoading": "\u52A0\u8F09\u4E2D...",
     "NoMoreData": "\u7121\u66F4\u591A\u6578\u64DA",
     "UIMine_WalletMy": "\u6211\u7684\u9322\u5305",
@@ -95227,7 +95249,7 @@ var zh_TWMap = {
     "UIClub_ClubData": "\u4FF1\u6A02\u90E8\u6578\u64DA",
     "UIClub_AgentData": "\u4EE3\u7406\u6578\u64DA",
     "UIClub_TotalGain": "\u7D2F\u7A4D\u7E3D\u6536\u76CA",
-    "UIClub_GainNum": "\u76C8\u5229",
+    "UIClub_GainNum": "\u6230\u7E3E",
     "UIClub_AddNum": "\u65B0\u589E",
     "UIClub_AliveNum": "\u6D3B\u8E8D",
     "UIClub_AgentItem": "\u4EE3\u7406",
@@ -96954,7 +96976,7 @@ var zh_TWMap = {
     "UICareer_Person": "\u500B\u4EBA",
     "UICareer_Rivol": "\u5C0D\u624B",
     "UICareer_Deck": "\u724C\u7D44",
-    "UICareer_totalWin": "\u7D2F\u8A08\u76C8\u5229",
+    "UICareer_totalWin": "\u7D2F\u8A08\u6230\u7E3E",
     "UICareer_AllinLost": "\u5931\u5229",
     "UICareer_AllinWin": "\u7372\u5229",
     "UICareer_AllinMap": "All in \u7372\u52DD\u5206\u4F48\u5716",
@@ -99972,7 +99994,7 @@ var zh_TWMap = {
     "Page_DataDetails_Blinds": "\u5E95\u5206",
     "Page_DataDetails_Players": "\u7E3D\u4EBA\u6578",
     "Page_DataDetails_TotalFee": "\u7E3D\u670D\u52D9\u8CBB",
-    "Page_DataDetails_Win": "\u8D0F",
+    "Page_DataDetails_Win": "\u6230\u7E3E",
     "Page_DataDetails_Fee": "\u670D\u52D9\u8CBB",
     "Page_DataDetails_Insurance": "\u4FDD\u96AA",
     "Page_DataDetails_Hands": "\u624B\u6578",
@@ -100203,7 +100225,9 @@ var zh_TWMap = {
     "UITexas_PlayerInfo_SixtyDays": "\u50C5\u986F\u793A\u8FD160\u5929\u8CC7\u6599",
     "UIMTT_ContinueWatching": "\u7E7C\u7E8C\u89C0\u6230",
     "UIMTT_ReturnLobby": "\u8FD4\u56DE\u5927\u5EF3",
-    "UIMTT_ObservedRoomDissolved": "\u76EE\u524D\u89C0\u6230\u623F\u9593\u5DF2\u89E3\u6563"
+    "UIMTT_ObservedRoomDissolved": "\u76EE\u524D\u89C0\u6230\u623F\u9593\u5DF2\u89E3\u6563",
+    "UICareer_MttMenu": "\u591A\u684C\u9326\u6A19\u8CFD",
+    "UIClub_MemberDetail_Win": "\u6230\u7E3E"
 };
 var viMap = {
     "4": "L\u1ED7i m\u1EA1ng. Th\u1EED l\u1EA1i.",
@@ -108537,7 +108561,9 @@ var viMap = {
     "UITexas_PlayerInfo_SixtyDays": "Ch\u1EC9 hi\u1EC3n th\u1ECB d\u1EEF li\u1EC7u trong 60 ng\xE0y g\u1EA7n nh\u1EA5t",
     "UIMTT_ContinueWatching": "Ti\u1EBFp t\u1EE5c xem",
     "UIMTT_ReturnLobby": "V\u1EC1 s\u1EA3nh",
-    "UIMTT_ObservedRoomDissolved": "B\xE0n b\u1EA1n \u0111ang xem \u0111\xE3 \u0111\xF3ng"
+    "UIMTT_ObservedRoomDissolved": "B\xE0n b\u1EA1n \u0111ang xem \u0111\xE3 \u0111\xF3ng",
+    "UICareer_MttMenu": "MTT",
+    "UIClub_MemberDetail_Win": "Th\u1EAFng"
 };
 var zh_CNMap = {
     "4": "\u7F51\u7EDC\u9519\u8BEF\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5",
@@ -110356,7 +110382,7 @@ var zh_CNMap = {
     "UIMine_Paipu_handNum": "\u7B2C{0}\u624B",
     "UIMine_Paipu_shengli": "\u4EE5{0}\u83B7\u5F97\u80DC\u5229",
     "UIMine_Paipu_qi": "\u5BF9\u624B\u5F03\u724C\uFF0C{0}\u83B7\u5F97\u80DC\u5229",
-    "UIMine_Paipu_win": "\u8D62",
+    "UIMine_Paipu_win": "\u6218\u7EE9",
     "DataLoading": "\u52A0\u8F7D\u4E2D...",
     "NoMoreData": "\u65E0\u66F4\u591A\u6570\u636E",
     "UIMine_WalletMy": "\u6211\u7684\u94B1\u5305",
@@ -111895,7 +111921,7 @@ var zh_CNMap = {
     "UIClub_ClubData": "\u4FF1\u4E50\u90E8\u6570\u636E",
     "UIClub_AgentData": "\u4EE3\u7406\u6570\u636E",
     "UIClub_TotalGain": "\u7D2F\u79EF\u603B\u6536\u76CA",
-    "UIClub_GainNum": "\u76C8\u5229",
+    "UIClub_GainNum": "\u6218\u7EE9",
     "UIClub_AddNum": "\u65B0\u589E",
     "UIClub_AliveNum": "\u6D3B\u8DC3",
     "UIClub_AgentItem": "\u4EE3\u7406",
@@ -113622,7 +113648,7 @@ var zh_CNMap = {
     "UICareer_Person": "\u4E2A\u4EBA",
     "UICareer_Rivol": "\u5BF9\u624B",
     "UICareer_Deck": "\u724C\u7EC4",
-    "UICareer_totalWin": "\u7D2F\u8BA1\u76C8\u5229",
+    "UICareer_totalWin": "\u7D2F\u8BA1\u6218\u7EE9",
     "UICareer_AllinLost": "\u5931\u5229",
     "UICareer_AllinWin": "\u83B7\u5229",
     "UICareer_AllinMap": "All in \u83B7\u80DC\u5206\u5E03\u56FE",
@@ -116640,7 +116666,7 @@ var zh_CNMap = {
     "Page_DataDetails_Blinds": "\u5E95\u5206",
     "Page_DataDetails_Players": "\u603B\u4EBA\u6570",
     "Page_DataDetails_TotalFee": "\u603B\u670D\u52A1\u8D39",
-    "Page_DataDetails_Win": "\u8D62",
+    "Page_DataDetails_Win": "\u6218\u7EE9",
     "Page_DataDetails_Fee": "\u670D\u52A1\u8D39",
     "Page_DataDetails_Insurance": "\u4FDD\u9669",
     "Page_DataDetails_Hands": "\u624B\u6570",
@@ -116871,7 +116897,9 @@ var zh_CNMap = {
     "UITexas_PlayerInfo_SixtyDays": "\u53EA\u5C55\u793A\u8FD160\u5929\u6570\u636E",
     "UIMTT_ContinueWatching": "\u7EE7\u7EED\u89C2\u6218",
     "UIMTT_ReturnLobby": "\u8FD4\u56DE\u5927\u5385",
-    "UIMTT_ObservedRoomDissolved": "\u5F53\u524D\u89C2\u6218\u623F\u95F4\u5DF2\u89E3\u6563"
+    "UIMTT_ObservedRoomDissolved": "\u5F53\u524D\u89C2\u6218\u623F\u95F4\u5DF2\u89E3\u6563",
+    "UICareer_MttMenu": "\u591A\u684C\u9526\u6807\u8D5B",
+    "UIClub_MemberDetail_Win": "\u6218\u7EE9"
 };
 var localesData = {
     "de": deMap,
