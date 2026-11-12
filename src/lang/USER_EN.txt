@@ -8071,3 +8071,4 @@ UIRechargeReward_RechargeSource=Recharge rewards
 UIMTT_ContinueWatching=Continue watching
 UIMTT_ReturnLobby=Return to lobby
 UIMTT_ObservedRoomDissolved=The table you were watching has been closed.
+UIClassicTableSitDown=Sit down

@@ -8071,3 +8071,4 @@ UIRechargeReward_RechargeSource=儲值獎勵
 UIMTT_ContinueWatching=繼續觀戰
 UIMTT_ReturnLobby=返回大廳
 UIMTT_ObservedRoomDissolved=目前觀戰房間已解散
+UIClassicTableSitDown=入座
