@@ -8584,6 +8584,7 @@ var deMap = {
     "UIRechargeReward_RechargeSource": "Aufladebelohnungen",
     "UIChannelC_LiveWins": "Gewinne",
     "UIChannelC_JoinShort": "Beitreten",
+    "UITexas_PlayerInfo_SixtyDays": "Nur Daten der letzten 60 Tage",
     "UIMTT_ContinueWatching": "Weiter zuschauen",
     "UIMTT_ReturnLobby": "Zur Lobby",
     "UIMTT_ObservedRoomDissolved": "Der beobachtete Tisch wurde geschlossen"
@@ -16917,6 +16918,7 @@ var enMap = {
     "UIRechargeReward_RechargeSource": "Recharge rewards",
     "UIChannelC_LiveWins": "Live wins",
     "UIChannelC_JoinShort": "JOIN",
+    "UITexas_PlayerInfo_SixtyDays": "Only data from the last 60 days",
     "UIMTT_ContinueWatching": "Continue watching",
     "UIMTT_ReturnLobby": "Return to lobby",
     "UIMTT_ObservedRoomDissolved": "The table you were watching has been closed."
@@ -25250,6 +25252,7 @@ var esMap = {
     "UIRechargeReward_RechargeSource": "Recompensas por recarga",
     "UIChannelC_LiveWins": "Premios",
     "UIChannelC_JoinShort": "Unirse",
+    "UITexas_PlayerInfo_SixtyDays": "Solo datos de los \xFAltimos 60 d\xEDas",
     "UIMTT_ContinueWatching": "Seguir viendo",
     "UIMTT_ReturnLobby": "Volver al lobby",
     "UIMTT_ObservedRoomDissolved": "La mesa que estabas viendo se ha cerrado"
@@ -33583,6 +33586,7 @@ var frMap = {
     "UIRechargeReward_RechargeSource": "R\xE9compenses de recharge",
     "UIChannelC_LiveWins": "Gains",
     "UIChannelC_JoinShort": "Rejoindre",
+    "UITexas_PlayerInfo_SixtyDays": "Donn\xE9es des 60 derniers jours uniquement",
     "UIMTT_ContinueWatching": "Continuer \xE0 regarder",
     "UIMTT_ReturnLobby": "Retour au lobby",
     "UIMTT_ObservedRoomDissolved": "La table que vous regardiez a \xE9t\xE9 ferm\xE9e"
@@ -41916,6 +41920,7 @@ var hiMap = {
     "UIRechargeReward_RechargeSource": "\u0930\u093F\u091A\u093E\u0930\u094D\u091C \u0907\u0928\u093E\u092E",
     "UIChannelC_LiveWins": "\u0932\u093E\u0907\u0935 \u091C\u0940\u0924",
     "UIChannelC_JoinShort": "\u091C\u0941\u0921\u093C\u0947\u0902",
+    "UITexas_PlayerInfo_SixtyDays": "\u0915\u0947\u0935\u0932 \u092A\u093F\u091B\u0932\u0947 60 \u0926\u093F\u0928\u094B\u0902 \u0915\u093E \u0921\u0947\u091F\u093E",
     "UIMTT_ContinueWatching": "\u0926\u0947\u0916\u0928\u093E \u091C\u093E\u0930\u0940 \u0930\u0916\u0947\u0902",
     "UIMTT_ReturnLobby": "\u0932\u0949\u092C\u0940 \u092A\u0930 \u0932\u094C\u091F\u0947\u0902",
     "UIMTT_ObservedRoomDissolved": "\u0906\u092A \u091C\u093F\u0938 \u091F\u0947\u092C\u0932 \u0915\u094B \u0926\u0947\u0916 \u0930\u0939\u0947 \u0925\u0947 \u0935\u0939 \u092C\u0902\u0926 \u0939\u094B \u0917\u0908 \u0939\u0948"
@@ -50249,6 +50254,7 @@ var itMap = {
     "UIRechargeReward_RechargeSource": "Premi ricarica",
     "UIChannelC_LiveWins": "Vincite",
     "UIChannelC_JoinShort": "Partecipa",
+    "UITexas_PlayerInfo_SixtyDays": "Solo i dati degli ultimi 60 giorni",
     "UIMTT_ContinueWatching": "Continua a guardare",
     "UIMTT_ReturnLobby": "Torna alla lobby",
     "UIMTT_ObservedRoomDissolved": "Il tavolo che stavi guardando \xE8 stato chiuso"
@@ -58582,6 +58588,7 @@ var jaMap = {
     "UIRechargeReward_RechargeSource": "\u30C1\u30E3\u30FC\u30B8\u5831\u916C",
     "UIChannelC_LiveWins": "\u5927\u5F53\u305F\u308A",
     "UIChannelC_JoinShort": "\u53C2\u52A0\u3059\u308B",
+    "UITexas_PlayerInfo_SixtyDays": "\u904E\u53BB60\u65E5\u9593\u306E\u30C7\u30FC\u30BF\u306E\u307F",
     "UIMTT_ContinueWatching": "\u89B3\u6226\u3092\u7D9A\u3051\u308B",
     "UIMTT_ReturnLobby": "\u30ED\u30D3\u30FC\u306B\u623B\u308B",
     "UIMTT_ObservedRoomDissolved": "\u89B3\u6226\u4E2D\u306E\u30C6\u30FC\u30D6\u30EB\u306F\u89E3\u6563\u3057\u307E\u3057\u305F"
@@ -66915,6 +66922,7 @@ var koMap = {
     "UIRechargeReward_RechargeSource": "\uCDA9\uC804 \uBCF4\uC0C1",
     "UIChannelC_LiveWins": "\uC2E4\uC2DC\uAC04 \uB2F9\uCCA8",
     "UIChannelC_JoinShort": "\uAC00\uC785",
+    "UITexas_PlayerInfo_SixtyDays": "\uCD5C\uADFC 60\uC77C \uB370\uC774\uD130\uB9CC \uD45C\uC2DC",
     "UIMTT_ContinueWatching": "\uACC4\uC18D \uAD00\uC804",
     "UIMTT_ReturnLobby": "\uB85C\uBE44\uB85C \uB3CC\uC544\uAC00\uAE30",
     "UIMTT_ObservedRoomDissolved": "\uAD00\uC804 \uC911\uC774\uB358 \uD14C\uC774\uBE14\uC774 \uC885\uB8CC\uB418\uC5C8\uC2B5\uB2C8\uB2E4"
@@ -75248,6 +75256,7 @@ var ptMap = {
     "UIRechargeReward_RechargeSource": "Recompensas de recarga",
     "UIChannelC_LiveWins": "Ganhos",
     "UIChannelC_JoinShort": "Ingresse",
+    "UITexas_PlayerInfo_SixtyDays": "Apenas dados dos \xFAltimos 60 dias",
     "UIMTT_ContinueWatching": "Continuar assistindo",
     "UIMTT_ReturnLobby": "Voltar ao lobby",
     "UIMTT_ObservedRoomDissolved": "A mesa que voc\xEA estava assistindo foi encerrada."
@@ -83581,6 +83590,7 @@ var ruMap = {
     "UIRechargeReward_RechargeSource": "\u041D\u0430\u0433\u0440\u0430\u0434\u044B \u0437\u0430 \u043F\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435",
     "UIChannelC_LiveWins": "\u0412\u044B\u0438\u0433\u0440\u044B\u0448\u0438",
     "UIChannelC_JoinShort": "\u0418\u0433\u0440\u0430\u0442\u044C",
+    "UITexas_PlayerInfo_SixtyDays": "\u0422\u043E\u043B\u044C\u043A\u043E \u0434\u0430\u043D\u043D\u044B\u0435 \u0437\u0430 \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 60 \u0434\u043D\u0435\u0439",
     "UIMTT_ContinueWatching": "\u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u044C \u043F\u0440\u043E\u0441\u043C\u043E\u0442\u0440",
     "UIMTT_ReturnLobby": "\u0412 \u043B\u043E\u0431\u0431\u0438",
     "UIMTT_ObservedRoomDissolved": "\u0421\u0442\u043E\u043B, \u0437\u0430 \u043A\u043E\u0442\u043E\u0440\u044B\u043C \u0432\u044B \u043D\u0430\u0431\u043B\u044E\u0434\u0430\u043B\u0438, \u0437\u0430\u043A\u0440\u044B\u0442"
@@ -91914,6 +91924,7 @@ var thMap = {
     "UIRechargeReward_RechargeSource": "\u0E23\u0E32\u0E07\u0E27\u0E31\u0E25\u0E40\u0E15\u0E34\u0E21\u0E40\u0E07\u0E34\u0E19",
     "UIChannelC_LiveWins": "\u0E23\u0E32\u0E07\u0E27\u0E31\u0E25\u0E2A\u0E14",
     "UIChannelC_JoinShort": "\u0E40\u0E02\u0E49\u0E32\u0E23\u0E48\u0E27\u0E21",
+    "UITexas_PlayerInfo_SixtyDays": "\u0E41\u0E2A\u0E14\u0E07\u0E40\u0E09\u0E1E\u0E32\u0E30\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25\u0E22\u0E49\u0E2D\u0E19\u0E2B\u0E25\u0E31\u0E07 60 \u0E27\u0E31\u0E19",
     "UIMTT_ContinueWatching": "\u0E14\u0E39\u0E15\u0E48\u0E2D",
     "UIMTT_ReturnLobby": "\u0E01\u0E25\u0E31\u0E1A\u0E44\u0E1B\u0E25\u0E47\u0E2D\u0E1A\u0E1A\u0E35\u0E49",
     "UIMTT_ObservedRoomDissolved": "\u0E42\u0E15\u0E4A\u0E30\u0E17\u0E35\u0E48\u0E04\u0E38\u0E13\u0E01\u0E33\u0E25\u0E31\u0E07\u0E14\u0E39\u0E16\u0E39\u0E01\u0E1B\u0E34\u0E14\u0E41\u0E25\u0E49\u0E27"
@@ -100247,6 +100258,7 @@ var zh_TWMap = {
     "UIRechargeReward_RechargeSource": "\u5132\u503C\u734E\u52F5",
     "UIChannelC_LiveWins": "\u5373\u6642\u7206\u734E",
     "UIChannelC_JoinShort": "\u52A0\u5165",
+    "UITexas_PlayerInfo_SixtyDays": "\u50C5\u986F\u793A\u8FD160\u5929\u8CC7\u6599",
     "UIMTT_ContinueWatching": "\u7E7C\u7E8C\u89C0\u6230",
     "UIMTT_ReturnLobby": "\u8FD4\u56DE\u5927\u5EF3",
     "UIMTT_ObservedRoomDissolved": "\u76EE\u524D\u89C0\u6230\u623F\u9593\u5DF2\u89E3\u6563"
@@ -108580,6 +108592,7 @@ var viMap = {
     "UIRechargeReward_RechargeSource": "Th\u01B0\u1EDFng n\u1EA1p ti\u1EC1n",
     "UIChannelC_LiveWins": "Th\u1EAFng l\u1EDBn",
     "UIChannelC_JoinShort": "Tham gia",
+    "UITexas_PlayerInfo_SixtyDays": "Ch\u1EC9 hi\u1EC3n th\u1ECB d\u1EEF li\u1EC7u trong 60 ng\xE0y g\u1EA7n nh\u1EA5t",
     "UIMTT_ContinueWatching": "Ti\u1EBFp t\u1EE5c xem",
     "UIMTT_ReturnLobby": "V\u1EC1 s\u1EA3nh",
     "UIMTT_ObservedRoomDissolved": "B\xE0n b\u1EA1n \u0111ang xem \u0111\xE3 \u0111\xF3ng"
@@ -116913,6 +116926,7 @@ var zh_CNMap = {
     "UIRechargeReward_RechargeSource": "\u5145\u503C\u5956\u52B1",
     "UIChannelC_LiveWins": "\u5B9E\u65F6\u7206\u5956",
     "UIChannelC_JoinShort": "\u52A0\u5165",
+    "UITexas_PlayerInfo_SixtyDays": "\u53EA\u5C55\u793A\u8FD160\u5929\u6570\u636E",
     "UIMTT_ContinueWatching": "\u7EE7\u7EED\u89C2\u6218",
     "UIMTT_ReturnLobby": "\u8FD4\u56DE\u5927\u5385",
     "UIMTT_ObservedRoomDissolved": "\u5F53\u524D\u89C2\u6218\u623F\u95F4\u5DF2\u89E3\u6563"
