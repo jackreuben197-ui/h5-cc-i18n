@@ -8345,6 +8345,7 @@ UIRechargeReward_CoinsDescription={0}. Votre récompense UC est dans Mon Portefe
 UIRechargeReward_RechargeSource=Récompenses de recharge
 UIChannelC_LiveWins=Gains
 UIChannelC_JoinShort=Rejoindre
+UITexas_PlayerInfo_SixtyDays=Données des 60 derniers jours uniquement
 UIMTT_ContinueWatching=Continuer à regarder
 UIMTT_ReturnLobby=Retour au lobby
 UIMTT_ObservedRoomDissolved=La table que vous regardiez a été fermée

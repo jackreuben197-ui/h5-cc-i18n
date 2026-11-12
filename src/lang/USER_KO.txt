@@ -8345,6 +8345,7 @@ UIRechargeReward_CoinsDescription={0}. UC 보상이 내 지갑에 지급되었�
 UIRechargeReward_RechargeSource=충전 보상
 UIChannelC_LiveWins=실시간 당첨
 UIChannelC_JoinShort=가입
+UITexas_PlayerInfo_SixtyDays=최근 60일 데이터만 표시
 UIMTT_ContinueWatching=계속 관전
 UIMTT_ReturnLobby=로비로 돌아가기
 UIMTT_ObservedRoomDissolved=관전 중이던 테이블이 종료되었습니다

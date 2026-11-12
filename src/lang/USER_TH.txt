@@ -8345,6 +8345,7 @@ UIRechargeReward_CoinsDescription={0} รางวัล UC เข้าที�
 UIRechargeReward_RechargeSource=รางวัลเติมเงิน
 UIChannelC_LiveWins=รางวัลสด
 UIChannelC_JoinShort=เข้าร่วม
+UITexas_PlayerInfo_SixtyDays=แสดงเฉพาะข้อมูลย้อนหลัง 60 วัน
 UIMTT_ContinueWatching=ดูต่อ
 UIMTT_ReturnLobby=กลับไปล็อบบี้
 UIMTT_ObservedRoomDissolved=โต๊ะที่คุณกำลังดูถูกปิดแล้ว

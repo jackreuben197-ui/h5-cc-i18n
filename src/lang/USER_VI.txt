@@ -8345,6 +8345,7 @@ UIRechargeReward_CoinsDescription={0}. Thưởng UC đã vào Ví của tôi.
 UIRechargeReward_RechargeSource=Thưởng nạp tiền
 UIChannelC_LiveWins=Thắng lớn
 UIChannelC_JoinShort=Tham gia
+UITexas_PlayerInfo_SixtyDays=Chỉ hiển thị dữ liệu trong 60 ngày gần nhất
 UIMTT_ContinueWatching=Tiếp tục xem
 UIMTT_ReturnLobby=Về sảnh
 UIMTT_ObservedRoomDissolved=Bàn bạn đang xem đã đóng

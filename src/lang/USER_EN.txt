@@ -8344,6 +8344,7 @@ UIRechargeReward_CoinsDescription={0}. Your UC reward is in My Wallet.
 UIRechargeReward_RechargeSource=Recharge rewards
 UIChannelC_LiveWins=Live wins
 UIChannelC_JoinShort=JOIN
+UITexas_PlayerInfo_SixtyDays=Only data from the last 60 days
 UIMTT_ContinueWatching=Continue watching
 UIMTT_ReturnLobby=Return to lobby
 UIMTT_ObservedRoomDissolved=The table you were watching has been closed.

@@ -8345,6 +8345,7 @@ UIRechargeReward_CoinsDescription={0}. Deine UC-Belohnung ist in Meine Brieftasc
 UIRechargeReward_RechargeSource=Aufladebelohnungen
 UIChannelC_LiveWins=Gewinne
 UIChannelC_JoinShort=Beitreten
+UITexas_PlayerInfo_SixtyDays=Nur Daten der letzten 60 Tage
 UIMTT_ContinueWatching=Weiter zuschauen
 UIMTT_ReturnLobby=Zur Lobby
 UIMTT_ObservedRoomDissolved=Der beobachtete Tisch wurde geschlossen
