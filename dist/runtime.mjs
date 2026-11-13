@@ -8531,7 +8531,13 @@ var deMap = {
     "UIMTT_ReturnLobby": "Zur Lobby",
     "UIMTT_ObservedRoomDissolved": "Der beobachtete Tisch wurde geschlossen",
     "UICareer_MttMenu": "MTT",
-    "UIClub_MemberDetail_Win": "Gewinnen"
+    "UIClub_MemberDetail_Win": "Gewinnen",
+    "ServerErrorCode_10023": "Anmeldung fehlgeschlagen. Von dieser IP-Adresse hat sich bereits ein anderes Konto angemeldet.",
+    "ServerErrorCode_10024": "Anmeldung fehlgeschlagen. Sie sind weniger als {distance} Meter von einem anderen angemeldeten Spieler entfernt.",
+    "MttApplyGpsTooClose": "Anmeldung fehlgeschlagen. Sie sind einem anderen angemeldeten Spieler zu nah.",
+    "ServerErrorCode_10025": "Dieses Turnier erfordert eine Standortpr\xFCfung. Erlauben Sie den Standortzugriff, um sich anzumelden.",
+    "ServerErrorCode_10026": "Ihr Standort konnte nicht ermittelt werden. Pr\xFCfen Sie Ihre Standorteinstellungen und versuchen Sie es erneut.",
+    "UIClassicTableSitDown": "Platz nehmen"
 };
 var enMap = {
     "4": "Failed to connect, please try again later. ",
@@ -16867,7 +16873,13 @@ var enMap = {
     "UIMTT_ReturnLobby": "Return to lobby",
     "UIMTT_ObservedRoomDissolved": "The table you were watching has been closed.",
     "UICareer_MttMenu": "MTT",
-    "UIClub_MemberDetail_Win": "Win"
+    "UIClub_MemberDetail_Win": "Win",
+    "ServerErrorCode_10023": "Registration failed. Another account has already registered from this IP address.",
+    "ServerErrorCode_10024": "Registration failed. You are less than {distance} meters from another registered player.",
+    "MttApplyGpsTooClose": "Registration failed. You are too close to another registered player.",
+    "ServerErrorCode_10025": "This tournament requires location verification. Enable location access to register.",
+    "ServerErrorCode_10026": "We couldn\u2019t get your location. Check your location settings and try again.",
+    "UIClassicTableSitDown": "Sit down"
 };
 var esMap = {
     "4": "Error de red. Reintente.",
@@ -25203,7 +25215,13 @@ var esMap = {
     "UIMTT_ReturnLobby": "Volver al lobby",
     "UIMTT_ObservedRoomDissolved": "La mesa que estabas viendo se ha cerrado",
     "UICareer_MttMenu": "MTT",
-    "UIClub_MemberDetail_Win": "Ganar"
+    "UIClub_MemberDetail_Win": "Ganar",
+    "ServerErrorCode_10023": "Inscripci\xF3n fallida. Otra cuenta ya se ha inscrito desde esta direcci\xF3n IP.",
+    "ServerErrorCode_10024": "Inscripci\xF3n fallida. Est\xE1s a menos de {distance} metros de otro jugador inscrito.",
+    "MttApplyGpsTooClose": "Inscripci\xF3n fallida. Est\xE1s demasiado cerca de otro jugador inscrito.",
+    "ServerErrorCode_10025": "Este torneo requiere verificar tu ubicaci\xF3n. Activa el acceso a la ubicaci\xF3n para inscribirte.",
+    "ServerErrorCode_10026": "No pudimos obtener tu ubicaci\xF3n. Revisa los ajustes de ubicaci\xF3n e int\xE9ntalo de nuevo.",
+    "UIClassicTableSitDown": "Sentarse"
 };
 var frMap = {
     "4": "Erreur r\xE9seau. R\xE9essayez.",
@@ -33539,7 +33557,13 @@ var frMap = {
     "UIMTT_ReturnLobby": "Retour au lobby",
     "UIMTT_ObservedRoomDissolved": "La table que vous regardiez a \xE9t\xE9 ferm\xE9e",
     "UICareer_MttMenu": "MTT",
-    "UIClub_MemberDetail_Win": "Gagner"
+    "UIClub_MemberDetail_Win": "Gagner",
+    "ServerErrorCode_10023": "Inscription \xE9chou\xE9e. Un autre compte s'est d\xE9j\xE0 inscrit depuis cette adresse IP.",
+    "ServerErrorCode_10024": "Inscription \xE9chou\xE9e. Vous \xEAtes \xE0 moins de {distance} m\xE8tres d'un autre joueur inscrit.",
+    "MttApplyGpsTooClose": "Inscription \xE9chou\xE9e. Vous \xEAtes trop proche d'un autre joueur inscrit.",
+    "ServerErrorCode_10025": "Ce tournoi n\xE9cessite une v\xE9rification de la position. Activez l'acc\xE8s \xE0 la localisation pour vous inscrire.",
+    "ServerErrorCode_10026": "Impossible d'obtenir votre position. V\xE9rifiez vos param\xE8tres de localisation et r\xE9essayez.",
+    "UIClassicTableSitDown": "S'asseoir"
 };
 var hiMap = {
     "4": "\u0928\u0947\u091F\u0935\u0930\u094D\u0915 \u0924\u094D\u0930\u0941\u091F\u093F\u0964 \u092C\u093E\u0926 \u092E\u0947\u0902 \u0915\u094B\u0936\u093F\u0936 \u0915\u0930\u0947\u0902\u0964",
@@ -41875,7 +41899,13 @@ var hiMap = {
     "UIMTT_ReturnLobby": "\u0932\u0949\u092C\u0940 \u092A\u0930 \u0932\u094C\u091F\u0947\u0902",
     "UIMTT_ObservedRoomDissolved": "\u0906\u092A \u091C\u093F\u0938 \u091F\u0947\u092C\u0932 \u0915\u094B \u0926\u0947\u0916 \u0930\u0939\u0947 \u0925\u0947 \u0935\u0939 \u092C\u0902\u0926 \u0939\u094B \u0917\u0908 \u0939\u0948",
     "UICareer_MttMenu": "MTT",
-    "UIClub_MemberDetail_Win": "\u091C\u0940\u0924\u094B"
+    "UIClub_MemberDetail_Win": "\u091C\u0940\u0924\u094B",
+    "ServerErrorCode_10023": "\u092A\u0902\u091C\u0940\u0915\u0930\u0923 \u0935\u093F\u092B\u0932\u0964 \u0907\u0938 IP \u092A\u0924\u0947 \u0938\u0947 \u090F\u0915 \u0905\u0928\u094D\u092F \u0916\u093E\u0924\u093E \u092A\u0939\u0932\u0947 \u0939\u0940 \u092A\u0902\u091C\u0940\u0915\u0943\u0924 \u0939\u094B \u091A\u0941\u0915\u093E \u0939\u0948\u0964",
+    "ServerErrorCode_10024": "\u092A\u0902\u091C\u0940\u0915\u0930\u0923 \u0935\u093F\u092B\u0932\u0964 \u0906\u092A \u0915\u093F\u0938\u0940 \u0905\u0928\u094D\u092F \u092A\u0902\u091C\u0940\u0915\u0943\u0924 \u0916\u093F\u0932\u093E\u0921\u093C\u0940 \u0938\u0947 {distance} \u092E\u0940\u091F\u0930 \u0938\u0947 \u0915\u092E \u0926\u0942\u0930\u0940 \u092A\u0930 \u0939\u0948\u0902\u0964",
+    "MttApplyGpsTooClose": "\u092A\u0902\u091C\u0940\u0915\u0930\u0923 \u0935\u093F\u092B\u0932\u0964 \u0906\u092A \u0915\u093F\u0938\u0940 \u0905\u0928\u094D\u092F \u092A\u0902\u091C\u0940\u0915\u0943\u0924 \u0916\u093F\u0932\u093E\u0921\u093C\u0940 \u0915\u0947 \u092C\u0939\u0941\u0924 \u0915\u0930\u0940\u092C \u0939\u0948\u0902\u0964",
+    "ServerErrorCode_10025": "\u0907\u0938 \u091F\u0942\u0930\u094D\u0928\u093E\u092E\u0947\u0902\u091F \u0915\u0947 \u0932\u093F\u090F \u0938\u094D\u0925\u093E\u0928 \u0938\u0924\u094D\u092F\u093E\u092A\u0928 \u0906\u0935\u0936\u094D\u092F\u0915 \u0939\u0948\u0964 \u092A\u0902\u091C\u0940\u0915\u0930\u0923 \u0915\u0947 \u0932\u093F\u090F \u0938\u094D\u0925\u093E\u0928 \u0915\u0940 \u0905\u0928\u0941\u092E\u0924\u093F \u091A\u093E\u0932\u0942 \u0915\u0930\u0947\u0902\u0964",
+    "ServerErrorCode_10026": "\u0906\u092A\u0915\u093E \u0938\u094D\u0925\u093E\u0928 \u092A\u094D\u0930\u093E\u092A\u094D\u0924 \u0928\u0939\u0940\u0902 \u0939\u094B \u0938\u0915\u093E\u0964 \u0938\u094D\u0925\u093E\u0928 \u0938\u0947\u091F\u093F\u0902\u0917 \u091C\u093E\u0902\u091A\u0947\u0902 \u0914\u0930 \u092A\u0941\u0928\u0903 \u092A\u094D\u0930\u092F\u093E\u0938 \u0915\u0930\u0947\u0902\u0964",
+    "UIClassicTableSitDown": "\u092C\u0948\u0920\u0947\u0902"
 };
 var itMap = {
     "4": "Errore di rete. Riprova.",
@@ -50211,7 +50241,13 @@ var itMap = {
     "UIMTT_ReturnLobby": "Torna alla lobby",
     "UIMTT_ObservedRoomDissolved": "Il tavolo che stavi guardando \xE8 stato chiuso",
     "UICareer_MttMenu": "MTT",
-    "UIClub_MemberDetail_Win": "Vincita"
+    "UIClub_MemberDetail_Win": "Vincita",
+    "ServerErrorCode_10023": "Iscrizione non riuscita. Un altro account si \xE8 gi\xE0 iscritto da questo indirizzo IP.",
+    "ServerErrorCode_10024": "Iscrizione non riuscita. Sei a meno di {distance} metri da un altro giocatore iscritto.",
+    "MttApplyGpsTooClose": "Iscrizione non riuscita. Sei troppo vicino a un altro giocatore iscritto.",
+    "ServerErrorCode_10025": "Questo torneo richiede la verifica della posizione. Attiva l\u2019accesso alla posizione per iscriverti.",
+    "ServerErrorCode_10026": "Impossibile ottenere la tua posizione. Controlla le impostazioni di localizzazione e riprova.",
+    "UIClassicTableSitDown": "Siediti"
 };
 var jaMap = {
     "4": "\u901A\u4FE1\u30A8\u30E9\u30FC\u3067\u3059\u3002\u3082\u3046\u4E00\u5EA6\u8A66\u3057\u3066\u304F\u3060\u3055\u3044\u3002",
@@ -58547,7 +58583,13 @@ var jaMap = {
     "UIMTT_ReturnLobby": "\u30ED\u30D3\u30FC\u306B\u623B\u308B",
     "UIMTT_ObservedRoomDissolved": "\u89B3\u6226\u4E2D\u306E\u30C6\u30FC\u30D6\u30EB\u306F\u89E3\u6563\u3057\u307E\u3057\u305F",
     "UICareer_MttMenu": "MTT",
-    "UIClub_MemberDetail_Win": "\u52DD\u3064"
+    "UIClub_MemberDetail_Win": "\u52DD\u3064",
+    "ServerErrorCode_10023": "\u767B\u9332\u306B\u5931\u6557\u3057\u307E\u3057\u305F\u3002\u3053\u306EIP\u30A2\u30C9\u30EC\u30B9\u304B\u3089\u306F\u65E2\u306B\u5225\u306E\u30A2\u30AB\u30A6\u30F3\u30C8\u304C\u767B\u9332\u3057\u3066\u3044\u307E\u3059\u3002",
+    "ServerErrorCode_10024": "\u767B\u9332\u306B\u5931\u6557\u3057\u307E\u3057\u305F\u3002\u4ED6\u306E\u767B\u9332\u6E08\u307F\u30D7\u30EC\u30A4\u30E4\u30FC\u3068\u306E\u8DDD\u96E2\u304C{distance}m\u672A\u6E80\u3067\u3059\u3002",
+    "MttApplyGpsTooClose": "\u767B\u9332\u306B\u5931\u6557\u3057\u307E\u3057\u305F\u3002\u4ED6\u306E\u767B\u9332\u6E08\u307F\u30D7\u30EC\u30A4\u30E4\u30FC\u306B\u8FD1\u3059\u304E\u307E\u3059\u3002",
+    "ServerErrorCode_10025": "\u3053\u306E\u30C8\u30FC\u30CA\u30E1\u30F3\u30C8\u306F\u4F4D\u7F6E\u60C5\u5831\u306E\u78BA\u8A8D\u304C\u5FC5\u8981\u3067\u3059\u3002\u4F4D\u7F6E\u60C5\u5831\u3078\u306E\u30A2\u30AF\u30BB\u30B9\u3092\u8A31\u53EF\u3057\u3066\u304B\u3089\u767B\u9332\u3057\u3066\u304F\u3060\u3055\u3044\u3002",
+    "ServerErrorCode_10026": "\u4F4D\u7F6E\u60C5\u5831\u3092\u53D6\u5F97\u3067\u304D\u307E\u305B\u3093\u3067\u3057\u305F\u3002\u4F4D\u7F6E\u60C5\u5831\u306E\u8A2D\u5B9A\u3092\u78BA\u8A8D\u3057\u3066\u518D\u8A66\u884C\u3057\u3066\u304F\u3060\u3055\u3044\u3002",
+    "UIClassicTableSitDown": "\u7740\u5E2D"
 };
 var koMap = {
     "4": "\uB124\uD2B8\uC6CC\uD06C \uC624\uB958. \uB2E4\uC2DC \uC2DC\uB3C4.",
@@ -66883,7 +66925,13 @@ var koMap = {
     "UIMTT_ReturnLobby": "\uB85C\uBE44\uB85C \uB3CC\uC544\uAC00\uAE30",
     "UIMTT_ObservedRoomDissolved": "\uAD00\uC804 \uC911\uC774\uB358 \uD14C\uC774\uBE14\uC774 \uC885\uB8CC\uB418\uC5C8\uC2B5\uB2C8\uB2E4",
     "UICareer_MttMenu": "MTT",
-    "UIClub_MemberDetail_Win": "\uC2B9\uB9AC"
+    "UIClub_MemberDetail_Win": "\uC2B9\uB9AC",
+    "ServerErrorCode_10023": "\uB4F1\uB85D \uC2E4\uD328. \uC774 IP \uC8FC\uC18C\uC5D0\uC11C \uC774\uBBF8 \uB2E4\uB978 \uACC4\uC815\uC774 \uB4F1\uB85D\uD588\uC2B5\uB2C8\uB2E4.",
+    "ServerErrorCode_10024": "\uB4F1\uB85D \uC2E4\uD328. \uB2E4\uB978 \uB4F1\uB85D \uD50C\uB808\uC774\uC5B4\uC640\uC758 \uAC70\uB9AC\uAC00 {distance}m \uBBF8\uB9CC\uC785\uB2C8\uB2E4.",
+    "MttApplyGpsTooClose": "\uB4F1\uB85D \uC2E4\uD328. \uB2E4\uB978 \uB4F1\uB85D \uD50C\uB808\uC774\uC5B4\uC640 \uB108\uBB34 \uAC00\uAE5D\uC2B5\uB2C8\uB2E4.",
+    "ServerErrorCode_10025": "\uC774 \uD1A0\uB108\uBA3C\uD2B8\uB294 \uC704\uCE58 \uD655\uC778\uC774 \uD544\uC694\uD569\uB2C8\uB2E4. \uC704\uCE58 \uC811\uADFC\uC744 \uD5C8\uC6A9\uD55C \uD6C4 \uB4F1\uB85D\uD558\uC138\uC694.",
+    "ServerErrorCode_10026": "\uC704\uCE58\uB97C \uAC00\uC838\uC62C \uC218 \uC5C6\uC2B5\uB2C8\uB2E4. \uC704\uCE58 \uC124\uC815\uC744 \uD655\uC778\uD558\uACE0 \uB2E4\uC2DC \uC2DC\uB3C4\uD558\uC138\uC694.",
+    "UIClassicTableSitDown": "\uCC29\uC11D"
 };
 var ptMap = {
     "4": "Erro de conex\xE3o, favor tentar novamente. ",
@@ -75219,7 +75267,13 @@ var ptMap = {
     "UIMTT_ReturnLobby": "Voltar ao lobby",
     "UIMTT_ObservedRoomDissolved": "A mesa que voc\xEA estava assistindo foi encerrada.",
     "UICareer_MttMenu": "MTT",
-    "UIClub_MemberDetail_Win": "Vencer"
+    "UIClub_MemberDetail_Win": "Vencer",
+    "ServerErrorCode_10023": "Falha na inscri\xE7\xE3o. Outra conta j\xE1 se inscreveu usando este endere\xE7o IP.",
+    "ServerErrorCode_10024": "Falha na inscri\xE7\xE3o. Voc\xEA est\xE1 a menos de {distance} metros de outro jogador inscrito.",
+    "MttApplyGpsTooClose": "Falha na inscri\xE7\xE3o. Voc\xEA est\xE1 muito perto de outro jogador inscrito.",
+    "ServerErrorCode_10025": "Este torneio exige a verifica\xE7\xE3o da sua localiza\xE7\xE3o. Ative a permiss\xE3o de localiza\xE7\xE3o para se inscrever.",
+    "ServerErrorCode_10026": "N\xE3o foi poss\xEDvel obter sua localiza\xE7\xE3o. Confira as configura\xE7\xF5es de localiza\xE7\xE3o e tente novamente.",
+    "UIClassicTableSitDown": "Sentar"
 };
 var ruMap = {
     "4": "\u0421\u0435\u0442\u044C. \u041F\u043E\u0432\u0442\u043E\u0440\u0438\u0442\u0435.",
@@ -83555,7 +83609,13 @@ var ruMap = {
     "UIMTT_ReturnLobby": "\u0412 \u043B\u043E\u0431\u0431\u0438",
     "UIMTT_ObservedRoomDissolved": "\u0421\u0442\u043E\u043B, \u0437\u0430 \u043A\u043E\u0442\u043E\u0440\u044B\u043C \u0432\u044B \u043D\u0430\u0431\u043B\u044E\u0434\u0430\u043B\u0438, \u0437\u0430\u043A\u0440\u044B\u0442",
     "UICareer_MttMenu": "MTT",
-    "UIClub_MemberDetail_Win": "\u0412\u044B\u0438\u0433\u0440\u044B\u0448"
+    "UIClub_MemberDetail_Win": "\u0412\u044B\u0438\u0433\u0440\u044B\u0448",
+    "ServerErrorCode_10023": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u043D\u0435 \u0443\u0434\u0430\u043B\u0430\u0441\u044C: \u0441 \u044D\u0442\u043E\u0433\u043E IP \u0443\u0436\u0435 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043E\u0432\u0430\u043D \u0434\u0440\u0443\u0433\u043E\u0439 \u0430\u043A\u043A\u0430\u0443\u043D\u0442.",
+    "ServerErrorCode_10024": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u043D\u0435 \u0443\u0434\u0430\u043B\u0430\u0441\u044C: \u0432\u044B \u0431\u043B\u0438\u0436\u0435 {distance} \u043C \u043A \u0434\u0440\u0443\u0433\u043E\u043C\u0443 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u043E\u043C\u0443 \u0438\u0433\u0440\u043E\u043A\u0443.",
+    "MttApplyGpsTooClose": "\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044F \u043D\u0435 \u0443\u0434\u0430\u043B\u0430\u0441\u044C: \u0432\u044B \u0441\u043B\u0438\u0448\u043A\u043E\u043C \u0431\u043B\u0438\u0437\u043A\u043E \u043A \u0434\u0440\u0443\u0433\u043E\u043C\u0443 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u043E\u043C\u0443 \u0438\u0433\u0440\u043E\u043A\u0443.",
+    "ServerErrorCode_10025": "\u0414\u043B\u044F \u044D\u0442\u043E\u0433\u043E \u0442\u0443\u0440\u043D\u0438\u0440\u0430 \u043D\u0443\u0436\u043D\u0430 \u043F\u0440\u043E\u0432\u0435\u0440\u043A\u0430 \u0433\u0435\u043E\u043F\u043E\u0437\u0438\u0446\u0438\u0438. \u0420\u0430\u0437\u0440\u0435\u0448\u0438\u0442\u0435 \u0434\u043E\u0441\u0442\u0443\u043F \u043A \u0433\u0435\u043E\u043B\u043E\u043A\u0430\u0446\u0438\u0438, \u0447\u0442\u043E\u0431\u044B \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043E\u0432\u0430\u0442\u044C\u0441\u044F.",
+    "ServerErrorCode_10026": "\u041D\u0435 \u0443\u0434\u0430\u043B\u043E\u0441\u044C \u043E\u043F\u0440\u0435\u0434\u0435\u043B\u0438\u0442\u044C \u0432\u0430\u0448\u0443 \u0433\u0435\u043E\u043F\u043E\u0437\u0438\u0446\u0438\u044E. \u041F\u0440\u043E\u0432\u0435\u0440\u044C\u0442\u0435 \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438 \u0433\u0435\u043E\u043B\u043E\u043A\u0430\u0446\u0438\u0438 \u0438 \u043F\u043E\u043F\u0440\u043E\u0431\u0443\u0439\u0442\u0435 \u0441\u043D\u043E\u0432\u0430.",
+    "UIClassicTableSitDown": "\u0421\u0435\u0441\u0442\u044C"
 };
 var thMap = {
     "4": "\u0E40\u0E19\u0E47\u0E15\u0E1C\u0E34\u0E14\u0E1E\u0E25\u0E32\u0E14 \u0E25\u0E2D\u0E07\u0E43\u0E2B\u0E21\u0E48",
@@ -91891,7 +91951,13 @@ var thMap = {
     "UIMTT_ReturnLobby": "\u0E01\u0E25\u0E31\u0E1A\u0E44\u0E1B\u0E25\u0E47\u0E2D\u0E1A\u0E1A\u0E35\u0E49",
     "UIMTT_ObservedRoomDissolved": "\u0E42\u0E15\u0E4A\u0E30\u0E17\u0E35\u0E48\u0E04\u0E38\u0E13\u0E01\u0E33\u0E25\u0E31\u0E07\u0E14\u0E39\u0E16\u0E39\u0E01\u0E1B\u0E34\u0E14\u0E41\u0E25\u0E49\u0E27",
     "UICareer_MttMenu": "MTT",
-    "UIClub_MemberDetail_Win": "\u0E0A\u0E19\u0E30"
+    "UIClub_MemberDetail_Win": "\u0E0A\u0E19\u0E30",
+    "ServerErrorCode_10023": "\u0E25\u0E07\u0E17\u0E30\u0E40\u0E1A\u0E35\u0E22\u0E19\u0E44\u0E21\u0E48\u0E2A\u0E33\u0E40\u0E23\u0E47\u0E08 \u0E21\u0E35\u0E1A\u0E31\u0E0D\u0E0A\u0E35\u0E2D\u0E37\u0E48\u0E19\u0E25\u0E07\u0E17\u0E30\u0E40\u0E1A\u0E35\u0E22\u0E19\u0E08\u0E32\u0E01 IP \u0E19\u0E35\u0E49\u0E41\u0E25\u0E49\u0E27",
+    "ServerErrorCode_10024": "\u0E25\u0E07\u0E17\u0E30\u0E40\u0E1A\u0E35\u0E22\u0E19\u0E44\u0E21\u0E48\u0E2A\u0E33\u0E40\u0E23\u0E47\u0E08 \u0E04\u0E38\u0E13\u0E2D\u0E22\u0E39\u0E48\u0E2B\u0E48\u0E32\u0E07\u0E08\u0E32\u0E01\u0E1C\u0E39\u0E49\u0E40\u0E25\u0E48\u0E19\u0E17\u0E35\u0E48\u0E25\u0E07\u0E17\u0E30\u0E40\u0E1A\u0E35\u0E22\u0E19\u0E41\u0E25\u0E49\u0E27\u0E44\u0E21\u0E48\u0E16\u0E36\u0E07 {distance} \u0E40\u0E21\u0E15\u0E23",
+    "MttApplyGpsTooClose": "\u0E25\u0E07\u0E17\u0E30\u0E40\u0E1A\u0E35\u0E22\u0E19\u0E44\u0E21\u0E48\u0E2A\u0E33\u0E40\u0E23\u0E47\u0E08 \u0E04\u0E38\u0E13\u0E2D\u0E22\u0E39\u0E48\u0E43\u0E01\u0E25\u0E49\u0E1C\u0E39\u0E49\u0E40\u0E25\u0E48\u0E19\u0E17\u0E35\u0E48\u0E25\u0E07\u0E17\u0E30\u0E40\u0E1A\u0E35\u0E22\u0E19\u0E41\u0E25\u0E49\u0E27\u0E21\u0E32\u0E01\u0E40\u0E01\u0E34\u0E19\u0E44\u0E1B",
+    "ServerErrorCode_10025": "\u0E17\u0E31\u0E27\u0E23\u0E4C\u0E19\u0E32\u0E40\u0E21\u0E19\u0E15\u0E4C\u0E19\u0E35\u0E49\u0E15\u0E49\u0E2D\u0E07\u0E22\u0E37\u0E19\u0E22\u0E31\u0E19\u0E15\u0E33\u0E41\u0E2B\u0E19\u0E48\u0E07 \u0E42\u0E1B\u0E23\u0E14\u0E40\u0E1B\u0E34\u0E14\u0E2A\u0E34\u0E17\u0E18\u0E34\u0E4C\u0E40\u0E02\u0E49\u0E32\u0E16\u0E36\u0E07\u0E15\u0E33\u0E41\u0E2B\u0E19\u0E48\u0E07\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E25\u0E07\u0E17\u0E30\u0E40\u0E1A\u0E35\u0E22\u0E19",
+    "ServerErrorCode_10026": "\u0E44\u0E21\u0E48\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E23\u0E30\u0E1A\u0E38\u0E15\u0E33\u0E41\u0E2B\u0E19\u0E48\u0E07\u0E02\u0E2D\u0E07\u0E04\u0E38\u0E13\u0E44\u0E14\u0E49 \u0E42\u0E1B\u0E23\u0E14\u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E01\u0E32\u0E23\u0E15\u0E31\u0E49\u0E07\u0E04\u0E48\u0E32\u0E15\u0E33\u0E41\u0E2B\u0E19\u0E48\u0E07\u0E41\u0E25\u0E49\u0E27\u0E25\u0E2D\u0E07\u0E2D\u0E35\u0E01\u0E04\u0E23\u0E31\u0E49\u0E07",
+    "UIClassicTableSitDown": "\u0E19\u0E31\u0E48\u0E07\u0E25\u0E07"
 };
 var zh_TWMap = {
     "4": "\u7DB2\u8DEF\u932F\u8AA4\uFF0C\u8ACB\u7A0D\u5F8C\u91CD\u8A66",
@@ -100227,7 +100293,13 @@ var zh_TWMap = {
     "UIMTT_ReturnLobby": "\u8FD4\u56DE\u5927\u5EF3",
     "UIMTT_ObservedRoomDissolved": "\u76EE\u524D\u89C0\u6230\u623F\u9593\u5DF2\u89E3\u6563",
     "UICareer_MttMenu": "\u591A\u684C\u9326\u6A19\u8CFD",
-    "UIClub_MemberDetail_Win": "\u6230\u7E3E"
+    "UIClub_MemberDetail_Win": "\u6230\u7E3E",
+    "ServerErrorCode_10023": "\u5831\u540D\u5931\u6557\uFF0C\u8A72 IP \u5DF2\u6709\u5176\u4ED6\u5E33\u865F\u5831\u540D",
+    "ServerErrorCode_10024": "\u5831\u540D\u5931\u6557\uFF0C\u8207\u5176\u4ED6\u5831\u540D\u73A9\u5BB6\u8DDD\u96E2\u4E0D\u8DB3 {distance} \u516C\u5C3A",
+    "MttApplyGpsTooClose": "\u5831\u540D\u5931\u6557\uFF0C\u8207\u5176\u4ED6\u5831\u540D\u73A9\u5BB6\u8DDD\u96E2\u4E0D\u8DB3",
+    "ServerErrorCode_10025": "\u672C\u5834\u6BD4\u8CFD\u9700\u8981\u9A57\u8B49\u4F4D\u7F6E\uFF0C\u8ACB\u958B\u555F\u5B9A\u4F4D\u6B0A\u9650\u5F8C\u5831\u540D\u3002",
+    "ServerErrorCode_10026": "\u7121\u6CD5\u53D6\u5F97\u60A8\u7684\u4F4D\u7F6E\uFF0C\u8ACB\u6AA2\u67E5\u5B9A\u4F4D\u8A2D\u5B9A\u5F8C\u91CD\u8A66\u3002",
+    "UIClassicTableSitDown": "\u5165\u5EA7"
 };
 var viMap = {
     "4": "L\u1ED7i m\u1EA1ng. Th\u1EED l\u1EA1i.",
@@ -108563,7 +108635,13 @@ var viMap = {
     "UIMTT_ReturnLobby": "V\u1EC1 s\u1EA3nh",
     "UIMTT_ObservedRoomDissolved": "B\xE0n b\u1EA1n \u0111ang xem \u0111\xE3 \u0111\xF3ng",
     "UICareer_MttMenu": "MTT",
-    "UIClub_MemberDetail_Win": "Th\u1EAFng"
+    "UIClub_MemberDetail_Win": "Th\u1EAFng",
+    "ServerErrorCode_10023": "\u0110\u0103ng k\xFD th\u1EA5t b\u1EA1i. \u0110\xE3 c\xF3 t\xE0i kho\u1EA3n kh\xE1c \u0111\u0103ng k\xFD t\u1EEB \u0111\u1ECBa ch\u1EC9 IP n\xE0y.",
+    "ServerErrorCode_10024": "\u0110\u0103ng k\xFD th\u1EA5t b\u1EA1i. B\u1EA1n c\xE1ch m\u1ED9t ng\u01B0\u1EDDi ch\u01A1i \u0111\xE3 \u0111\u0103ng k\xFD kh\xE1c ch\u01B0a t\u1EDBi {distance} m\xE9t.",
+    "MttApplyGpsTooClose": "\u0110\u0103ng k\xFD th\u1EA5t b\u1EA1i. B\u1EA1n \u1EDF qu\xE1 g\u1EA7n m\u1ED9t ng\u01B0\u1EDDi ch\u01A1i \u0111\xE3 \u0111\u0103ng k\xFD kh\xE1c.",
+    "ServerErrorCode_10025": "Gi\u1EA3i \u0111\u1EA5u n\xE0y y\xEAu c\u1EA7u x\xE1c minh v\u1ECB tr\xED. H\xE3y b\u1EADt quy\u1EC1n truy c\u1EADp v\u1ECB tr\xED \u0111\u1EC3 \u0111\u0103ng k\xFD.",
+    "ServerErrorCode_10026": "Kh\xF4ng l\u1EA5y \u0111\u01B0\u1EE3c v\u1ECB tr\xED c\u1EE7a b\u1EA1n. H\xE3y ki\u1EC3m tra c\xE0i \u0111\u1EB7t v\u1ECB tr\xED v\xE0 th\u1EED l\u1EA1i.",
+    "UIClassicTableSitDown": "Ng\u1ED3i xu\u1ED1ng"
 };
 var zh_CNMap = {
     "4": "\u7F51\u7EDC\u9519\u8BEF\uFF0C\u8BF7\u7A0D\u540E\u91CD\u8BD5",
@@ -116899,7 +116977,13 @@ var zh_CNMap = {
     "UIMTT_ReturnLobby": "\u8FD4\u56DE\u5927\u5385",
     "UIMTT_ObservedRoomDissolved": "\u5F53\u524D\u89C2\u6218\u623F\u95F4\u5DF2\u89E3\u6563",
     "UICareer_MttMenu": "\u591A\u684C\u9526\u6807\u8D5B",
-    "UIClub_MemberDetail_Win": "\u6218\u7EE9"
+    "UIClub_MemberDetail_Win": "\u6218\u7EE9",
+    "ServerErrorCode_10023": "\u62A5\u540D\u5931\u8D25\uFF0C\u8BE5 IP \u5DF2\u6709\u5176\u4ED6\u8D26\u53F7\u62A5\u540D",
+    "ServerErrorCode_10024": "\u62A5\u540D\u5931\u8D25\uFF0C\u4E0E\u5176\u4ED6\u62A5\u540D\u73A9\u5BB6\u8DDD\u79BB\u4E0D\u8DB3 {distance} \u7C73",
+    "MttApplyGpsTooClose": "\u62A5\u540D\u5931\u8D25\uFF0C\u4E0E\u5176\u4ED6\u62A5\u540D\u73A9\u5BB6\u8DDD\u79BB\u4E0D\u8DB3",
+    "ServerErrorCode_10025": "\u672C\u573A\u6BD4\u8D5B\u9700\u8981\u9A8C\u8BC1\u4F4D\u7F6E\uFF0C\u8BF7\u5F00\u542F\u5B9A\u4F4D\u6743\u9650\u540E\u62A5\u540D\u3002",
+    "ServerErrorCode_10026": "\u65E0\u6CD5\u83B7\u53D6\u60A8\u7684\u4F4D\u7F6E\uFF0C\u8BF7\u68C0\u67E5\u5B9A\u4F4D\u8BBE\u7F6E\u540E\u91CD\u8BD5\u3002",
+    "UIClassicTableSitDown": "\u5165\u5EA7"
 };
 var localesData = {
     "de": deMap,
