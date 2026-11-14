@@ -6780,6 +6780,7 @@ UIMushroom_StartGameTips=Добро пожаловать в игру «Гриб�
 UICreateTable_SquidLeaveTable=Покинуть стол на полпути
 UICreateTable_SquidLeaveTableTips=В игре с кальмарами Закрыть означает, что вы не можете покинуть стол на полпути, а Вкл. означает, что вы можете покинуть стол на полпути.
 UISquid_StandupToast=Вам нужно дождаться, пока текущий раунд кальмара закончится и он автоматически встанет.
+UISquidRoundEnded=Этот раунд игры «Кальмар» завершён
 UISquid_LeaveTableToast=В игре кальмары нельзя вставать из-за стола
 UIMyStatistics=моя статистика
 UINumberOfParticipants=Количество участников

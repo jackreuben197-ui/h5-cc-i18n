@@ -6780,6 +6780,7 @@ UIMushroom_StartGameTips=Benvenuti al gioco dei funghi\n\nPrima dell'inizio di o
 UICreateTable_SquidLeaveTable=Lasciare il tavolo a metà
 UICreateTable_SquidLeaveTableTips=Nel gioco dei calamari, Chiudi non può lasciare il tavolo a metà, mentre Attiva può lasciare il tavolo a metà
 UISquid_StandupToast=Devi attendere la fine dell'attuale round di calamari e si alzerà automaticamente
+UISquidRoundEnded=Questo round del Gioco dei Calamari è terminato
 UISquid_LeaveTableToast=Nel gioco dei calamari non puoi alzarti dal tavolo
 UIMyStatistics=Le mie statistiche
 UINumberOfParticipants=Numero di partecipanti

@@ -6780,6 +6780,7 @@ UIMushroom_StartGameTips=ยินดีต้อนรับสู่การ�
 UICreateTable_SquidLeaveTable=ออกจากโต๊ะกลางทาง
 UICreateTable_SquidLeaveTableTips=ในเกมปลาหมึก ปิด หมายถึง ไม่สามารถออกจากโต๊ะตรงกลางได้ และเปิด หมายถึง สามารถออกจากโต๊ะตรงกลางได้
 UISquid_StandupToast=ต้องรอให้ปลาหมึกรอบปัจจุบันหมด มันจะเด้งขึ้นมาอัตโนมัติ
+UISquidRoundEnded=รอบเกมปลาหมึกนี้จบลงแล้ว
 UISquid_LeaveTableToast=ในเกมปลาหมึกคุณไม่สามารถออกจากโต๊ะได้
 UIMyStatistics=สถิติของฉัน
 UINumberOfParticipants=จำนวนผู้เข้าร่วม

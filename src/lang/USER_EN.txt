@@ -6784,6 +6784,7 @@ UIMushroom_StartGameTips=Welcome to Mushroom Mode\n\nBefore each hand begins, th
 UICreateTable_SquidLeaveTable=Leave table mid-game
 UICreateTable_SquidLeaveTableTips=In Squid Game mode, Off = cannot leave mid-game; On = can leave mid-game
 UISquid_StandupToast=You need to wait until the current Squid Game round ends; you will stand up automatically
+UISquidRoundEnded=This Squid Game round has ended
 UISquid_LeaveTableToast=You cannot leave the table during Squid Game
 UIMyStatistics=My stats
 UINumberOfParticipants=Participants

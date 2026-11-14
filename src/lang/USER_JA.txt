@@ -6780,6 +6780,7 @@ UIMushroom_StartGameTips=キノコ ゲームへようこそ\n\n各ハンドの�
 UICreateTable_SquidLeaveTable=途中でテーブルを離れます
 UICreateTable_SquidLeaveTableTips=イカゲームでは、「じる」は途中でテーブルから離れられないことを意味し、「オン」はテーブルを途中で離れることができることを意味します
 UISquid_StandupToast=イカのラウンドが終了するまで待つ必要があります。イカは自動的に立ち上がります。
+UISquidRoundEnded=このイカゲームのラウンドは終了しました
 UISquid_LeaveTableToast=イカゲーム中は退席できません
 UIMyStatistics=私の統計
 UINumberOfParticipants=参加者数

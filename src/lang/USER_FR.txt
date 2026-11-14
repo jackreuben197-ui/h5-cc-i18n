@@ -6780,6 +6780,7 @@ UIMushroom_StartGameTips=Bienvenue dans le jeu des champignons\n\nAvant le débu
 UICreateTable_SquidLeaveTable=Quitter la table à mi-chemin
 UICreateTable_SquidLeaveTableTips=Dans le jeu du calmar, le Fermer ne peut pas quitter la table à mi-chemin, et l'Activer peut quitter la table à mi-chemin
 UISquid_StandupToast=Vous devez attendre la fin du tour de calmar en cours et il se relèvera automatiquement
+UISquidRoundEnded=Cette manche de Squid Game est terminée
 UISquid_LeaveTableToast=Dans le jeu du calmar, vous ne pouvez pas quitter la table
 UIMyStatistics=Mes statistiques
 UINumberOfParticipants=Nombre de participants

@@ -6784,6 +6784,7 @@ UIMushroom_StartGameTips=欢迎来到蘑菇玩法\n\n每手牌开始前，庄家
 UICreateTable_SquidLeaveTable=中途离桌
 UICreateTable_SquidLeaveTableTips=鱿鱼游戏中，关闭为中途不可离桌，开启为中途可离桌
 UISquid_StandupToast=需要等本轮鱿鱼结束后会自动站起
+UISquidRoundEnded=本轮鱿鱼游戏结束
 UISquid_LeaveTableToast=鱿鱼游戏中，不能离桌
 UIMyStatistics=我的统计
 UINumberOfParticipants=参与人数

@@ -6780,6 +6780,7 @@ UIMushroom_StartGameTips=Chào mừng bạn đến với trò chơi nấm\n\nTr�
 UICreateTable_SquidLeaveTable=Rời khỏi bàn giữa chừng
 UICreateTable_SquidLeaveTableTips=Trong trò chơi mực, Đóng có nghĩa là bạn không thể rời khỏi bàn giữa chừng và Tích cực có nghĩa là bạn có thể rời khỏi bàn giữa chừng
 UISquid_StandupToast=Bạn cần đợi vòng mực hiện tại kết thúc và nó sẽ tự động đứng dậy
+UISquidRoundEnded=Vòng chơi mực này đã kết thúc
 UISquid_LeaveTableToast=Trong trò chơi mực không được rời khỏi bàn
 UIMyStatistics=Thống kê của tôi
 UINumberOfParticipants=Số lượng người tham gia
