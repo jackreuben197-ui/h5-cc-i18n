@@ -6780,6 +6780,7 @@ UIMushroom_StartGameTips=Bienvenido al juego de las setas\n\nAntes del comienzo 
 UICreateTable_SquidLeaveTable=Dejar la mesa a mitad de camino
 UICreateTable_SquidLeaveTableTips=En el juego del calamar Cerrar no puede abandonar la mesa a mitad de camino y Activar puede abandonar la mesa a mitad de camino
 UISquid_StandupToast=Debes esperar hasta que termine la ronda actual de calamares y se levantará automáticamente
+UISquidRoundEnded=Esta ronda del Juego del Calamar ha terminado
 UISquid_LeaveTableToast=En el juego del calamar no puedes levantarte de la mesa
 UIMyStatistics=Mis estadísticas
 UINumberOfParticipants=Número de participantes

@@ -6780,6 +6780,7 @@ UIMushroom_StartGameTips=버섯 게임에 오신 것을 환영합니다\n\n각 �
 UICreateTable_SquidLeaveTable=테이블을 중간에 떠나
 UICreateTable_SquidLeaveTableTips=오징어 게임에서 닫기는 중앙에 테이블을 떠날 수 없다는 뜻이고, 켜기란 테이블을 중앙에 나갈 수 있다는 뜻입니다
 UISquid_StandupToast=현재 오징어 라운드가 끝날 때까지 기다려야 하며 자동으로 일어납니다
+UISquidRoundEnded=이번 오징어 게임 라운드가 종료되었습니다
 UISquid_LeaveTableToast=오징어 게임에서는 테이블을 떠날 수 없습니다
 UIMyStatistics=내 통계
 UINumberOfParticipants=참가자 수

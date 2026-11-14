@@ -6780,6 +6780,7 @@ UIMushroom_StartGameTips=मशरूम गेमप्ले में आप�
 UICreateTable_SquidLeaveTable=टेबल को बीच में ही छोड़ दें
 UICreateTable_SquidLeaveTableTips=स्क्विड गेम में, बंद का मतलब है कि आप टेबल को बीच में नहीं छोड़ सकते, और चालू का मतलब है कि आप टेबल को बीच में छोड़ सकते हैं
 UISquid_StandupToast=आपको स्क्विड के मौजूदा दौर के खत्म होने का इंतजार करना होगा और यह अपने आप खड़ा हो जाएगा
+UISquidRoundEnded=स्क्विड गेम का यह राउंड समाप्त हो गया है
 UISquid_LeaveTableToast=स्क्विड गेम में, आप टेबल नहीं छोड़ सकते
 UIMyStatistics=मेरे आँकड़े
 UINumberOfParticipants=प्रतिभागियों की संख्या

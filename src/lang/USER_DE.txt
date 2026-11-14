@@ -6780,6 +6780,7 @@ UIMushroom_StartGameTips=Willkommen beim Pilzspiel\n\nVor Beginn jeder Hand muss
 UICreateTable_SquidLeaveTable=Den Tisch mittendrin verlassen
 UICreateTable_SquidLeaveTableTips=Im Squid-Spiel bedeutet Schließen, dass man den Tisch nicht auf halbem Weg verlassen kann, und Ein bedeutet, dass man den Tisch auf halbem Weg verlassen kann
 UISquid_StandupToast=Sie müssen warten, bis die aktuelle Runde Tintenfisch vorbei ist und er automatisch aufsteht
+UISquidRoundEnded=Diese Runde des Squid-Spiels ist beendet
 UISquid_LeaveTableToast=Beim Squid-Spiel darf man den Tisch nicht verlassen
 UIMyStatistics=Meine Statistiken
 UINumberOfParticipants=Anzahl der Teilnehmer

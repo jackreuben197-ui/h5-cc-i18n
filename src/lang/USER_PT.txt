@@ -6784,6 +6784,7 @@ UIMushroom_StartGameTips=Bem-vindo ao Modo Cogumelo\n\nAntes de cada mão, o dea
 UICreateTable_SquidLeaveTable=Sair da mesa no meio do jogo
 UICreateTable_SquidLeaveTableTips=No modo Jogo Squid: Desativado = não pode sair no meio do jogo; Ativado = pode sair no meio do jogo
 UISquid_StandupToast=Você precisa esperar o término da rodada atual do Jogo Squid; você se levantará automaticamente
+UISquidRoundEnded=Esta rodada do Jogo Squid terminou
 UISquid_LeaveTableToast=Você não pode sair da mesa durante o Jogo Squid
 UIMyStatistics=Minhas estatísticas
 UINumberOfParticipants=Participantes
